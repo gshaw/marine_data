@@ -18,7 +18,7 @@ doc.css("a").each do |link|
   if href =~ /^(\w+)_5day\.(\w+)$/
     station_id = $1
     kind = $2
-    stations[station_id] ||= { stationID: station_id, kinds: [] }
+    stations[station_id] ||= { id: station_id, kinds: [] }
     stations[station_id][:kinds] << kind unless stations[station_id][:kinds].include?(kind)
   end
 end
