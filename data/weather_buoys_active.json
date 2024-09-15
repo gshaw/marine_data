@@ -1,6 +1,6 @@
 [
   {
-    "stationID": "32St0",
+    "stationID": "32ST0",
     "kinds": [
       "ocean",
       "srad",
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "stationID": "51wH0",
+    "stationID": "51WH0",
     "kinds": [
       "ocean",
       "srad",
