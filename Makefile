@@ -4,7 +4,7 @@
 # List of Ruby scripts to execute
 RUBY_SCRIPTS = \
 	src/tide_stations.rb \
-	src/weather_buoys_all.rb \
+	src/weather_buoys.rb \
 	src/weather_buoys_active.rb
 
 # Define the 'all' target that will be executed when you run 'make'
