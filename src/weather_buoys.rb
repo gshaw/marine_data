@@ -14,10 +14,12 @@ def download(url)
 end
 
 def strip_html(html)
-  CGI.unescapeHTML(html.to_s.gsub(/<.*?>/, ""))
+  escaped = CGI.unescapeHTML(html.to_s.gsub(/<.*?>/, " "))
+    .gsub(" \.", "\.")
     .gsub("&nbsp;", " ")
     .gsub("\t", " ")
     .gsub(/\s+/, " ")
+  stripped_or_nil(escaped)
 end
 
 def build_station_ids_with_buoy_cams
