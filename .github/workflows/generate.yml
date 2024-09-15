@@ -1,0 +1,41 @@
+name: Generate Data
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  generate-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.ACCESS_TOKEN }}
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.2'  # Specify your desired Ruby version
+
+    - name: Run data generation script
+      run: make
+
+    - name: Check for changes
+      id: git-check
+      run: |
+        git diff --name-only --exit-code data/tide_stations.json data/weather_buoys_active.json data/weather_buoys_all.json || echo "changes=true" >> $GITHUB_OUTPUT
+
+    - name: Commit changes
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add data/tide_stations.json data/weather_buoys_active.json data/weather_buoys_all.json
+        git commit -m "Update data files"
+        git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
