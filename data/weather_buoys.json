@@ -387,7 +387,7 @@
     "hull": null,
     "payload": "STB payload",
     "forecasts": null,
-    "note": "Data from these stations was discontinued &nbsp;00:00Z&nbsp;on&nbsp;1 Sep 2016. station disestablished.&nbsp;"
+    "note": "Data from these stations was discontinued 00:00Z on 1 Sep 2016. station disestablished. "
   },
   {
     "id": "21347",
@@ -402,7 +402,7 @@
     "hull": null,
     "payload": "STB payload",
     "forecasts": null,
-    "note": "Data from these stations was discontinued &nbsp;00:00Z&nbsp;on&nbsp;1 Sep 2016. Station disestablished."
+    "note": "Data from these stations was discontinued 00:00Z on 1 Sep 2016. Station disestablished."
   },
   {
     "id": "21348",
@@ -417,7 +417,7 @@
     "hull": null,
     "payload": "STB payload",
     "forecasts": null,
-    "note": "Data from these stations was discontinued 00:00Z&nbsp;on&nbsp;1 Sep 2016. Station disestablished"
+    "note": "Data from these stations was discontinued 00:00Z on 1 Sep 2016. Station disestablished"
   },
   {
     "id": "21401",
@@ -1437,7 +1437,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "This buoy was removed from its old location near 28.485S&nbsp; 47.522W and was re-deployed on 1/14/2010 near 23.031S&nbsp; 43.088W."
+    "note": "This buoy was removed from its old location near 28.485S 47.522W and was re-deployed on 1/14/2010 near 23.031S 43.088W."
   },
   {
     "id": "31261",
@@ -1752,7 +1752,7 @@
     "hull": "2.6D77",
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "As of 1305z, 05/28/2021, the buoy at station 32413 has gone adrift.\t\t\t\t\tClick here to see the latest positions on the adrift buoy."
+    "note": "As of 1305z, 05/28/2021, the buoy at station 32413 has gone adrift. Click here to see the latest positions on the adrift buoy."
   },
   {
     "id": "32ST0",
@@ -1917,7 +1917,7 @@
     "hull": "3D36",
     "payload": "SCOOP payload",
     "forecasts": "FZUS52.KCHS",
-    "note": "This buoy is located in Gray's Reef National Marine Sanctuary The southern third of NOAA's 22-square mile Gray's Reef National Marine Sanctuary has been designated a research area specifically designed for conducting controlled scientific studies where human activities cannot affect the results. Fishing and diving will be prohibited in the lightly used, 8-square mile research area. Vessels are permitted to travel through it without stopping. For complete information, go to the Gray's Reef website at Gray's Reef Research Area LINK TO PMEL's pCO2 SITE for their data on this Station: http://www.pmel.noaa.gov/co2/story/Grays+ReefRight whales are active off GA from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 15 and April 15.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "This buoy is located in Gray's Reef National Marine Sanctuary The southern third of NOAA's 22-square mile Gray's Reef National Marine Sanctuary has been designated a research area specifically designed for conducting controlled scientific studies where human activities cannot affect the results. Fishing and diving will be prohibited in the lightly used, 8-square mile research area. Vessels are permitted to travel through it without stopping. For complete information, go to the Gray's Reef website at Gray's Reef Research Area LINK TO PMEL's pCO2 SITE for their data on this Station: http://www.pmel.noaa.gov/co2/story/Grays+ReefRight whales are active off GA from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 15 and April 15. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "41009",
@@ -1932,7 +1932,7 @@
     "hull": "3D65",
     "payload": "SCOOP payload",
     "forecasts": "FZUS52.KMLB",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "41010",
@@ -2112,7 +2112,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KILM",
-    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike.  Wave data from this buoy (SSBN7) can be viewed here."
+    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike. Wave data from this buoy (SSBN7) can be viewed here."
   },
   {
     "id": "41025",
@@ -2232,7 +2232,7 @@
     "hull": "3D32",
     "payload": null,
     "forecasts": null,
-    "note": "Station 41036 was disestablished 05/26/2015 due to loss of funding.\t\t\tBuoy Station 41036 will be removed from service effective January 2015.  For more information please see the NWS Service Change Notice at https://www.weather.gov/media/notification/pdfs/scn14-62buoy41036.pdfStation 41036 has been disestablished on 05/26/2015."
+    "note": "Station 41036 was disestablished 05/26/2015 due to loss of funding. Buoy Station 41036 will be removed from service effective January 2015. For more information please see the NWS Service Change Notice at https://www.weather.gov/media/notification/pdfs/scn14-62buoy41036.pdfStation 41036 has been disestablished on 05/26/2015."
   },
   {
     "id": "41037",
@@ -2487,7 +2487,7 @@
     "hull": null,
     "payload": "WAMDAS payload",
     "forecasts": null,
-    "note": "MET data from this station is available at  41NT0."
+    "note": "MET data from this station is available at 41NT0."
   },
   {
     "id": "41061",
@@ -2517,7 +2517,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZNT22.KWBC",
-    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/\t\tStation was recovered 11/20/18."
+    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/ Station was recovered 11/20/18."
   },
   {
     "id": "41063",
@@ -2622,7 +2622,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMLB",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrikeWave data from this station (41070) can be viewed here."
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrikeWave data from this station (41070) can be viewed here."
   },
   {
     "id": "41070",
@@ -2817,7 +2817,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KJAX",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "41113",
@@ -2832,7 +2832,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMLB",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "41114",
@@ -2877,7 +2877,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMLB",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "41117",
@@ -2892,7 +2892,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KJAX",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
   },
   {
     "id": "41118",
@@ -2997,7 +2997,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Station 41140 was disestablished November 2, 2010.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
+    "note": "Station 41140 was disestablished November 2, 2010. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
   },
   {
     "id": "41141",
@@ -3012,7 +3012,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Station 41141 was disestablished April 13, 2011.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
+    "note": "Station 41141 was disestablished April 13, 2011. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
   },
   {
     "id": "41159",
@@ -3447,7 +3447,7 @@
     "hull": "3D36",
     "payload": "ARES 4.4 payload",
     "forecasts": "FZUS54.KLIX",
-    "note": "42007 has been disestablished on April 2, 2010.&nbsp; Station 42040 has been re-established approximately 60 NM south of 42007's nominal position"
+    "note": "42007 has been disestablished on April 2, 2010. Station 42040 has been re-established approximately 60 NM south of 42007's nominal position"
   },
   {
     "id": "42008",
@@ -3807,7 +3807,7 @@
     "hull": "3D35",
     "payload": "ARES payload",
     "forecasts": "FZNT24.KNHC",
-    "note": "Station 42038 failed and was disestablished May 9, 2006.  The station had been part of an externally funded Minerals Management Service program that has ended.  Use the \"Observations from Nearby Stations and Ships\" link below to see a listing of the nearest stations.  The historical data will remain available.  The station page is accessible via our historical map, or you can always just put the station ID in the Station ID Search box."
+    "note": "Station 42038 failed and was disestablished May 9, 2006. The station had been part of an externally funded Minerals Management Service program that has ended. Use the \"Observations from Nearby Stations and Ships\" link below to see a listing of the nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put the station ID in the Station ID Search box."
   },
   {
     "id": "42039",
@@ -3837,7 +3837,7 @@
     "hull": "3DV34",
     "payload": "SCOOP payload",
     "forecasts": "FZUS54.KLIX FZNT24.KNHC",
-    "note": "This buoy is located within the highly endangered Rice's whale (a newly identified species) habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP.\t\t\tThis buoy is located within important Rice's whale habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. To learn more, go to: https://www.fisheries.noaa.gov/species/rices-whale"
+    "note": "This buoy is located within the highly endangered Rice's whale (a newly identified species) habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. This buoy is located within important Rice's whale habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. To learn more, go to: https://www.fisheries.noaa.gov/species/rices-whale"
   },
   {
     "id": "42041",
@@ -3852,7 +3852,7 @@
     "hull": "24",
     "payload": "MARS payload",
     "forecasts": "FZUS54.KLIX",
-    "note": "Station 42041 was disestablished March 16, 2005.  The station had been part of an externally funded Minerals Management Service program that has ended.  Use the \"Observations from Nearby Stations and Ships\" link below to see a listing of the nearest stations.  The historical data will remain available.  The station page is accessible via our historical map, or you can always just put the station ID in the Station ID Search box."
+    "note": "Station 42041 was disestablished March 16, 2005. The station had been part of an externally funded Minerals Management Service program that has ended. Use the \"Observations from Nearby Stations and Ships\" link below to see a listing of the nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put the station ID in the Station ID Search box."
   },
   {
     "id": "42042",
@@ -4437,7 +4437,7 @@
     "hull": "D22",
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Buoy&nbsp;42408 has gone adrift on 12/11/2008 and was recovered 12/19/2008.&nbsp; It has been replaced by 42409 located approximately 100NM to the NE. Station has been disestablished."
+    "note": "Buoy 42408 has gone adrift on 12/11/2008 and was recovered 12/19/2008. It has been replaced by 42409 located approximately 100NM to the NE. Station has been disestablished."
   },
   {
     "id": "42409",
@@ -4497,7 +4497,7 @@
     "hull": "SD1042",
     "payload": "Saildrone Explorer",
     "forecasts": "FZNT24.KNHC",
-    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of Mexico year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP.  Data from the nearby moored buoy (42001) can be found here."
+    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of Mexico year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. Data from the nearby moored buoy (42001) can be found here."
   },
   {
     "id": "42503",
@@ -4527,7 +4527,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Station 42534 has&nbsp; failed."
+    "note": "Station 42534 has failed."
   },
   {
     "id": "42D09",
@@ -4557,7 +4557,7 @@
     "hull": "3DV52",
     "payload": "SCOOP payload",
     "forecasts": "FZNT23.KNHC",
-    "note": "Station 42060 went adrift on 9/19/2017 and the last report from its moored position was at 1400Z. It has ran aground near Beef Island, British Virgin Islands on 09/29/17.Station will be restored to service when it can be worked into the schedule.  When the date is known, it will be posted in the Weekly Maintenance Report."
+    "note": "Station 42060 went adrift on 9/19/2017 and the last report from its moored position was at 1400Z. It has ran aground near Beef Island, British Virgin Islands on 09/29/17.Station will be restored to service when it can be worked into the schedule. When the date is known, it will be posted in the Weekly Maintenance Report."
   },
   {
     "id": "43010",
@@ -4647,7 +4647,7 @@
     "hull": "3D06",
     "payload": "ARES payload",
     "forecasts": "FZNT22.KWBC",
-    "note": "Station 44004 went adrift on 03/08/2008 and the last report from its moored position was at 2000Z.&nbsp; The buoy was recovered on 05/18/09.&nbsp;When redeployed the station will be moved approximately 120 nm northwest of its former position, to the outer continental shelf near the Hudson&nbsp;Canyon.&nbsp; This is to fill the data gap that presently exists along the outer shelf in that area.&nbsp; This station has since been disestablished and replaced by buoy 44066.&nbsp;&nbsp;"
+    "note": "Station 44004 went adrift on 03/08/2008 and the last report from its moored position was at 2000Z. The buoy was recovered on 05/18/09. When redeployed the station will be moved approximately 120 nm northwest of its former position, to the outer continental shelf near the Hudson Canyon. This is to fill the data gap that presently exists along the outer shelf in that area. This station has since been disestablished and replaced by buoy 44066. "
   },
   {
     "id": "44005",
@@ -4827,7 +4827,7 @@
     "hull": "3DV50",
     "payload": "SCOOP payload",
     "forecasts": "FZUS51.KOKX",
-    "note": "Station recovered 2/10/23. Data will be restored during our next service visit to this location. When a date is known, it will be posted in the Maintenance Schedule.\t\t\t\t\t\tRight whales are active off NY from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to:http://www.nmfs.noaa.gov/pr/shipstrike"
+    "note": "Station recovered 2/10/23. Data will be restored during our next service visit to this location. When a date is known, it will be posted in the Maintenance Schedule. Right whales are active off NY from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to:http://www.nmfs.noaa.gov/pr/shipstrike"
   },
   {
     "id": "44018",
@@ -4992,7 +4992,7 @@
     "hull": "09",
     "payload": "DACT payload",
     "forecasts": null,
-    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA recommends vessels reduce speeds below 10 knots, when consistent with safe navigation. For latest sightings, go to: http://rwhalesightings.nefsc.noaa.gov/      For area forecasts and warnings, select: Boston WFO"
+    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA recommends vessels reduce speeds below 10 knots, when consistent with safe navigation. For latest sightings, go to: http://rwhalesightings.nefsc.noaa.gov/ For area forecasts and warnings, select: Boston WFO"
   },
   {
     "id": "44029",
@@ -5037,7 +5037,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KGYX",
-    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "44032",
@@ -5097,7 +5097,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KCAR",
-    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "44036",
@@ -5112,7 +5112,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KGYX",
-    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "44037",
@@ -5142,7 +5142,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KGYX",
-    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "44039",
@@ -5457,7 +5457,7 @@
     "hull": "3DV46",
     "payload": "SCOOP payload",
     "forecasts": "FZNT22.KWBC",
-    "note": "Buoy recovered 4/16/24.\t\t\tRight whales are active off NJ from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
+    "note": "Buoy recovered 4/16/24. Right whales are active off NJ from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
   },
   {
     "id": "44067",
@@ -5712,7 +5712,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMLB",
-    "note": "Right whales are active off VA from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off VA from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "44089",
@@ -5817,7 +5817,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMHX",
-    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/&nbsp;"
+    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/ "
   },
   {
     "id": "44096",
@@ -7107,7 +7107,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KCLE",
-    "note": "LimnoTech is currently supporting buoy cameras on select stations in the Great Lakes.  Click here to see the latest image for this station."
+    "note": "LimnoTech is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station."
   },
   {
     "id": "45166",
@@ -7812,7 +7812,7 @@
     "hull": "2.1D02",
     "payload": "SCOOP payload",
     "forecasts": "FZUS63.KMQT",
-    "note": "NDBC Engineering test station.\tBuoy retrieved for winter 11/08/2018."
+    "note": "NDBC Engineering test station. Buoy retrieved for winter 11/08/2018."
   },
   {
     "id": "46001",
@@ -7857,7 +7857,7 @@
     "hull": "21",
     "payload": "DACT payload",
     "forecasts": null,
-    "note": "Buoy 46003 disestablished in 1999.  Buoy 46066 was established nearby."
+    "note": "Buoy 46003 disestablished in 1999. Buoy 46066 was established nearby."
   },
   {
     "id": "46004",
@@ -8157,7 +8157,7 @@
     "hull": "10D04",
     "payload": "DACT payload",
     "forecasts": "FZUS56.KLOX",
-    "note": "NOTICE: The old 10 meter hull&nbsp;went adrift on 2/23/13 and was recovered 3/19/13.This station has been disestablished as of 9/8/10. The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed.In the absence of the station, the NOAA-NDBC directs the user to station&nbsp; 46011 (Santa Maria, CA) which is currently located eleven (11) nautical miles from the disestablished station."
+    "note": "NOTICE: The old 10 meter hull went adrift on 2/23/13 and was recovered 3/19/13.This station has been disestablished as of 9/8/10. The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed.In the absence of the station, the NOAA-NDBC directs the user to station 46011 (Santa Maria, CA) which is currently located eleven (11) nautical miles from the disestablished station."
   },
   {
     "id": "46024",
@@ -8262,7 +8262,7 @@
     "hull": "56",
     "payload": "VEEP payload",
     "forecasts": "FZUS56.KEKA",
-    "note": "This station was disestablished during 2002.  The National Weather Service decided to move the station location to Southern Oregon, where it is identified as 46015.  The closest buoy is now 46022."
+    "note": "This station was disestablished during 2002. The National Weather Service decided to move the station location to Southern Oregon, where it is identified as 46015. The closest buoy is now 46022."
   },
   {
     "id": "46031",
@@ -8472,7 +8472,7 @@
     "hull": "2.3D05",
     "payload": "AMPS payload",
     "forecasts": null,
-    "note": "Station 46044 went adrift on 5/2/2015 and the last report from its position was at 1040Z.&nbsp;Station 46044 was&nbsp;recovered on 5/3/2015 at 1600Z."
+    "note": "Station 46044 went adrift on 5/2/2015 and the last report from its position was at 1040Z. Station 46044 was recovered on 5/3/2015 at 1600Z."
   },
   {
     "id": "46045",
@@ -8652,7 +8652,7 @@
     "hull": "3D60",
     "payload": "ARES 4.4 payload",
     "forecasts": "FZUS56.KLOX",
-    "note": "This station has been disestablished on May 22, 2009.The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed.&nbsp;&nbsp; In the absence of the station, the NOAA-NDBC directs the user to station 46054 (Santa Barbara, CA) which is currently located eleven (11) nautical miles from the disestablished station."
+    "note": "This station has been disestablished on May 22, 2009.The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed. In the absence of the station, the NOAA-NDBC directs the user to station 46054 (Santa Barbara, CA) which is currently located eleven (11) nautical miles from the disestablished station."
   },
   {
     "id": "46066",
@@ -9147,7 +9147,7 @@
     "hull": null,
     "payload": "WAMDAS payload",
     "forecasts": "FZAK51.PAFC",
-    "note": "Other weather data for this area are available at FILA2. Station 46106 stopped transmitting 2/25/2010, went adrift on 05/17/2010, and was recovered&nbsp;to port on 5/21/10.This station has been disestablished as of 5/6/11.  The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
+    "note": "Other weather data for this area are available at FILA2. Station 46106 stopped transmitting 2/25/2010, went adrift on 05/17/2010, and was recovered to port on 5/21/10.This station has been disestablished as of 5/6/11. The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
   },
   {
     "id": "46107",
@@ -9162,7 +9162,7 @@
     "hull": "1.8D09",
     "payload": "WAMDAS payload",
     "forecasts": "FZAK51.PAJK",
-    "note": "This station has been disestablished as of 2/12/11.  The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
+    "note": "This station has been disestablished as of 2/12/11. The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
   },
   {
     "id": "46108",
@@ -9282,7 +9282,7 @@
     "hull": null,
     "payload": "ARES 4.4 payload",
     "forecasts": null,
-    "note": "For area forecasts and warnings, select: Anchorage WFOHourly air temperature, wind &nbsp;and wave data&nbsp;from another payload system on this deployed buoy are available using this link: 46035Station 46035 ceased transmitting data 12/20/2012. "
+    "note": "For area forecasts and warnings, select: Anchorage WFOHourly air temperature, wind and wave data from another payload system on this deployed buoy are available using this link: 46035Station 46035 ceased transmitting data 12/20/2012. "
   },
   {
     "id": "46116",
@@ -9882,7 +9882,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS56.KLOX",
-    "note": "Station 46220 was disestablished October 5, 2004.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box. "
+    "note": "Station 46220 was disestablished October 5, 2004. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box. "
   },
   {
     "id": "46221",
@@ -9972,7 +9972,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS56.KSGX FZUS56.KLOX",
-    "note": "Station 46226 was disestablished October 4, 2005.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box. "
+    "note": "Station 46226 was disestablished October 4, 2005. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box. "
   },
   {
     "id": "46227",
@@ -9987,7 +9987,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS56.KSGX",
-    "note": "This was a seasonal buoy: February - July. Station 46227 was disestablished August 27, 2005.&nbsp; Use the \"Observations from Nearby Stations and Ships\" link below to see a listing of the nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put the station ID in the Station ID Search box. "
+    "note": "This was a seasonal buoy: February - July. Station 46227 was disestablished August 27, 2005. Use the \"Observations from Nearby Stations and Ships\" link below to see a listing of the nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put the station ID in the Station ID Search box. "
   },
   {
     "id": "46228",
@@ -10002,7 +10002,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS56.KLOX",
-    "note": "Station 46228 was disestablished September 2, 2005.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
+    "note": "Station 46228 was disestablished September 2, 2005. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
   },
   {
     "id": "46229",
@@ -10032,7 +10032,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS56.KLOX",
-    "note": "Station 46230 was disestablished November 17, 2006.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
+    "note": "Station 46230 was disestablished November 17, 2006. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
   },
   {
     "id": "46231",
@@ -10092,7 +10092,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS56.KLOX",
-    "note": "Station 46234 was disestablished March 4, 2009.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
+    "note": "Station 46234 was disestablished March 4, 2009. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
   },
   {
     "id": "46235",
@@ -10257,7 +10257,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Station 46245 was disestablished February 9, 2011.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
+    "note": "Station 46245 was disestablished February 9, 2011. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
   },
   {
     "id": "46246",
@@ -10332,7 +10332,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Station 46250 was disestablished September 14, 2011.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
+    "note": "Station 46250 was disestablished September 14, 2011. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
   },
   {
     "id": "46251",
@@ -10632,7 +10632,7 @@
     "hull": "6N49",
     "payload": "ARES payload",
     "forecasts": null,
-    "note": "For area forecasts and warnings, select: Anchorage WFOHourly data, without winds, from another payload system on this deployed buoy are available using this link: 46070.&nbsp;In addition to the 6 meter hull listed for station 46070, an old 6 meter hull is located at position 55.0310N, 175.2839E (55*00'11\"N 175*17'02\"E)."
+    "note": "For area forecasts and warnings, select: Anchorage WFOHourly data, without winds, from another payload system on this deployed buoy are available using this link: 46070. In addition to the 6 meter hull listed for station 46070, an old 6 meter hull is located at position 55.0310N, 175.2839E (55*00'11\"N 175*17'02\"E)."
   },
   {
     "id": "46273",
@@ -10797,7 +10797,7 @@
     "hull": "2.3D03",
     "payload": null,
     "forecasts": null,
-    "note": "Station 46290 stopped transmitting 10/16/08, and has gone adrift. &nbsp;Click&nbsp;here&nbsp;to see the latest positions on the adrift&nbsp;buoy.&nbsp;"
+    "note": "Station 46290 stopped transmitting 10/16/08, and has gone adrift. Click here to see the latest positions on the adrift buoy. "
   },
   {
     "id": "46303",
@@ -11772,7 +11772,7 @@
     "hull": "3D30",
     "payload": "ARES 4.4 payload",
     "forecasts": "FZPN40.PHFO",
-    "note": "Station 51028 has failed and stopped transmitting at 00Z, 03/11/2009.&nbsp;This station has been disestablished as of 6/1/09.  The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
+    "note": "Station 51028 has failed and stopped transmitting at 00Z, 03/11/2009. This station has been disestablished as of 6/1/09. The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
   },
   {
     "id": "51045",
@@ -11817,7 +11817,7 @@
     "hull": "3D83",
     "payload": "AMPS payload",
     "forecasts": "FZHW50.PHFO",
-    "note": "Station 51100 went adrift on 3/26/2015 and ceased all transmissions on 4/28/2015.&nbsp; The station was disestablished on&nbsp;8/6/2015."
+    "note": "Station 51100 went adrift on 3/26/2015 and ceased all transmissions on 4/28/2015. The station was disestablished on 8/6/2015."
   },
   {
     "id": "51101",
@@ -11862,7 +11862,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Station 51200 was disestablished November 13, 2010.&nbsp;Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations.&nbsp; The historical data will remain available.&nbsp; The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
+    "note": "Station 51200 was disestablished November 13, 2010. Use the \"Observations from Nearby Stations and Ships\" below to see a listing of nearest stations. The historical data will remain available. The station page is accessible via our historical map, or you can always just put in the station ID in the Station ID Search Box."
   },
   {
     "id": "51201",
@@ -12087,7 +12087,7 @@
     "hull": "2.6D50",
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "&nbsp;Data from this DART location originally was named 46406, the station was renamed 51406 on&nbsp;September 5, 2006.&nbsp;&nbsp; 51406 was disestablished 3/28/2013. "
+    "note": " Data from this DART location originally was named 46406, the station was renamed 51406 on September 5, 2006. 51406 was disestablished 3/28/2013. "
   },
   {
     "id": "51407",
@@ -12717,7 +12717,7 @@
     "hull": "2.6D36",
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "This station failed 3/15/2008.&nbsp; This station has been disestablished."
+    "note": "This station failed 3/15/2008. This station has been disestablished."
   },
   {
     "id": "5401000",
@@ -12987,7 +12987,7 @@
     "hull": null,
     "payload": "ETD payload",
     "forecasts": null,
-    "note": "The Australian ETD buoy went adrift 1/4/2011. The buoy has been recovered as of 2/8/2011.&nbsp; Until it is re-deployed, there will be no water column height data from this station.&nbsp; Station is non operational. No restoration planned."
+    "note": "The Australian ETD buoy went adrift 1/4/2011. The buoy has been recovered as of 2/8/2011. Until it is re-deployed, there will be no water column height data from this station. Station is non operational. No restoration planned."
   },
   {
     "id": "55023",
@@ -13182,7 +13182,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62029",
@@ -13197,7 +13197,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62030",
@@ -13227,7 +13227,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62052",
@@ -13257,7 +13257,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62090",
@@ -13362,7 +13362,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62105",
@@ -13392,7 +13392,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62108",
@@ -13407,7 +13407,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62114",
@@ -13662,7 +13662,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62164",
@@ -13782,7 +13782,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62305",
@@ -13797,7 +13797,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "62442",
@@ -13812,7 +13812,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "63105",
@@ -13932,7 +13932,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For realtime data go to&nbsp;U.K. Met Office"
+    "note": "For realtime data go to U.K. Met Office"
   },
   {
     "id": "91204",
@@ -14187,7 +14187,7 @@
     "hull": null,
     "payload": "MARS payload",
     "forecasts": "FZUS61.KBUF",
-    "note": "This station has been disestablished as of 9/30/09.  The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
+    "note": "This station has been disestablished as of 9/30/09. The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
   },
   {
     "id": "ABYA2",
@@ -14247,7 +14247,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.&nbsp; It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike.&nbsp;"
+    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike. "
   },
   {
     "id": "ACXS1",
@@ -14277,7 +14277,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KPHI",
-    "note": "Right whales are active off NJ from November to April.&nbsp; Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
+    "note": "Right whales are active off NJ from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
   },
   {
     "id": "ADBF1",
@@ -14472,7 +14472,7 @@
     "hull": null,
     "payload": "AMPS payload",
     "forecasts": null,
-    "note": "Data from this site is provided for internal use only.  This is NOT an operational weather station.  These are test data only."
+    "note": "Data from this site is provided for internal use only. This is NOT an operational weather station. These are test data only."
   },
   {
     "id": "AMPS2",
@@ -14487,7 +14487,7 @@
     "hull": null,
     "payload": "AMPS payload",
     "forecasts": null,
-    "note": "Data from this site is provided for internal use only.  This is NOT an operational weather station.  These are test data only."
+    "note": "Data from this site is provided for internal use only. This is NOT an operational weather station. These are test data only."
   },
   {
     "id": "AMPS3",
@@ -14502,7 +14502,7 @@
     "hull": null,
     "payload": "AMPS payload",
     "forecasts": null,
-    "note": "Data from this site is provided for internal use only.  This is NOT an operational weather station.  These are test data only."
+    "note": "Data from this site is provided for internal use only. This is NOT an operational weather station. These are test data only."
   },
   {
     "id": "AMPS4",
@@ -14517,7 +14517,7 @@
     "hull": null,
     "payload": "AMPS payload",
     "forecasts": null,
-    "note": "Data from this site is provided for internal use only.  This is NOT an operational weather station.  These are test data only."
+    "note": "Data from this site is provided for internal use only. This is NOT an operational weather station. These are test data only."
   },
   {
     "id": "AMRL1",
@@ -15057,7 +15057,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "BDXC1",
@@ -15072,7 +15072,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For area forecasts and warnings, select:&nbsp;San Francisco/Monterey WFO"
+    "note": "For area forecasts and warnings, select: San Francisco/Monterey WFO"
   },
   {
     "id": "BEIS1",
@@ -15132,7 +15132,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMHX",
-    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "BGCF1",
@@ -15192,7 +15192,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Caution: Right whales may be active in northeast waters year-round. Mandatory speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the US east coast. Voluntary speed restrictions may be in effect in other areas and times. For current information on speed-restricted areas, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp; For area forecasts and warnings, select: Boston WFO"
+    "note": "Caution: Right whales may be active in northeast waters year-round. Mandatory speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the US east coast. Voluntary speed restrictions may be in effect in other areas and times. For current information on speed-restricted areas, go to: http://www.nmfs.noaa.gov/pr/shipstrike For area forecasts and warnings, select: Boston WFO"
   },
   {
     "id": "BHRC3",
@@ -15312,7 +15312,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "BLIA2",
@@ -15417,7 +15417,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "BOBF1",
@@ -15432,7 +15432,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "BPHF1",
@@ -15552,7 +15552,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "BSLM2",
@@ -15642,7 +15642,7 @@
     "hull": null,
     "payload": "MARS payload",
     "forecasts": "FZUS51.KBOX",
-    "note": "\t\t\tCaution: Right whales may be active in northeast waters year-round. Mandatory speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the US east coast. Voluntary speed restrictions may be in effect in other areas and times. For current information on speed-restricted areas, go to: http://www.nmfs.noaa.gov/pr/shipstrike\t\t\t"
+    "note": " Caution: Right whales may be active in northeast waters year-round. Mandatory speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the US east coast. Voluntary speed restrictions may be in effect in other areas and times. For current information on speed-restricted areas, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "BVQW1",
@@ -15672,7 +15672,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "BYGL1",
@@ -15702,7 +15702,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Caution: Right whales may be active in northeast waters year-round. Mandatory speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the US east coast. Voluntary speed restrictions may be in effect in other areas and times. For current information on speed-restricted areas, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;&nbsp; For area forecasts and warnings, select: Boston WFO"
+    "note": "Caution: Right whales may be active in northeast waters year-round. Mandatory speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the US east coast. Voluntary speed restrictions may be in effect in other areas and times. For current information on speed-restricted areas, go to: http://www.nmfs.noaa.gov/pr/shipstrike For area forecasts and warnings, select: Boston WFO"
   },
   {
     "id": "BZST2",
@@ -15777,7 +15777,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "CAPL1",
@@ -15822,7 +15822,7 @@
     "hull": null,
     "payload": "MARS payload",
     "forecasts": "FZUS56.KMFR FZUS56.KPQR",
-    "note": "This station has been disestablished as of 12/27/2012&nbsp; 1500Z."
+    "note": "This station has been disestablished as of 12/27/2012 1500Z."
   },
   {
     "id": "CASM1",
@@ -16137,7 +16137,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Water Quality data for this Reserve are available at....CWQO3 -- Charleston BridgeSOQO3 -- Valino IslandSLOO3 -- Elliot CreekCHQO3&nbsp;-- Winchester Arm"
+    "note": "Water Quality data for this Reserve are available at....CWQO3 -- Charleston BridgeSOQO3 -- Valino IslandSLOO3 -- Elliot CreekCHQO3 -- Winchester Arm"
   },
   {
     "id": "CHQO3",
@@ -16332,7 +16332,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KPHI",
-    "note": "Right whales are active off Delaware Bay from November to April.&nbsp; Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
+    "note": "Right whales are active off Delaware Bay from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
   },
   {
     "id": "CMLN3",
@@ -16392,7 +16392,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMFL",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "CNDO1",
@@ -16557,7 +16557,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For area forecasts and warnings, select:&nbsp;San Francisco/Monterey WFO"
+    "note": "For area forecasts and warnings, select: San Francisco/Monterey WFO"
   },
   {
     "id": "CRGA2",
@@ -16842,7 +16842,7 @@
     "hull": null,
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Data from this site are provided for internal use only.  This is NOT an operational DART station.  These are test data only"
+    "note": "Data from this site are provided for internal use only. This is NOT an operational DART station. These are test data only"
   },
   {
     "id": "DARTI",
@@ -16872,7 +16872,7 @@
     "hull": null,
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Data from this site are provided for internal use only.  This is NOT an operational DART station.  These are test data only."
+    "note": "Data from this site are provided for internal use only. This is NOT an operational DART station. These are test data only."
   },
   {
     "id": "DARTK",
@@ -16887,7 +16887,7 @@
     "hull": null,
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Data from this site are provided for internal use only.  This is NOT an operational DART station.  These are test data only."
+    "note": "Data from this site are provided for internal use only. This is NOT an operational DART station. These are test data only."
   },
   {
     "id": "DARTL",
@@ -16902,7 +16902,7 @@
     "hull": null,
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Data from this site are provided for internal use only.  This is NOT an operational DART station.  These are test data only."
+    "note": "Data from this site are provided for internal use only. This is NOT an operational DART station. These are test data only."
   },
   {
     "id": "DARTM",
@@ -16917,7 +16917,7 @@
     "hull": null,
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Data from this site are provided for internal use only.  This is NOT an operational DART station.  These are test data only."
+    "note": "Data from this site are provided for internal use only. This is NOT an operational DART station. These are test data only."
   },
   {
     "id": "DARTN",
@@ -16932,7 +16932,7 @@
     "hull": null,
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Data from this site are provided for internal use only.  This is NOT an operational DART station.  These are test data only."
+    "note": "Data from this site are provided for internal use only. This is NOT an operational DART station. These are test data only."
   },
   {
     "id": "DARTO",
@@ -16947,7 +16947,7 @@
     "hull": null,
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Data from this site are provided for internal use only.  This is NOT an operational DART station.  These are test data only."
+    "note": "Data from this site are provided for internal use only. This is NOT an operational DART station. These are test data only."
   },
   {
     "id": "DARTP",
@@ -16962,7 +16962,7 @@
     "hull": null,
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Data from this site are provided for internal use only.  This is NOT an operational DART station.  These are test data only."
+    "note": "Data from this site are provided for internal use only. This is NOT an operational DART station. These are test data only."
   },
   {
     "id": "DARTQ",
@@ -16977,7 +16977,7 @@
     "hull": null,
     "payload": "DART II payload",
     "forecasts": null,
-    "note": "Data from this site are provided for internal use only.  This is NOT an operational DART station.  These are test data only."
+    "note": "Data from this site are provided for internal use only. This is NOT an operational DART station. These are test data only."
   },
   {
     "id": "DARTR",
@@ -17202,7 +17202,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "DMBC1",
@@ -17457,7 +17457,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/&nbsp;"
+    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/ "
   },
   {
     "id": "DULM5",
@@ -18057,7 +18057,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KCHS",
-    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.&nbsp; It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike.&nbsp;"
+    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike. "
   },
   {
     "id": "FCGT2",
@@ -18237,7 +18237,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KCHS",
-    "note": "Right whales are active off GA from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off GA from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "FPSN7",
@@ -18252,7 +18252,7 @@
     "hull": null,
     "payload": "DACT payload",
     "forecasts": "FZUS52.KMHX FZUS52.KILM",
-    "note": "The CMAN station at FPSN7 has been disestablished on December 31, 2008.&nbsp; For local data, please refer to buoy 41013."
+    "note": "The CMAN station at FPSN7 has been disestablished on December 31, 2008. For local data, please refer to buoy 41013."
   },
   {
     "id": "FPST2",
@@ -18312,7 +18312,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For area forecasts and warnings, select:&nbsp;San Francisco/Monterey WFO"
+    "note": "For area forecasts and warnings, select: San Francisco/Monterey WFO"
   },
   {
     "id": "FRCB6",
@@ -18342,7 +18342,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KJAX",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "FRDP4",
@@ -18657,7 +18657,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMFL",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "GBLW3",
@@ -18717,7 +18717,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "GBWW3",
@@ -19032,7 +19032,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "This station was decommissioned as a result of the loss of partner funding for Gulfport PORTS as of NOV 6, 2012.&nbsp; For further information contact the PORTS Program Manager (darren.wright@noaa.gov)."
+    "note": "This station was decommissioned as a result of the loss of partner funding for Gulfport PORTS as of NOV 6, 2012. For further information contact the PORTS Program Manager (darren.wright@noaa.gov)."
   },
   {
     "id": "GPST2",
@@ -19272,7 +19272,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "This station was decommissioned as a result of the loss of partner funding for Gulfport PORTS as of NOV 6, 2012.&nbsp; For further information contact the PORTS Program Manager (darren.wright@noaa.gov)."
+    "note": "This station was decommissioned as a result of the loss of partner funding for Gulfport PORTS as of NOV 6, 2012. For further information contact the PORTS Program Manager (darren.wright@noaa.gov)."
   },
   {
     "id": "HAXA2",
@@ -19317,7 +19317,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For area forecasts and warnings, select:&nbsp;Eureka WFO"
+    "note": "For area forecasts and warnings, select: Eureka WFO"
   },
   {
     "id": "HBYC1",
@@ -19347,7 +19347,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "HCGN7",
@@ -19452,7 +19452,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "HMRA2",
@@ -19527,7 +19527,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMFL",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "HRRH1",
@@ -19827,7 +19827,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Right whales are active off NJ from November to April.&nbsp; Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Right whales are active off NJ from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "JKYF1",
@@ -19842,7 +19842,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "JLXA2",
@@ -20727,7 +20727,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KAKQ",
-    "note": "Right whales are active off VA from November to April.&nbsp; Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Right whales are active off VA from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "KSCF",
@@ -21012,7 +21012,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Forecasts for the area area available at&nbsp; WFO San Juan, PR"
+    "note": "Forecasts for the area area available at WFO San Juan, PR"
   },
   {
     "id": "LAPW1",
@@ -21042,7 +21042,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMFL",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "LBSF1",
@@ -21057,7 +21057,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "LCIY2",
@@ -21252,7 +21252,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "LMFS1",
@@ -21282,7 +21282,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMFL",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "LMSS1",
@@ -21492,7 +21492,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "LSCM4",
@@ -21537,7 +21537,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "LTBV3",
@@ -21642,7 +21642,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KPHI",
-    "note": "Right whales are active off Delaware Bay from November to April.&nbsp; Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Right whales are active off Delaware Bay from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "LWTV2",
@@ -22377,7 +22377,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KILM",
-    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.&nbsp; It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "MRSL1",
@@ -22482,7 +22482,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KOKX",
-    "note": "Right whales are active off NY from November to April.&nbsp; Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Right whales are active off NY from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "MTYC1",
@@ -22512,7 +22512,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "MVXA2",
@@ -22572,7 +22572,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KJAX",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "MYXC1",
@@ -22587,7 +22587,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "For area forecasts and warnings, select:?San Francisco/Monterey WFO   Data from a nearby water level observation station (MEYC1) can be viewed?here."
+    "note": "For area forecasts and warnings, select:?San Francisco/Monterey WFO Data from a nearby water level observation station (MEYC1) can be viewed?here."
   },
   {
     "id": "MZXC1",
@@ -23187,7 +23187,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "NSTP6",
@@ -23247,7 +23247,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Caution: Right whales may be active in northeast waters year-round. Mandatory speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the US east coast. Voluntary speed restrictions may be in effect in other areas and times. For current information on speed-restricted areas, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;&nbsp; For area forecasts and warnings, select: Boston WFO"
+    "note": "Caution: Right whales may be active in northeast waters year-round. Mandatory speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the US east coast. Voluntary speed restrictions may be in effect in other areas and times. For current information on speed-restricted areas, go to: http://www.nmfs.noaa.gov/pr/shipstrike For area forecasts and warnings, select: Boston WFO"
   },
   {
     "id": "NUET2",
@@ -23427,7 +23427,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Right whales are active off MD from November to April.&nbsp; Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Right whales are active off MD from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "OCPN7",
@@ -23607,7 +23607,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMHX",
-    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/&nbsp;"
+    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/ "
   },
   {
     "id": "OSGN6",
@@ -24192,7 +24192,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "PLSF1",
@@ -24597,7 +24597,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KCAR",
-    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "PSCM4",
@@ -25407,7 +25407,7 @@
     "hull": null,
     "payload": "MARS payload",
     "forecasts": "FZUS52.KJAX",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "SAXG1",
@@ -25422,7 +25422,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Water Quality data for this Reserve are available at....SAQG1 -- Lower DuplinRight whales are active off GA from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Water Quality data for this Reserve are available at....SAQG1 -- Lower DuplinRight whales are active off GA from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "SBBN2",
@@ -25647,7 +25647,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS51.KPHI",
-    "note": "Right whales are active off NJ from November to April.&nbsp; Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike&nbsp;"
+    "note": "Right whales are active off NJ from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike "
   },
   {
     "id": "SDIA2",
@@ -25902,7 +25902,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "An associated ADCP/Wave site is located at 87* 51' 59\"W 80* 26' 45\"W -- about 0.3 nm (600 yds) NNW of the meteorological station.Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "An associated ADCP/Wave site is located at 87* 51' 59\"W 80* 26' 45\"W -- about 0.3 nm (600 yds) NNW of the meteorological station.Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "SIPM6",
@@ -26217,7 +26217,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.&nbsp; It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "SMKF1",
@@ -26457,7 +26457,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMFL",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "SRFW1",
@@ -26532,7 +26532,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KILM",
-    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.? To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike.  Meteorological data from this buoy (41024) can be viewed here."
+    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.? To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike. Meteorological data from this buoy (41024) can be viewed here."
   },
   {
     "id": "STDM4",
@@ -26577,7 +26577,7 @@
     "hull": null,
     "payload": "VEEP payload",
     "forecasts": "FZUS61.KBUF",
-    "note": "This station has been disestablished as of 11/16/09.  The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
+    "note": "This station has been disestablished as of 11/16/09. The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
   },
   {
     "id": "SVLS1",
@@ -26832,7 +26832,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "TCBM2",
@@ -26907,7 +26907,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "TDPC1",
@@ -26967,7 +26967,7 @@
     "hull": null,
     "payload": "MARS payload",
     "forecasts": "FZUS61.KBUF",
-    "note": "This station has been disestablished as of 9/17/09.  The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
+    "note": "This station has been disestablished as of 9/17/09. The station is a non-NWS funded station for which the operating agreement between the NWS and the Program Sponsor has expired and will not be renewed."
   },
   {
     "id": "THLO1",
@@ -27192,7 +27192,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMFL",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "TPLM2",
@@ -27252,7 +27252,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMLB",
-    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast.  It is illegal to approach right whales within 500 yards.  To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off FL from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "TRRF1",
@@ -27267,7 +27267,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "TSHF1",
@@ -27297,7 +27297,7 @@
     "hull": null,
     "payload": "DACT payload",
     "forecasts": "FZUS56.KSEW",
-    "note": "Station TTIW1 has been disestablished 11/30/17.  For more information on the disestablishment for this station, please see the NWS Service Change Notice at https://www.weather.gov/media/notification/pdfs/scn17-124c-man_tatoosh.pdf"
+    "note": "Station TTIW1 has been disestablished 11/30/17. For more information on the disestablishment for this station, please see the NWS Service Change Notice at https://www.weather.gov/media/notification/pdfs/scn17-124c-man_tatoosh.pdf"
   },
   {
     "id": "TWCO1",
@@ -27987,7 +27987,7 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "WIXA2",
@@ -28092,7 +28092,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KMFL",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "WPOW1",
@@ -28152,7 +28152,7 @@
     "hull": null,
     "payload": null,
     "forecasts": "FZUS52.KKEY",
-    "note": "Water levels are referenced to local datums.&nbsp; They provide relative change in water level and are not to be used for navigation."
+    "note": "Water levels are referenced to local datums. They provide relative change in water level and are not to be used for navigation."
   },
   {
     "id": "WRXA2",
@@ -28347,6 +28347,6 @@
     "hull": null,
     "payload": null,
     "forecasts": null,
-    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.&nbsp; To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike.&nbsp;"
+    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike. "
   }
 ]
