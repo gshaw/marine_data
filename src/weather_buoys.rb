@@ -13,6 +13,13 @@ def download(url)
   URI.open(url).read
 end
 
+def strip_html(html)
+  CGI.unescapeHTML(html.to_s.gsub(/<.*?>/, ""))
+    .gsub("&nbsp;", " ")
+    .gsub("\t", " ")
+    .gsub(/\s+/, " ")
+end
+
 def build_station_ids_with_buoy_cams
   puts "Fetching weather buoys with cameras..."
   kml_data = download("https://www.ndbc.noaa.gov/kml/buoycams_as_kml.php")
@@ -86,6 +93,8 @@ def build_stations(station_ids_with_buoy_cams, owners)
       continue
     end
 
+    note = strip_html(data[9].to_s)
+
     buoys << {
       id: station_id,
       latitude: latitude.round(5),
@@ -99,7 +108,7 @@ def build_stations(station_ids_with_buoy_cams, owners)
       hull: data[3],
       payload: data[5],
       forecasts: data[8],
-      note: CGI.unescapeHTML(data[9].to_s.gsub(/<.*?>/, ""))
+      note: note
     }
   end
   buoys
@@ -110,6 +119,6 @@ owners = build_station_owners
 stations_array = build_stations(station_ids_with_buoy_cams, owners)
 
 # Write to JSON file
-filename = "data/weather_buoys_all.json"
+filename = "data/weather_buoys.json"
 File.write(filename, JSON.pretty_generate(stations_array))
 puts "Wrote #{stations_array.count} records to #{filename}"
