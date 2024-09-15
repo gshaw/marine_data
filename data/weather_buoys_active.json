@@ -1,0 +1,6962 @@
+[
+  {
+    "stationID": "32St0",
+    "kinds": [
+      "ocean",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51WH0",
+    "kinds": [
+      "ocean",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "13001",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "13002",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "13008",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "13009",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "14048",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "14049",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "15001",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "15002",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "15006",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "15008",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "15009",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "21413",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "21414",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "21415",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "21416",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "21418",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "21419",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "21420",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "22101",
+    "kinds": [
+      "drift"
+    ]
+  },
+  {
+    "stationID": "22102",
+    "kinds": [
+      "drift"
+    ]
+  },
+  {
+    "stationID": "22103",
+    "kinds": [
+      "drift"
+    ]
+  },
+  {
+    "stationID": "22104",
+    "kinds": [
+      "drift"
+    ]
+  },
+  {
+    "stationID": "22105",
+    "kinds": [
+      "drift"
+    ]
+  },
+  {
+    "stationID": "22106",
+    "kinds": [
+      "drift"
+    ]
+  },
+  {
+    "stationID": "22107",
+    "kinds": [
+      "drift"
+    ]
+  },
+  {
+    "stationID": "22108",
+    "kinds": [
+      "drift"
+    ]
+  },
+  {
+    "stationID": "23001",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "23003",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "23012",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "23013",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "23014",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "23015",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "23016",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "23019",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "23218",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "23220",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "23227",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "23228",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "31001",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "31002",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "31003",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "31004",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "31005",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "31006",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "31007",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "32068",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "32069",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "32401",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "32402",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "32403",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "32411",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "34420",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "41001",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41002",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41004",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41008",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41009",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41010",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41013",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41024",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41025",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41029",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41033",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41037",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41038",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41040",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41043",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41044",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41047",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41049",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41052",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41053",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41056",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41064",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41065",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41066",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41067",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41069",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41070",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41076",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41082",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41083",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41108",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41110",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41112",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41113",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41114",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41115",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41117",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41120",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41122",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41139",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41159",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "41421",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "41425",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "42001",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42002",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42012",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42013",
+    "kinds": [
+      "adcp",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42019",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42020",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42023",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42026",
+    "kinds": [
+      "adcp",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42035",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42036",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42040",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42055",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42056",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42057",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42058",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42060",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42085",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42091",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42092",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42095",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42097",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "42407",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "42409",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "43412",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "43413",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "44007",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44008",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44009",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44011",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44013",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44014",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44020",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44025",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44027",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44029",
+    "kinds": [
+      "adcp",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44030",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44032",
+    "kinds": [
+      "adcp",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44033",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44034",
+    "kinds": [
+      "adcp",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44041",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44042",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44043",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44056",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44058",
+    "kinds": [
+      "adcp",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44062",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44063",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44064",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44072",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44078",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44079",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44084",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44085",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44086",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44087",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44088",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44089",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44090",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44091",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44095",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44097",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44098",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44099",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44100",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44137",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44139",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44150",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44258",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44402",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "44488",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "44489",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45001",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45002",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45003",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45004",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45005",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45006",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45007",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45008",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45012",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45013",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45022",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45023",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45024",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45025",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45026",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45027",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45029",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45132",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45135",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45136",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45137",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45139",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45140",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45141",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45142",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45143",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45144",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45147",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45148",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45149",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45150",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45151",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45152",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45154",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45159",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45161",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45162",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45163",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45164",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45165",
+    "kinds": [
+      "adcp",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45168",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45170",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45174",
+    "kinds": [
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45175",
+    "kinds": [
+      "adcp",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45176",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45178",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45186",
+    "kinds": [
+      "adcp",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45187",
+    "kinds": [
+      "adcp",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45194",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45196",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45197",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "45198",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45199",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45200",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45201",
+    "kinds": [
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45202",
+    "kinds": [
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45203",
+    "kinds": [
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45204",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45205",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45206",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45207",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45208",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45209",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45210",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45211",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45215",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45216",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45218",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "45219",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46001",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46005",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46006",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46011",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46013",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46014",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46022",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46025",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46026",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46027",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46028",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46029",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46035",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46036",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46041",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46047",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46050",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46053",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46054",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46060",
+    "kinds": [
+      "cwind",
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46061",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46066",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46069",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46070",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46071",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46072",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46073",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46075",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46076",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46077",
+    "kinds": [
+      "cwind",
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46078",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46080",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46081",
+    "kinds": [
+      "cwind",
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46082",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46083",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46084",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46086",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46087",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46088",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46092",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46097",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46098",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46099",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46100",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46108",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46116",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "46117",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "46121",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46123",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46125",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46131",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46132",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46145",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46146",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46147",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46181",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46185",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46205",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46206",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46208",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46213",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46214",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46215",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46218",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46219",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46221",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46222",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46224",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46225",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46229",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46232",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46235",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46237",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46239",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46240",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46243",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46244",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46246",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46248",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46251",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46253",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46254",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46256",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46258",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46259",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46266",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46267",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46268",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46273",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46274",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46275",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46276",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46277",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46278",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46279",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46280",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46281",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46282",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46304",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "46402",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46403",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46404",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46408",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46409",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46410",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46411",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46413",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46415",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46416",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "46419",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "48400",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51000",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51001",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51002",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51003",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51004",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51045",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "51046",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "51101",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51201",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51202",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51205",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51206",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51207",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51208",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51209",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51210",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51211",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51212",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51213",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51214",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "51407",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "51425",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "52202",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "52211",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "52212",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "52213",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "52215",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "52401",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "52402",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "52405",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "52406",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "53056",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "55012",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "55015",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "55023",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "56003",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "62050",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62081",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62105",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62107",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62114",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62121",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62124",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62127",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62130",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62144",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62145",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62146",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62148",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62149",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62163",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62164",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62165",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62170",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62304",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62305",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "62442",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "63110",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "63112",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "63115",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "63117",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "64045",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "1801593",
+    "kinds": [
+      "drift"
+    ]
+  },
+  {
+    "stationID": "5401000",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5401001",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5401002",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5401003",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5401004",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5401005",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5501002",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5501004",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5501005",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5501006",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "5501007",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "stationID": "AAMC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ABYA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ACFS1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "ACQS1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "ACXS1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ACYN4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ADBF1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "ADKA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "AGCM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "AGXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "AJXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "AKXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ALIA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ALXN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "AMAA2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "AMRL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ANMN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ANPT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ANRN6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "ANTA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ANVC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "APAM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "APCF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "APMA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "APNM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "APQF1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "APRP7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "APXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "APXF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ASBO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ATGM1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ATKA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "AUGA2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "AWRT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BABT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BATN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BAXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BBNF1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BBSF1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BDRN4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BDSP1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BDVF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BEIS1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "BEXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BFTN7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BGXN3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BHBM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BHRI3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BIGM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BILW3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "BISM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BKBF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BKTL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BKYF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BLIA2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BLIF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BLTM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BLTM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BMTW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BNKF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BOBF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BRHC3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BRIM2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "BRND1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BSBM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BSCA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BSKF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BSLM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BUFN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BURL1",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BUZM3",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BVQW1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "BWSF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BYGL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BZBM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "BZST2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CAMM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CANF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CAPL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CARL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CASM1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CBCM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CBLO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CBRW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CDEA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CDXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CECC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CFWM1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHAO3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHAV3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHBV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHCM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHII2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHQO3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "CHSV3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHTM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHTS1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHYV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CHYW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CKYF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CLBP4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CLKN7",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CLSM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CMAN4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CMLN3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CMPO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CMTI2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CNBF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CNDO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CNII2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "COVM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CPMW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CPNW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CPTR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CPVM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CPXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CPXC1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CRGA2",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CRTA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CRVA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CRYV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CSPA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CSXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CVQV2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "CWAF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CWBF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CWCI",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "CWQT2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "CYGM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DBLN6",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DBQS1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "DELD1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DESW1",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DHXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DILA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DISW3",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DKKF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DMSF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DOMV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DPHA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DPLA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DPOA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DPXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DPXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DRSD1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DTLM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DUKN7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "DULM5",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "EAZC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "EBEF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "EFLA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "EHSC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "EINL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ELFA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ELQC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "ELXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "EMAT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "EPTT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "EREP1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "EROA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ERXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ESPP4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FAIO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FFFC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "FFIA2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FHPF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FILA2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FLQN6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "FMRF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FOXR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FPKG1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FPST2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FPTM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FRCB6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FRDF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FRDW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FRMA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FRVM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FRWL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FRXM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FSKM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FTGM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "FTPC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GBCM6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "GBHM6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "GBIF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GBQN3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "GBTF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GBWW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GBXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GCTF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GDMM5",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GDQM6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "GDXM6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GELO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GEXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GISL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GIXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GKYF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GNJT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GPXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GRMM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GRRT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GSLM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GTLM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GTOT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GTQF1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "GTRM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GTXF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "GUXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HAXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HBMN6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "HBYC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HCEF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HCGN7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HHLO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HIST2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HIVT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HLNM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HMRA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HMSA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HRBM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HREF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HRRH1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HUQN6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "HWPM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "HWWH1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "ICAC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ICYA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ILOH1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "IOSN3",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "IRDT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ITKA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "JBYF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "JCRN4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "JCTN4",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "JKYF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "JLXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "JMLA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "JMPN7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "JNEA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "JNGA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "JXUF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KATP",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KBMG1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KECA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KEXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KGBK",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KGCA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KGHB",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KGNA",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KGRY",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KGUL",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KGVW",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KGXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KIKT",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KLIH1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KLMW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KMXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KNSW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KNXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KOZA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KP53",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KP58",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KP59",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KPTN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KPTV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KVOA",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KWHH1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KWJP8",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KWNW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "KYWF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LAMV3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LAPW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LBSF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LCLL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LCNA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LDTM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LIXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LJAC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LJPC1",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LKWF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LMDF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LMFS1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LMRF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LNDC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LONF1",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LOPL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LOPW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LORO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LPNM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LQAT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LRIF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LRKF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LSNF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LTBV3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LTJF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LTQM2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "LTRM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LUIT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LWSD1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "LWTV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MACM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MAQT2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "MBET2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MBIN7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MBNN7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MBPA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MBRM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MBXC1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MCGA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MCGM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MCYI3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MDKF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MDRM1",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MEEM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MEYC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MGIP4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MGPT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MGZP4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MHBT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MHRN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MISM1",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MISP4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MIST2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MIXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MKGM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MLSC1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MLWW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MNBF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MNMM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MNPV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MOKH1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MRCP1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MRHO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MRKA2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MRNA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MROS1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MRYA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MTBF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MTKN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MUKF1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MVXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MXXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MYPF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "MZXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NABM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NAQR1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "NAXR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NBGM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NBLP1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NCDV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NCHT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NEAW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NFDF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NIAN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NIQS1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "NIWS1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NJLC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NKLA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NKTA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NKXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NLHC3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NLXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NMTA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NMXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NPDW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NPQC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "NPQN6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "NPXN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NREP1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NRRF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NSXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NTBC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NTKM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NWCL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NWHC3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NWPO3",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NWPR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "NWWH1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OBGN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OBLA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OCIM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OKSI2",
+    "kinds": [
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OKXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OLCN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OLSA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OMHC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OOUH1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OPTF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ORIN7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OSGN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OSTF1",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OTNM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OVIA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OWDO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "OWMO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "OWSO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "OWWO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "OWXO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PACF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PACT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PAUA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PAXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PBFW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PBJW1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "PBLW1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "PBPA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PCBF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PCGT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PCLF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PCLM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PCNT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PCOC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PCXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PDVR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PEGF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PEXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PFDC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PFXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PGBP7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PGXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PHBP1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PILA2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PILL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PILM4",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PKBW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PKYF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PLXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PMAF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PMNT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PNGW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PNLM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PNLM6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PORO3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PORT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "POTA2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PPHH1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "PPTM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PPXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PPXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PRDA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PRHH1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PRIM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PRJC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PRTA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PRYC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PSBC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PSBM1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PSCM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PSLC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PSTL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PSTN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PSXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTAT2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTAW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTBM6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTCR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTFL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTIM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTIT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTLA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTOA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PTWW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PVDR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PWAW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PXAC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PXOC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "PXSC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "QPTR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RCKM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RCMC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RCPT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RCRN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RDDA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RDYD1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RIXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RKXF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RLIT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RLOT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ROAM4",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ROBN4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RPLV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RPRN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RSJT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RTAT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RTYC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "RYEC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "SANF1",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SAPF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SAQG1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "SAUF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SAXG1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SBEO3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SBIO1",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SBLM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SCLD1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "SCQC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "SCXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SDBC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SDHN4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SDIA2",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SDRT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SEFO3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "SEIM1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SETO3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "SFXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SGNW3",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SGOF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SGXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SHBL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SHPF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SHXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SISA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SISW1",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SJNP4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SJOM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SKCF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SKTA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SKXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SLIM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SLOO3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "SLVM5",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SLXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SNDA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SNDP5",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SNTO3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SPGF1",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SPTM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SPXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SREF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SRLM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SRXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SSBN7",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "STXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SVNM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SVXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SWLA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SWPM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SWPV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SWXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SXHW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "SXXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TAQT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TAWM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TBIM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TBYF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TCBM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TCMW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TCNW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TCSV2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "TCVF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TDPC1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TESL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "THLO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "THRF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "THRO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TIBC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TIQC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "TIXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TKEA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TKPN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TLVT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TOKW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TPAF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TPEF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TPLM2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TRDF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TRRF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TSHF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TWCO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TXPT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "TXVT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "ULRA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "UNLA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "UPBC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "UQXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "UTVT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "VAKF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "VCAF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "VCAT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "VCVA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "VDXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "VDZA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "VENF1",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "VTBT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WAHV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WAKP8",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WAQM3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "WASD2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WCRP1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WCXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WDSV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WEBM1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "WEXM1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WFPM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WGXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WIWF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WIXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WKQA1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "WKXA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WLON7",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WNEM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WPLF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WPOW1",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WPTW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WQQM1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "WRBF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WRXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WWEF1",
+    "kinds": [
+      "ocean",
+      "rain",
+      "txt"
+    ]
+  },
+  {
+    "stationID": "WYBS1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "stationID": "WYCM6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "YATA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "YGNN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "YKTV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "stationID": "YRSV2",
+    "kinds": [
+      "txt"
+    ]
+  }
+]
