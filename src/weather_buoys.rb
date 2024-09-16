@@ -85,15 +85,17 @@ def build_stations(station_ids_with_buoy_cams, owners)
       longitude = $4 == "E" ? $3.to_f : -$3.to_f
     else
       puts "skipping invalid coordinate: " + line
-      continue
+      next
     end
 
     owner_code = data[1]
     owner = owners[owner_code]
     if owner == nil
       puts "skipping unknown owner: " + line
-      continue
+      next
     end
+
+    forecasts = data[8].to_s.split
 
     note = strip_html(data[9].to_s)
 
@@ -105,11 +107,11 @@ def build_stations(station_ids_with_buoy_cams, owners)
       ownerCode: owner_code,
       ownerName: owner[:name],
       ownerCountryCode: owner[:countryCode],
-      has_buoy_cam: has_buoy_cam,
+      hasBuoyCam: has_buoy_cam,
       type: data[2],
       hull: data[3],
       payload: data[5],
-      forecasts: data[8],
+      forecasts: forecasts,
       note: note
     }
   end
@@ -121,6 +123,8 @@ owners = build_station_owners
 stations_array = build_stations(station_ids_with_buoy_cams, owners)
 
 # Write to JSON file
+json = JSON.pretty_generate(stations_array).gsub(/\[\s+\]/, "[]")
+
 filename = "data/weather_buoys.json"
-File.write(filename, JSON.pretty_generate(stations_array))
+File.write(filename, json)
 puts "Wrote #{stations_array.count} records to #{filename}"
