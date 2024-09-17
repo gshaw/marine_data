@@ -472,8 +472,8 @@
   },
   {
     "id": "21414",
-    "latitude": 48.977,
-    "longitude": 178.199,
+    "latitude": 48.97,
+    "longitude": 178.165,
     "name": "AMCHITKA - 170 NM South of Amchitka, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -1683,7 +1683,7 @@
     "hull": "2.6D69",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "As of 0110z, 5/24/24, the buoy at 32413 has gone adrift."
+    "note": "As of 0110z, 5/24/24, the buoy at 32413 has gone adrift. Click here to see the latest positions on the adrift buoy."
   },
   {
     "id": "32487",
