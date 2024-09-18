@@ -393,6 +393,7 @@
   {
     "id": "41024",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -415,18 +416,21 @@
   {
     "id": "41033",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
   {
     "id": "41037",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
   {
     "id": "41038",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -533,6 +537,7 @@
   {
     "id": "41069",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -698,6 +703,7 @@
     "id": "42013",
     "kinds": [
       "adcp",
+      "ocean",
       "srad",
       "txt"
     ]
@@ -732,6 +738,7 @@
     "id": "42026",
     "kinds": [
       "adcp",
+      "ocean",
       "txt"
     ]
   },
