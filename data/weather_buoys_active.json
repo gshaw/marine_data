@@ -5276,6 +5276,12 @@
     ]
   },
   {
+    "id": "MQMT2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "MRCP1",
     "kinds": [
       "txt"
@@ -5308,12 +5314,6 @@
   },
   {
     "id": "MRYA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "MTBF1",
     "kinds": [
       "txt"
     ]
@@ -6322,12 +6322,6 @@
     "id": "SEIM1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "SETO3",
-    "kinds": [
-      "ocean"
     ]
   },
   {
