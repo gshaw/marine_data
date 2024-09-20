@@ -3521,6 +3521,12 @@
     ]
   },
   {
+    "id": "BLTA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "BLTM2",
     "kinds": [
       "txt"
@@ -4477,6 +4483,13 @@
   {
     "id": "HAXA2",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "HBXC1",
+    "kinds": [
+      "ocean",
       "txt"
     ]
   },
