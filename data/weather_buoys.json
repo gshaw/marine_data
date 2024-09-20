@@ -1813,14 +1813,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter discus buoy",
     "hull": "3D90",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT22.KWBC"
     ],
-    "note": null
+    "note": "As of 0600z, 9/20/24, the buoy at 41001 has gone adrift. Data will be restored during our next service visit to this location. http://www.ndbc.noaa.gov/nws_special/41001.txt"
   },
   {
     "id": "41002",
