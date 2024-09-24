@@ -6922,6 +6922,12 @@
     ]
   },
   {
+    "id": "WYSS1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "YATA2",
     "kinds": [
       "txt"
