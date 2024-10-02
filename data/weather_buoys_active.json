@@ -710,7 +710,6 @@
     "id": "42026",
     "kinds": [
       "adcp",
-      "ocean",
       "txt"
     ]
   },
@@ -4354,12 +4353,6 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GTQF1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
