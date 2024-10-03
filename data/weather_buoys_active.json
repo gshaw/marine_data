@@ -4367,6 +4367,12 @@
     ]
   },
   {
+    "id": "GTQF1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "GTRM4",
     "kinds": [
       "txt"
@@ -6783,6 +6789,12 @@
   },
   {
     "id": "WGXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "WHRI2",
     "kinds": [
       "txt"
     ]
