@@ -2336,7 +2336,6 @@
   {
     "id": "46244",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -6279,12 +6278,6 @@
     ]
   },
   {
-    "id": "SKCF1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "SKTA2",
     "kinds": [
       "txt"
@@ -6603,12 +6596,6 @@
     "kinds": [
       "ocean",
       "rain",
-      "txt"
-    ]
-  },
-  {
-    "id": "TSHF1",
-    "kinds": [
       "txt"
     ]
   },
