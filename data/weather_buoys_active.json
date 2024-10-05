@@ -1067,14 +1067,6 @@
     ]
   },
   {
-    "id": "44084",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "44085",
     "kinds": [
       "adcp",
@@ -4534,6 +4526,12 @@
     ]
   },
   {
+    "id": "JCQN4",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "JCRN4",
     "kinds": [
       "txt"
@@ -6205,6 +6203,12 @@
     "id": "SEIM1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "SEQA2",
+    "kinds": [
+      "ocean"
     ]
   },
   {
