@@ -1025,6 +1025,13 @@
     ]
   },
   {
+    "id": "44073",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "44078",
     "kinds": [
       "ocean",
@@ -2174,6 +2181,8 @@
     "id": "46213",
     "kinds": [
       "adcp",
+      "spec",
+      "spectral",
       "txt"
     ]
   },
@@ -4079,12 +4088,6 @@
   },
   {
     "id": "FLQN6",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "FMNS1",
     "kinds": [
       "ocean"
     ]
@@ -6139,12 +6142,6 @@
     "id": "SEIM1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "SEQA2",
-    "kinds": [
-      "ocean"
     ]
   },
   {
