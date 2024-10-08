@@ -492,7 +492,6 @@
   {
     "id": "41069",
     "kinds": [
-      "ocean",
       "txt"
     ]
   },
@@ -1867,15 +1866,6 @@
   },
   {
     "id": "46069",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "46070",
     "kinds": [
       "spec",
       "spectral",
@@ -4525,6 +4515,12 @@
     "id": "JNGA2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "JOBP4",
+    "kinds": [
+      "ocean"
     ]
   },
   {
