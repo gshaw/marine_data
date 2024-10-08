@@ -9176,7 +9176,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter discus buoy",
     "hull": "3D27",
     "payload": "SCOOP payload",
