@@ -2397,14 +2397,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter foam buoy",
     "hull": "3DV42",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": null
+    "note": "As of 1000z, 10/11/24, the buoy at station 41047 has gone adrift. Data will be restored during our next service visit to this location. Click here. to see the latest positions on the adrift buoy."
   },
   {
     "id": "41048",
@@ -7651,7 +7651,7 @@
     "longitude": -87.655,
     "name": "Wilmette Buoy, IL",
     "ownerCode": "IG",
-    "ownerName": "llinois-Indiana Sea Grant",
+    "ownerName": "Illinois-Indiana Sea Grant",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "Buoy",
