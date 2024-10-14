@@ -2849,6 +2849,7 @@
   {
     "id": "62127",
     "kinds": [
+      "spec",
       "txt"
     ]
   },
@@ -6670,12 +6671,6 @@
   },
   {
     "id": "WEBM1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "WEQM1",
     "kinds": [
       "ocean"
     ]
