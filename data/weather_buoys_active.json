@@ -779,14 +779,6 @@
     ]
   },
   {
-    "id": "42097",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "42098",
     "kinds": [
       "spec",
@@ -4188,12 +4180,6 @@
     ]
   },
   {
-    "id": "GCTF1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "GDMM5",
     "kinds": [
       "txt"
@@ -6574,13 +6560,6 @@
   {
     "id": "VDZA2",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "VENF1",
-    "kinds": [
-      "cwind",
       "txt"
     ]
   },
