@@ -1904,15 +1904,6 @@
     ]
   },
   {
-    "id": "46083",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
     "id": "46084",
     "kinds": [
       "spec",
@@ -3052,12 +3043,6 @@
   },
   {
     "id": "AJXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "AKXA2",
     "kinds": [
       "txt"
     ]
