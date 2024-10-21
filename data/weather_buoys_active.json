@@ -3889,6 +3889,12 @@
     ]
   },
   {
+    "id": "EFLA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "EHSC1",
     "kinds": [
       "ocean"
@@ -6100,6 +6106,12 @@
     ]
   },
   {
+    "id": "SKCF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "SKTA2",
     "kinds": [
       "txt"
@@ -6406,6 +6418,12 @@
     "kinds": [
       "ocean",
       "rain",
+      "txt"
+    ]
+  },
+  {
+    "id": "TSHF1",
+    "kinds": [
       "txt"
     ]
   },
