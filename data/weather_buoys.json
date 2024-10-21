@@ -6979,7 +6979,7 @@
     "forecasts": [
       "FZUS53.KMQT"
     ],
-    "note": null
+    "note": "Buoy recovered for winter 10/21/24."
   },
   {
     "id": "45024",
@@ -9419,7 +9419,7 @@
     "forecasts": [
       "FZAK52.PAJK"
     ],
-    "note": "As of 1300z, 10/12/24, the buoy at station 46083 has gone adrift. Data will be restored during our next service visit to this location. Click here. to see the latest positions on the adrift buoy."
+    "note": "Buoy recovered from adrift 10/21/24."
   },
   {
     "id": "46084",
