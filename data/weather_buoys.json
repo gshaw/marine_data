@@ -28299,6 +28299,21 @@
     "note": null
   },
   {
+    "id": "TGXA2",
+    "latitude": 59.055,
+    "longitude": -160.334,
+    "name": "Togiak, Alaska",
+    "ownerCode": "MA",
+    "ownerName": "Marine Exchange of Alaska",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "C-MAN Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "THIN6",
     "latitude": 44.3,
     "longitude": -75.983,
