@@ -948,7 +948,6 @@
   {
     "id": "44041",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -1548,13 +1547,6 @@
   },
   {
     "id": "45207",
-    "kinds": [
-      "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "45208",
     "kinds": [
       "spec",
       "txt"
@@ -6666,12 +6658,6 @@
     "id": "WPTW1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "WQQM1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
