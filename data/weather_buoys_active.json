@@ -2344,6 +2344,7 @@
   {
     "id": "46276",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4591,6 +4592,12 @@
     ]
   },
   {
+    "id": "KVAF",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "KVOA",
     "kinds": [
       "txt"
@@ -5314,6 +5321,12 @@
     ]
   },
   {
+    "id": "OBXC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "OCIM2",
     "kinds": [
       "txt"
@@ -5479,6 +5492,12 @@
   },
   {
     "id": "PCLF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "PCLM4",
     "kinds": [
       "txt"
     ]
