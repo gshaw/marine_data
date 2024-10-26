@@ -1413,15 +1413,6 @@
     ]
   },
   {
-    "id": "45170",
-    "kinds": [
-      "ocean",
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45174",
     "kinds": [
       "spec",
@@ -4501,12 +4492,6 @@
     ]
   },
   {
-    "id": "KHHV",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "KLIH1",
     "kinds": [
       "txt"
@@ -5397,6 +5382,12 @@
     "id": "OWWO1",
     "kinds": [
       "ocean"
+    ]
+  },
+  {
+    "id": "OWXO1",
+    "kinds": [
+      "txt"
     ]
   },
   {
