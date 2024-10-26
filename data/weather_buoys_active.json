@@ -2458,6 +2458,8 @@
   {
     "id": "51002",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -4849,13 +4851,6 @@
     ]
   },
   {
-    "id": "MBXC1",
-    "kinds": [
-      "ocean",
-      "txt"
-    ]
-  },
-  {
     "id": "MCGA1",
     "kinds": [
       "txt"
@@ -5413,12 +5408,6 @@
     "id": "OWWO1",
     "kinds": [
       "ocean"
-    ]
-  },
-  {
-    "id": "OWXO1",
-    "kinds": [
-      "txt"
     ]
   },
   {
