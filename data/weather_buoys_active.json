@@ -1248,16 +1248,6 @@
     ]
   },
   {
-    "id": "45023",
-    "kinds": [
-      "adcp",
-      "ocean",
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45024",
     "kinds": [
       "ocean",
