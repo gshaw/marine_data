@@ -12424,15 +12424,15 @@
   },
   {
     "id": "51003",
-    "latitude": 19.196,
-    "longitude": -160.639,
+    "latitude": 19.155,
+    "longitude": -160.669,
     "name": "WESTERN  HAWAII - 205 NM SW of Honolulu, HI",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3D86",
+    "hull": "3DV53",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZHW60.PHFO"
