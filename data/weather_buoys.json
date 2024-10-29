@@ -12390,15 +12390,15 @@
   },
   {
     "id": "51001",
-    "latitude": 24.451,
-    "longitude": -162.008,
+    "latitude": 24.46,
+    "longitude": -162.024,
     "name": "NORTHWESTERN HAWAII ONE - 188 NM NW of Kauai Island, HI",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "2.1-meter ionomer foam buoy",
-    "hull": "2.1D04",
+    "hull": "2.1D15",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZHW60.PHFO"
