@@ -1484,22 +1484,6 @@
     ]
   },
   {
-    "id": "45201",
-    "kinds": [
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
-    "id": "45202",
-    "kinds": [
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45203",
     "kinds": [
       "spec",
@@ -1536,13 +1520,6 @@
       "spec",
       "spectral",
       "txt"
-    ]
-  },
-  {
-    "id": "45216",
-    "kinds": [
-      "ocean",
-      "srad"
     ]
   },
   {
@@ -1847,7 +1824,6 @@
   {
     "id": "46087",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "supl",
@@ -2748,6 +2724,12 @@
     "id": "62130",
     "kinds": [
       "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "62135",
+    "kinds": [
       "txt"
     ]
   },
@@ -4396,6 +4378,12 @@
   },
   {
     "id": "JNGA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "JOXP4",
     "kinds": [
       "txt"
     ]
