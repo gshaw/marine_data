@@ -9095,10 +9095,10 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter foam buoy w/ seal cage",
-    "hull": "3DV64",
+    "hull": "3DV09",
     "payload": "SCOOP payload",
     "forecasts": [],
-    "note": "Buoy has gone adrift as of 7/4/24. Click here to see the latest positions on the adrift buoy."
+    "note": "Buoy recovered 1719z, 11/05/24."
   },
   {
     "id": "46060",
