@@ -5418,12 +5418,6 @@
     ]
   },
   {
-    "id": "PCLM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "PCNT2",
     "kinds": [
       "txt"
@@ -6437,12 +6431,6 @@
   },
   {
     "id": "VCAT2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "VCVA2",
     "kinds": [
       "txt"
     ]
