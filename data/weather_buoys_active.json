@@ -1415,14 +1415,6 @@
     ]
   },
   {
-    "id": "45174",
-    "kinds": [
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45176",
     "kinds": [
       "ocean",
@@ -1432,14 +1424,6 @@
   },
   {
     "id": "45186",
-    "kinds": [
-      "adcp",
-      "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "45187",
     "kinds": [
       "adcp",
       "spec",
@@ -5965,12 +5949,6 @@
     "id": "SEIM1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "SEQA2",
-    "kinds": [
-      "ocean"
     ]
   },
   {
