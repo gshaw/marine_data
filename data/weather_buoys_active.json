@@ -1384,14 +1384,6 @@
     ]
   },
   {
-    "id": "45162",
-    "kinds": [
-      "ocean",
-      "spec",
-      "txt"
-    ]
-  },
-  {
     "id": "45164",
     "kinds": [
       "txt"
@@ -1403,14 +1395,6 @@
       "adcp",
       "spec",
       "srad",
-      "txt"
-    ]
-  },
-  {
-    "id": "45168",
-    "kinds": [
-      "ocean",
-      "spec",
       "txt"
     ]
   },
@@ -1457,14 +1441,6 @@
     "id": "45209",
     "kinds": [
       "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "45210",
-    "kinds": [
-      "spec",
-      "spectral",
       "txt"
     ]
   },
