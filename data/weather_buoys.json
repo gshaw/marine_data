@@ -9276,7 +9276,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter discus buoy w/ seal cage",
     "hull": "3D46",
     "payload": "SCOOP payload",
