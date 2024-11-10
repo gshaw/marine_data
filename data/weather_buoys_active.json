@@ -2194,7 +2194,6 @@
   {
     "id": "46277",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4305,12 +4304,6 @@
   },
   {
     "id": "KBMG1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "KBQX",
     "kinds": [
       "txt"
     ]
