@@ -1221,6 +1221,8 @@
   {
     "id": "45006",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
