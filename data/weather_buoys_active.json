@@ -1444,9 +1444,7 @@
   {
     "id": "45218",
     "kinds": [
-      "adcp",
       "ocean",
-      "spec",
       "srad",
       "txt"
     ]
