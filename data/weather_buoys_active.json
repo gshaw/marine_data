@@ -1379,15 +1379,6 @@
     ]
   },
   {
-    "id": "45165",
-    "kinds": [
-      "adcp",
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45176",
     "kinds": [
       "ocean",
@@ -1438,14 +1429,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "45218",
-    "kinds": [
-      "ocean",
-      "srad",
       "txt"
     ]
   },
@@ -4312,6 +4295,12 @@
   },
   {
     "id": "KEXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KGBK",
     "kinds": [
       "txt"
     ]
