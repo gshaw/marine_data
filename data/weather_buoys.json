@@ -5747,7 +5747,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV11",
+    "hull": "3D58",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS51.KOKX",
@@ -6996,7 +6996,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45025",
