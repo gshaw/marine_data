@@ -8496,20 +8496,20 @@
   },
   {
     "id": "46015",
-    "latitude": 42.752,
-    "longitude": -124.844,
+    "latitude": 42.754,
+    "longitude": -124.839,
     "name": "PORT ORFORD - 15 NM West of Port Orford, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter foam buoy w/ seal cage",
-    "hull": "3DV40",
+    "hasBuoyCam": true,
+    "type": "3-meter discus buoy",
+    "hull": "3D12",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KMFR"
     ],
-    "note": "Station recovered by NDBC."
+    "note": "Buoy deployed 11/13/24"
   },
   {
     "id": "46016",
