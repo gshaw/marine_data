@@ -8509,7 +8509,7 @@
     "forecasts": [
       "FZUS56.KMFR"
     ],
-    "note": "Buoy deployed 11/13/24"
+    "note": null
   },
   {
     "id": "46016",
@@ -9508,20 +9508,20 @@
   },
   {
     "id": "46089",
-    "latitude": 45.936,
-    "longitude": -125.793,
+    "latitude": 45.928,
+    "longitude": -125.815,
     "name": "TILLAMOOK, OR - 85 NM WNW of Tillamook, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D57",
+    "hull": "3DV20",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZPN25.KWBC"
     ],
-    "note": "The buoy for this station went adrift 12/2/23. The buoy has been recovered 12/12/23."
+    "note": null
   },
   {
     "id": "46090",
