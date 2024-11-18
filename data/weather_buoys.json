@@ -8162,23 +8162,6 @@
     "note": "Buoy recovered 4/15/24."
   },
   {
-    "id": "45213",
-    "latitude": 47.585,
-    "longitude": -86.585,
-    "name": "East Superior Spotter",
-    "ownerCode": "MT",
-    "ownerName": "Michigan Technological University",
-    "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "Spotter Buoy",
-    "hull": null,
-    "payload": null,
-    "forecasts": [
-      "FZUS53.KMQT"
-    ],
-    "note": "Buoy recovered for the season."
-  },
-  {
     "id": "45214",
     "latitude": 42.674,
     "longitude": -87.026,
