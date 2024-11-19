@@ -1781,12 +1781,6 @@
     ]
   },
   {
-    "id": "46123",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "46125",
     "kinds": [
       "txt"
@@ -3023,12 +3017,6 @@
     ]
   },
   {
-    "id": "BEIS1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "BEXA2",
     "kinds": [
       "txt"
@@ -4182,12 +4170,6 @@
       "ocean",
       "rain",
       "txt"
-    ]
-  },
-  {
-    "id": "JCQN4",
-    "kinds": [
-      "ocean"
     ]
   },
   {
