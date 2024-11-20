@@ -7045,7 +7045,7 @@
     "forecasts": [
       "FZUS53.KDLH"
     ],
-    "note": null
+    "note": "Station recovered for season."
   },
   {
     "id": "45028",
@@ -7062,7 +7062,7 @@
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": null
+    "note": "Station recovered for season."
   },
   {
     "id": "45029",
@@ -8204,7 +8204,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Station recovered for season."
   },
   {
     "id": "45T01",
