@@ -1378,13 +1378,6 @@
     ]
   },
   {
-    "id": "45209",
-    "kinds": [
-      "spec",
-      "txt"
-    ]
-  },
-  {
     "id": "45215",
     "kinds": [
       "spec",
@@ -3787,12 +3780,6 @@
     ]
   },
   {
-    "id": "FMNS1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "FMRF1",
     "kinds": [
       "txt"
@@ -6032,6 +6019,12 @@
   },
   {
     "id": "STXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SVNM4",
     "kinds": [
       "txt"
     ]
