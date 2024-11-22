@@ -5847,6 +5847,12 @@
     ]
   },
   {
+    "id": "SETO3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "SFXC1",
     "kinds": [
       "txt"
