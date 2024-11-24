@@ -3627,6 +3627,12 @@
     ]
   },
   {
+    "id": "EFLA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "EHSC1",
     "kinds": [
       "ocean"
@@ -3948,12 +3954,6 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GTQF1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
