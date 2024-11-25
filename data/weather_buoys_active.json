@@ -797,6 +797,15 @@
     ]
   },
   {
+    "id": "42099",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "42407",
     "kinds": [
       "dart"
