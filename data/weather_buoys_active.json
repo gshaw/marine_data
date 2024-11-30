@@ -1258,22 +1258,7 @@
     ]
   },
   {
-    "id": "45026",
-    "kinds": [
-      "adcp",
-      "ocean",
-      "spec",
-      "txt"
-    ]
-  },
-  {
     "id": "45132",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "45135",
     "kinds": [
       "txt"
     ]
@@ -3928,6 +3913,12 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "GTQF1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
