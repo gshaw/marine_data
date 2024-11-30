@@ -944,7 +944,6 @@
   {
     "id": "44043",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -968,7 +967,6 @@
     "id": "44062",
     "kinds": [
       "adcp",
-      "ocean",
       "txt"
     ]
   },
