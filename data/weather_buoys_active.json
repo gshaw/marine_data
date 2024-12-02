@@ -2087,6 +2087,13 @@
     ]
   },
   {
+    "id": "46283",
+    "kinds": [
+      "spec",
+      "spectral"
+    ]
+  },
+  {
     "id": "46304",
     "kinds": [
       "txt"
@@ -2957,12 +2964,6 @@
     "id": "BIGM4",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "BILW3",
-    "kinds": [
-      "ocean"
     ]
   },
   {
@@ -4119,6 +4120,12 @@
   },
   {
     "id": "JNGA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "JOXP4",
     "kinds": [
       "txt"
     ]
