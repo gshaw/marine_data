@@ -2090,7 +2090,8 @@
     "id": "46283",
     "kinds": [
       "spec",
-      "spectral"
+      "spectral",
+      "txt"
     ]
   },
   {
@@ -3352,6 +3353,12 @@
   },
   {
     "id": "CPNW1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "CPSA2",
     "kinds": [
       "txt"
     ]

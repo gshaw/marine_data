@@ -9059,7 +9059,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": null,
+    "hull": "3D28",
     "payload": "ARES payload",
     "forecasts": [
       "FZAK51.PAFC"
@@ -13148,7 +13148,7 @@
     "hull": "2.6D59",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Station adrift after 0100z, 9/15/24. Click here to see the latest positions on the adrift buoy."
+    "note": null
   },
   {
     "id": "52834",
@@ -17348,6 +17348,21 @@
     "forecasts": [
       "FZUS56.KSEW"
     ],
+    "note": null
+  },
+  {
+    "id": "CPSA2",
+    "latitude": 56.397,
+    "longitude": -160.142,
+    "name": "Cape Seniavin, AK",
+    "ownerCode": "MA",
+    "ownerName": "Marine Exchange of Alaska",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "C-MAN Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
     "note": null
   },
   {
