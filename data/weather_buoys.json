@@ -8643,7 +8643,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D77",
+    "hull": "3D76",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KMFR"
@@ -8944,7 +8944,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D52",
+    "hull": "3DV14",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZPN26.KWBC"
