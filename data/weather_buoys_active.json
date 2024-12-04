@@ -1469,8 +1469,6 @@
   {
     "id": "46053",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -3589,12 +3587,6 @@
   },
   {
     "id": "EBEF1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "EFLA1",
     "kinds": [
       "txt"
     ]
@@ -6278,6 +6270,12 @@
   },
   {
     "id": "WEBM1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "WEQM1",
     "kinds": [
       "ocean"
     ]
