@@ -660,6 +660,7 @@
     "id": "42022",
     "kinds": [
       "adcp",
+      "ocean",
       "txt"
     ]
   },
@@ -4120,6 +4121,12 @@
     "id": "JNGA2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "JOBP4",
+    "kinds": [
+      "ocean"
     ]
   },
   {
