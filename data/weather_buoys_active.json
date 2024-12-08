@@ -469,6 +469,7 @@
     "id": "41056",
     "kinds": [
       "adcp",
+      "ocean",
       "spec",
       "txt"
     ]
@@ -1202,15 +1203,6 @@
   },
   {
     "id": "45004",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "45005",
     "kinds": [
       "spec",
       "spectral",
@@ -5068,12 +5060,6 @@
     "id": "OWMO1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "OWSO1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
