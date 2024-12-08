@@ -5065,12 +5065,6 @@
     ]
   },
   {
-    "id": "OWDO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "OWMO1",
     "kinds": [
       "txt"
@@ -5078,12 +5072,6 @@
   },
   {
     "id": "OWSO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "OWWO1",
     "kinds": [
       "ocean"
     ]
