@@ -5703,12 +5703,6 @@
     ]
   },
   {
-    "id": "SEQA2",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "SETO3",
     "kinds": [
       "ocean"
@@ -6238,12 +6232,6 @@
   },
   {
     "id": "WEBM1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "WEQM1",
     "kinds": [
       "ocean"
     ]
