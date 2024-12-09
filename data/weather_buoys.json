@@ -11466,6 +11466,21 @@
     "note": null
   },
   {
+    "id": "46284",
+    "latitude": 36.93,
+    "longitude": -121.934,
+    "name": "Soquel Cove South, CA (281)",
+    "ownerCode": "R",
+    "ownerName": "SCRIPPS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Waverider Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "46290",
     "latitude": 32.659,
     "longitude": -120.63,
