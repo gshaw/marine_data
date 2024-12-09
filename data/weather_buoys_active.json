@@ -2072,6 +2072,14 @@
     ]
   },
   {
+    "id": "46284",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "46304",
     "kinds": [
       "txt"
@@ -3887,12 +3895,6 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GTQF1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
