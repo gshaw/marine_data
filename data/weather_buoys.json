@@ -6720,7 +6720,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.3D13",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMKX"
@@ -6797,14 +6797,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS61.KBUF"
     ],
-    "note": null
+    "note": "Buoy recovered for winter 12/10/24."
   },
   {
     "id": "45013",
@@ -11493,7 +11493,7 @@
     "hull": "2.3D03",
     "payload": null,
     "forecasts": [],
-    "note": "Station 46290 stopped transmitting 10/16/08, and has gone adrift. Click here to see the latest positions on the adrift buoy."
+    "note": "Station 46290 stopped transmitting 10/16/08, and has gone adrift. Station disestablished."
   },
   {
     "id": "46303",
@@ -20015,7 +20015,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Data from this station are not quality controlled by NDBC. Click here to see latest positions"
+    "note": "Data from this station are not quality controlled by NDBC."
   },
   {
     "id": "GPOM6",
@@ -23552,7 +23552,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Data from this station are not quality controlled by NDBC Click? here ?to see latest positions."
+    "note": "Data from this station are not quality controlled by NDBC."
   },
   {
     "id": "MSG12",
@@ -23567,7 +23567,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Data from this station are not quality controlled by NDBC Click? here ?to see latest positions."
+    "note": "Data from this station are not quality controlled by NDBC."
   },
   {
     "id": "MSG14",
@@ -23582,7 +23582,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Data from this station are not quality controlled by NDBC Click? here ?to see latest positions."
+    "note": "Data from this station are not quality controlled by NDBC."
   },
   {
     "id": "MTBF1",
