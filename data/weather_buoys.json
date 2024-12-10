@@ -6669,7 +6669,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.3D06",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
@@ -6703,7 +6703,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.3D11",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
@@ -6718,14 +6718,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.6D57",
+    "hull": "2.3D13",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMKX"
     ],
-    "note": null
+    "note": "Buoy retrieved for winter 12/10/24."
   },
   {
     "id": "45008",
