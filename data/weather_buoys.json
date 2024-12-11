@@ -17336,6 +17336,21 @@
     "note": null
   },
   {
+    "id": "COXA2",
+    "latitude": 60.542,
+    "longitude": -145.766,
+    "name": "Cordova, AK",
+    "ownerCode": "MA",
+    "ownerName": "Marine Exchange of Alaska",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Fixed Structure Weather Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "CPMW1",
     "latitude": 48.86,
     "longitude": -122.756,
@@ -23028,6 +23043,21 @@
       "FZUS51.KCAR"
     ],
     "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
+  },
+  {
+    "id": "MDXA2",
+    "latitude": 59.438,
+    "longitude": -146.327,
+    "name": "Middleton Island, AK",
+    "ownerCode": "MA",
+    "ownerName": "Marine Exchange of Alaska",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Fixed Structure Weather Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
   },
   {
     "id": "MEEM4",
