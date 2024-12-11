@@ -8145,6 +8145,23 @@
     "note": null
   },
   {
+    "id": "45213",
+    "latitude": 47.585,
+    "longitude": -86.585,
+    "name": "East Superior Spotter",
+    "ownerCode": "MT",
+    "ownerName": "Michigan Technological University",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS53.KMQT"
+    ],
+    "note": null
+  },
+  {
     "id": "45215",
     "latitude": 43.501,
     "longitude": -76.539,
