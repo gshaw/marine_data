@@ -615,14 +615,6 @@
     ]
   },
   {
-    "id": "41122",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "41421",
     "kinds": [
       "dart"
