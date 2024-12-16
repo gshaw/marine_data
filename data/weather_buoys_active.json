@@ -900,6 +900,7 @@
     "id": "44030",
     "kinds": [
       "adcp",
+      "ocean",
       "txt"
     ]
   },
@@ -1141,12 +1142,6 @@
       "spec",
       "spectral",
       "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "45132",
-    "kinds": [
       "txt"
     ]
   },
@@ -4646,6 +4641,12 @@
     "id": "NABM4",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "NAQR1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
