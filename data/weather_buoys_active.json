@@ -3645,12 +3645,6 @@
     ]
   },
   {
-    "id": "GBQN3",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "GBTF1",
     "kinds": [
       "ocean",
@@ -5737,13 +5731,6 @@
   {
     "id": "SRXA2",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SSBN7",
-    "kinds": [
-      "spec",
       "txt"
     ]
   },

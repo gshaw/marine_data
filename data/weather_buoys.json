@@ -16700,6 +16700,21 @@
     "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
   },
   {
+    "id": "CAVN6",
+    "latitude": 44.13,
+    "longitude": -76.333,
+    "name": "Cape Vincent",
+    "ownerCode": "O",
+    "ownerName": "NOS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "C-MAN Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "CBBV2",
     "latitude": 36.967,
     "longitude": -76.114,
