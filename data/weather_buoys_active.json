@@ -3221,6 +3221,7 @@
   {
     "id": "CPXC1",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -5743,12 +5744,6 @@
   },
   {
     "id": "STXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SVNM4",
     "kinds": [
       "txt"
     ]
