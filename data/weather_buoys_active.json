@@ -3001,6 +3001,12 @@
     ]
   },
   {
+    "id": "CAVN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "CBLO1",
     "kinds": [
       "txt"
@@ -5527,12 +5533,6 @@
     ]
   },
   {
-    "id": "SCQC1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "SCXA2",
     "kinds": [
       "txt"
@@ -5707,6 +5707,14 @@
   {
     "id": "SPXA2",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SREF1",
+    "kinds": [
+      "ocean",
+      "rain",
       "txt"
     ]
   },
