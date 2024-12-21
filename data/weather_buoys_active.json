@@ -867,8 +867,6 @@
   {
     "id": "44025",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -2104,6 +2102,14 @@
   },
   {
     "id": "51206",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "51207",
     "kinds": [
       "spec",
       "spectral",
@@ -5527,6 +5533,12 @@
   },
   {
     "id": "SCLD1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "SCQC1",
     "kinds": [
       "ocean"
     ]
