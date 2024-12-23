@@ -1653,7 +1653,7 @@
     "hull": "2.6D41",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Station ceased transmitting 0000z, 12/18/2024."
+    "note": null
   },
   {
     "id": "32412",
