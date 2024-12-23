@@ -3525,12 +3525,6 @@
     ]
   },
   {
-    "id": "FLQN6",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "FMRF1",
     "kinds": [
       "txt"
@@ -5696,13 +5690,6 @@
   {
     "id": "SRXA2",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SSBN7",
-    "kinds": [
-      "spec",
       "txt"
     ]
   },
