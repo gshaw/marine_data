@@ -622,7 +622,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "supl",
       "txt"
     ]
   },
@@ -4471,13 +4470,6 @@
   {
     "id": "MTKN6",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "MUKF1",
-    "kinds": [
-      "ocean",
       "txt"
     ]
   },
