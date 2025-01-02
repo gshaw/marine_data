@@ -1859,6 +1859,8 @@
   {
     "id": "46280",
     "kinds": [
+      "spec",
+      "spectral",
       "txt"
     ]
   },
@@ -4464,6 +4466,12 @@
   },
   {
     "id": "MTKN6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "MUKF1",
     "kinds": [
       "txt"
     ]

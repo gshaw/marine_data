@@ -2382,7 +2382,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter foam buoy",
-    "hull": "3DV62",
+    "hull": "3D58",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
@@ -6635,7 +6635,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.1-meter ionomer foam buoy",
-    "hull": "2.1D10",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMKX"
@@ -8469,7 +8469,7 @@
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy",
+    "type": "3-meter discus buoy w/ seal cage",
     "hull": "3D12",
     "payload": "SCOOP payload",
     "forecasts": [
@@ -9093,7 +9093,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D20",
+    "hull": "3D55",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK51.PAFC"
