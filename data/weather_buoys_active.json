@@ -1334,6 +1334,8 @@
   {
     "id": "46076",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -3362,6 +3364,12 @@
     "id": "EFLA1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "EHSC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
