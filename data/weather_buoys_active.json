@@ -1396,8 +1396,6 @@
   {
     "id": "46076",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -5655,12 +5653,6 @@
     "id": "SNTO3",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "SOQO3",
-    "kinds": [
-      "ocean"
     ]
   },
   {
