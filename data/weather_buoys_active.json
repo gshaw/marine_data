@@ -619,6 +619,7 @@
     "kinds": [
       "spec",
       "spectral",
+      "supl",
       "txt"
     ]
   },
@@ -3591,6 +3592,12 @@
     ]
   },
   {
+    "id": "FRXM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "FSKM2",
     "kinds": [
       "txt"
@@ -5663,13 +5670,6 @@
   {
     "id": "SPXA2",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SREF1",
-    "kinds": [
-      "rain",
       "txt"
     ]
   },

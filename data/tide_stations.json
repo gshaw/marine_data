@@ -1615,8 +1615,8 @@
   },
   {
     "id": "9440357",
-    "latitude": 45.98367,
-    "longitude": -122.83461,
+    "latitude": 45.9867,
+    "longitude": -122.8367,
     "name": "Temco Kalama Terminal"
   },
   {
@@ -6661,8 +6661,8 @@
   },
   {
     "id": "8423898",
-    "latitude": 43.07139,
-    "longitude": -70.71056,
+    "latitude": 43.0717,
+    "longitude": -70.7117,
     "name": "Fort Point"
   },
   {
@@ -11659,8 +11659,8 @@
   },
   {
     "id": "8658120",
-    "latitude": 34.2275,
-    "longitude": -77.95361,
+    "latitude": 34.2267,
+    "longitude": -77.9533,
     "name": "Wilmington"
   },
   {
@@ -14385,7 +14385,7 @@
     "id": "8722937",
     "latitude": 26.1183,
     "longitude": -80.145,
-    "name": "Andrews Avenue bridge, New River"
+    "name": "Fort Lauderdale, Andrews Ave. Bridge"
   },
   {
     "id": "8723156",
@@ -14677,8 +14677,8 @@
   },
   {
     "id": "8722832",
-    "latitude": 26.31331,
-    "longitude": -80.08169,
+    "latitude": 26.3133,
+    "longitude": -80.0817,
     "name": "Deerfield Beach, Hillsboro River"
   },
   {
@@ -17532,6 +17532,12 @@
     "name": "Paris Road Bridge (ICWW)"
   },
   {
+    "id": "8761115",
+    "latitude": 29.3506,
+    "longitude": -89.5399,
+    "name": "Bay Pomme D'or"
+  },
+  {
     "id": "8761212",
     "latitude": 29.25,
     "longitude": -89.6083,
@@ -17542,6 +17548,12 @@
     "latitude": 29.2867,
     "longitude": -89.6633,
     "name": "Bastian Island"
+  },
+  {
+    "id": "8761432",
+    "latitude": 29.5127,
+    "longitude": -89.7645,
+    "name": "Bayou Chene"
   },
   {
     "id": "8761557",
@@ -17953,8 +17965,8 @@
   },
   {
     "id": "8770733",
-    "latitude": 29.76486,
-    "longitude": -95.07886,
+    "latitude": 29.765,
+    "longitude": -95.0783,
     "name": "Lynchburg Landing, San Jacinto River"
   },
   {
