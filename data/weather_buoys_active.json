@@ -771,6 +771,13 @@
     ]
   },
   {
+    "id": "42354",
+    "kinds": [
+      "spec",
+      "spectral"
+    ]
+  },
+  {
     "id": "42409",
     "kinds": [
       "dart"
@@ -1304,8 +1311,6 @@
   {
     "id": "46050",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -5584,12 +5589,6 @@
   },
   {
     "id": "SJNP4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SJOM4",
     "kinds": [
       "txt"
     ]

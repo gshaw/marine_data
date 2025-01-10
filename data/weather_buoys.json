@@ -4636,6 +4636,21 @@
     "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of Mexico year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
   },
   {
+    "id": "42354",
+    "latitude": 29.579,
+    "longitude": -88.643,
+    "name": "Chandeleur Island SE, LA",
+    "ownerCode": "R",
+    "ownerName": "SCRIPPS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Waverider Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "42407",
     "latitude": 15.276,
     "longitude": -68.191,
