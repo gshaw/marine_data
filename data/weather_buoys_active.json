@@ -3373,6 +3373,12 @@
     ]
   },
   {
+    "id": "DPOA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "DPXA2",
     "kinds": [
       "txt"
@@ -5517,6 +5523,12 @@
     "id": "SEIM1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "SEQA2",
+    "kinds": [
+      "ocean"
     ]
   },
   {
