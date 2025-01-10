@@ -6650,14 +6650,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KDTX"
     ],
-    "note": null
+    "note": "Buoy recovered for the winter 1/10/25."
   },
   {
     "id": "45004",
