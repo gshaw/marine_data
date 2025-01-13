@@ -516,7 +516,6 @@
   {
     "id": "41108",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -2526,6 +2525,12 @@
     ]
   },
   {
+    "id": "ADBF1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "ADKA2",
     "kinds": [
       "txt"
@@ -3290,12 +3295,6 @@
     "kinds": [
       "cwind",
       "txt"
-    ]
-  },
-  {
-    "id": "DBQS1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
