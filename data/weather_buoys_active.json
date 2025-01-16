@@ -3094,7 +3094,6 @@
   {
     "id": "CLKN7",
     "kinds": [
-      "cwind",
       "txt"
     ]
   },
@@ -5958,6 +5957,12 @@
   },
   {
     "id": "WASD2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "WAXM3",
     "kinds": [
       "txt"
     ]
