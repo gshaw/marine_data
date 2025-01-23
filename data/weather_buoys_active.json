@@ -1134,13 +1134,6 @@
     ]
   },
   {
-    "id": "45161",
-    "kinds": [
-      "spec",
-      "txt"
-    ]
-  },
-  {
     "id": "45213",
     "kinds": [
       "spec",
@@ -1365,6 +1358,8 @@
   {
     "id": "46076",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -2718,12 +2713,6 @@
     "id": "BEIS1",
     "kinds": [
       "ocean"
-    ]
-  },
-  {
-    "id": "BEXA2",
-    "kinds": [
-      "txt"
     ]
   },
   {
@@ -5963,12 +5952,6 @@
   },
   {
     "id": "WCRP1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "WCXA2",
     "kinds": [
       "txt"
     ]
