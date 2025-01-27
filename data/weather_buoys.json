@@ -8801,7 +8801,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter foam buoy",
     "hull": "3DV50",
     "payload": "SCOOP payload",
