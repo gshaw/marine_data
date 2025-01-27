@@ -8160,6 +8160,23 @@
     "note": null
   },
   {
+    "id": "45212",
+    "latitude": 45.351,
+    "longitude": -82.84,
+    "name": "North Huron Spotter",
+    "ownerCode": "MT",
+    "ownerName": "Michigan Technological University",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS53.KAPX"
+    ],
+    "note": null
+  },
+  {
     "id": "45213",
     "latitude": 47.585,
     "longitude": -86.585,
@@ -8173,6 +8190,23 @@
     "payload": null,
     "forecasts": [
       "FZUS53.KMQT"
+    ],
+    "note": null
+  },
+  {
+    "id": "45214",
+    "latitude": 42.674,
+    "longitude": -87.026,
+    "name": "South Michigan Spotter",
+    "ownerCode": "MT",
+    "ownerName": "Michigan Technological University",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS53.KGRR"
     ],
     "note": null
   },
