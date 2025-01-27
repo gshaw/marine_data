@@ -581,13 +581,6 @@
     ]
   },
   {
-    "id": "42001",
-    "kinds": [
-      "supl",
-      "txt"
-    ]
-  },
-  {
     "id": "42012",
     "kinds": [
       "supl",
@@ -6031,6 +6024,12 @@
     "kinds": [
       "ocean",
       "rain",
+      "txt"
+    ]
+  },
+  {
+    "id": "WRXA2",
+    "kinds": [
       "txt"
     ]
   },
