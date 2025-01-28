@@ -1351,8 +1351,6 @@
   {
     "id": "46076",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -5592,6 +5590,14 @@
   {
     "id": "SPXA2",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SREF1",
+    "kinds": [
+      "ocean",
+      "rain",
       "txt"
     ]
   },
