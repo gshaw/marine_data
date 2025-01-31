@@ -10778,23 +10778,6 @@
     "note": null
   },
   {
-    "id": "46236",
-    "latitude": 36.76,
-    "longitude": -121.949,
-    "name": "Monterey Canyon Outer, CA  (156)",
-    "ownerCode": "R",
-    "ownerName": "SCRIPPS",
-    "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "Waverider Buoy",
-    "hull": null,
-    "payload": null,
-    "forecasts": [
-      "FZUS56.KMTR"
-    ],
-    "note": null
-  },
-  {
     "id": "46237",
     "latitude": 37.788,
     "longitude": -122.634,
