@@ -1725,7 +1725,8 @@
     "id": "46236",
     "kinds": [
       "spec",
-      "spectral"
+      "spectral",
+      "txt"
     ]
   },
   {
@@ -2749,6 +2750,12 @@
     "id": "BEIS1",
     "kinds": [
       "ocean"
+    ]
+  },
+  {
+    "id": "BEXA2",
+    "kinds": [
+      "txt"
     ]
   },
   {
