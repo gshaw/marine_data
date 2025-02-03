@@ -1,5 +1,17 @@
 [
   {
+    "id": "9414290",
+    "latitude": 37.80631,
+    "longitude": -122.46589,
+    "name": "SAN FRANCISCO (Golden Gate)"
+  },
+  {
+    "id": "8729840",
+    "latitude": 30.4044,
+    "longitude": -87.2112,
+    "name": "Pensacola, Pensacola Bay"
+  },
+  {
     "id": "TWC0399",
     "latitude": 24.78333,
     "longitude": -112.11667,
@@ -176,19 +188,19 @@
   {
     "id": "9411340",
     "latitude": 34.40459,
-    "longitude": -119.69249,
+    "longitude": -119.6925,
     "name": "Santa Barbara"
   },
   {
     "id": "9411399",
     "latitude": 34.46939,
-    "longitude": -120.22831,
+    "longitude": -120.2283,
     "name": "Gaviota State Park, Pacific Ocean"
   },
   {
     "id": "9411406",
     "latitude": 34.46917,
-    "longitude": -120.68194,
+    "longitude": -120.68195,
     "name": "Oil Platform Harvest"
   },
   {
@@ -247,8 +259,8 @@
   },
   {
     "id": "9412110",
-    "latitude": 35.16889,
-    "longitude": -120.75417,
+    "latitude": 35.1767,
+    "longitude": -120.76,
     "name": "Port San Luis"
   },
   {
@@ -350,7 +362,7 @@
   {
     "id": "9414262",
     "latitude": 37.7,
-    "longitude": -123.0,
+    "longitude": -123,
     "name": "Southeast Farallon Island"
   },
   {
@@ -370,12 +382,6 @@
     "latitude": 37.8183,
     "longitude": -122.528,
     "name": "Point Bonita, Bonita Cove"
-  },
-  {
-    "id": "9414290",
-    "latitude": 37.80631,
-    "longitude": -122.46589,
-    "name": "SAN FRANCISCO (Golden Gate)"
   },
   {
     "id": "9414792",
@@ -956,7 +962,7 @@
   {
     "id": "9414367",
     "latitude": 37.93667,
-    "longitude": -121.33333,
+    "longitude": -121.33334,
     "name": "Borden Highway Bridge, San Joaquin River"
   },
   {
@@ -1142,7 +1148,7 @@
   {
     "id": "9417426",
     "latitude": 39.42578,
-    "longitude": -123.80511,
+    "longitude": -123.80512,
     "name": "Noyo Harbor"
   },
   {
@@ -1172,7 +1178,7 @@
   {
     "id": "9418767",
     "latitude": 40.76691,
-    "longitude": -124.21734,
+    "longitude": -124.21735,
     "name": "HUMBOLDT BAY (North Spit)"
   },
   {
@@ -1321,8 +1327,8 @@
   },
   {
     "id": "9435380",
-    "latitude": 44.62544,
-    "longitude": -124.04494,
+    "latitude": 44.62545,
+    "longitude": -124.04495,
     "name": "Southbeach"
   },
   {
@@ -1370,7 +1376,7 @@
   {
     "id": "9437540",
     "latitude": 45.55453,
-    "longitude": -123.91894,
+    "longitude": -123.91895,
     "name": "Garibaldi"
   },
   {
@@ -1398,22 +1404,28 @@
     "name": "Tillamook, Hoquarten Slough"
   },
   {
+    "id": "TWC0817",
+    "latitude": 42.43333,
+    "longitude": -124.41666,
+    "name": "Wedderburn, Rogue River"
+  },
+  {
     "id": "9430104",
     "latitude": 42.0433,
     "longitude": -124.285,
     "name": "Brookings, Chetco Cove"
   },
   {
+    "id": "9432436",
+    "latitude": 43.1579,
+    "longitude": -124.1818,
+    "name": "Rink Creek Entrance, Coquille River"
+  },
+  {
     "id": "9431011",
     "latitude": 42.42164,
     "longitude": -124.41872,
     "name": "Gold Beach, Rogue River"
-  },
-  {
-    "id": "TWC0817",
-    "latitude": 42.43333,
-    "longitude": -124.41667,
-    "name": "Wedderburn, Rogue River"
   },
   {
     "id": "9431647",
@@ -1426,12 +1438,6 @@
     "latitude": 43.12,
     "longitude": -124.413,
     "name": "Bandon, Coquille River"
-  },
-  {
-    "id": "9432436",
-    "latitude": 43.1579,
-    "longitude": -124.1818,
-    "name": "Rink Creek Entrance, Coquille River"
   },
   {
     "id": "9434938",
@@ -1460,7 +1466,7 @@
   {
     "id": "9436031",
     "latitude": 44.8967,
-    "longitude": -124.0,
+    "longitude": -124,
     "name": "Kernville, Siletz River"
   },
   {
@@ -1544,13 +1550,13 @@
   {
     "id": "9438772",
     "latitude": 46.12425,
-    "longitude": -123.80433,
+    "longitude": -123.80434,
     "name": "Cathcart Landing, Youngs River"
   },
   {
     "id": "TWC0883",
     "latitude": 46.16667,
-    "longitude": -123.91667,
+    "longitude": -123.91666,
     "name": "Warrenton, Skipanon River, Oreg."
   },
   {
@@ -1562,7 +1568,7 @@
   {
     "id": "9439040",
     "latitude": 46.20731,
-    "longitude": -123.76831,
+    "longitude": -123.7683,
     "name": "ASTORIA (Tongue Point), Oreg."
   },
   {
@@ -1615,8 +1621,8 @@
   },
   {
     "id": "9440357",
-    "latitude": 45.9867,
-    "longitude": -122.8367,
+    "latitude": 45.98367,
+    "longitude": -122.83461,
     "name": "Temco Kalama Terminal"
   },
   {
@@ -1910,7 +1916,7 @@
   {
     "id": "9444900",
     "latitude": 48.11122,
-    "longitude": -122.75968,
+    "longitude": -122.75967,
     "name": "Port Townsend"
   },
   {
@@ -2066,7 +2072,7 @@
   {
     "id": "9447130",
     "latitude": 47.60264,
-    "longitude": -122.33931,
+    "longitude": -122.3393,
     "name": "SEATTLE (Madison St.), Elliott Bay"
   },
   {
@@ -2312,7 +2318,7 @@
   {
     "id": "9447717",
     "latitude": 48.03494,
-    "longitude": -122.22719,
+    "longitude": -122.2272,
     "name": "Priest Point"
   },
   {
@@ -2329,7 +2335,7 @@
   },
   {
     "id": "9448043",
-    "latitude": 48.10681,
+    "latitude": 48.1068,
     "longitude": -122.34728,
     "name": "Tulare Beach, Port Susan"
   },
@@ -2630,12 +2636,12 @@
   {
     "id": "8218361",
     "latitude": 54.71667,
-    "longitude": -130.21667,
+    "longitude": -130.21666,
     "name": "Kumeon Bay, B.C."
   },
   {
     "id": "8218617",
-    "latitude": 55.0,
+    "latitude": 55,
     "longitude": -129.9,
     "name": "Mill Bay, Nass River, B.C."
   },
@@ -2911,7 +2917,7 @@
   },
   {
     "id": "9450226",
-    "latitude": 55.0,
+    "latitude": 55,
     "longitude": -132.592,
     "name": "Mabel Island"
   },
@@ -2954,7 +2960,7 @@
   {
     "id": "TWC1513",
     "latitude": 55.01667,
-    "longitude": -132.78333,
+    "longitude": -132.78334,
     "name": "Kasook Inlet, Sukkwan Island"
   },
   {
@@ -3002,7 +3008,7 @@
   {
     "id": "9450406",
     "latitude": 55.2633,
-    "longitude": -133.11501,
+    "longitude": -133.115,
     "name": "Block Island, Tlevak Narrows"
   },
   {
@@ -3079,8 +3085,8 @@
   },
   {
     "id": "TWC1583",
-    "latitude": 56.0,
-    "longitude": -133.46667,
+    "latitude": 56,
+    "longitude": -133.46666,
     "name": "Marble Island"
   },
   {
@@ -3254,7 +3260,7 @@
   {
     "id": "9451528",
     "latitude": 56.94831,
-    "longitude": -133.89472,
+    "longitude": -133.89473,
     "name": "Kake Harbor, Keku Strait"
   },
   {
@@ -3283,7 +3289,7 @@
   },
   {
     "id": "TWC1659",
-    "latitude": 56.88333,
+    "latitude": 56.88334,
     "longitude": -132.8,
     "name": "Brown Cove"
   },
@@ -3295,7 +3301,7 @@
   },
   {
     "id": "TWC1663",
-    "latitude": 57.0,
+    "latitude": 57,
     "longitude": -133.31667,
     "name": "Portage Bay, Kupreanof Island"
   },
@@ -3314,7 +3320,7 @@
   {
     "id": "TWC1669",
     "latitude": 57.16667,
-    "longitude": -134.28333,
+    "longitude": -134.28334,
     "name": "Eliza Harbor, Liesnoi Island"
   },
   {
@@ -3332,7 +3338,7 @@
   {
     "id": "9451497",
     "latitude": 56.90333,
-    "longitude": -134.30306,
+    "longitude": -134.30305,
     "name": "Saginaw Bay, Kuiu Island"
   },
   {
@@ -3344,7 +3350,7 @@
   {
     "id": "TWC1673",
     "latitude": 57.3,
-    "longitude": -133.46667,
+    "longitude": -133.46666,
     "name": "Port Houghton, Robert Islands"
   },
   {
@@ -3386,7 +3392,7 @@
   {
     "id": "TWC1683",
     "latitude": 57.86667,
-    "longitude": -134.26667,
+    "longitude": -134.26666,
     "name": "Windfall Harbor, Seymour Canal"
   },
   {
@@ -3602,7 +3608,7 @@
   {
     "id": "TWC1743",
     "latitude": 57.85,
-    "longitude": -135.01667,
+    "longitude": -135.01666,
     "name": "Freshwater Bay, Chichagof Island"
   },
   {
@@ -3698,13 +3704,13 @@
   {
     "id": "TWC1783",
     "latitude": 57.51667,
-    "longitude": -135.28333,
+    "longitude": -135.28334,
     "name": "Point Elizabeth"
   },
   {
     "id": "TWC1785",
     "latitude": 57.45,
-    "longitude": -135.03333,
+    "longitude": -135.03334,
     "name": "Lindenburg Head"
   },
   {
@@ -3800,7 +3806,7 @@
   {
     "id": "9452438",
     "latitude": 58.10756,
-    "longitude": -135.44419,
+    "longitude": -135.4442,
     "name": "Hoonah, Port Fredrick"
   },
   {
@@ -3896,13 +3902,13 @@
   {
     "id": "9453443",
     "latitude": 59.93,
-    "longitude": -141.36301,
+    "longitude": -141.363,
     "name": "Moraine Bay, Icy Bay"
   },
   {
     "id": "9453431",
     "latitude": 60.0783,
-    "longitude": -141.27499,
+    "longitude": -141.275,
     "name": "Tyndall Glacier, Icy Bay"
   },
   {
@@ -3913,7 +3919,7 @@
   },
   {
     "id": "TWC1867",
-    "latitude": 60.38333,
+    "latitude": 60.38334,
     "longitude": -145.4,
     "name": "Pete Dahl Slough"
   },
@@ -3938,25 +3944,25 @@
   {
     "id": "TWC1875",
     "latitude": 60.46667,
-    "longitude": -145.96667,
+    "longitude": -145.96666,
     "name": "Gravel Point"
   },
   {
     "id": "9454050",
     "latitude": 60.5575,
-    "longitude": -145.75541,
+    "longitude": -145.7554,
     "name": "Cordova"
   },
   {
     "id": "TWC1879",
     "latitude": 60.58333,
-    "longitude": -145.71667,
+    "longitude": -145.71666,
     "name": "Orca"
   },
   {
     "id": "TWC1881",
     "latitude": 60.56667,
-    "longitude": -145.96667,
+    "longitude": -145.96666,
     "name": "Windy Bay, Hawkins Island"
   },
   {
@@ -3968,7 +3974,7 @@
   {
     "id": "9454153",
     "latitude": 60.7667,
-    "longitude": -146.08459,
+    "longitude": -146.0846,
     "name": "Gravina River"
   },
   {
@@ -3986,7 +3992,7 @@
   {
     "id": "9454329",
     "latitude": 60.2383,
-    "longitude": -146.64799,
+    "longitude": -146.648,
     "name": "Cape Hinchinbrook"
   },
   {
@@ -4226,7 +4232,7 @@
   {
     "id": "9454755",
     "latitude": 60.1967,
-    "longitude": -148.04201,
+    "longitude": -148.042,
     "name": "Bainbridge Point, Bainbridge Island"
   },
   {
@@ -4244,7 +4250,7 @@
   {
     "id": "9455090",
     "latitude": 60.1193,
-    "longitude": -149.42811,
+    "longitude": -149.42812,
     "name": "Seward, Resurrection Bay"
   },
   {
@@ -4304,7 +4310,7 @@
   {
     "id": "9455258",
     "latitude": 59.5116,
-    "longitude": -150.35519,
+    "longitude": -150.3552,
     "name": "McCarty Fiord, Moonlight Bay"
   },
   {
@@ -4346,18 +4352,18 @@
   {
     "id": "9455437",
     "latitude": 59.35,
-    "longitude": -151.82667,
+    "longitude": -151.82666,
     "name": "Port Graham"
   },
   {
     "id": "9455500",
     "latitude": 59.4405,
-    "longitude": -151.71989,
+    "longitude": -151.7199,
     "name": "SELDOVIA, Kachemak Bay"
   },
   {
     "id": "9455517",
-    "latitude": 59.46831,
+    "latitude": 59.4683,
     "longitude": -151.565,
     "name": "Kasitsna Bay, Kachemak Bay"
   },
@@ -4400,7 +4406,7 @@
   {
     "id": "TWC1979",
     "latitude": 60.01667,
-    "longitude": -151.71667,
+    "longitude": -151.71666,
     "name": "Cape Ninilchik"
   },
   {
@@ -4424,7 +4430,7 @@
   {
     "id": "TWC1983",
     "latitude": 60.55,
-    "longitude": -151.28333,
+    "longitude": -151.28334,
     "name": "Kenai River entrance"
   },
   {
@@ -4447,7 +4453,7 @@
   },
   {
     "id": "9455869",
-    "latitude": 61.04331,
+    "latitude": 61.0433,
     "longitude": -151.163,
     "name": "North Foreland"
   },
@@ -4466,13 +4472,13 @@
   {
     "id": "9455920",
     "latitude": 61.2375,
-    "longitude": -149.89039,
+    "longitude": -149.8904,
     "name": "ANCHORAGE, Knik Arm"
   },
   {
     "id": "9455934",
     "latitude": 61.2683,
-    "longitude": -149.91701,
+    "longitude": -149.917,
     "name": "Port MacKenzie"
   },
   {
@@ -4514,7 +4520,7 @@
   {
     "id": "9456525",
     "latitude": 59.6517,
-    "longitude": -153.46809,
+    "longitude": -153.4681,
     "name": "Southwest Iniskin Bay"
   },
   {
@@ -4567,7 +4573,7 @@
   },
   {
     "id": "TWC2025",
-    "latitude": 58.13333,
+    "latitude": 58.13334,
     "longitude": -152.56667,
     "name": "Kazakof Bay, Marmot Bay"
   },
@@ -4640,13 +4646,13 @@
   {
     "id": "9457527",
     "latitude": 57.20278,
-    "longitude": -153.30389,
+    "longitude": -153.3039,
     "name": "Old Harbor"
   },
   {
     "id": "TWC2047",
     "latitude": 57.11667,
-    "longitude": -153.51667,
+    "longitude": -153.51666,
     "name": "Three Saints Bay"
   },
   {
@@ -4730,13 +4736,13 @@
   {
     "id": "TWC2075",
     "latitude": 58.05,
-    "longitude": -153.23333,
+    "longitude": -153.23334,
     "name": "Onion Bay"
   },
   {
     "id": "TWC2077",
     "latitude": 57.95,
-    "longitude": -153.03333,
+    "longitude": -153.03334,
     "name": "Dry Spruce Island"
   },
   {
@@ -4754,7 +4760,7 @@
   {
     "id": "9457535",
     "latitude": 58.10717,
-    "longitude": -153.34011,
+    "longitude": -153.34012,
     "name": "West Raspberry Island"
   },
   {
@@ -4813,8 +4819,8 @@
   },
   {
     "id": "TWC2095",
-    "latitude": 58.0,
-    "longitude": -154.98333,
+    "latitude": 58,
+    "longitude": -154.98334,
     "name": "Katmai Bay, Shelikof Strait"
   },
   {
@@ -4909,7 +4915,7 @@
   },
   {
     "id": "TWC2111",
-    "latitude": 55.63333,
+    "latitude": 55.63334,
     "longitude": -159.61667,
     "name": "Fox Bay, Kupreanof Peninsula"
   },
@@ -4928,7 +4934,7 @@
   {
     "id": "9459251",
     "latitude": 54.83522,
-    "longitude": -159.75956,
+    "longitude": -159.75955,
     "name": "Bird Island"
   },
   {
@@ -4939,7 +4945,7 @@
   },
   {
     "id": "TWC2119",
-    "latitude": 55.13333,
+    "latitude": 55.13334,
     "longitude": -159.85,
     "name": "Mist Harbor, Nagai Island"
   },
@@ -4988,13 +4994,13 @@
   {
     "id": "9459758",
     "latitude": 55.1217,
-    "longitude": -161.79201,
+    "longitude": -161.792,
     "name": "Dolgoi Harbor, Dolgoi Island"
   },
   {
     "id": "9463195",
     "latitude": 55.5,
-    "longitude": -161.46667,
+    "longitude": -161.46666,
     "name": "Settlement Point, Pavlof Bay"
   },
   {
@@ -5029,8 +5035,8 @@
   },
   {
     "id": "9462961",
-    "latitude": 54.77844,
-    "longitude": -163.36428,
+    "latitude": 54.77845,
+    "longitude": -163.36427,
     "name": "Isanotski Strait Entrance, Ikatan Bay"
   },
   {
@@ -5054,7 +5060,7 @@
   {
     "id": "9462941",
     "latitude": 55.06428,
-    "longitude": -163.53417,
+    "longitude": -163.53416,
     "name": "Cape Chunak, AK"
   },
   {
@@ -5078,7 +5084,7 @@
   {
     "id": "9462808",
     "latitude": 54.39364,
-    "longitude": -164.74572,
+    "longitude": -164.74573,
     "name": "Scotch Cap"
   },
   {
@@ -5095,8 +5101,8 @@
   },
   {
     "id": "9462620",
-    "latitude": 53.87919,
-    "longitude": -166.54031,
+    "latitude": 53.8792,
+    "longitude": -166.5403,
     "name": "Unalaska"
   },
   {
@@ -5204,7 +5210,7 @@
   {
     "id": "9462450",
     "latitude": 52.94061,
-    "longitude": -168.87131,
+    "longitude": -168.8713,
     "name": "Nikolski"
   },
   {
@@ -5233,7 +5239,7 @@
   },
   {
     "id": "9461710",
-    "latitude": 52.23194,
+    "latitude": 52.23195,
     "longitude": -174.1725,
     "name": "Atka, Nazan Bay"
   },
@@ -5270,7 +5276,7 @@
   {
     "id": "9461380",
     "latitude": 51.86064,
-    "longitude": -176.63758,
+    "longitude": -176.63759,
     "name": "Sweeper Cove, Kuluk Bay, Adak Island"
   },
   {
@@ -5354,7 +5360,7 @@
   {
     "id": "TWC2303",
     "latitude": 51.4167,
-    "longitude": 179.28329,
+    "longitude": 179.2833,
     "name": "Constantine Harbor, Amchitka Island"
   },
   {
@@ -5372,13 +5378,13 @@
   {
     "id": "9460150",
     "latitude": 52.84,
-    "longitude": 173.19501,
+    "longitude": 173.195,
     "name": "Massacre Bay"
   },
   {
     "id": "TWC2315",
     "latitude": 52.9167,
-    "longitude": 173.21671,
+    "longitude": 173.2167,
     "name": "Chichagof Harbor"
   },
   {
@@ -5390,7 +5396,7 @@
   {
     "id": "TWC2319",
     "latitude": 52.9667,
-    "longitude": 172.89999,
+    "longitude": 172.9,
     "name": "Steller Cove"
   },
   {
@@ -5408,13 +5414,13 @@
   {
     "id": "9462786",
     "latitude": 54.10181,
-    "longitude": -164.94158,
+    "longitude": -164.94159,
     "name": "SE Tigalda Island, Pacific Ocean"
   },
   {
     "id": "9462723",
     "latitude": 54.05222,
-    "longitude": -165.51417,
+    "longitude": -165.51416,
     "name": "Rootok Island"
   },
   {
@@ -5438,7 +5444,7 @@
   {
     "id": "9462694",
     "latitude": 54.13328,
-    "longitude": -165.77731,
+    "longitude": -165.7773,
     "name": "Akutan, Akutan Island"
   },
   {
@@ -5498,7 +5504,7 @@
   {
     "id": "TWC2229",
     "latitude": 52.51667,
-    "longitude": -171.23333,
+    "longitude": -171.23334,
     "name": "Amukta Island, north side"
   },
   {
@@ -5558,13 +5564,13 @@
   {
     "id": "9464075",
     "latitude": 56.9083,
-    "longitude": -158.68491,
+    "longitude": -158.6849,
     "name": "Meshik, Port Heiden"
   },
   {
     "id": "9464512",
     "latitude": 57.6148,
-    "longitude": -157.60069,
+    "longitude": -157.6007,
     "name": "Dago Creek Mouth, Ugashik Bay"
   },
   {
@@ -5588,7 +5594,7 @@
   {
     "id": "9465203",
     "latitude": 58.7321,
-    "longitude": -156.98331,
+    "longitude": -156.9833,
     "name": "Naknek, Naknek River"
   },
   {
@@ -5636,7 +5642,7 @@
   {
     "id": "9464961",
     "latitude": 58.5217,
-    "longitude": -159.15199,
+    "longitude": -159.152,
     "name": "Cape Constantine, Nushagak Penninsula"
   },
   {
@@ -5654,7 +5660,7 @@
   {
     "id": "9465137",
     "latitude": 58.6267,
-    "longitude": -161.83701,
+    "longitude": -161.837,
     "name": "Cape Peirce, West Side"
   },
   {
@@ -5696,7 +5702,7 @@
   {
     "id": "9466057",
     "latitude": 60.12328,
-    "longitude": -162.50036,
+    "longitude": -162.50037,
     "name": "Popokamute (Kokokamute), Kuskokwim River"
   },
   {
@@ -5798,7 +5804,7 @@
   {
     "id": "9467701",
     "latitude": 62.7775,
-    "longitude": -164.54691,
+    "longitude": -164.5469,
     "name": "Emmonak, Kwiguk Pass, Yukon River"
   },
   {
@@ -5815,7 +5821,7 @@
   },
   {
     "id": "9468258",
-    "latitude": 63.67908,
+    "latitude": 63.67909,
     "longitude": -170.53711,
     "name": "Savoonga"
   },
@@ -5864,7 +5870,7 @@
   {
     "id": "9468333",
     "latitude": 63.875,
-    "longitude": -160.78799,
+    "longitude": -160.788,
     "name": "Unalakleet"
   },
   {
@@ -5882,7 +5888,7 @@
   {
     "id": "9468793",
     "latitude": 64.5463,
-    "longitude": -163.03169,
+    "longitude": -163.0317,
     "name": "Golovin, Golovnin Lagoon Entrance"
   },
   {
@@ -5912,7 +5918,7 @@
   {
     "id": "9469146",
     "latitude": 65.1184,
-    "longitude": -165.47211,
+    "longitude": -165.4721,
     "name": "Umuruk Basin"
   },
   {
@@ -5936,7 +5942,7 @@
   {
     "id": "9490096",
     "latitude": 66.58569,
-    "longitude": -164.25083,
+    "longitude": -164.25084,
     "name": "Cape Espenberg, Kotzebue Sound"
   },
   {
@@ -5948,7 +5954,7 @@
   {
     "id": "9469751",
     "latitude": 66.09717,
-    "longitude": -162.74047,
+    "longitude": -162.74048,
     "name": "Deering"
   },
   {
@@ -5966,7 +5972,7 @@
   {
     "id": "9490571",
     "latitude": 67.05419,
-    "longitude": -163.32128,
+    "longitude": -163.32127,
     "name": "Cape Krusenstern"
   },
   {
@@ -5990,7 +5996,7 @@
   {
     "id": "9494212",
     "latitude": 70.6438,
-    "longitude": -160.06509,
+    "longitude": -160.0651,
     "name": "Wainwright, Chukchi Sea"
   },
   {
@@ -6008,7 +6014,7 @@
   {
     "id": "9497645",
     "latitude": 70.41139,
-    "longitude": -148.53167,
+    "longitude": -148.53166,
     "name": "Prudhoe Bay"
   },
   {
@@ -6018,634 +6024,238 @@
     "name": "Barrow Offshore"
   },
   {
-    "id": "8410834",
-    "latitude": 45.12844,
-    "longitude": -67.14467,
-    "name": "Pettegrove Point, Dochet Island"
+    "id": "8557380",
+    "latitude": 38.78283,
+    "longitude": -75.11928,
+    "name": "Lewes (breakwater Harbor)"
   },
   {
-    "id": "8410140",
-    "latitude": 44.9046,
-    "longitude": -66.9829,
-    "name": "Eastport"
+    "id": "8556198",
+    "latitude": 38.945,
+    "longitude": -75.3133,
+    "name": "Mispillion River entrance"
   },
   {
-    "id": "8410715",
-    "latitude": 44.9233,
-    "longitude": -67.13,
-    "name": "Garnet Point, Pennamquan River"
+    "id": "8555388",
+    "latitude": 39.0583,
+    "longitude": -75.3967,
+    "name": "Murderkill River entrance"
   },
   {
-    "id": "8410714",
-    "latitude": 44.87,
-    "longitude": -67.1083,
-    "name": "Coffins Point"
+    "id": "8554399",
+    "latitude": 39.185,
+    "longitude": -75.4,
+    "name": "Mahon River entrance"
   },
   {
-    "id": "8410875",
-    "latitude": 44.875,
-    "longitude": -67.1583,
-    "name": "Birch Islands"
+    "id": "8554038",
+    "latitude": 39.245,
+    "longitude": -75.5183,
+    "name": "Leipsic, Leipsic River"
   },
   {
-    "id": "8410864",
-    "latitude": 44.8233,
-    "longitude": -67.1517,
-    "name": "Gravelly Point, Whiting Bay"
+    "id": "8537416",
+    "latitude": 39.4067,
+    "longitude": -75.405,
+    "name": "Stathems Neck, Stow Creek, N.J."
   },
   {
-    "id": "8411060",
-    "latitude": 44.6567,
-    "longitude": -67.21,
-    "name": "Cutler, Little River"
+    "id": "8553501",
+    "latitude": 39.3333,
+    "longitude": -75.4667,
+    "name": "Woodland Beach, Del."
   },
   {
-    "id": "8411250",
-    "latitude": 44.6417,
-    "longitude": -67.2967,
-    "name": "Cutler, Naval Radio Station"
+    "id": "8537489",
+    "latitude": 39.4217,
+    "longitude": -75.3817,
+    "name": "Raccoon Ditch, Newport Meadows, Stow Creek, N.J."
   },
   {
-    "id": "8411411",
-    "latitude": 44.6033,
-    "longitude": -67.3683,
-    "name": "Stone Island, Machias Bay"
+    "id": "8537562",
+    "latitude": 39.4617,
+    "longitude": -75.4033,
+    "name": "Canton, Stow Creek, N.J."
   },
   {
-    "id": "8411467",
-    "latitude": 44.6983,
-    "longitude": -67.3933,
-    "name": "Machiasport, Machias River"
+    "id": "8537535",
+    "latitude": 39.4317,
+    "longitude": -75.4467,
+    "name": "1 n.mi. above entrance, N.J."
   },
   {
-    "id": "8411696",
-    "latitude": 44.615,
-    "longitude": -67.4967,
-    "name": "Shoppee Point, Englishman Bay"
+    "id": "8537488",
+    "latitude": 39.4217,
+    "longitude": -75.4283,
+    "name": "Pine Island, Malapartis Creek, N.J."
   },
   {
-    "id": "8411801",
-    "latitude": 44.4933,
-    "longitude": -67.5433,
-    "name": "Steele Harbor Island"
+    "id": "8537667",
+    "latitude": 39.4583,
+    "longitude": -75.495,
+    "name": "Hope Creek, 0.6 n.mi. above entrance, N.J."
   },
   {
-    "id": "8412581",
-    "latitude": 44.54,
-    "longitude": -67.875,
-    "name": "Millbridge, Narraguagus River, Maine"
+    "id": "8553069",
+    "latitude": 39.405,
+    "longitude": -75.5983,
+    "name": "Taylors Bridge, Blackbird Creek, Del."
   },
   {
-    "id": "8412568",
-    "latitude": 44.3717,
-    "longitude": -67.87,
-    "name": "Green Island, Petit Manan Bar"
+    "id": "8537614",
+    "latitude": 39.46,
+    "longitude": -75.5317,
+    "name": "Artificial Island, Salem Nuclear Plant, N.J."
   },
   {
-    "id": "8412932",
-    "latitude": 44.4,
-    "longitude": -68.0217,
-    "name": "Prospect Harbor"
+    "id": "8537961",
+    "latitude": 39.57,
+    "longitude": -75.4983,
+    "name": "Sinnickson Landing"
   },
   {
-    "id": "8413320",
-    "latitude": 44.39219,
-    "longitude": -68.20428,
-    "name": "Bar Harbor"
+    "id": "8537979",
+    "latitude": 39.5767,
+    "longitude": -75.4767,
+    "name": "Salem"
   },
   {
-    "id": "8413564",
-    "latitude": 44.275,
-    "longitude": -68.3133,
-    "name": "Southwest Harbor"
+    "id": "8537731",
+    "latitude": 39.4967,
+    "longitude": -75.5167,
+    "name": "0.8 n.mi. above entrance"
   },
   {
-    "id": "8413651",
-    "latitude": 44.2417,
-    "longitude": -68.3533,
-    "name": "Bass Harbor"
+    "id": "8537774",
+    "latitude": 39.5117,
+    "longitude": -75.4933,
+    "name": "Abbots Meadow"
   },
   {
-    "id": "8413079",
-    "latitude": 44.3883,
-    "longitude": -68.0867,
-    "name": "Winter Harbor, Frenchman Bay"
+    "id": "8537753",
+    "latitude": 39.505,
+    "longitude": -75.4833,
+    "name": "2.5 n.mi. above entrance"
   },
   {
-    "id": "8414112",
-    "latitude": 44.4083,
-    "longitude": -68.5633,
-    "name": "Blue Hill Harbor"
+    "id": "8537779",
+    "latitude": 39.5133,
+    "longitude": -75.4467,
+    "name": "Coopers Creek bridge"
   },
   {
-    "id": "8413825",
-    "latitude": 44.17,
-    "longitude": -68.435,
-    "name": "Mackerel Cove, Swans Island"
+    "id": "8537889",
+    "latitude": 39.5483,
+    "longitude": -75.415,
+    "name": "Quinton"
   },
   {
-    "id": "8413801",
-    "latitude": 44.535,
-    "longitude": -68.4217,
-    "name": "Ellsworth, Union River"
+    "id": "8551910",
+    "latitude": 39.55833,
+    "longitude": -75.57195,
+    "name": "Reedy Point"
   },
   {
-    "id": "8413857",
-    "latitude": 44.145,
-    "longitude": -68.45,
-    "name": "Burnt Coat Harbor, Swans Island"
+    "id": "8551973",
+    "latitude": 39.555,
+    "longitude": -75.6483,
+    "name": "St. Georges, Delaware"
   },
   {
-    "id": "8414168",
-    "latitude": 44.2633,
-    "longitude": -68.5867,
-    "name": "Center Harbor"
+    "id": "8552125",
+    "latitude": 39.5333,
+    "longitude": -75.7333,
+    "name": "Summit Bridge, Delaware"
   },
   {
-    "id": "8414424",
-    "latitude": 44.2917,
-    "longitude": -68.6933,
-    "name": "Little Deer Isle"
+    "id": "8573927",
+    "latitude": 39.52667,
+    "longitude": -75.81,
+    "name": "Chesapeake City, Maryland"
   },
   {
-    "id": "8414288",
-    "latitude": 44.0733,
-    "longitude": -68.6367,
-    "name": "Isle Au Haut"
+    "id": "8551851",
+    "latitude": 39.57,
+    "longitude": -75.59,
+    "name": "Delaware City Branch Channel bridge"
   },
   {
-    "id": "8414249",
-    "latitude": 44.19231,
-    "longitude": -68.62093,
-    "name": "Oceanville, Deer Isle"
+    "id": "8551762",
+    "latitude": 39.5822,
+    "longitude": -75.58897,
+    "name": "Delaware City"
   },
   {
-    "id": "8414348",
-    "latitude": 44.1533,
-    "longitude": -68.6617,
-    "name": "Stonington, Deer Isle"
+    "id": "8551702",
+    "latitude": 39.5833,
+    "longitude": -75.5733,
+    "name": "Pea Patch Island, Bulkhead Shoal Channel, Del."
   },
   {
-    "id": "8414876",
-    "latitude": 43.8617,
-    "longitude": -68.8817,
-    "name": "Matinicus Harbor, Wheaton Island"
+    "id": "8551201",
+    "latitude": 39.6567,
+    "longitude": -75.5617,
+    "name": "New Castle, Delaware"
   },
   {
-    "id": "8414776",
-    "latitude": 44.0433,
-    "longitude": -68.84,
-    "name": "Vinalhaven, Vinalhaven Island"
+    "id": "8538231",
+    "latitude": 39.6833,
+    "longitude": -75.51,
+    "name": "Salem Canal entrance, N.J."
   },
   {
-    "id": "8414856",
-    "latitude": 44.1267,
-    "longitude": -68.8733,
-    "name": "North Haven"
+    "id": "8550714",
+    "latitude": 39.7183,
+    "longitude": -75.52,
+    "name": "Wilmington Marine Terminal"
   },
   {
-    "id": "8414672",
-    "latitude": 44.3867,
-    "longitude": -68.7967,
-    "name": "Castine"
+    "id": "8550658",
+    "latitude": 39.725,
+    "longitude": -75.56,
+    "name": "Millside, RR. bridge"
   },
   {
-    "id": "8414888",
-    "latitude": 44.1567,
-    "longitude": -68.8867,
-    "name": "Pulpit Harbor, North Haven Island"
+    "id": "8550438",
+    "latitude": 39.75,
+    "longitude": -75.4933,
+    "name": "Edgemoor, Del."
   },
   {
-    "id": "8414721",
-    "latitude": 44.4717,
-    "longitude": -68.8133,
-    "name": "Fort Point, Penobscot River"
+    "id": "8538369",
+    "latitude": 39.7617,
+    "longitude": -75.4033,
+    "name": "Pedricktown, Oldmans Creek, N.J."
   },
   {
-    "id": "8414581",
-    "latitude": 44.5367,
-    "longitude": -68.7583,
-    "name": "Gross Point, Eastern Channel"
+    "id": "8538274",
+    "latitude": 39.715,
+    "longitude": -75.36,
+    "name": "Auburn, Oldmans Creek, N.J."
   },
   {
-    "id": "8414684",
-    "latitude": 44.5717,
-    "longitude": -68.8017,
-    "name": "Bucksport"
+    "id": "8557863",
+    "latitude": 38.72,
+    "longitude": -75.0833,
+    "name": "Rehoboth Beach"
   },
   {
-    "id": "8414781",
-    "latitude": 44.6367,
-    "longitude": -68.8417,
-    "name": "Winterport"
+    "id": "8558690",
+    "latitude": 38.61,
+    "longitude": -75.07,
+    "name": "Indian River Inlet (Coast Guard Station)"
   },
   {
-    "id": "8414692",
-    "latitude": 44.505,
-    "longitude": -68.805,
-    "name": "Sandy Point"
+    "id": "8558814",
+    "latitude": 38.5915,
+    "longitude": -75.2116,
+    "name": "Rosedale Beach, Indian River"
   },
   {
-    "id": "8414612",
-    "latitude": 44.785,
-    "longitude": -68.7667,
-    "name": "Bangor"
-  },
-  {
-    "id": "8415191",
-    "latitude": 44.4267,
-    "longitude": -69.005,
-    "name": "Belfast"
-  },
-  {
-    "id": "8415490",
-    "latitude": 44.105,
-    "longitude": -69.1017,
-    "name": "Rockland"
-  },
-  {
-    "id": "8415809",
-    "latitude": 43.965,
-    "longitude": -69.2167,
-    "name": "Tenants Harbor"
-  },
-  {
-    "id": "8416092",
-    "latitude": 43.765,
-    "longitude": -69.3217,
-    "name": "Monhegan Island"
-  },
-  {
-    "id": "8416028",
-    "latitude": 43.8717,
-    "longitude": -69.295,
-    "name": "Burnt Island, Georges Islands"
-  },
-  {
-    "id": "8415933",
-    "latitude": 43.925,
-    "longitude": -69.26,
-    "name": "Port Clyde"
-  },
-  {
-    "id": "8415867",
-    "latitude": 43.9867,
-    "longitude": -69.2367,
-    "name": "Otis Cove"
-  },
-  {
-    "id": "8415709",
-    "latitude": 44.0717,
-    "longitude": -69.1817,
-    "name": "Thomaston"
-  },
-  {
-    "id": "8416501",
-    "latitude": 43.875,
-    "longitude": -69.4917,
-    "name": "New Harbor, Muscongus Bay"
-  },
-  {
-    "id": "8416381",
-    "latitude": 43.9667,
-    "longitude": -69.4417,
-    "name": "Muscongus Harbor, Muscongus Sound"
-  },
-  {
-    "id": "8416141",
-    "latitude": 43.97,
-    "longitude": -69.3417,
-    "name": "Friendship Harbor"
-  },
-  {
-    "id": "8416581",
-    "latitude": 43.8767,
-    "longitude": -69.525,
-    "name": "Pemaquid Harbor, Johns Bay"
-  },
-  {
-    "id": "8416232",
-    "latitude": 44.015,
-    "longitude": -69.38,
-    "name": "Jones Neck"
-  },
-  {
-    "id": "8416224",
-    "latitude": 44.0933,
-    "longitude": -69.3767,
-    "name": "Waldoboro"
-  },
-  {
-    "id": "8416721",
-    "latitude": 43.865,
-    "longitude": -69.5833,
-    "name": "East Boothbay"
-  },
-  {
-    "id": "8416731",
-    "latitude": 43.9333,
-    "longitude": -69.58,
-    "name": "Walpole"
-  },
-  {
-    "id": "8416608",
-    "latitude": 44.0333,
-    "longitude": -69.5367,
-    "name": "Newcastle"
-  },
-  {
-    "id": "8416796",
-    "latitude": 43.7583,
-    "longitude": -69.615,
-    "name": "Damariscove Harbor, Damariscove Island"
-  },
-  {
-    "id": "8416828",
-    "latitude": 43.85,
-    "longitude": -69.6283,
-    "name": "Boothbay Harbor"
-  },
-  {
-    "id": "8416908",
-    "latitude": 43.8467,
-    "longitude": -69.6617,
-    "name": "Southport, Townsend Gut"
-  },
-  {
-    "id": "8416968",
-    "latitude": 43.86,
-    "longitude": -69.6867,
-    "name": "Isle of Springs"
-  },
-  {
-    "id": "8416928",
-    "latitude": 43.925,
-    "longitude": -69.67,
-    "name": "Cross River entrance"
-  },
-  {
-    "id": "8416921",
-    "latitude": 44.0,
-    "longitude": -69.6667,
-    "name": "Wiscasset"
-  },
-  {
-    "id": "8416804",
-    "latitude": 44.05,
-    "longitude": -69.6183,
-    "name": "Sheepscot (below rapids)"
-  },
-  {
-    "id": "8416961",
-    "latitude": 43.9583,
-    "longitude": -69.6833,
-    "name": "Back River"
-  },
-  {
-    "id": "8417067",
-    "latitude": 43.8533,
-    "longitude": -69.7333,
-    "name": "Robinhood, Sasanoa River"
-  },
-  {
-    "id": "8417127",
-    "latitude": 43.8867,
-    "longitude": -69.7633,
-    "name": "Mill Point, Sasanoa River"
-  },
-  {
-    "id": "8417177",
-    "latitude": 43.755,
-    "longitude": -69.785,
-    "name": "Fort Popham, Hunniwell Point"
-  },
-  {
-    "id": "8417221",
-    "latitude": 43.8183,
-    "longitude": -69.81,
-    "name": "Phippsburg"
-  },
-  {
-    "id": "8417227",
-    "latitude": 43.925,
-    "longitude": -69.815,
-    "name": "Bath"
-  },
-  {
-    "id": "8417271",
-    "latitude": 43.9817,
-    "longitude": -69.835,
-    "name": "Sturgeon Island, Merrymeeting Bay"
-  },
-  {
-    "id": "8417377",
-    "latitude": 43.95,
-    "longitude": -69.8883,
-    "name": "Androscoggin River entrance"
-  },
-  {
-    "id": "8417527",
-    "latitude": 43.9217,
-    "longitude": -69.9633,
-    "name": "Brunswick, Androscoggin River"
-  },
-  {
-    "id": "8417391",
-    "latitude": 44.0083,
-    "longitude": -69.895,
-    "name": "Bowdoinham, Cathance River"
-  },
-  {
-    "id": "8417387",
-    "latitude": 43.7883,
-    "longitude": -69.8933,
-    "name": "Cundy Harbor, New Meadows River"
-  },
-  {
-    "id": "8417367",
-    "latitude": 43.89,
-    "longitude": -69.8833,
-    "name": "Howard Point, New Meadows River"
-  },
-  {
-    "id": "8417647",
-    "latitude": 43.7383,
-    "longitude": -70.0233,
-    "name": "South Harpswell, Potts Harbor"
-  },
-  {
-    "id": "8417553",
-    "latitude": 43.825,
-    "longitude": -69.9767,
-    "name": "Wilson Cove, Middle Bay"
-  },
-  {
-    "id": "8417801",
-    "latitude": 43.82,
-    "longitude": -70.1033,
-    "name": "South Freeport"
-  },
-  {
-    "id": "8417948",
-    "latitude": 43.7617,
-    "longitude": -70.1733,
-    "name": "Prince Point"
-  },
-  {
-    "id": "8417874",
-    "latitude": 43.7517,
-    "longitude": -70.14,
-    "name": "Doyle Point"
-  },
-  {
-    "id": "8418015",
-    "latitude": 43.7317,
-    "longitude": -70.205,
-    "name": "Falmouth Foreside"
-  },
-  {
-    "id": "8417881",
-    "latitude": 43.7217,
-    "longitude": -70.1417,
-    "name": "Great Chebeague Island"
-  },
-  {
-    "id": "8417821",
-    "latitude": 43.695,
-    "longitude": -70.11,
-    "name": "Cliff Island, Luckse Sound"
-  },
-  {
-    "id": "8417911",
-    "latitude": 43.6767,
-    "longitude": -70.155,
-    "name": "Vaill Island"
-  },
-  {
-    "id": "8417941",
-    "latitude": 43.69,
-    "longitude": -70.17,
-    "name": "Long Island"
-  },
-  {
-    "id": "8418009",
-    "latitude": 43.69,
-    "longitude": -70.19,
-    "name": "Cow Island"
-  },
-  {
-    "id": "8418137",
-    "latitude": 43.6867,
-    "longitude": -70.2467,
-    "name": "Presumpscot River Bridge"
-  },
-  {
-    "id": "8418175",
-    "latitude": 43.6767,
-    "longitude": -70.255,
-    "name": "Back Cove"
-  },
-  {
-    "id": "8417988",
-    "latitude": 43.67,
-    "longitude": -70.2,
-    "name": "Great Diamond Island"
-  },
-  {
-    "id": "8418001",
-    "latitude": 43.655,
-    "longitude": -70.2,
-    "name": "Peak Island"
-  },
-  {
-    "id": "8417997",
-    "latitude": 43.645,
-    "longitude": -70.1983,
-    "name": "Cushing Island"
-  },
-  {
-    "id": "8418150",
-    "latitude": 43.65806,
-    "longitude": -70.24417,
-    "name": "Portland"
-  },
-  {
-    "id": "8418268",
-    "latitude": 43.6417,
-    "longitude": -70.285,
-    "name": "Fore River"
-  },
-  {
-    "id": "8418031",
-    "latitude": 43.6233,
-    "longitude": -70.2067,
-    "name": "Portland Head Light"
-  },
-  {
-    "id": "8418445",
-    "latitude": 43.545,
-    "longitude": -70.3333,
-    "name": "Pine Point, Scarborough River"
-  },
-  {
-    "id": "8418557",
-    "latitude": 43.5167,
-    "longitude": -70.3667,
-    "name": "Old Orchard Beach"
-  },
-  {
-    "id": "8418606",
-    "latitude": 43.4617,
-    "longitude": -70.3817,
-    "name": "Camp Ellis, Saco River Entrance"
-  },
-  {
-    "id": "8418828",
-    "latitude": 43.4917,
-    "longitude": -70.4467,
-    "name": "Biddeford, Saco River"
-  },
-  {
-    "id": "8418772",
-    "latitude": 43.3667,
-    "longitude": -70.4317,
-    "name": "Cape Porpoise"
-  },
-  {
-    "id": "8418911",
-    "latitude": 43.3583,
-    "longitude": -70.4767,
-    "name": "Kennebunkport"
-  },
-  {
-    "id": "8419317",
-    "latitude": 43.32,
-    "longitude": -70.5633,
-    "name": "Wells, Webhannet River"
-  },
-  {
-    "id": "8419399",
-    "latitude": 43.1667,
-    "longitude": -70.5933,
-    "name": "Cape Neddick"
-  },
-  {
-    "id": "8419518",
-    "latitude": 43.1317,
-    "longitude": -70.6417,
-    "name": "York Harbor"
-  },
-  {
-    "id": "8419528",
-    "latitude": 43.13,
-    "longitude": -70.6383,
-    "name": "Fort Point, York Harbor"
-  },
-  {
-    "id": "8419590",
-    "latitude": 43.085,
-    "longitude": -70.6617,
-    "name": "Seapoint, Cutts Island"
+    "id": "8559957",
+    "latitude": 38.455,
+    "longitude": -75.0583,
+    "name": "Little Assawoman Bay"
   },
   {
     "id": "8424601",
@@ -6661,8 +6271,8 @@
   },
   {
     "id": "8423898",
-    "latitude": 43.0717,
-    "longitude": -70.7117,
+    "latitude": 43.07139,
+    "longitude": -70.71056,
     "name": "Fort Point"
   },
   {
@@ -7369,8 +6979,8 @@
   },
   {
     "id": "8454000",
-    "latitude": 41.80717,
-    "longitude": -71.40067,
+    "latitude": 41.80711,
+    "longitude": -71.40119,
     "name": "Providence, State Pier no.1"
   },
   {
@@ -7450,6 +7060,636 @@
     "latitude": 41.3817,
     "longitude": -71.8317,
     "name": "Westerly, Pawcatuck River"
+  },
+  {
+    "id": "8410834",
+    "latitude": 45.12845,
+    "longitude": -67.14467,
+    "name": "Pettegrove Point, Dochet Island"
+  },
+  {
+    "id": "8410140",
+    "latitude": 44.9046,
+    "longitude": -66.9829,
+    "name": "Eastport"
+  },
+  {
+    "id": "8410715",
+    "latitude": 44.9233,
+    "longitude": -67.13,
+    "name": "Garnet Point, Pennamquan River"
+  },
+  {
+    "id": "8410714",
+    "latitude": 44.87,
+    "longitude": -67.1083,
+    "name": "Coffins Point"
+  },
+  {
+    "id": "8410875",
+    "latitude": 44.875,
+    "longitude": -67.1583,
+    "name": "Birch Islands"
+  },
+  {
+    "id": "8410864",
+    "latitude": 44.8233,
+    "longitude": -67.1517,
+    "name": "Gravelly Point, Whiting Bay"
+  },
+  {
+    "id": "8411060",
+    "latitude": 44.6567,
+    "longitude": -67.21,
+    "name": "Cutler, Little River"
+  },
+  {
+    "id": "8411250",
+    "latitude": 44.6417,
+    "longitude": -67.2967,
+    "name": "Cutler, Naval Radio Station"
+  },
+  {
+    "id": "8411411",
+    "latitude": 44.6033,
+    "longitude": -67.3683,
+    "name": "Stone Island, Machias Bay"
+  },
+  {
+    "id": "8411467",
+    "latitude": 44.6983,
+    "longitude": -67.3933,
+    "name": "Machiasport, Machias River"
+  },
+  {
+    "id": "8411696",
+    "latitude": 44.615,
+    "longitude": -67.4967,
+    "name": "Shoppee Point, Englishman Bay"
+  },
+  {
+    "id": "8411801",
+    "latitude": 44.4933,
+    "longitude": -67.5433,
+    "name": "Steele Harbor Island"
+  },
+  {
+    "id": "8412581",
+    "latitude": 44.54,
+    "longitude": -67.875,
+    "name": "Millbridge, Narraguagus River, Maine"
+  },
+  {
+    "id": "8412568",
+    "latitude": 44.3717,
+    "longitude": -67.87,
+    "name": "Green Island, Petit Manan Bar"
+  },
+  {
+    "id": "8412932",
+    "latitude": 44.4,
+    "longitude": -68.0217,
+    "name": "Prospect Harbor"
+  },
+  {
+    "id": "8413320",
+    "latitude": 44.39219,
+    "longitude": -68.20428,
+    "name": "Bar Harbor"
+  },
+  {
+    "id": "8413564",
+    "latitude": 44.275,
+    "longitude": -68.3133,
+    "name": "Southwest Harbor"
+  },
+  {
+    "id": "8413651",
+    "latitude": 44.2417,
+    "longitude": -68.3533,
+    "name": "Bass Harbor"
+  },
+  {
+    "id": "8413079",
+    "latitude": 44.3883,
+    "longitude": -68.0867,
+    "name": "Winter Harbor, Frenchman Bay"
+  },
+  {
+    "id": "8414112",
+    "latitude": 44.4083,
+    "longitude": -68.5633,
+    "name": "Blue Hill Harbor"
+  },
+  {
+    "id": "8413825",
+    "latitude": 44.17,
+    "longitude": -68.435,
+    "name": "Mackerel Cove, Swans Island"
+  },
+  {
+    "id": "8413801",
+    "latitude": 44.535,
+    "longitude": -68.4217,
+    "name": "Ellsworth, Union River"
+  },
+  {
+    "id": "8413857",
+    "latitude": 44.145,
+    "longitude": -68.45,
+    "name": "Burnt Coat Harbor, Swans Island"
+  },
+  {
+    "id": "8414168",
+    "latitude": 44.2633,
+    "longitude": -68.5867,
+    "name": "Center Harbor"
+  },
+  {
+    "id": "8414424",
+    "latitude": 44.2917,
+    "longitude": -68.6933,
+    "name": "Little Deer Isle"
+  },
+  {
+    "id": "8414288",
+    "latitude": 44.0733,
+    "longitude": -68.6367,
+    "name": "Isle Au Haut"
+  },
+  {
+    "id": "8414249",
+    "latitude": 44.19231,
+    "longitude": -68.62093,
+    "name": "Oceanville, Deer Isle"
+  },
+  {
+    "id": "8414348",
+    "latitude": 44.1533,
+    "longitude": -68.6617,
+    "name": "Stonington, Deer Isle"
+  },
+  {
+    "id": "8414876",
+    "latitude": 43.8617,
+    "longitude": -68.8817,
+    "name": "Matinicus Harbor, Wheaton Island"
+  },
+  {
+    "id": "8414776",
+    "latitude": 44.0433,
+    "longitude": -68.84,
+    "name": "Vinalhaven, Vinalhaven Island"
+  },
+  {
+    "id": "8414856",
+    "latitude": 44.1267,
+    "longitude": -68.8733,
+    "name": "North Haven"
+  },
+  {
+    "id": "8414672",
+    "latitude": 44.3867,
+    "longitude": -68.7967,
+    "name": "Castine"
+  },
+  {
+    "id": "8414888",
+    "latitude": 44.1567,
+    "longitude": -68.8867,
+    "name": "Pulpit Harbor, North Haven Island"
+  },
+  {
+    "id": "8414721",
+    "latitude": 44.4717,
+    "longitude": -68.8133,
+    "name": "Fort Point, Penobscot River"
+  },
+  {
+    "id": "8414581",
+    "latitude": 44.5367,
+    "longitude": -68.7583,
+    "name": "Gross Point, Eastern Channel"
+  },
+  {
+    "id": "8414684",
+    "latitude": 44.5717,
+    "longitude": -68.8017,
+    "name": "Bucksport"
+  },
+  {
+    "id": "8414781",
+    "latitude": 44.6367,
+    "longitude": -68.8417,
+    "name": "Winterport"
+  },
+  {
+    "id": "8414692",
+    "latitude": 44.505,
+    "longitude": -68.805,
+    "name": "Sandy Point"
+  },
+  {
+    "id": "8414612",
+    "latitude": 44.785,
+    "longitude": -68.7667,
+    "name": "Bangor"
+  },
+  {
+    "id": "8415191",
+    "latitude": 44.4267,
+    "longitude": -69.005,
+    "name": "Belfast"
+  },
+  {
+    "id": "8415490",
+    "latitude": 44.105,
+    "longitude": -69.1017,
+    "name": "Rockland"
+  },
+  {
+    "id": "8415809",
+    "latitude": 43.965,
+    "longitude": -69.2167,
+    "name": "Tenants Harbor"
+  },
+  {
+    "id": "8416092",
+    "latitude": 43.765,
+    "longitude": -69.3217,
+    "name": "Monhegan Island"
+  },
+  {
+    "id": "8416028",
+    "latitude": 43.8717,
+    "longitude": -69.295,
+    "name": "Burnt Island, Georges Islands"
+  },
+  {
+    "id": "8415933",
+    "latitude": 43.925,
+    "longitude": -69.26,
+    "name": "Port Clyde"
+  },
+  {
+    "id": "8415867",
+    "latitude": 43.9867,
+    "longitude": -69.2367,
+    "name": "Otis Cove"
+  },
+  {
+    "id": "8415709",
+    "latitude": 44.0717,
+    "longitude": -69.1817,
+    "name": "Thomaston"
+  },
+  {
+    "id": "8416501",
+    "latitude": 43.875,
+    "longitude": -69.4917,
+    "name": "New Harbor, Muscongus Bay"
+  },
+  {
+    "id": "8416381",
+    "latitude": 43.9667,
+    "longitude": -69.4417,
+    "name": "Muscongus Harbor, Muscongus Sound"
+  },
+  {
+    "id": "8416141",
+    "latitude": 43.97,
+    "longitude": -69.3417,
+    "name": "Friendship Harbor"
+  },
+  {
+    "id": "8416581",
+    "latitude": 43.8767,
+    "longitude": -69.525,
+    "name": "Pemaquid Harbor, Johns Bay"
+  },
+  {
+    "id": "8416232",
+    "latitude": 44.015,
+    "longitude": -69.38,
+    "name": "Jones Neck"
+  },
+  {
+    "id": "8416224",
+    "latitude": 44.0933,
+    "longitude": -69.3767,
+    "name": "Waldoboro"
+  },
+  {
+    "id": "8416721",
+    "latitude": 43.865,
+    "longitude": -69.5833,
+    "name": "East Boothbay"
+  },
+  {
+    "id": "8416731",
+    "latitude": 43.9333,
+    "longitude": -69.58,
+    "name": "Walpole"
+  },
+  {
+    "id": "8416608",
+    "latitude": 44.0333,
+    "longitude": -69.5367,
+    "name": "Newcastle"
+  },
+  {
+    "id": "8416796",
+    "latitude": 43.7583,
+    "longitude": -69.615,
+    "name": "Damariscove Harbor, Damariscove Island"
+  },
+  {
+    "id": "8416828",
+    "latitude": 43.85,
+    "longitude": -69.6283,
+    "name": "Boothbay Harbor"
+  },
+  {
+    "id": "8416908",
+    "latitude": 43.8467,
+    "longitude": -69.6617,
+    "name": "Southport, Townsend Gut"
+  },
+  {
+    "id": "8416968",
+    "latitude": 43.86,
+    "longitude": -69.6867,
+    "name": "Isle of Springs"
+  },
+  {
+    "id": "8416928",
+    "latitude": 43.925,
+    "longitude": -69.67,
+    "name": "Cross River entrance"
+  },
+  {
+    "id": "8416921",
+    "latitude": 44.0,
+    "longitude": -69.6667,
+    "name": "Wiscasset"
+  },
+  {
+    "id": "8416804",
+    "latitude": 44.05,
+    "longitude": -69.6183,
+    "name": "Sheepscot (below rapids)"
+  },
+  {
+    "id": "8416961",
+    "latitude": 43.9583,
+    "longitude": -69.6833,
+    "name": "Back River"
+  },
+  {
+    "id": "8417067",
+    "latitude": 43.8533,
+    "longitude": -69.7333,
+    "name": "Robinhood, Sasanoa River"
+  },
+  {
+    "id": "8417127",
+    "latitude": 43.8867,
+    "longitude": -69.7633,
+    "name": "Mill Point, Sasanoa River"
+  },
+  {
+    "id": "8417177",
+    "latitude": 43.755,
+    "longitude": -69.785,
+    "name": "Fort Popham, Hunniwell Point"
+  },
+  {
+    "id": "8417221",
+    "latitude": 43.8183,
+    "longitude": -69.81,
+    "name": "Phippsburg"
+  },
+  {
+    "id": "8417227",
+    "latitude": 43.925,
+    "longitude": -69.815,
+    "name": "Bath"
+  },
+  {
+    "id": "8417271",
+    "latitude": 43.9817,
+    "longitude": -69.835,
+    "name": "Sturgeon Island, Merrymeeting Bay"
+  },
+  {
+    "id": "8417377",
+    "latitude": 43.95,
+    "longitude": -69.8883,
+    "name": "Androscoggin River entrance"
+  },
+  {
+    "id": "8417527",
+    "latitude": 43.9217,
+    "longitude": -69.9633,
+    "name": "Brunswick, Androscoggin River"
+  },
+  {
+    "id": "8417391",
+    "latitude": 44.0083,
+    "longitude": -69.895,
+    "name": "Bowdoinham, Cathance River"
+  },
+  {
+    "id": "8417387",
+    "latitude": 43.7883,
+    "longitude": -69.8933,
+    "name": "Cundy Harbor, New Meadows River"
+  },
+  {
+    "id": "8417367",
+    "latitude": 43.89,
+    "longitude": -69.8833,
+    "name": "Howard Point, New Meadows River"
+  },
+  {
+    "id": "8417647",
+    "latitude": 43.7383,
+    "longitude": -70.0233,
+    "name": "South Harpswell, Potts Harbor"
+  },
+  {
+    "id": "8417553",
+    "latitude": 43.825,
+    "longitude": -69.9767,
+    "name": "Wilson Cove, Middle Bay"
+  },
+  {
+    "id": "8417801",
+    "latitude": 43.82,
+    "longitude": -70.1033,
+    "name": "South Freeport"
+  },
+  {
+    "id": "8417948",
+    "latitude": 43.7617,
+    "longitude": -70.1733,
+    "name": "Prince Point"
+  },
+  {
+    "id": "8417874",
+    "latitude": 43.7517,
+    "longitude": -70.14,
+    "name": "Doyle Point"
+  },
+  {
+    "id": "8418015",
+    "latitude": 43.7317,
+    "longitude": -70.205,
+    "name": "Falmouth Foreside"
+  },
+  {
+    "id": "8417881",
+    "latitude": 43.7217,
+    "longitude": -70.1417,
+    "name": "Great Chebeague Island"
+  },
+  {
+    "id": "8417821",
+    "latitude": 43.695,
+    "longitude": -70.11,
+    "name": "Cliff Island, Luckse Sound"
+  },
+  {
+    "id": "8417911",
+    "latitude": 43.6767,
+    "longitude": -70.155,
+    "name": "Vaill Island"
+  },
+  {
+    "id": "8417941",
+    "latitude": 43.69,
+    "longitude": -70.17,
+    "name": "Long Island"
+  },
+  {
+    "id": "8418009",
+    "latitude": 43.69,
+    "longitude": -70.19,
+    "name": "Cow Island"
+  },
+  {
+    "id": "8418137",
+    "latitude": 43.6867,
+    "longitude": -70.2467,
+    "name": "Presumpscot River Bridge"
+  },
+  {
+    "id": "8418175",
+    "latitude": 43.6767,
+    "longitude": -70.255,
+    "name": "Back Cove"
+  },
+  {
+    "id": "8417988",
+    "latitude": 43.67,
+    "longitude": -70.2,
+    "name": "Great Diamond Island"
+  },
+  {
+    "id": "8418001",
+    "latitude": 43.655,
+    "longitude": -70.2,
+    "name": "Peak Island"
+  },
+  {
+    "id": "8417997",
+    "latitude": 43.645,
+    "longitude": -70.1983,
+    "name": "Cushing Island"
+  },
+  {
+    "id": "8418150",
+    "latitude": 43.65805,
+    "longitude": -70.24416,
+    "name": "Portland"
+  },
+  {
+    "id": "8418268",
+    "latitude": 43.6417,
+    "longitude": -70.285,
+    "name": "Fore River"
+  },
+  {
+    "id": "8418031",
+    "latitude": 43.6233,
+    "longitude": -70.2067,
+    "name": "Portland Head Light"
+  },
+  {
+    "id": "8418445",
+    "latitude": 43.545,
+    "longitude": -70.3333,
+    "name": "Pine Point, Scarborough River"
+  },
+  {
+    "id": "8418557",
+    "latitude": 43.5167,
+    "longitude": -70.3667,
+    "name": "Old Orchard Beach"
+  },
+  {
+    "id": "8418606",
+    "latitude": 43.4617,
+    "longitude": -70.3817,
+    "name": "Camp Ellis, Saco River Entrance"
+  },
+  {
+    "id": "8418828",
+    "latitude": 43.4917,
+    "longitude": -70.4467,
+    "name": "Biddeford, Saco River"
+  },
+  {
+    "id": "8418772",
+    "latitude": 43.3667,
+    "longitude": -70.4317,
+    "name": "Cape Porpoise"
+  },
+  {
+    "id": "8418911",
+    "latitude": 43.3583,
+    "longitude": -70.4767,
+    "name": "Kennebunkport"
+  },
+  {
+    "id": "8419317",
+    "latitude": 43.32,
+    "longitude": -70.5633,
+    "name": "Wells, Webhannet River"
+  },
+  {
+    "id": "8419399",
+    "latitude": 43.1667,
+    "longitude": -70.5933,
+    "name": "Cape Neddick"
+  },
+  {
+    "id": "8419518",
+    "latitude": 43.1317,
+    "longitude": -70.6417,
+    "name": "York Harbor"
+  },
+  {
+    "id": "8419528",
+    "latitude": 43.13,
+    "longitude": -70.6383,
+    "name": "Fort Point, York Harbor"
+  },
+  {
+    "id": "8419590",
+    "latitude": 43.085,
+    "longitude": -70.6617,
+    "name": "Seapoint, Cutts Island"
   },
   {
     "id": "8460751",
@@ -7736,7 +7976,7 @@
   {
     "id": "8517251",
     "latitude": 40.761,
-    "longitude": -73.85036,
+    "longitude": -73.85037,
     "name": "Worlds Fair Marina, Flushing Bay"
   },
   {
@@ -8011,7 +8251,7 @@
   },
   {
     "id": "8512769",
-    "latitude": 40.81856,
+    "latitude": 40.81855,
     "longitude": -72.58661,
     "name": "Shinnecock Yacht Club, Penniman Creek"
   },
@@ -8305,7 +8545,7 @@
   },
   {
     "id": "8518750",
-    "latitude": 40.70056,
+    "latitude": 40.70055,
     "longitude": -74.01417,
     "name": "NEW YORK (The Battery)"
   },
@@ -9230,7 +9470,7 @@
   {
     "id": "8555889",
     "latitude": 38.98667,
-    "longitude": -75.11333,
+    "longitude": -75.11334,
     "name": "Brandywine Shoal Light"
   },
   {
@@ -9424,240 +9664,6 @@
     "latitude": 39.3783,
     "longitude": -75.235,
     "name": "Tindalls Wharf, Cohansey River"
-  },
-  {
-    "id": "8557380",
-    "latitude": 38.78283,
-    "longitude": -75.11928,
-    "name": "Lewes (breakwater Harbor)"
-  },
-  {
-    "id": "8556198",
-    "latitude": 38.945,
-    "longitude": -75.3133,
-    "name": "Mispillion River entrance"
-  },
-  {
-    "id": "8555388",
-    "latitude": 39.0583,
-    "longitude": -75.3967,
-    "name": "Murderkill River entrance"
-  },
-  {
-    "id": "8554399",
-    "latitude": 39.185,
-    "longitude": -75.4,
-    "name": "Mahon River entrance"
-  },
-  {
-    "id": "8554038",
-    "latitude": 39.245,
-    "longitude": -75.5183,
-    "name": "Leipsic, Leipsic River"
-  },
-  {
-    "id": "8537416",
-    "latitude": 39.4067,
-    "longitude": -75.405,
-    "name": "Stathems Neck, Stow Creek, N.J."
-  },
-  {
-    "id": "8553501",
-    "latitude": 39.3333,
-    "longitude": -75.4667,
-    "name": "Woodland Beach, Del."
-  },
-  {
-    "id": "8537489",
-    "latitude": 39.4217,
-    "longitude": -75.3817,
-    "name": "Raccoon Ditch, Newport Meadows, Stow Creek, N.J."
-  },
-  {
-    "id": "8537562",
-    "latitude": 39.4617,
-    "longitude": -75.4033,
-    "name": "Canton, Stow Creek, N.J."
-  },
-  {
-    "id": "8537535",
-    "latitude": 39.4317,
-    "longitude": -75.4467,
-    "name": "1 n.mi. above entrance, N.J."
-  },
-  {
-    "id": "8537488",
-    "latitude": 39.4217,
-    "longitude": -75.4283,
-    "name": "Pine Island, Malapartis Creek, N.J."
-  },
-  {
-    "id": "8537667",
-    "latitude": 39.4583,
-    "longitude": -75.495,
-    "name": "Hope Creek, 0.6 n.mi. above entrance, N.J."
-  },
-  {
-    "id": "8553069",
-    "latitude": 39.405,
-    "longitude": -75.5983,
-    "name": "Taylors Bridge, Blackbird Creek, Del."
-  },
-  {
-    "id": "8537614",
-    "latitude": 39.46,
-    "longitude": -75.5317,
-    "name": "Artificial Island, Salem Nuclear Plant, N.J."
-  },
-  {
-    "id": "8537961",
-    "latitude": 39.57,
-    "longitude": -75.4983,
-    "name": "Sinnickson Landing"
-  },
-  {
-    "id": "8537979",
-    "latitude": 39.5767,
-    "longitude": -75.4767,
-    "name": "Salem"
-  },
-  {
-    "id": "8537731",
-    "latitude": 39.4967,
-    "longitude": -75.5167,
-    "name": "0.8 n.mi. above entrance"
-  },
-  {
-    "id": "8537774",
-    "latitude": 39.5117,
-    "longitude": -75.4933,
-    "name": "Abbots Meadow"
-  },
-  {
-    "id": "8537753",
-    "latitude": 39.505,
-    "longitude": -75.4833,
-    "name": "2.5 n.mi. above entrance"
-  },
-  {
-    "id": "8537779",
-    "latitude": 39.5133,
-    "longitude": -75.4467,
-    "name": "Coopers Creek bridge"
-  },
-  {
-    "id": "8537889",
-    "latitude": 39.5483,
-    "longitude": -75.415,
-    "name": "Quinton"
-  },
-  {
-    "id": "8551910",
-    "latitude": 39.55833,
-    "longitude": -75.57194,
-    "name": "Reedy Point"
-  },
-  {
-    "id": "8551973",
-    "latitude": 39.555,
-    "longitude": -75.6483,
-    "name": "St. Georges, Delaware"
-  },
-  {
-    "id": "8552125",
-    "latitude": 39.5333,
-    "longitude": -75.7333,
-    "name": "Summit Bridge, Delaware"
-  },
-  {
-    "id": "8573927",
-    "latitude": 39.52667,
-    "longitude": -75.81,
-    "name": "Chesapeake City, Maryland"
-  },
-  {
-    "id": "8551851",
-    "latitude": 39.57,
-    "longitude": -75.59,
-    "name": "Delaware City Branch Channel bridge"
-  },
-  {
-    "id": "8551762",
-    "latitude": 39.58219,
-    "longitude": -75.58897,
-    "name": "Delaware City"
-  },
-  {
-    "id": "8551702",
-    "latitude": 39.5833,
-    "longitude": -75.5733,
-    "name": "Pea Patch Island, Bulkhead Shoal Channel, Del."
-  },
-  {
-    "id": "8551201",
-    "latitude": 39.6567,
-    "longitude": -75.5617,
-    "name": "New Castle, Delaware"
-  },
-  {
-    "id": "8538231",
-    "latitude": 39.6833,
-    "longitude": -75.51,
-    "name": "Salem Canal entrance, N.J."
-  },
-  {
-    "id": "8550714",
-    "latitude": 39.7183,
-    "longitude": -75.52,
-    "name": "Wilmington Marine Terminal"
-  },
-  {
-    "id": "8550658",
-    "latitude": 39.725,
-    "longitude": -75.56,
-    "name": "Millside, RR. bridge"
-  },
-  {
-    "id": "8550438",
-    "latitude": 39.75,
-    "longitude": -75.4933,
-    "name": "Edgemoor, Del."
-  },
-  {
-    "id": "8538369",
-    "latitude": 39.7617,
-    "longitude": -75.4033,
-    "name": "Pedricktown, Oldmans Creek, N.J."
-  },
-  {
-    "id": "8538274",
-    "latitude": 39.715,
-    "longitude": -75.36,
-    "name": "Auburn, Oldmans Creek, N.J."
-  },
-  {
-    "id": "8557863",
-    "latitude": 38.72,
-    "longitude": -75.0833,
-    "name": "Rehoboth Beach"
-  },
-  {
-    "id": "8558690",
-    "latitude": 38.61,
-    "longitude": -75.07,
-    "name": "Indian River Inlet (Coast Guard Station)"
-  },
-  {
-    "id": "8558814",
-    "latitude": 38.5915,
-    "longitude": -75.2116,
-    "name": "Rosedale Beach, Indian River"
-  },
-  {
-    "id": "8559957",
-    "latitude": 38.455,
-    "longitude": -75.0583,
-    "name": "Little Assawoman Bay"
   },
   {
     "id": "8540433",
@@ -9943,8 +9949,8 @@
   },
   {
     "id": "8571072",
-    "latitude": 44.71543,
-    "longitude": -66.51543,
+    "latitude": 37.96169,
+    "longitude": -75.82169,
     "name": "Ape Hole Creek, Pocomoke Sound"
   },
   {
@@ -10034,7 +10040,7 @@
   {
     "id": "8571773",
     "latitude": 38.48333,
-    "longitude": -75.81833,
+    "longitude": -75.81834,
     "name": "Vienna"
   },
   {
@@ -10076,7 +10082,7 @@
   {
     "id": "8571702",
     "latitude": 38.42833,
-    "longitude": -76.23667,
+    "longitude": -76.23666,
     "name": "Smithville Road Bridge, Beaverdam Creek"
   },
   {
@@ -10153,7 +10159,7 @@
   },
   {
     "id": "8572271",
-    "latitude": 38.75833,
+    "latitude": 38.75834,
     "longitude": -76.375,
     "name": "Poplar Island"
   },
@@ -10238,7 +10244,7 @@
   {
     "id": "8573364",
     "latitude": 39.21344,
-    "longitude": -76.24456,
+    "longitude": -76.24455,
     "name": "Tolchester Beach"
   },
   {
@@ -10339,8 +10345,8 @@
   },
   {
     "id": "8575512",
-    "latitude": 38.9833,
-    "longitude": -76.4816,
+    "latitude": 40.98333,
+    "longitude": -80.48161,
     "name": "Annapolis (US Naval Academy)"
   },
   {
@@ -10453,7 +10459,7 @@
   },
   {
     "id": "8578240",
-    "latitude": 38.13333,
+    "latitude": 38.13334,
     "longitude": -76.53333,
     "name": "Piney Point, Md."
   },
@@ -10622,7 +10628,7 @@
   {
     "id": "8631044",
     "latitude": 37.60778,
-    "longitude": -75.68583,
+    "longitude": -75.68584,
     "name": "Wachapreague, Wachapreague Channel"
   },
   {
@@ -11048,7 +11054,7 @@
   {
     "id": "8639348",
     "latitude": 36.77819,
-    "longitude": -76.30186,
+    "longitude": -76.30187,
     "name": "Money Point"
   },
   {
@@ -11270,7 +11276,7 @@
   {
     "id": "8652226",
     "latitude": 35.91,
-    "longitude": -75.59169,
+    "longitude": -75.5917,
     "name": "Jennettes Pier, Nags Head (ocean)"
   },
   {
@@ -11287,8 +11293,8 @@
   },
   {
     "id": "8652587",
-    "latitude": 35.79569,
-    "longitude": -75.54819,
+    "latitude": 35.7957,
+    "longitude": -75.5482,
     "name": "Oregon Inlet Marina"
   },
   {
@@ -11582,7 +11588,7 @@
   {
     "id": "8658163",
     "latitude": 34.21331,
-    "longitude": -77.78669,
+    "longitude": -77.7867,
     "name": "Wrightsville Beach"
   },
   {
@@ -11659,8 +11665,8 @@
   },
   {
     "id": "8658120",
-    "latitude": 34.2267,
-    "longitude": -77.9533,
+    "latitude": 34.2275,
+    "longitude": -77.95361,
     "name": "Wilmington"
   },
   {
@@ -12067,7 +12073,7 @@
   },
   {
     "id": "TEC2991",
-    "latitude": 33.13333,
+    "latitude": 33.13334,
     "longitude": -79.25,
     "name": "North Santee River Inlet"
   },
@@ -12098,7 +12104,7 @@
   {
     "id": "TEC3001",
     "latitude": 33.15,
-    "longitude": -79.33333,
+    "longitude": -79.33334,
     "name": "Brown Island, South Santee River"
   },
   {
@@ -12170,7 +12176,7 @@
   {
     "id": "TEC3023",
     "latitude": 32.93333,
-    "longitude": -79.58333,
+    "longitude": -79.58334,
     "name": "Jack Creek entrance"
   },
   {
@@ -12242,7 +12248,7 @@
   {
     "id": "TEC3047",
     "latitude": 32.76667,
-    "longitude": -79.83333,
+    "longitude": -79.83334,
     "name": "Sullivans Island (outer coast)"
   },
   {
@@ -12278,7 +12284,7 @@
   {
     "id": "8665530",
     "latitude": 32.78083,
-    "longitude": -79.92361,
+    "longitude": -79.92362,
     "name": "CHARLESTON (Customhouse Wharf)"
   },
   {
@@ -13237,7 +13243,7 @@
   },
   {
     "id": "8670870",
-    "latitude": 32.03469,
+    "latitude": 32.0347,
     "longitude": -80.90303,
     "name": "Fort Pulaski, Savannah River Entrance"
   },
@@ -13382,7 +13388,7 @@
   {
     "id": "TEC3425",
     "latitude": 31.81667,
-    "longitude": -81.16667,
+    "longitude": -81.16666,
     "name": "Florida Passage, Bear River"
   },
   {
@@ -13394,7 +13400,7 @@
   {
     "id": "TEC3413",
     "latitude": 31.83333,
-    "longitude": -81.08333,
+    "longitude": -81.08334,
     "name": "Egg Islands"
   },
   {
@@ -13580,7 +13586,7 @@
   {
     "id": "8675761",
     "latitude": 31.37386,
-    "longitude": -81.33394,
+    "longitude": -81.33395,
     "name": "Rockdedundy River (Daymark 185)"
   },
   {
@@ -13604,7 +13610,7 @@
   {
     "id": "TEC3497",
     "latitude": 31.3,
-    "longitude": -81.33333,
+    "longitude": -81.33334,
     "name": "Jones Creek entrance, Hampton River"
   },
   {
@@ -13646,7 +13652,7 @@
   {
     "id": "8677406",
     "latitude": 31.14456,
-    "longitude": -81.49681,
+    "longitude": -81.4968,
     "name": "Howe Street Pier, Brunswick"
   },
   {
@@ -14156,7 +14162,7 @@
   {
     "id": "8720692",
     "latitude": 29.70453,
-    "longitude": -81.22786,
+    "longitude": -81.22785,
     "name": "Matanzas Inlet, State Road A1A Bridge"
   },
   {
@@ -14385,7 +14391,7 @@
     "id": "8722937",
     "latitude": 26.1183,
     "longitude": -80.145,
-    "name": "Fort Lauderdale, Andrews Ave. Bridge"
+    "name": "Andrews Avenue bridge, New River"
   },
   {
     "id": "8723156",
@@ -14636,7 +14642,7 @@
   {
     "id": "8722670",
     "latitude": 26.61278,
-    "longitude": -80.03417,
+    "longitude": -80.03416,
     "name": "Lake Worth Pier (ocean)"
   },
   {
@@ -14677,7 +14683,7 @@
   },
   {
     "id": "8722832",
-    "latitude": 26.3133,
+    "latitude": 26.31331,
     "longitude": -80.0817,
     "name": "Deerfield Beach, Hillsboro River"
   },
@@ -14996,7 +15002,7 @@
   {
     "id": "8723667",
     "latitude": 25.11333,
-    "longitude": -80.41667,
+    "longitude": -80.41666,
     "name": "Key Largo, South Sound, Key Largo"
   },
   {
@@ -15884,7 +15890,7 @@
   {
     "id": "8724671",
     "latitude": 24.71828,
-    "longitude": -81.92153,
+    "longitude": -81.92152,
     "name": "Smith Shoal Light"
   },
   {
@@ -15992,7 +15998,7 @@
   {
     "id": "TEC4165",
     "latitude": 25.11667,
-    "longitude": -81.08333,
+    "longitude": -81.08334,
     "name": "Cape Sable, East Cape"
   },
   {
@@ -16807,8 +16813,8 @@
   },
   {
     "id": "8728690",
-    "latitude": 29.72444,
-    "longitude": -84.98056,
+    "latitude": 29.72445,
+    "longitude": -84.98055,
     "name": "Apalachicola"
   },
   {
@@ -16873,7 +16879,7 @@
   },
   {
     "id": "8728853",
-    "latitude": 29.88069,
+    "latitude": 29.8807,
     "longitude": -85.22144,
     "name": "White City, ICWW"
   },
@@ -16904,7 +16910,7 @@
   {
     "id": "8729210",
     "latitude": 30.21375,
-    "longitude": -85.87858,
+    "longitude": -85.87859,
     "name": "Panama City Beach"
   },
   {
@@ -17058,15 +17064,9 @@
     "name": "Warrington, 2 miles south of"
   },
   {
-    "id": "8729840",
-    "latitude": 30.4044,
-    "longitude": -87.2112,
-    "name": "Pensacola"
-  },
-  {
     "id": "8729807",
     "latitude": 30.3275,
-    "longitude": -87.14194,
+    "longitude": -87.14195,
     "name": "Pensacola Beach Pier"
   },
   {
@@ -17138,7 +17138,7 @@
   {
     "id": "8729941",
     "latitude": 30.38694,
-    "longitude": -87.42881,
+    "longitude": -87.4288,
     "name": "Blue Angels Park"
   },
   {
@@ -17240,7 +17240,7 @@
   {
     "id": "8733839",
     "latitude": 30.66717,
-    "longitude": -87.93644,
+    "longitude": -87.93645,
     "name": "Meaher State Park, Mobile Bay"
   },
   {
@@ -17275,7 +17275,7 @@
   },
   {
     "id": "8740166",
-    "latitude": 30.41319,
+    "latitude": 30.4132,
     "longitude": -88.40289,
     "name": "Grand Bay NERR, Mississippi Sound"
   },
@@ -17318,7 +17318,7 @@
   {
     "id": "8741041",
     "latitude": 30.34778,
-    "longitude": -88.50583,
+    "longitude": -88.50584,
     "name": "Dock E, Port of Pascagoula"
   },
   {
@@ -17414,7 +17414,7 @@
   {
     "id": "8761927",
     "latitude": 30.02722,
-    "longitude": -90.11333,
+    "longitude": -90.11334,
     "name": "New Canal USCG station, Lake Pontchartrain"
   },
   {
@@ -17492,7 +17492,7 @@
   {
     "id": "8760721",
     "latitude": 29.17931,
-    "longitude": -89.25883,
+    "longitude": -89.25884,
     "name": "Pilottown"
   },
   {
@@ -17527,15 +17527,9 @@
   },
   {
     "id": "TEC4445",
-    "latitude": 30.0,
+    "latitude": 30,
     "longitude": -89.93333,
     "name": "Paris Road Bridge (ICWW)"
-  },
-  {
-    "id": "8761115",
-    "latitude": 29.3506,
-    "longitude": -89.5399,
-    "name": "Bay Pomme D'or"
   },
   {
     "id": "8761212",
@@ -17548,12 +17542,6 @@
     "latitude": 29.2867,
     "longitude": -89.6633,
     "name": "Bastian Island"
-  },
-  {
-    "id": "8761432",
-    "latitude": 29.5127,
-    "longitude": -89.7645,
-    "name": "Bayou Chene"
   },
   {
     "id": "8761557",
@@ -17684,7 +17672,7 @@
   {
     "id": "8763535",
     "latitude": 29.17478,
-    "longitude": -90.97644,
+    "longitude": -90.97645,
     "name": "Texas Gas Platform, Caillou Bay"
   },
   {
@@ -17803,7 +17791,7 @@
   },
   {
     "id": "8766072",
-    "latitude": 29.55169,
+    "latitude": 29.5517,
     "longitude": -92.30519,
     "name": "Freshwater Canal Locks"
   },
@@ -17846,7 +17834,7 @@
   {
     "id": "8767816",
     "latitude": 30.22361,
-    "longitude": -93.22167,
+    "longitude": -93.22166,
     "name": "Lake Charles"
   },
   {
@@ -17912,7 +17900,7 @@
   {
     "id": "8771341",
     "latitude": 29.35746,
-    "longitude": -94.72473,
+    "longitude": -94.72472,
     "name": "Galveston Bay Entrance, North Jetty"
   },
   {
@@ -17924,7 +17912,7 @@
   {
     "id": "8771450",
     "latitude": 29.31,
-    "longitude": -94.79331,
+    "longitude": -94.7933,
     "name": "GALVESTON, Galveston Channel"
   },
   {
@@ -17965,8 +17953,8 @@
   },
   {
     "id": "8770733",
-    "latitude": 29.765,
-    "longitude": -95.0783,
+    "latitude": 29.76486,
+    "longitude": -95.07886,
     "name": "Lynchburg Landing, San Jacinto River"
   },
   {
@@ -18104,7 +18092,7 @@
   {
     "id": "8772985",
     "latitude": 28.77164,
-    "longitude": -95.61683,
+    "longitude": -95.61684,
     "name": "Sargent, ICWW"
   },
   {
@@ -18194,7 +18182,7 @@
   {
     "id": "8775283",
     "latitude": 27.81861,
-    "longitude": -97.20894,
+    "longitude": -97.20895,
     "name": "Enbridge, Ingleside"
   },
   {
@@ -18320,7 +18308,7 @@
   {
     "id": "TPT2623",
     "latitude": 15.2,
-    "longitude": 145.71667,
+    "longitude": 145.71666,
     "name": "Saipan Harbor, Saipan Island"
   },
   {
@@ -18350,7 +18338,7 @@
   {
     "id": "TPT2631",
     "latitude": 7.05,
-    "longitude": 134.26669,
+    "longitude": 134.2667,
     "name": "Shonian Harbor"
   },
   {
@@ -18362,19 +18350,19 @@
   {
     "id": "1841367",
     "latitude": 7.3333,
-    "longitude": 134.46671,
+    "longitude": 134.4667,
     "name": "Malakal Harbor, Palau Island"
   },
   {
     "id": "TPT2637",
     "latitude": 7.5,
-    "longitude": 134.51669,
+    "longitude": 134.5167,
     "name": "West Passage"
   },
   {
     "id": "TPT2639",
     "latitude": 8.3,
-    "longitude": 137.48331,
+    "longitude": 137.4833,
     "name": "Ngulu Islands"
   },
   {
@@ -18416,7 +18404,7 @@
   {
     "id": "TPT2655",
     "latitude": 8.45,
-    "longitude": 151.78333,
+    "longitude": 151.78334,
     "name": "Nomwin Atoll, Hall Islands"
   },
   {
@@ -18428,7 +18416,7 @@
   {
     "id": "TPT2663",
     "latitude": 6.9,
-    "longitude": 152.73333,
+    "longitude": 152.73334,
     "name": "Losap Atoll"
   },
   {
@@ -18440,7 +18428,7 @@
   {
     "id": "TPT2667",
     "latitude": 5.33333,
-    "longitude": 153.73333,
+    "longitude": 153.73334,
     "name": "Satawan Anchorage, Nomoi Islands"
   },
   {
@@ -18470,7 +18458,7 @@
   {
     "id": "TPT2693",
     "latitude": 11.38333,
-    "longitude": 167.51667,
+    "longitude": 167.51666,
     "name": "Rongerik Atoll"
   },
   {
@@ -18482,7 +18470,7 @@
   {
     "id": "TPT2697",
     "latitude": 9.4,
-    "longitude": 167.48333,
+    "longitude": 167.48334,
     "name": "Kwajalein Atoll (Namur Island)"
   },
   {
@@ -18524,7 +18512,7 @@
   {
     "id": "TPT2711",
     "latitude": 10.21667,
-    "longitude": 169.98333,
+    "longitude": 169.98334,
     "name": "Ailuk Atoll"
   },
   {
@@ -18536,7 +18524,7 @@
   {
     "id": "TPT2715",
     "latitude": 9.46667,
-    "longitude": 170.23333,
+    "longitude": 170.23334,
     "name": "Wotje Atoll"
   },
   {
@@ -18548,7 +18536,7 @@
   {
     "id": "TPT2719",
     "latitude": 8.71667,
-    "longitude": 171.23333,
+    "longitude": 171.23334,
     "name": "Maloelap Atoll"
   },
   {
@@ -18584,7 +18572,7 @@
   {
     "id": "1619222",
     "latitude": 23.7833,
-    "longitude": -166.20799,
+    "longitude": -166.208,
     "name": "East Island, French Frigate Shoals"
   },
   {
@@ -18733,7 +18721,7 @@
   },
   {
     "id": "1615680",
-    "latitude": 20.89494,
+    "latitude": 20.89495,
     "longitude": -156.469,
     "name": "Kahului"
   },
@@ -18752,7 +18740,7 @@
   {
     "id": "TPT2797",
     "latitude": 20.78333,
-    "longitude": -156.46667,
+    "longitude": -156.46666,
     "name": "Kihei, Maalaea Bay"
   },
   {
@@ -18824,7 +18812,7 @@
   {
     "id": "1814060",
     "latitude": 1.985,
-    "longitude": -157.47701,
+    "longitude": -157.477,
     "name": "Christmas Island"
   },
   {
@@ -18836,13 +18824,13 @@
   {
     "id": "TPT2821",
     "latitude": -10.0,
-    "longitude": -150.23333,
+    "longitude": -150.23334,
     "name": "Caroline Island"
   },
   {
     "id": "TPT2855",
     "latitude": -2.8,
-    "longitude": -171.71671,
+    "longitude": -171.7167,
     "name": "Canton Island"
   },
   {
@@ -18890,7 +18878,7 @@
   {
     "id": "TPT2865",
     "latitude": -14.21667,
-    "longitude": -169.53333,
+    "longitude": -169.53334,
     "name": "Tau Island, Manua Islands"
   },
   {
@@ -18914,19 +18902,19 @@
   {
     "id": "TPT2835",
     "latitude": -23.13333,
-    "longitude": -134.96667,
+    "longitude": -134.96666,
     "name": "Mangareva Island"
   },
   {
     "id": "TPT2837",
     "latitude": -18.06667,
-    "longitude": -140.98333,
+    "longitude": -140.98334,
     "name": "Hao (Bow or La Harpe) Island"
   },
   {
     "id": "TPT2839",
     "latitude": -14.95,
-    "longitude": -147.73333,
+    "longitude": -147.73334,
     "name": "Rahiroa (Rangiroa) Island"
   },
   {
@@ -18938,37 +18926,37 @@
   {
     "id": "TPT2847",
     "latitude": -27.6,
-    "longitude": -144.28333,
+    "longitude": -144.28334,
     "name": "Rapa (Oparo) Island"
   },
   {
     "id": "TPT2849",
     "latitude": -23.36667,
-    "longitude": -149.46667,
+    "longitude": -149.46666,
     "name": "Tubuai Island"
   },
   {
     "id": "TPT2823",
     "latitude": -9.0,
-    "longitude": -157.98333,
+    "longitude": -157.98334,
     "name": "Penrhyn (Tongareva Island)"
   },
   {
     "id": "TPT2825",
     "latitude": -10.41667,
-    "longitude": -161.01667,
+    "longitude": -161.01666,
     "name": "Manihiki"
   },
   {
     "id": "TPT2851",
     "latitude": -18.85,
-    "longitude": -159.78333,
+    "longitude": -159.78334,
     "name": "Aitutaki Island"
   },
   {
     "id": "TPT2853",
     "latitude": -21.18333,
-    "longitude": -159.76667,
+    "longitude": -159.76666,
     "name": "Avarua, Rarotonga"
   },
   {
@@ -18980,7 +18968,7 @@
   {
     "id": "TPT2829",
     "latitude": -18.06667,
-    "longitude": -140.98333,
+    "longitude": -140.98334,
     "name": "Suwarrow (Suvarov) Island"
   },
   {
@@ -19016,7 +19004,7 @@
   {
     "id": "TPT2879",
     "latitude": -18.51667,
-    "longitude": 179.96667,
+    "longitude": 179.96666,
     "name": "Moala Island"
   },
   {
@@ -19028,7 +19016,7 @@
   {
     "id": "TPT2883",
     "latitude": -18.0,
-    "longitude": 179.21667,
+    "longitude": 179.21666,
     "name": "Ngau Island"
   },
   {
@@ -19046,13 +19034,13 @@
   {
     "id": "TPT2889",
     "latitude": -16.96667,
-    "longitude": 178.76667,
+    "longitude": 178.76666,
     "name": "Nandi, Vanua Levu Island"
   },
   {
     "id": "TEC4605",
     "latitude": 32.31667,
-    "longitude": -64.83333,
+    "longitude": -64.83334,
     "name": "Ireland Island"
   },
   {
@@ -19172,7 +19160,7 @@
   {
     "id": "TEC4641",
     "latitude": 22.36667,
-    "longitude": -73.0,
+    "longitude": -73,
     "name": "Abraham Bay, Mayaguana Island"
   },
   {
@@ -19184,7 +19172,7 @@
   {
     "id": "TEC4645",
     "latitude": 22.93333,
-    "longitude": -80.0,
+    "longitude": -80,
     "name": "La Isabela"
   },
   {
@@ -19292,7 +19280,7 @@
   {
     "id": "TEC4681",
     "latitude": 21.45,
-    "longitude": -82.91667,
+    "longitude": -82.91666,
     "name": "Carapachibey, Isla de Pinos"
   },
   {
@@ -19316,7 +19304,7 @@
   {
     "id": "TEC4689",
     "latitude": 23.15,
-    "longitude": -82.33333,
+    "longitude": -82.33334,
     "name": "Havana"
   },
   {
@@ -19334,7 +19322,7 @@
   {
     "id": "TEC4695",
     "latitude": 17.88333,
-    "longitude": -76.33333,
+    "longitude": -76.33334,
     "name": "Port Morant"
   },
   {
@@ -19352,7 +19340,7 @@
   {
     "id": "TEC4703",
     "latitude": 18.46667,
-    "longitude": -77.91667,
+    "longitude": -77.91666,
     "name": "Montego Bay"
   },
   {
@@ -19364,7 +19352,7 @@
   {
     "id": "TEC4707",
     "latitude": 19.33333,
-    "longitude": -81.33333,
+    "longitude": -81.33334,
     "name": "Grand Cayman"
   },
   {
@@ -19388,7 +19376,7 @@
   {
     "id": "TEC4715",
     "latitude": 19.2,
-    "longitude": -69.33333,
+    "longitude": -69.33334,
     "name": "Santa Barbara de Samana"
   },
   {
@@ -19411,8 +19399,8 @@
   },
   {
     "id": "9759197",
-    "latitude": 17.95144,
-    "longitude": -67.19658,
+    "latitude": 17.95145,
+    "longitude": -67.19659,
     "name": "Bahia Salinas"
   },
   {
@@ -19520,7 +19508,7 @@
   {
     "id": "9752619",
     "latitude": 18.15253,
-    "longitude": -65.44381,
+    "longitude": -65.4438,
     "name": "Isabel Segunda, Vieques Island"
   },
   {
@@ -19544,7 +19532,7 @@
   {
     "id": "9752235",
     "latitude": 18.30086,
-    "longitude": -65.30247,
+    "longitude": -65.30248,
     "name": "Culebra"
   },
   {
@@ -19604,7 +19592,7 @@
   {
     "id": "9759394",
     "latitude": 18.21883,
-    "longitude": -67.16244,
+    "longitude": -67.16245,
     "name": "Mayaguez"
   },
   {
@@ -19622,7 +19610,7 @@
   {
     "id": "9759189",
     "latitude": 18.07481,
-    "longitude": -67.18878,
+    "longitude": -67.18877,
     "name": "Puerto Real"
   },
   {
@@ -19736,7 +19724,7 @@
   {
     "id": "9751639",
     "latitude": 18.33058,
-    "longitude": -64.92581,
+    "longitude": -64.9258,
     "name": "Charlotte Amalie, St. Thomas Island"
   },
   {
@@ -19760,7 +19748,7 @@
   {
     "id": "9751309",
     "latitude": 18.36761,
-    "longitude": -64.72072,
+    "longitude": -64.72073,
     "name": "Leinster Point, Leinster Bay, St. Johns Island"
   },
   {
@@ -19826,7 +19814,7 @@
   {
     "id": "TEC4775",
     "latitude": 14.01667,
-    "longitude": -61.0,
+    "longitude": -61,
     "name": "Castries, St. Lucia"
   },
   {
