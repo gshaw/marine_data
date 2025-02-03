@@ -7429,7 +7429,7 @@
   },
   {
     "id": "8416921",
-    "latitude": 44.0,
+    "latitude": 44,
     "longitude": -69.6667,
     "name": "Wiscasset"
   },
@@ -8312,7 +8312,7 @@
   {
     "id": "8514322",
     "latitude": 40.75,
-    "longitude": -73.0,
+    "longitude": -73,
     "name": "Patchogue"
   },
   {
@@ -12151,7 +12151,7 @@
   },
   {
     "id": "8664099",
-    "latitude": 33.0,
+    "latitude": 33,
     "longitude": -79.4967,
     "name": "Five Fathom Creek entrance"
   },
@@ -13190,7 +13190,7 @@
   {
     "id": "8669277",
     "latitude": 32.195,
-    "longitude": -81.0,
+    "longitude": -81,
     "name": "Cook Landing Cemetery"
   },
   {
@@ -13304,7 +13304,7 @@
   {
     "id": "TEC3403",
     "latitude": 31.93333,
-    "longitude": -81.0,
+    "longitude": -81,
     "name": "Romerly Marsh Creek"
   },
   {
@@ -13315,8 +13315,8 @@
   },
   {
     "id": "TEC3405",
-    "latitude": 32.0,
-    "longitude": -81.0,
+    "latitude": 32,
+    "longitude": -81,
     "name": "Savannah Sheraton Resort Hotel"
   },
   {
@@ -13328,7 +13328,7 @@
   {
     "id": "TEC3409",
     "latitude": 32.06667,
-    "longitude": -81.0,
+    "longitude": -81,
     "name": "North entrance"
   },
   {
