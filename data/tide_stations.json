@@ -362,7 +362,7 @@
   {
     "id": "9414262",
     "latitude": 37.7,
-    "longitude": -123,
+    "longitude": -123.0,
     "name": "Southeast Farallon Island"
   },
   {
@@ -1466,7 +1466,7 @@
   {
     "id": "9436031",
     "latitude": 44.8967,
-    "longitude": -124,
+    "longitude": -124.0,
     "name": "Kernville, Siletz River"
   },
   {
@@ -2641,7 +2641,7 @@
   },
   {
     "id": "8218617",
-    "latitude": 55,
+    "latitude": 55.0,
     "longitude": -129.9,
     "name": "Mill Bay, Nass River, B.C."
   },
@@ -2917,7 +2917,7 @@
   },
   {
     "id": "9450226",
-    "latitude": 55,
+    "latitude": 55.0,
     "longitude": -132.592,
     "name": "Mabel Island"
   },
@@ -3085,7 +3085,7 @@
   },
   {
     "id": "TWC1583",
-    "latitude": 56,
+    "latitude": 56.0,
     "longitude": -133.46666,
     "name": "Marble Island"
   },
@@ -3301,7 +3301,7 @@
   },
   {
     "id": "TWC1663",
-    "latitude": 57,
+    "latitude": 57.0,
     "longitude": -133.31667,
     "name": "Portage Bay, Kupreanof Island"
   },
@@ -4819,7 +4819,7 @@
   },
   {
     "id": "TWC2095",
-    "latitude": 58,
+    "latitude": 58.0,
     "longitude": -154.98334,
     "name": "Katmai Bay, Shelikof Strait"
   },
@@ -17527,7 +17527,7 @@
   },
   {
     "id": "TEC4445",
-    "latitude": 30,
+    "latitude": 30.0,
     "longitude": -89.93333,
     "name": "Paris Road Bridge (ICWW)"
   },
