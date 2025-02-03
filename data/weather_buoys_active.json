@@ -3866,12 +3866,6 @@
     ]
   },
   {
-    "id": "JCQN4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "JCRN4",
     "kinds": [
       "txt"
@@ -3917,6 +3911,12 @@
   },
   {
     "id": "JNGA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "JOXP4",
     "kinds": [
       "txt"
     ]
