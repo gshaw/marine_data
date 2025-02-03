@@ -1,17 +1,5 @@
 [
   {
-    "id": "9414290",
-    "latitude": 37.80631,
-    "longitude": -122.46589,
-    "name": "SAN FRANCISCO (Golden Gate)"
-  },
-  {
-    "id": "8729840",
-    "latitude": 30.4044,
-    "longitude": -87.2112,
-    "name": "Pensacola, Pensacola Bay"
-  },
-  {
     "id": "TWC0399",
     "latitude": 24.78333,
     "longitude": -112.11667,
@@ -259,8 +247,8 @@
   },
   {
     "id": "9412110",
-    "latitude": 35.1767,
-    "longitude": -120.76,
+    "latitude": 35.16889,
+    "longitude": -120.75417,
     "name": "Port San Luis"
   },
   {
@@ -362,7 +350,7 @@
   {
     "id": "9414262",
     "latitude": 37.7,
-    "longitude": -123.0,
+    "longitude": -123,
     "name": "Southeast Farallon Island"
   },
   {
@@ -382,6 +370,12 @@
     "latitude": 37.8183,
     "longitude": -122.528,
     "name": "Point Bonita, Bonita Cove"
+  },
+  {
+    "id": "9414290",
+    "latitude": 37.80631,
+    "longitude": -122.46589,
+    "name": "SAN FRANCISCO (Golden Gate)"
   },
   {
     "id": "9414792",
@@ -1404,28 +1398,22 @@
     "name": "Tillamook, Hoquarten Slough"
   },
   {
-    "id": "TWC0817",
-    "latitude": 42.43333,
-    "longitude": -124.41666,
-    "name": "Wedderburn, Rogue River"
-  },
-  {
     "id": "9430104",
     "latitude": 42.0433,
     "longitude": -124.285,
     "name": "Brookings, Chetco Cove"
   },
   {
-    "id": "9432436",
-    "latitude": 43.1579,
-    "longitude": -124.1818,
-    "name": "Rink Creek Entrance, Coquille River"
-  },
-  {
     "id": "9431011",
     "latitude": 42.42164,
     "longitude": -124.41872,
     "name": "Gold Beach, Rogue River"
+  },
+  {
+    "id": "TWC0817",
+    "latitude": 42.43333,
+    "longitude": -124.41666,
+    "name": "Wedderburn, Rogue River"
   },
   {
     "id": "9431647",
@@ -1438,6 +1426,12 @@
     "latitude": 43.12,
     "longitude": -124.413,
     "name": "Bandon, Coquille River"
+  },
+  {
+    "id": "9432436",
+    "latitude": 43.1579,
+    "longitude": -124.1818,
+    "name": "Rink Creek Entrance, Coquille River"
   },
   {
     "id": "9434938",
@@ -1466,7 +1460,7 @@
   {
     "id": "9436031",
     "latitude": 44.8967,
-    "longitude": -124.0,
+    "longitude": -124,
     "name": "Kernville, Siletz River"
   },
   {
@@ -1621,8 +1615,8 @@
   },
   {
     "id": "9440357",
-    "latitude": 45.98367,
-    "longitude": -122.83461,
+    "latitude": 45.9867,
+    "longitude": -122.8367,
     "name": "Temco Kalama Terminal"
   },
   {
@@ -2641,7 +2635,7 @@
   },
   {
     "id": "8218617",
-    "latitude": 55.0,
+    "latitude": 55,
     "longitude": -129.9,
     "name": "Mill Bay, Nass River, B.C."
   },
@@ -2917,7 +2911,7 @@
   },
   {
     "id": "9450226",
-    "latitude": 55.0,
+    "latitude": 55,
     "longitude": -132.592,
     "name": "Mabel Island"
   },
@@ -3085,7 +3079,7 @@
   },
   {
     "id": "TWC1583",
-    "latitude": 56.0,
+    "latitude": 56,
     "longitude": -133.46666,
     "name": "Marble Island"
   },
@@ -3301,7 +3295,7 @@
   },
   {
     "id": "TWC1663",
-    "latitude": 57.0,
+    "latitude": 57,
     "longitude": -133.31667,
     "name": "Portage Bay, Kupreanof Island"
   },
@@ -4819,7 +4813,7 @@
   },
   {
     "id": "TWC2095",
-    "latitude": 58.0,
+    "latitude": 58,
     "longitude": -154.98334,
     "name": "Katmai Bay, Shelikof Strait"
   },
@@ -6024,238 +6018,634 @@
     "name": "Barrow Offshore"
   },
   {
-    "id": "8557380",
-    "latitude": 38.78283,
-    "longitude": -75.11928,
-    "name": "Lewes (breakwater Harbor)"
+    "id": "8410834",
+    "latitude": 45.12845,
+    "longitude": -67.14467,
+    "name": "Pettegrove Point, Dochet Island"
   },
   {
-    "id": "8556198",
-    "latitude": 38.945,
-    "longitude": -75.3133,
-    "name": "Mispillion River entrance"
+    "id": "8410140",
+    "latitude": 44.9046,
+    "longitude": -66.9829,
+    "name": "Eastport"
   },
   {
-    "id": "8555388",
-    "latitude": 39.0583,
-    "longitude": -75.3967,
-    "name": "Murderkill River entrance"
+    "id": "8410715",
+    "latitude": 44.9233,
+    "longitude": -67.13,
+    "name": "Garnet Point, Pennamquan River"
   },
   {
-    "id": "8554399",
-    "latitude": 39.185,
-    "longitude": -75.4,
-    "name": "Mahon River entrance"
+    "id": "8410714",
+    "latitude": 44.87,
+    "longitude": -67.1083,
+    "name": "Coffins Point"
   },
   {
-    "id": "8554038",
-    "latitude": 39.245,
-    "longitude": -75.5183,
-    "name": "Leipsic, Leipsic River"
+    "id": "8410875",
+    "latitude": 44.875,
+    "longitude": -67.1583,
+    "name": "Birch Islands"
   },
   {
-    "id": "8537416",
-    "latitude": 39.4067,
-    "longitude": -75.405,
-    "name": "Stathems Neck, Stow Creek, N.J."
+    "id": "8410864",
+    "latitude": 44.8233,
+    "longitude": -67.1517,
+    "name": "Gravelly Point, Whiting Bay"
   },
   {
-    "id": "8553501",
-    "latitude": 39.3333,
-    "longitude": -75.4667,
-    "name": "Woodland Beach, Del."
+    "id": "8411060",
+    "latitude": 44.6567,
+    "longitude": -67.21,
+    "name": "Cutler, Little River"
   },
   {
-    "id": "8537489",
-    "latitude": 39.4217,
-    "longitude": -75.3817,
-    "name": "Raccoon Ditch, Newport Meadows, Stow Creek, N.J."
+    "id": "8411250",
+    "latitude": 44.6417,
+    "longitude": -67.2967,
+    "name": "Cutler, Naval Radio Station"
   },
   {
-    "id": "8537562",
-    "latitude": 39.4617,
-    "longitude": -75.4033,
-    "name": "Canton, Stow Creek, N.J."
+    "id": "8411411",
+    "latitude": 44.6033,
+    "longitude": -67.3683,
+    "name": "Stone Island, Machias Bay"
   },
   {
-    "id": "8537535",
-    "latitude": 39.4317,
-    "longitude": -75.4467,
-    "name": "1 n.mi. above entrance, N.J."
+    "id": "8411467",
+    "latitude": 44.6983,
+    "longitude": -67.3933,
+    "name": "Machiasport, Machias River"
   },
   {
-    "id": "8537488",
-    "latitude": 39.4217,
-    "longitude": -75.4283,
-    "name": "Pine Island, Malapartis Creek, N.J."
+    "id": "8411696",
+    "latitude": 44.615,
+    "longitude": -67.4967,
+    "name": "Shoppee Point, Englishman Bay"
   },
   {
-    "id": "8537667",
-    "latitude": 39.4583,
-    "longitude": -75.495,
-    "name": "Hope Creek, 0.6 n.mi. above entrance, N.J."
+    "id": "8411801",
+    "latitude": 44.4933,
+    "longitude": -67.5433,
+    "name": "Steele Harbor Island"
   },
   {
-    "id": "8553069",
-    "latitude": 39.405,
-    "longitude": -75.5983,
-    "name": "Taylors Bridge, Blackbird Creek, Del."
+    "id": "8412581",
+    "latitude": 44.54,
+    "longitude": -67.875,
+    "name": "Millbridge, Narraguagus River, Maine"
   },
   {
-    "id": "8537614",
-    "latitude": 39.46,
-    "longitude": -75.5317,
-    "name": "Artificial Island, Salem Nuclear Plant, N.J."
+    "id": "8412568",
+    "latitude": 44.3717,
+    "longitude": -67.87,
+    "name": "Green Island, Petit Manan Bar"
   },
   {
-    "id": "8537961",
-    "latitude": 39.57,
-    "longitude": -75.4983,
-    "name": "Sinnickson Landing"
+    "id": "8412932",
+    "latitude": 44.4,
+    "longitude": -68.0217,
+    "name": "Prospect Harbor"
   },
   {
-    "id": "8537979",
-    "latitude": 39.5767,
-    "longitude": -75.4767,
-    "name": "Salem"
+    "id": "8413320",
+    "latitude": 44.39219,
+    "longitude": -68.20428,
+    "name": "Bar Harbor"
   },
   {
-    "id": "8537731",
-    "latitude": 39.4967,
-    "longitude": -75.5167,
-    "name": "0.8 n.mi. above entrance"
+    "id": "8413564",
+    "latitude": 44.275,
+    "longitude": -68.3133,
+    "name": "Southwest Harbor"
   },
   {
-    "id": "8537774",
-    "latitude": 39.5117,
-    "longitude": -75.4933,
-    "name": "Abbots Meadow"
+    "id": "8413651",
+    "latitude": 44.2417,
+    "longitude": -68.3533,
+    "name": "Bass Harbor"
   },
   {
-    "id": "8537753",
-    "latitude": 39.505,
-    "longitude": -75.4833,
-    "name": "2.5 n.mi. above entrance"
+    "id": "8413079",
+    "latitude": 44.3883,
+    "longitude": -68.0867,
+    "name": "Winter Harbor, Frenchman Bay"
   },
   {
-    "id": "8537779",
-    "latitude": 39.5133,
-    "longitude": -75.4467,
-    "name": "Coopers Creek bridge"
+    "id": "8414112",
+    "latitude": 44.4083,
+    "longitude": -68.5633,
+    "name": "Blue Hill Harbor"
   },
   {
-    "id": "8537889",
-    "latitude": 39.5483,
-    "longitude": -75.415,
-    "name": "Quinton"
+    "id": "8413825",
+    "latitude": 44.17,
+    "longitude": -68.435,
+    "name": "Mackerel Cove, Swans Island"
   },
   {
-    "id": "8551910",
-    "latitude": 39.55833,
-    "longitude": -75.57195,
-    "name": "Reedy Point"
+    "id": "8413801",
+    "latitude": 44.535,
+    "longitude": -68.4217,
+    "name": "Ellsworth, Union River"
   },
   {
-    "id": "8551973",
-    "latitude": 39.555,
-    "longitude": -75.6483,
-    "name": "St. Georges, Delaware"
+    "id": "8413857",
+    "latitude": 44.145,
+    "longitude": -68.45,
+    "name": "Burnt Coat Harbor, Swans Island"
   },
   {
-    "id": "8552125",
-    "latitude": 39.5333,
-    "longitude": -75.7333,
-    "name": "Summit Bridge, Delaware"
+    "id": "8414168",
+    "latitude": 44.2633,
+    "longitude": -68.5867,
+    "name": "Center Harbor"
   },
   {
-    "id": "8573927",
-    "latitude": 39.52667,
-    "longitude": -75.81,
-    "name": "Chesapeake City, Maryland"
+    "id": "8414424",
+    "latitude": 44.2917,
+    "longitude": -68.6933,
+    "name": "Little Deer Isle"
   },
   {
-    "id": "8551851",
-    "latitude": 39.57,
-    "longitude": -75.59,
-    "name": "Delaware City Branch Channel bridge"
+    "id": "8414288",
+    "latitude": 44.0733,
+    "longitude": -68.6367,
+    "name": "Isle Au Haut"
   },
   {
-    "id": "8551762",
-    "latitude": 39.5822,
-    "longitude": -75.58897,
-    "name": "Delaware City"
+    "id": "8414249",
+    "latitude": 44.19231,
+    "longitude": -68.62093,
+    "name": "Oceanville, Deer Isle"
   },
   {
-    "id": "8551702",
-    "latitude": 39.5833,
-    "longitude": -75.5733,
-    "name": "Pea Patch Island, Bulkhead Shoal Channel, Del."
+    "id": "8414348",
+    "latitude": 44.1533,
+    "longitude": -68.6617,
+    "name": "Stonington, Deer Isle"
   },
   {
-    "id": "8551201",
-    "latitude": 39.6567,
-    "longitude": -75.5617,
-    "name": "New Castle, Delaware"
+    "id": "8414876",
+    "latitude": 43.8617,
+    "longitude": -68.8817,
+    "name": "Matinicus Harbor, Wheaton Island"
   },
   {
-    "id": "8538231",
-    "latitude": 39.6833,
-    "longitude": -75.51,
-    "name": "Salem Canal entrance, N.J."
+    "id": "8414776",
+    "latitude": 44.0433,
+    "longitude": -68.84,
+    "name": "Vinalhaven, Vinalhaven Island"
   },
   {
-    "id": "8550714",
-    "latitude": 39.7183,
-    "longitude": -75.52,
-    "name": "Wilmington Marine Terminal"
+    "id": "8414856",
+    "latitude": 44.1267,
+    "longitude": -68.8733,
+    "name": "North Haven"
   },
   {
-    "id": "8550658",
-    "latitude": 39.725,
-    "longitude": -75.56,
-    "name": "Millside, RR. bridge"
+    "id": "8414672",
+    "latitude": 44.3867,
+    "longitude": -68.7967,
+    "name": "Castine"
   },
   {
-    "id": "8550438",
-    "latitude": 39.75,
-    "longitude": -75.4933,
-    "name": "Edgemoor, Del."
+    "id": "8414888",
+    "latitude": 44.1567,
+    "longitude": -68.8867,
+    "name": "Pulpit Harbor, North Haven Island"
   },
   {
-    "id": "8538369",
-    "latitude": 39.7617,
-    "longitude": -75.4033,
-    "name": "Pedricktown, Oldmans Creek, N.J."
+    "id": "8414721",
+    "latitude": 44.4717,
+    "longitude": -68.8133,
+    "name": "Fort Point, Penobscot River"
   },
   {
-    "id": "8538274",
-    "latitude": 39.715,
-    "longitude": -75.36,
-    "name": "Auburn, Oldmans Creek, N.J."
+    "id": "8414581",
+    "latitude": 44.5367,
+    "longitude": -68.7583,
+    "name": "Gross Point, Eastern Channel"
   },
   {
-    "id": "8557863",
-    "latitude": 38.72,
-    "longitude": -75.0833,
-    "name": "Rehoboth Beach"
+    "id": "8414684",
+    "latitude": 44.5717,
+    "longitude": -68.8017,
+    "name": "Bucksport"
   },
   {
-    "id": "8558690",
-    "latitude": 38.61,
-    "longitude": -75.07,
-    "name": "Indian River Inlet (Coast Guard Station)"
+    "id": "8414781",
+    "latitude": 44.6367,
+    "longitude": -68.8417,
+    "name": "Winterport"
   },
   {
-    "id": "8558814",
-    "latitude": 38.5915,
-    "longitude": -75.2116,
-    "name": "Rosedale Beach, Indian River"
+    "id": "8414692",
+    "latitude": 44.505,
+    "longitude": -68.805,
+    "name": "Sandy Point"
   },
   {
-    "id": "8559957",
-    "latitude": 38.455,
-    "longitude": -75.0583,
-    "name": "Little Assawoman Bay"
+    "id": "8414612",
+    "latitude": 44.785,
+    "longitude": -68.7667,
+    "name": "Bangor"
+  },
+  {
+    "id": "8415191",
+    "latitude": 44.4267,
+    "longitude": -69.005,
+    "name": "Belfast"
+  },
+  {
+    "id": "8415490",
+    "latitude": 44.105,
+    "longitude": -69.1017,
+    "name": "Rockland"
+  },
+  {
+    "id": "8415809",
+    "latitude": 43.965,
+    "longitude": -69.2167,
+    "name": "Tenants Harbor"
+  },
+  {
+    "id": "8416092",
+    "latitude": 43.765,
+    "longitude": -69.3217,
+    "name": "Monhegan Island"
+  },
+  {
+    "id": "8416028",
+    "latitude": 43.8717,
+    "longitude": -69.295,
+    "name": "Burnt Island, Georges Islands"
+  },
+  {
+    "id": "8415933",
+    "latitude": 43.925,
+    "longitude": -69.26,
+    "name": "Port Clyde"
+  },
+  {
+    "id": "8415867",
+    "latitude": 43.9867,
+    "longitude": -69.2367,
+    "name": "Otis Cove"
+  },
+  {
+    "id": "8415709",
+    "latitude": 44.0717,
+    "longitude": -69.1817,
+    "name": "Thomaston"
+  },
+  {
+    "id": "8416501",
+    "latitude": 43.875,
+    "longitude": -69.4917,
+    "name": "New Harbor, Muscongus Bay"
+  },
+  {
+    "id": "8416381",
+    "latitude": 43.9667,
+    "longitude": -69.4417,
+    "name": "Muscongus Harbor, Muscongus Sound"
+  },
+  {
+    "id": "8416141",
+    "latitude": 43.97,
+    "longitude": -69.3417,
+    "name": "Friendship Harbor"
+  },
+  {
+    "id": "8416581",
+    "latitude": 43.8767,
+    "longitude": -69.525,
+    "name": "Pemaquid Harbor, Johns Bay"
+  },
+  {
+    "id": "8416232",
+    "latitude": 44.015,
+    "longitude": -69.38,
+    "name": "Jones Neck"
+  },
+  {
+    "id": "8416224",
+    "latitude": 44.0933,
+    "longitude": -69.3767,
+    "name": "Waldoboro"
+  },
+  {
+    "id": "8416721",
+    "latitude": 43.865,
+    "longitude": -69.5833,
+    "name": "East Boothbay"
+  },
+  {
+    "id": "8416731",
+    "latitude": 43.9333,
+    "longitude": -69.58,
+    "name": "Walpole"
+  },
+  {
+    "id": "8416608",
+    "latitude": 44.0333,
+    "longitude": -69.5367,
+    "name": "Newcastle"
+  },
+  {
+    "id": "8416796",
+    "latitude": 43.7583,
+    "longitude": -69.615,
+    "name": "Damariscove Harbor, Damariscove Island"
+  },
+  {
+    "id": "8416828",
+    "latitude": 43.85,
+    "longitude": -69.6283,
+    "name": "Boothbay Harbor"
+  },
+  {
+    "id": "8416908",
+    "latitude": 43.8467,
+    "longitude": -69.6617,
+    "name": "Southport, Townsend Gut"
+  },
+  {
+    "id": "8416968",
+    "latitude": 43.86,
+    "longitude": -69.6867,
+    "name": "Isle of Springs"
+  },
+  {
+    "id": "8416928",
+    "latitude": 43.925,
+    "longitude": -69.67,
+    "name": "Cross River entrance"
+  },
+  {
+    "id": "8416921",
+    "latitude": 44,
+    "longitude": -69.6667,
+    "name": "Wiscasset"
+  },
+  {
+    "id": "8416804",
+    "latitude": 44.05,
+    "longitude": -69.6183,
+    "name": "Sheepscot (below rapids)"
+  },
+  {
+    "id": "8416961",
+    "latitude": 43.9583,
+    "longitude": -69.6833,
+    "name": "Back River"
+  },
+  {
+    "id": "8417067",
+    "latitude": 43.8533,
+    "longitude": -69.7333,
+    "name": "Robinhood, Sasanoa River"
+  },
+  {
+    "id": "8417127",
+    "latitude": 43.8867,
+    "longitude": -69.7633,
+    "name": "Mill Point, Sasanoa River"
+  },
+  {
+    "id": "8417177",
+    "latitude": 43.755,
+    "longitude": -69.785,
+    "name": "Fort Popham, Hunniwell Point"
+  },
+  {
+    "id": "8417221",
+    "latitude": 43.8183,
+    "longitude": -69.81,
+    "name": "Phippsburg"
+  },
+  {
+    "id": "8417227",
+    "latitude": 43.925,
+    "longitude": -69.815,
+    "name": "Bath"
+  },
+  {
+    "id": "8417271",
+    "latitude": 43.9817,
+    "longitude": -69.835,
+    "name": "Sturgeon Island, Merrymeeting Bay"
+  },
+  {
+    "id": "8417377",
+    "latitude": 43.95,
+    "longitude": -69.8883,
+    "name": "Androscoggin River entrance"
+  },
+  {
+    "id": "8417527",
+    "latitude": 43.9217,
+    "longitude": -69.9633,
+    "name": "Brunswick, Androscoggin River"
+  },
+  {
+    "id": "8417391",
+    "latitude": 44.0083,
+    "longitude": -69.895,
+    "name": "Bowdoinham, Cathance River"
+  },
+  {
+    "id": "8417387",
+    "latitude": 43.7883,
+    "longitude": -69.8933,
+    "name": "Cundy Harbor, New Meadows River"
+  },
+  {
+    "id": "8417367",
+    "latitude": 43.89,
+    "longitude": -69.8833,
+    "name": "Howard Point, New Meadows River"
+  },
+  {
+    "id": "8417647",
+    "latitude": 43.7383,
+    "longitude": -70.0233,
+    "name": "South Harpswell, Potts Harbor"
+  },
+  {
+    "id": "8417553",
+    "latitude": 43.825,
+    "longitude": -69.9767,
+    "name": "Wilson Cove, Middle Bay"
+  },
+  {
+    "id": "8417801",
+    "latitude": 43.82,
+    "longitude": -70.1033,
+    "name": "South Freeport"
+  },
+  {
+    "id": "8417948",
+    "latitude": 43.7617,
+    "longitude": -70.1733,
+    "name": "Prince Point"
+  },
+  {
+    "id": "8417874",
+    "latitude": 43.7517,
+    "longitude": -70.14,
+    "name": "Doyle Point"
+  },
+  {
+    "id": "8418015",
+    "latitude": 43.7317,
+    "longitude": -70.205,
+    "name": "Falmouth Foreside"
+  },
+  {
+    "id": "8417881",
+    "latitude": 43.7217,
+    "longitude": -70.1417,
+    "name": "Great Chebeague Island"
+  },
+  {
+    "id": "8417821",
+    "latitude": 43.695,
+    "longitude": -70.11,
+    "name": "Cliff Island, Luckse Sound"
+  },
+  {
+    "id": "8417911",
+    "latitude": 43.6767,
+    "longitude": -70.155,
+    "name": "Vaill Island"
+  },
+  {
+    "id": "8417941",
+    "latitude": 43.69,
+    "longitude": -70.17,
+    "name": "Long Island"
+  },
+  {
+    "id": "8418009",
+    "latitude": 43.69,
+    "longitude": -70.19,
+    "name": "Cow Island"
+  },
+  {
+    "id": "8418137",
+    "latitude": 43.6867,
+    "longitude": -70.2467,
+    "name": "Presumpscot River Bridge"
+  },
+  {
+    "id": "8418175",
+    "latitude": 43.6767,
+    "longitude": -70.255,
+    "name": "Back Cove"
+  },
+  {
+    "id": "8417988",
+    "latitude": 43.67,
+    "longitude": -70.2,
+    "name": "Great Diamond Island"
+  },
+  {
+    "id": "8418001",
+    "latitude": 43.655,
+    "longitude": -70.2,
+    "name": "Peak Island"
+  },
+  {
+    "id": "8417997",
+    "latitude": 43.645,
+    "longitude": -70.1983,
+    "name": "Cushing Island"
+  },
+  {
+    "id": "8418150",
+    "latitude": 43.65805,
+    "longitude": -70.24416,
+    "name": "Portland"
+  },
+  {
+    "id": "8418268",
+    "latitude": 43.6417,
+    "longitude": -70.285,
+    "name": "Fore River"
+  },
+  {
+    "id": "8418031",
+    "latitude": 43.6233,
+    "longitude": -70.2067,
+    "name": "Portland Head Light"
+  },
+  {
+    "id": "8418445",
+    "latitude": 43.545,
+    "longitude": -70.3333,
+    "name": "Pine Point, Scarborough River"
+  },
+  {
+    "id": "8418557",
+    "latitude": 43.5167,
+    "longitude": -70.3667,
+    "name": "Old Orchard Beach"
+  },
+  {
+    "id": "8418606",
+    "latitude": 43.4617,
+    "longitude": -70.3817,
+    "name": "Camp Ellis, Saco River Entrance"
+  },
+  {
+    "id": "8418828",
+    "latitude": 43.4917,
+    "longitude": -70.4467,
+    "name": "Biddeford, Saco River"
+  },
+  {
+    "id": "8418772",
+    "latitude": 43.3667,
+    "longitude": -70.4317,
+    "name": "Cape Porpoise"
+  },
+  {
+    "id": "8418911",
+    "latitude": 43.3583,
+    "longitude": -70.4767,
+    "name": "Kennebunkport"
+  },
+  {
+    "id": "8419317",
+    "latitude": 43.32,
+    "longitude": -70.5633,
+    "name": "Wells, Webhannet River"
+  },
+  {
+    "id": "8419399",
+    "latitude": 43.1667,
+    "longitude": -70.5933,
+    "name": "Cape Neddick"
+  },
+  {
+    "id": "8419518",
+    "latitude": 43.1317,
+    "longitude": -70.6417,
+    "name": "York Harbor"
+  },
+  {
+    "id": "8419528",
+    "latitude": 43.13,
+    "longitude": -70.6383,
+    "name": "Fort Point, York Harbor"
+  },
+  {
+    "id": "8419590",
+    "latitude": 43.085,
+    "longitude": -70.6617,
+    "name": "Seapoint, Cutts Island"
   },
   {
     "id": "8424601",
@@ -6271,8 +6661,8 @@
   },
   {
     "id": "8423898",
-    "latitude": 43.07139,
-    "longitude": -70.71056,
+    "latitude": 43.0717,
+    "longitude": -70.7117,
     "name": "Fort Point"
   },
   {
@@ -6979,8 +7369,8 @@
   },
   {
     "id": "8454000",
-    "latitude": 41.80711,
-    "longitude": -71.40119,
+    "latitude": 41.80717,
+    "longitude": -71.40067,
     "name": "Providence, State Pier no.1"
   },
   {
@@ -7060,636 +7450,6 @@
     "latitude": 41.3817,
     "longitude": -71.8317,
     "name": "Westerly, Pawcatuck River"
-  },
-  {
-    "id": "8410834",
-    "latitude": 45.12845,
-    "longitude": -67.14467,
-    "name": "Pettegrove Point, Dochet Island"
-  },
-  {
-    "id": "8410140",
-    "latitude": 44.9046,
-    "longitude": -66.9829,
-    "name": "Eastport"
-  },
-  {
-    "id": "8410715",
-    "latitude": 44.9233,
-    "longitude": -67.13,
-    "name": "Garnet Point, Pennamquan River"
-  },
-  {
-    "id": "8410714",
-    "latitude": 44.87,
-    "longitude": -67.1083,
-    "name": "Coffins Point"
-  },
-  {
-    "id": "8410875",
-    "latitude": 44.875,
-    "longitude": -67.1583,
-    "name": "Birch Islands"
-  },
-  {
-    "id": "8410864",
-    "latitude": 44.8233,
-    "longitude": -67.1517,
-    "name": "Gravelly Point, Whiting Bay"
-  },
-  {
-    "id": "8411060",
-    "latitude": 44.6567,
-    "longitude": -67.21,
-    "name": "Cutler, Little River"
-  },
-  {
-    "id": "8411250",
-    "latitude": 44.6417,
-    "longitude": -67.2967,
-    "name": "Cutler, Naval Radio Station"
-  },
-  {
-    "id": "8411411",
-    "latitude": 44.6033,
-    "longitude": -67.3683,
-    "name": "Stone Island, Machias Bay"
-  },
-  {
-    "id": "8411467",
-    "latitude": 44.6983,
-    "longitude": -67.3933,
-    "name": "Machiasport, Machias River"
-  },
-  {
-    "id": "8411696",
-    "latitude": 44.615,
-    "longitude": -67.4967,
-    "name": "Shoppee Point, Englishman Bay"
-  },
-  {
-    "id": "8411801",
-    "latitude": 44.4933,
-    "longitude": -67.5433,
-    "name": "Steele Harbor Island"
-  },
-  {
-    "id": "8412581",
-    "latitude": 44.54,
-    "longitude": -67.875,
-    "name": "Millbridge, Narraguagus River, Maine"
-  },
-  {
-    "id": "8412568",
-    "latitude": 44.3717,
-    "longitude": -67.87,
-    "name": "Green Island, Petit Manan Bar"
-  },
-  {
-    "id": "8412932",
-    "latitude": 44.4,
-    "longitude": -68.0217,
-    "name": "Prospect Harbor"
-  },
-  {
-    "id": "8413320",
-    "latitude": 44.39219,
-    "longitude": -68.20428,
-    "name": "Bar Harbor"
-  },
-  {
-    "id": "8413564",
-    "latitude": 44.275,
-    "longitude": -68.3133,
-    "name": "Southwest Harbor"
-  },
-  {
-    "id": "8413651",
-    "latitude": 44.2417,
-    "longitude": -68.3533,
-    "name": "Bass Harbor"
-  },
-  {
-    "id": "8413079",
-    "latitude": 44.3883,
-    "longitude": -68.0867,
-    "name": "Winter Harbor, Frenchman Bay"
-  },
-  {
-    "id": "8414112",
-    "latitude": 44.4083,
-    "longitude": -68.5633,
-    "name": "Blue Hill Harbor"
-  },
-  {
-    "id": "8413825",
-    "latitude": 44.17,
-    "longitude": -68.435,
-    "name": "Mackerel Cove, Swans Island"
-  },
-  {
-    "id": "8413801",
-    "latitude": 44.535,
-    "longitude": -68.4217,
-    "name": "Ellsworth, Union River"
-  },
-  {
-    "id": "8413857",
-    "latitude": 44.145,
-    "longitude": -68.45,
-    "name": "Burnt Coat Harbor, Swans Island"
-  },
-  {
-    "id": "8414168",
-    "latitude": 44.2633,
-    "longitude": -68.5867,
-    "name": "Center Harbor"
-  },
-  {
-    "id": "8414424",
-    "latitude": 44.2917,
-    "longitude": -68.6933,
-    "name": "Little Deer Isle"
-  },
-  {
-    "id": "8414288",
-    "latitude": 44.0733,
-    "longitude": -68.6367,
-    "name": "Isle Au Haut"
-  },
-  {
-    "id": "8414249",
-    "latitude": 44.19231,
-    "longitude": -68.62093,
-    "name": "Oceanville, Deer Isle"
-  },
-  {
-    "id": "8414348",
-    "latitude": 44.1533,
-    "longitude": -68.6617,
-    "name": "Stonington, Deer Isle"
-  },
-  {
-    "id": "8414876",
-    "latitude": 43.8617,
-    "longitude": -68.8817,
-    "name": "Matinicus Harbor, Wheaton Island"
-  },
-  {
-    "id": "8414776",
-    "latitude": 44.0433,
-    "longitude": -68.84,
-    "name": "Vinalhaven, Vinalhaven Island"
-  },
-  {
-    "id": "8414856",
-    "latitude": 44.1267,
-    "longitude": -68.8733,
-    "name": "North Haven"
-  },
-  {
-    "id": "8414672",
-    "latitude": 44.3867,
-    "longitude": -68.7967,
-    "name": "Castine"
-  },
-  {
-    "id": "8414888",
-    "latitude": 44.1567,
-    "longitude": -68.8867,
-    "name": "Pulpit Harbor, North Haven Island"
-  },
-  {
-    "id": "8414721",
-    "latitude": 44.4717,
-    "longitude": -68.8133,
-    "name": "Fort Point, Penobscot River"
-  },
-  {
-    "id": "8414581",
-    "latitude": 44.5367,
-    "longitude": -68.7583,
-    "name": "Gross Point, Eastern Channel"
-  },
-  {
-    "id": "8414684",
-    "latitude": 44.5717,
-    "longitude": -68.8017,
-    "name": "Bucksport"
-  },
-  {
-    "id": "8414781",
-    "latitude": 44.6367,
-    "longitude": -68.8417,
-    "name": "Winterport"
-  },
-  {
-    "id": "8414692",
-    "latitude": 44.505,
-    "longitude": -68.805,
-    "name": "Sandy Point"
-  },
-  {
-    "id": "8414612",
-    "latitude": 44.785,
-    "longitude": -68.7667,
-    "name": "Bangor"
-  },
-  {
-    "id": "8415191",
-    "latitude": 44.4267,
-    "longitude": -69.005,
-    "name": "Belfast"
-  },
-  {
-    "id": "8415490",
-    "latitude": 44.105,
-    "longitude": -69.1017,
-    "name": "Rockland"
-  },
-  {
-    "id": "8415809",
-    "latitude": 43.965,
-    "longitude": -69.2167,
-    "name": "Tenants Harbor"
-  },
-  {
-    "id": "8416092",
-    "latitude": 43.765,
-    "longitude": -69.3217,
-    "name": "Monhegan Island"
-  },
-  {
-    "id": "8416028",
-    "latitude": 43.8717,
-    "longitude": -69.295,
-    "name": "Burnt Island, Georges Islands"
-  },
-  {
-    "id": "8415933",
-    "latitude": 43.925,
-    "longitude": -69.26,
-    "name": "Port Clyde"
-  },
-  {
-    "id": "8415867",
-    "latitude": 43.9867,
-    "longitude": -69.2367,
-    "name": "Otis Cove"
-  },
-  {
-    "id": "8415709",
-    "latitude": 44.0717,
-    "longitude": -69.1817,
-    "name": "Thomaston"
-  },
-  {
-    "id": "8416501",
-    "latitude": 43.875,
-    "longitude": -69.4917,
-    "name": "New Harbor, Muscongus Bay"
-  },
-  {
-    "id": "8416381",
-    "latitude": 43.9667,
-    "longitude": -69.4417,
-    "name": "Muscongus Harbor, Muscongus Sound"
-  },
-  {
-    "id": "8416141",
-    "latitude": 43.97,
-    "longitude": -69.3417,
-    "name": "Friendship Harbor"
-  },
-  {
-    "id": "8416581",
-    "latitude": 43.8767,
-    "longitude": -69.525,
-    "name": "Pemaquid Harbor, Johns Bay"
-  },
-  {
-    "id": "8416232",
-    "latitude": 44.015,
-    "longitude": -69.38,
-    "name": "Jones Neck"
-  },
-  {
-    "id": "8416224",
-    "latitude": 44.0933,
-    "longitude": -69.3767,
-    "name": "Waldoboro"
-  },
-  {
-    "id": "8416721",
-    "latitude": 43.865,
-    "longitude": -69.5833,
-    "name": "East Boothbay"
-  },
-  {
-    "id": "8416731",
-    "latitude": 43.9333,
-    "longitude": -69.58,
-    "name": "Walpole"
-  },
-  {
-    "id": "8416608",
-    "latitude": 44.0333,
-    "longitude": -69.5367,
-    "name": "Newcastle"
-  },
-  {
-    "id": "8416796",
-    "latitude": 43.7583,
-    "longitude": -69.615,
-    "name": "Damariscove Harbor, Damariscove Island"
-  },
-  {
-    "id": "8416828",
-    "latitude": 43.85,
-    "longitude": -69.6283,
-    "name": "Boothbay Harbor"
-  },
-  {
-    "id": "8416908",
-    "latitude": 43.8467,
-    "longitude": -69.6617,
-    "name": "Southport, Townsend Gut"
-  },
-  {
-    "id": "8416968",
-    "latitude": 43.86,
-    "longitude": -69.6867,
-    "name": "Isle of Springs"
-  },
-  {
-    "id": "8416928",
-    "latitude": 43.925,
-    "longitude": -69.67,
-    "name": "Cross River entrance"
-  },
-  {
-    "id": "8416921",
-    "latitude": 44,
-    "longitude": -69.6667,
-    "name": "Wiscasset"
-  },
-  {
-    "id": "8416804",
-    "latitude": 44.05,
-    "longitude": -69.6183,
-    "name": "Sheepscot (below rapids)"
-  },
-  {
-    "id": "8416961",
-    "latitude": 43.9583,
-    "longitude": -69.6833,
-    "name": "Back River"
-  },
-  {
-    "id": "8417067",
-    "latitude": 43.8533,
-    "longitude": -69.7333,
-    "name": "Robinhood, Sasanoa River"
-  },
-  {
-    "id": "8417127",
-    "latitude": 43.8867,
-    "longitude": -69.7633,
-    "name": "Mill Point, Sasanoa River"
-  },
-  {
-    "id": "8417177",
-    "latitude": 43.755,
-    "longitude": -69.785,
-    "name": "Fort Popham, Hunniwell Point"
-  },
-  {
-    "id": "8417221",
-    "latitude": 43.8183,
-    "longitude": -69.81,
-    "name": "Phippsburg"
-  },
-  {
-    "id": "8417227",
-    "latitude": 43.925,
-    "longitude": -69.815,
-    "name": "Bath"
-  },
-  {
-    "id": "8417271",
-    "latitude": 43.9817,
-    "longitude": -69.835,
-    "name": "Sturgeon Island, Merrymeeting Bay"
-  },
-  {
-    "id": "8417377",
-    "latitude": 43.95,
-    "longitude": -69.8883,
-    "name": "Androscoggin River entrance"
-  },
-  {
-    "id": "8417527",
-    "latitude": 43.9217,
-    "longitude": -69.9633,
-    "name": "Brunswick, Androscoggin River"
-  },
-  {
-    "id": "8417391",
-    "latitude": 44.0083,
-    "longitude": -69.895,
-    "name": "Bowdoinham, Cathance River"
-  },
-  {
-    "id": "8417387",
-    "latitude": 43.7883,
-    "longitude": -69.8933,
-    "name": "Cundy Harbor, New Meadows River"
-  },
-  {
-    "id": "8417367",
-    "latitude": 43.89,
-    "longitude": -69.8833,
-    "name": "Howard Point, New Meadows River"
-  },
-  {
-    "id": "8417647",
-    "latitude": 43.7383,
-    "longitude": -70.0233,
-    "name": "South Harpswell, Potts Harbor"
-  },
-  {
-    "id": "8417553",
-    "latitude": 43.825,
-    "longitude": -69.9767,
-    "name": "Wilson Cove, Middle Bay"
-  },
-  {
-    "id": "8417801",
-    "latitude": 43.82,
-    "longitude": -70.1033,
-    "name": "South Freeport"
-  },
-  {
-    "id": "8417948",
-    "latitude": 43.7617,
-    "longitude": -70.1733,
-    "name": "Prince Point"
-  },
-  {
-    "id": "8417874",
-    "latitude": 43.7517,
-    "longitude": -70.14,
-    "name": "Doyle Point"
-  },
-  {
-    "id": "8418015",
-    "latitude": 43.7317,
-    "longitude": -70.205,
-    "name": "Falmouth Foreside"
-  },
-  {
-    "id": "8417881",
-    "latitude": 43.7217,
-    "longitude": -70.1417,
-    "name": "Great Chebeague Island"
-  },
-  {
-    "id": "8417821",
-    "latitude": 43.695,
-    "longitude": -70.11,
-    "name": "Cliff Island, Luckse Sound"
-  },
-  {
-    "id": "8417911",
-    "latitude": 43.6767,
-    "longitude": -70.155,
-    "name": "Vaill Island"
-  },
-  {
-    "id": "8417941",
-    "latitude": 43.69,
-    "longitude": -70.17,
-    "name": "Long Island"
-  },
-  {
-    "id": "8418009",
-    "latitude": 43.69,
-    "longitude": -70.19,
-    "name": "Cow Island"
-  },
-  {
-    "id": "8418137",
-    "latitude": 43.6867,
-    "longitude": -70.2467,
-    "name": "Presumpscot River Bridge"
-  },
-  {
-    "id": "8418175",
-    "latitude": 43.6767,
-    "longitude": -70.255,
-    "name": "Back Cove"
-  },
-  {
-    "id": "8417988",
-    "latitude": 43.67,
-    "longitude": -70.2,
-    "name": "Great Diamond Island"
-  },
-  {
-    "id": "8418001",
-    "latitude": 43.655,
-    "longitude": -70.2,
-    "name": "Peak Island"
-  },
-  {
-    "id": "8417997",
-    "latitude": 43.645,
-    "longitude": -70.1983,
-    "name": "Cushing Island"
-  },
-  {
-    "id": "8418150",
-    "latitude": 43.65805,
-    "longitude": -70.24416,
-    "name": "Portland"
-  },
-  {
-    "id": "8418268",
-    "latitude": 43.6417,
-    "longitude": -70.285,
-    "name": "Fore River"
-  },
-  {
-    "id": "8418031",
-    "latitude": 43.6233,
-    "longitude": -70.2067,
-    "name": "Portland Head Light"
-  },
-  {
-    "id": "8418445",
-    "latitude": 43.545,
-    "longitude": -70.3333,
-    "name": "Pine Point, Scarborough River"
-  },
-  {
-    "id": "8418557",
-    "latitude": 43.5167,
-    "longitude": -70.3667,
-    "name": "Old Orchard Beach"
-  },
-  {
-    "id": "8418606",
-    "latitude": 43.4617,
-    "longitude": -70.3817,
-    "name": "Camp Ellis, Saco River Entrance"
-  },
-  {
-    "id": "8418828",
-    "latitude": 43.4917,
-    "longitude": -70.4467,
-    "name": "Biddeford, Saco River"
-  },
-  {
-    "id": "8418772",
-    "latitude": 43.3667,
-    "longitude": -70.4317,
-    "name": "Cape Porpoise"
-  },
-  {
-    "id": "8418911",
-    "latitude": 43.3583,
-    "longitude": -70.4767,
-    "name": "Kennebunkport"
-  },
-  {
-    "id": "8419317",
-    "latitude": 43.32,
-    "longitude": -70.5633,
-    "name": "Wells, Webhannet River"
-  },
-  {
-    "id": "8419399",
-    "latitude": 43.1667,
-    "longitude": -70.5933,
-    "name": "Cape Neddick"
-  },
-  {
-    "id": "8419518",
-    "latitude": 43.1317,
-    "longitude": -70.6417,
-    "name": "York Harbor"
-  },
-  {
-    "id": "8419528",
-    "latitude": 43.13,
-    "longitude": -70.6383,
-    "name": "Fort Point, York Harbor"
-  },
-  {
-    "id": "8419590",
-    "latitude": 43.085,
-    "longitude": -70.6617,
-    "name": "Seapoint, Cutts Island"
   },
   {
     "id": "8460751",
@@ -9666,6 +9426,240 @@
     "name": "Tindalls Wharf, Cohansey River"
   },
   {
+    "id": "8557380",
+    "latitude": 38.78283,
+    "longitude": -75.11928,
+    "name": "Lewes (breakwater Harbor)"
+  },
+  {
+    "id": "8556198",
+    "latitude": 38.945,
+    "longitude": -75.3133,
+    "name": "Mispillion River entrance"
+  },
+  {
+    "id": "8555388",
+    "latitude": 39.0583,
+    "longitude": -75.3967,
+    "name": "Murderkill River entrance"
+  },
+  {
+    "id": "8554399",
+    "latitude": 39.185,
+    "longitude": -75.4,
+    "name": "Mahon River entrance"
+  },
+  {
+    "id": "8554038",
+    "latitude": 39.245,
+    "longitude": -75.5183,
+    "name": "Leipsic, Leipsic River"
+  },
+  {
+    "id": "8537416",
+    "latitude": 39.4067,
+    "longitude": -75.405,
+    "name": "Stathems Neck, Stow Creek, N.J."
+  },
+  {
+    "id": "8553501",
+    "latitude": 39.3333,
+    "longitude": -75.4667,
+    "name": "Woodland Beach, Del."
+  },
+  {
+    "id": "8537489",
+    "latitude": 39.4217,
+    "longitude": -75.3817,
+    "name": "Raccoon Ditch, Newport Meadows, Stow Creek, N.J."
+  },
+  {
+    "id": "8537562",
+    "latitude": 39.4617,
+    "longitude": -75.4033,
+    "name": "Canton, Stow Creek, N.J."
+  },
+  {
+    "id": "8537535",
+    "latitude": 39.4317,
+    "longitude": -75.4467,
+    "name": "1 n.mi. above entrance, N.J."
+  },
+  {
+    "id": "8537488",
+    "latitude": 39.4217,
+    "longitude": -75.4283,
+    "name": "Pine Island, Malapartis Creek, N.J."
+  },
+  {
+    "id": "8537667",
+    "latitude": 39.4583,
+    "longitude": -75.495,
+    "name": "Hope Creek, 0.6 n.mi. above entrance, N.J."
+  },
+  {
+    "id": "8553069",
+    "latitude": 39.405,
+    "longitude": -75.5983,
+    "name": "Taylors Bridge, Blackbird Creek, Del."
+  },
+  {
+    "id": "8537614",
+    "latitude": 39.46,
+    "longitude": -75.5317,
+    "name": "Artificial Island, Salem Nuclear Plant, N.J."
+  },
+  {
+    "id": "8537961",
+    "latitude": 39.57,
+    "longitude": -75.4983,
+    "name": "Sinnickson Landing"
+  },
+  {
+    "id": "8537979",
+    "latitude": 39.5767,
+    "longitude": -75.4767,
+    "name": "Salem"
+  },
+  {
+    "id": "8537731",
+    "latitude": 39.4967,
+    "longitude": -75.5167,
+    "name": "0.8 n.mi. above entrance"
+  },
+  {
+    "id": "8537774",
+    "latitude": 39.5117,
+    "longitude": -75.4933,
+    "name": "Abbots Meadow"
+  },
+  {
+    "id": "8537753",
+    "latitude": 39.505,
+    "longitude": -75.4833,
+    "name": "2.5 n.mi. above entrance"
+  },
+  {
+    "id": "8537779",
+    "latitude": 39.5133,
+    "longitude": -75.4467,
+    "name": "Coopers Creek bridge"
+  },
+  {
+    "id": "8537889",
+    "latitude": 39.5483,
+    "longitude": -75.415,
+    "name": "Quinton"
+  },
+  {
+    "id": "8551910",
+    "latitude": 39.55833,
+    "longitude": -75.57195,
+    "name": "Reedy Point"
+  },
+  {
+    "id": "8551973",
+    "latitude": 39.555,
+    "longitude": -75.6483,
+    "name": "St. Georges, Delaware"
+  },
+  {
+    "id": "8552125",
+    "latitude": 39.5333,
+    "longitude": -75.7333,
+    "name": "Summit Bridge, Delaware"
+  },
+  {
+    "id": "8573927",
+    "latitude": 39.52667,
+    "longitude": -75.81,
+    "name": "Chesapeake City, Maryland"
+  },
+  {
+    "id": "8551851",
+    "latitude": 39.57,
+    "longitude": -75.59,
+    "name": "Delaware City Branch Channel bridge"
+  },
+  {
+    "id": "8551762",
+    "latitude": 39.5822,
+    "longitude": -75.58897,
+    "name": "Delaware City"
+  },
+  {
+    "id": "8551702",
+    "latitude": 39.5833,
+    "longitude": -75.5733,
+    "name": "Pea Patch Island, Bulkhead Shoal Channel, Del."
+  },
+  {
+    "id": "8551201",
+    "latitude": 39.6567,
+    "longitude": -75.5617,
+    "name": "New Castle, Delaware"
+  },
+  {
+    "id": "8538231",
+    "latitude": 39.6833,
+    "longitude": -75.51,
+    "name": "Salem Canal entrance, N.J."
+  },
+  {
+    "id": "8550714",
+    "latitude": 39.7183,
+    "longitude": -75.52,
+    "name": "Wilmington Marine Terminal"
+  },
+  {
+    "id": "8550658",
+    "latitude": 39.725,
+    "longitude": -75.56,
+    "name": "Millside, RR. bridge"
+  },
+  {
+    "id": "8550438",
+    "latitude": 39.75,
+    "longitude": -75.4933,
+    "name": "Edgemoor, Del."
+  },
+  {
+    "id": "8538369",
+    "latitude": 39.7617,
+    "longitude": -75.4033,
+    "name": "Pedricktown, Oldmans Creek, N.J."
+  },
+  {
+    "id": "8538274",
+    "latitude": 39.715,
+    "longitude": -75.36,
+    "name": "Auburn, Oldmans Creek, N.J."
+  },
+  {
+    "id": "8557863",
+    "latitude": 38.72,
+    "longitude": -75.0833,
+    "name": "Rehoboth Beach"
+  },
+  {
+    "id": "8558690",
+    "latitude": 38.61,
+    "longitude": -75.07,
+    "name": "Indian River Inlet (Coast Guard Station)"
+  },
+  {
+    "id": "8558814",
+    "latitude": 38.5915,
+    "longitude": -75.2116,
+    "name": "Rosedale Beach, Indian River"
+  },
+  {
+    "id": "8559957",
+    "latitude": 38.455,
+    "longitude": -75.0583,
+    "name": "Little Assawoman Bay"
+  },
+  {
     "id": "8540433",
     "latitude": 39.81181,
     "longitude": -75.4095,
@@ -9949,8 +9943,8 @@
   },
   {
     "id": "8571072",
-    "latitude": 37.96169,
-    "longitude": -75.82169,
+    "latitude": 44.71543,
+    "longitude": -66.51543,
     "name": "Ape Hole Creek, Pocomoke Sound"
   },
   {
@@ -10345,8 +10339,8 @@
   },
   {
     "id": "8575512",
-    "latitude": 40.98333,
-    "longitude": -80.48161,
+    "latitude": 38.9833,
+    "longitude": -76.4816,
     "name": "Annapolis (US Naval Academy)"
   },
   {
@@ -11665,8 +11659,8 @@
   },
   {
     "id": "8658120",
-    "latitude": 34.2275,
-    "longitude": -77.95361,
+    "latitude": 34.2267,
+    "longitude": -77.9533,
     "name": "Wilmington"
   },
   {
@@ -14391,7 +14385,7 @@
     "id": "8722937",
     "latitude": 26.1183,
     "longitude": -80.145,
-    "name": "Andrews Avenue bridge, New River"
+    "name": "Fort Lauderdale, Andrews Ave. Bridge"
   },
   {
     "id": "8723156",
@@ -14683,7 +14677,7 @@
   },
   {
     "id": "8722832",
-    "latitude": 26.31331,
+    "latitude": 26.3133,
     "longitude": -80.0817,
     "name": "Deerfield Beach, Hillsboro River"
   },
@@ -17064,6 +17058,12 @@
     "name": "Warrington, 2 miles south of"
   },
   {
+    "id": "8729840",
+    "latitude": 30.4044,
+    "longitude": -87.2112,
+    "name": "Pensacola"
+  },
+  {
     "id": "8729807",
     "latitude": 30.3275,
     "longitude": -87.14195,
@@ -17527,9 +17527,15 @@
   },
   {
     "id": "TEC4445",
-    "latitude": 30.0,
+    "latitude": 30,
     "longitude": -89.93333,
     "name": "Paris Road Bridge (ICWW)"
+  },
+  {
+    "id": "8761115",
+    "latitude": 29.3506,
+    "longitude": -89.5399,
+    "name": "Bay Pomme D'or"
   },
   {
     "id": "8761212",
@@ -17542,6 +17548,12 @@
     "latitude": 29.2867,
     "longitude": -89.6633,
     "name": "Bastian Island"
+  },
+  {
+    "id": "8761432",
+    "latitude": 29.5127,
+    "longitude": -89.7645,
+    "name": "Bayou Chene"
   },
   {
     "id": "8761557",
@@ -17953,8 +17965,8 @@
   },
   {
     "id": "8770733",
-    "latitude": 29.76486,
-    "longitude": -95.07886,
+    "latitude": 29.765,
+    "longitude": -95.0783,
     "name": "Lynchburg Landing, San Jacinto River"
   },
   {
@@ -18764,7 +18776,7 @@
   {
     "id": "1617846",
     "latitude": 19.6433,
-    "longitude": -156.0,
+    "longitude": -156,
     "name": "Kailua Kona"
   },
   {
@@ -18823,7 +18835,7 @@
   },
   {
     "id": "TPT2821",
-    "latitude": -10.0,
+    "latitude": -10,
     "longitude": -150.23334,
     "name": "Caroline Island"
   },
@@ -18937,7 +18949,7 @@
   },
   {
     "id": "TPT2823",
-    "latitude": -9.0,
+    "latitude": -9,
     "longitude": -157.98334,
     "name": "Penrhyn (Tongareva Island)"
   },
@@ -19015,7 +19027,7 @@
   },
   {
     "id": "TPT2883",
-    "latitude": -18.0,
+    "latitude": -18,
     "longitude": 179.21666,
     "name": "Ngau Island"
   },
