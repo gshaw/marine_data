@@ -8835,14 +8835,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
     "hull": "3DV50",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK62.PAFC"
     ],
-    "note": "The previous hull, 3DV58, remains on site located at 57*00'56\"N, 177*42'11\"W. It's approximately 8 NM to the west."
+    "note": "The previous hull, 3DV58, remains on site located at 57?00'56\"N, 177?42'11\"W. It's approximately 8 NM to the west."
   },
   {
     "id": "46036",
