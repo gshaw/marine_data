@@ -741,14 +741,6 @@
     ]
   },
   {
-    "id": "42092",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "42095",
     "kinds": [
       "adcp",
@@ -3103,6 +3095,12 @@
   },
   {
     "id": "CMAN4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "CMLN3",
     "kinds": [
       "txt"
     ]
