@@ -1982,12 +1982,6 @@
     ]
   },
   {
-    "id": "48400",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "51000",
     "kinds": [
       "spec",
@@ -3893,6 +3887,18 @@
     "id": "JNGA2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "JOBP4",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "JOQP4",
+    "kinds": [
+      "ocean"
     ]
   },
   {
