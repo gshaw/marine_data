@@ -9429,7 +9429,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D10",
+    "hull": null,
     "payload": "ARES payload",
     "forecasts": [
       "FZAK52.PAJK"
