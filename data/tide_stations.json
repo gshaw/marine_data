@@ -350,7 +350,7 @@
   {
     "id": "9414262",
     "latitude": 37.7,
-    "longitude": -123,
+    "longitude": -123.0,
     "name": "Southeast Farallon Island"
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "id": "9436031",
     "latitude": 44.8967,
-    "longitude": -124,
+    "longitude": -124.0,
     "name": "Kernville, Siletz River"
   },
   {
@@ -2635,7 +2635,7 @@
   },
   {
     "id": "8218617",
-    "latitude": 55,
+    "latitude": 55.0,
     "longitude": -129.9,
     "name": "Mill Bay, Nass River, B.C."
   },
@@ -2911,7 +2911,7 @@
   },
   {
     "id": "9450226",
-    "latitude": 55,
+    "latitude": 55.0,
     "longitude": -132.592,
     "name": "Mabel Island"
   },
@@ -3079,7 +3079,7 @@
   },
   {
     "id": "TWC1583",
-    "latitude": 56,
+    "latitude": 56.0,
     "longitude": -133.46666,
     "name": "Marble Island"
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "id": "TWC1663",
-    "latitude": 57,
+    "latitude": 57.0,
     "longitude": -133.31667,
     "name": "Portage Bay, Kupreanof Island"
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "id": "TWC2095",
-    "latitude": 58,
+    "latitude": 58.0,
     "longitude": -154.98334,
     "name": "Katmai Bay, Shelikof Strait"
   },
@@ -6385,7 +6385,7 @@
   },
   {
     "id": "8416921",
-    "latitude": 44.0,
+    "latitude": 44,
     "longitude": -69.6667,
     "name": "Wiscasset"
   },
@@ -8072,7 +8072,7 @@
   {
     "id": "8514322",
     "latitude": 40.75,
-    "longitude": -73.0,
+    "longitude": -73,
     "name": "Patchogue"
   },
   {
@@ -12145,7 +12145,7 @@
   },
   {
     "id": "8664099",
-    "latitude": 33.0,
+    "latitude": 33,
     "longitude": -79.4967,
     "name": "Five Fathom Creek entrance"
   },
@@ -13184,7 +13184,7 @@
   {
     "id": "8669277",
     "latitude": 32.195,
-    "longitude": -81.0,
+    "longitude": -81,
     "name": "Cook Landing Cemetery"
   },
   {
@@ -13298,7 +13298,7 @@
   {
     "id": "TEC3403",
     "latitude": 31.93333,
-    "longitude": -81.0,
+    "longitude": -81,
     "name": "Romerly Marsh Creek"
   },
   {
@@ -13309,8 +13309,8 @@
   },
   {
     "id": "TEC3405",
-    "latitude": 32.0,
-    "longitude": -81.0,
+    "latitude": 32,
+    "longitude": -81,
     "name": "Savannah Sheraton Resort Hotel"
   },
   {
@@ -13322,7 +13322,7 @@
   {
     "id": "TEC3409",
     "latitude": 32.06667,
-    "longitude": -81.0,
+    "longitude": -81,
     "name": "North entrance"
   },
   {
@@ -18776,7 +18776,7 @@
   {
     "id": "1617846",
     "latitude": 19.6433,
-    "longitude": -156,
+    "longitude": -156.0,
     "name": "Kailua Kona"
   },
   {
@@ -18835,7 +18835,7 @@
   },
   {
     "id": "TPT2821",
-    "latitude": -10,
+    "latitude": -10.0,
     "longitude": -150.23334,
     "name": "Caroline Island"
   },
@@ -18949,7 +18949,7 @@
   },
   {
     "id": "TPT2823",
-    "latitude": -9,
+    "latitude": -9.0,
     "longitude": -157.98334,
     "name": "Penrhyn (Tongareva Island)"
   },
@@ -19027,7 +19027,7 @@
   },
   {
     "id": "TPT2883",
-    "latitude": -18,
+    "latitude": -18.0,
     "longitude": 179.21666,
     "name": "Ngau Island"
   },

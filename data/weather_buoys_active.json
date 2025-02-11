@@ -3688,12 +3688,6 @@
     ]
   },
   {
-    "id": "GSLM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "GTLM4",
     "kinds": [
       "txt"
@@ -4163,7 +4157,6 @@
   {
     "id": "LONF1",
     "kinds": [
-      "supl",
       "txt"
     ]
   },
