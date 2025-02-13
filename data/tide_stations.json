@@ -17527,7 +17527,7 @@
   },
   {
     "id": "TEC4445",
-    "latitude": 30.0,
+    "latitude": 30,
     "longitude": -89.93333,
     "name": "Paris Road Bridge (ICWW)"
   },
@@ -19172,7 +19172,7 @@
   {
     "id": "TEC4641",
     "latitude": 22.36667,
-    "longitude": -73.0,
+    "longitude": -73,
     "name": "Abraham Bay, Mayaguana Island"
   },
   {
@@ -19184,7 +19184,7 @@
   {
     "id": "TEC4645",
     "latitude": 22.93333,
-    "longitude": -80.0,
+    "longitude": -80,
     "name": "La Isabela"
   },
   {
@@ -19826,7 +19826,7 @@
   {
     "id": "TEC4775",
     "latitude": 14.01667,
-    "longitude": -61.0,
+    "longitude": -61,
     "name": "Castries, St. Lucia"
   },
   {
