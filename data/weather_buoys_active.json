@@ -507,7 +507,6 @@
     "id": "41082",
     "kinds": [
       "ocean",
-      "spec",
       "srad",
       "txt"
     ]
@@ -3907,12 +3906,6 @@
   },
   {
     "id": "JXUF1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "KATP",
     "kinds": [
       "txt"
     ]
