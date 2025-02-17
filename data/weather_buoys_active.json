@@ -507,6 +507,7 @@
     "id": "41082",
     "kinds": [
       "ocean",
+      "spec",
       "srad",
       "txt"
     ]
