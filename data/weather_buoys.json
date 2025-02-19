@@ -9429,7 +9429,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": null,
+    "hull": "3D10",
     "payload": "ARES payload",
     "forecasts": [
       "FZAK52.PAJK"
@@ -16849,6 +16849,21 @@
     "name": "8726413 - C-Cut, St. Petersburg, FL",
     "ownerCode": "O",
     "ownerName": "NOS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Water Level Observation Network",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "CDCF1",
+    "latitude": 27.754,
+    "longitude": -82.514,
+    "name": "8726504 - Cut D Channel Inbound Rear Range",
+    "ownerCode": "PT",
+    "ownerName": "NOAA NOS PORTS",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "Water Level Observation Network",
