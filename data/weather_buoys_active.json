@@ -937,6 +937,7 @@
   {
     "id": "44062",
     "kinds": [
+      "adcp",
       "ocean",
       "txt"
     ]
@@ -3913,6 +3914,12 @@
     ]
   },
   {
+    "id": "JOBP4",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "JXUF1",
     "kinds": [
       "txt"
@@ -6061,7 +6068,8 @@
     "id": "WIWF1",
     "kinds": [
       "ocean",
-      "rain"
+      "rain",
+      "txt"
     ]
   },
   {
