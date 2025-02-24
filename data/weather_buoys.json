@@ -12477,14 +12477,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter foam buoy",
     "hull": "3DV53",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZHW60.PHFO"
     ],
-    "note": null
+    "note": "The buoy from station 51003 has gone adrift of as 0700z, 2/24/25. The latest position from the buoy can be viewed here."
   },
   {
     "id": "51004",

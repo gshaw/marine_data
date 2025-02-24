@@ -3918,18 +3918,6 @@
     ]
   },
   {
-    "id": "JOBP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "JOQP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "JXUF1",
     "kinds": [
       "txt"
@@ -6009,12 +5997,6 @@
   },
   {
     "id": "WASD2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "WAXM3",
     "kinds": [
       "txt"
     ]
