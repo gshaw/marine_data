@@ -968,7 +968,6 @@
   {
     "id": "44072",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -1301,8 +1300,6 @@
   {
     "id": "46053",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -5711,6 +5708,12 @@
   },
   {
     "id": "TAQT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "TAWM4",
     "kinds": [
       "txt"
     ]
