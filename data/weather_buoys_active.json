@@ -5801,7 +5801,8 @@
   {
     "id": "TIBC1",
     "kinds": [
-      "ocean"
+      "ocean",
+      "txt"
     ]
   },
   {
