@@ -1502,6 +1502,12 @@
     ]
   },
   {
+    "id": "46122",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "46131",
     "kinds": [
       "txt"
@@ -3170,6 +3176,12 @@
     "id": "CRGA2",
     "kinds": [
       "supl",
+      "txt"
+    ]
+  },
+  {
+    "id": "CRTA1",
+    "kinds": [
       "txt"
     ]
   },
@@ -5495,6 +5507,12 @@
     "id": "SEIM1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "SEQA2",
+    "kinds": [
+      "ocean"
     ]
   },
   {
