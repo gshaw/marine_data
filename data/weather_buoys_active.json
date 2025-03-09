@@ -5490,12 +5490,6 @@
     ]
   },
   {
-    "id": "SEQA2",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "SETO3",
     "kinds": [
       "ocean"
@@ -5990,12 +5984,6 @@
   },
   {
     "id": "WCRP1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "WCXA2",
     "kinds": [
       "txt"
     ]
