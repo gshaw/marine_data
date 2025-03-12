@@ -3478,20 +3478,20 @@
   },
   {
     "id": "42002",
-    "latitude": 26.055,
-    "longitude": -93.646,
+    "latitude": 25.933,
+    "longitude": -93.767,
     "name": "WEST GULF - 207 NM East of Brownsville, TX",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter foam buoy",
-    "hull": "3DV31",
+    "hull": "3DV18",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT24.KNHC"
     ],
-    "note": "As of 1740z, 10/25/24, the buoy from station 42002 has been recovered. The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
+    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
   },
   {
     "id": "42003",
