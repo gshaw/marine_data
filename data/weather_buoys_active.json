@@ -594,6 +594,15 @@
     ]
   },
   {
+    "id": "42002",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "42012",
     "kinds": [
       "supl",
