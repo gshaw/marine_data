@@ -941,13 +941,6 @@
     ]
   },
   {
-    "id": "44058",
-    "kinds": [
-      "adcp",
-      "txt"
-    ]
-  },
-  {
     "id": "44062",
     "kinds": [
       "adcp",
@@ -5877,6 +5870,12 @@
     "kinds": [
       "ocean",
       "rain",
+      "txt"
+    ]
+  },
+  {
+    "id": "TSHF1",
+    "kinds": [
       "txt"
     ]
   },
