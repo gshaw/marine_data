@@ -1298,6 +1298,8 @@
   {
     "id": "46053",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -1460,7 +1462,6 @@
     "id": "46097",
     "kinds": [
       "ocean",
-      "spec",
       "srad",
       "txt"
     ]
