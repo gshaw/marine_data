@@ -913,7 +913,6 @@
     "id": "44033",
     "kinds": [
       "adcp",
-      "ocean",
       "txt"
     ]
   },
@@ -3174,12 +3173,6 @@
     "id": "CRGA2",
     "kinds": [
       "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "CRTA1",
-    "kinds": [
       "txt"
     ]
   },
