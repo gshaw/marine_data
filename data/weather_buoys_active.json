@@ -594,6 +594,14 @@
     ]
   },
   {
+    "id": "41159",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "42001",
     "kinds": [
       "spec",
@@ -5332,6 +5340,12 @@
     "id": "RIXA2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "RKQF1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
