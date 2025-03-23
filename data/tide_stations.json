@@ -17527,7 +17527,7 @@
   },
   {
     "id": "TEC4445",
-    "latitude": 30,
+    "latitude": 30.0,
     "longitude": -89.93333,
     "name": "Paris Road Bridge (ICWW)"
   },
@@ -18776,7 +18776,7 @@
   {
     "id": "1617846",
     "latitude": 19.6433,
-    "longitude": -156.0,
+    "longitude": -156,
     "name": "Kailua Kona"
   },
   {
@@ -18835,7 +18835,7 @@
   },
   {
     "id": "TPT2821",
-    "latitude": -10.0,
+    "latitude": -10,
     "longitude": -150.23334,
     "name": "Caroline Island"
   },
@@ -18949,7 +18949,7 @@
   },
   {
     "id": "TPT2823",
-    "latitude": -9.0,
+    "latitude": -9,
     "longitude": -157.98334,
     "name": "Penrhyn (Tongareva Island)"
   },
@@ -19027,7 +19027,7 @@
   },
   {
     "id": "TPT2883",
-    "latitude": -18.0,
+    "latitude": -18,
     "longitude": 179.21666,
     "name": "Ngau Island"
   },
@@ -19172,7 +19172,7 @@
   {
     "id": "TEC4641",
     "latitude": 22.36667,
-    "longitude": -73,
+    "longitude": -73.0,
     "name": "Abraham Bay, Mayaguana Island"
   },
   {
@@ -19184,7 +19184,7 @@
   {
     "id": "TEC4645",
     "latitude": 22.93333,
-    "longitude": -80,
+    "longitude": -80.0,
     "name": "La Isabela"
   },
   {
@@ -19826,7 +19826,7 @@
   {
     "id": "TEC4775",
     "latitude": 14.01667,
-    "longitude": -61,
+    "longitude": -61.0,
     "name": "Castries, St. Lucia"
   },
   {
