@@ -1304,8 +1304,6 @@
   {
     "id": "46053",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -3679,12 +3677,6 @@
   },
   {
     "id": "GRRT2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "GSLM4",
     "kinds": [
       "txt"
     ]
