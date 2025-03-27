@@ -740,6 +740,7 @@
     "kinds": [
       "spec",
       "spectral",
+      "supl",
       "txt"
     ]
   },
@@ -2027,6 +2028,12 @@
   },
   {
     "id": "51045",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "51046",
     "kinds": [
       "ocean"
     ]
