@@ -17832,6 +17832,21 @@
     "note": null
   },
   {
+    "id": "CXLM2",
+    "latitude": 38.679,
+    "longitude": -76.174,
+    "name": "Cooperative Oxford Laboratory",
+    "ownerCode": "O",
+    "ownerName": "NOS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Water Level Observation Network",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "CYGM4",
     "latitude": 45.658,
     "longitude": -84.464,
