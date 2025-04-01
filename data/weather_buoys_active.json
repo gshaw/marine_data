@@ -1037,14 +1037,6 @@
     ]
   },
   {
-    "id": "44087",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "44088",
     "kinds": [
       "adcp",
@@ -3622,12 +3614,6 @@
     "id": "GDMM5",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GDQM6",
-    "kinds": [
-      "ocean"
     ]
   },
   {
