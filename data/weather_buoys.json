@@ -3192,7 +3192,7 @@
     "hull": "2.6D98",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "As of 0000z, 5/3/24, the buoy at station 41420 has gone adrift. The latest position for the buoy can be viewed here."
+    "note": "As of 0000z, 5/3/24, the buoy at station 41420 has gone adrift. It has been renamed to 41D20. The latest position for the buoy can be viewed here."
   },
   {
     "id": "41421",
@@ -3350,18 +3350,18 @@
   },
   {
     "id": "41D20",
-    "latitude": 23.508,
-    "longitude": -67.287,
+    "latitude": 23.375,
+    "longitude": -67.345,
     "name": "Adrift from 41420",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6 meter DART buoy",
-    "hull": "2.6D59",
+    "hull": "2.6D98",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "2.6D59 went adrift from station 41420 at 6/2/17. It has been renamed 41D20 for tracking purposes and is now aground on Harbour Island, Bahamas."
+    "note": "2.6D98 went adrift from station 41420 at 00z, 5/3/24. It has been renamed 41D20 for tracking purposes."
   },
   {
     "id": "41NT0",
