@@ -4286,15 +4286,15 @@
   },
   {
     "id": "42059",
-    "latitude": 15.3,
-    "longitude": -67.483,
+    "latitude": 15.285,
+    "longitude": -67.567,
     "name": "Eastern Caribbean Sea - 180 NM SSW of Ponce, PR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV64",
+    "hull": "3DV27",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
