@@ -330,6 +330,8 @@
   {
     "id": "41009",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -3544,12 +3546,6 @@
   },
   {
     "id": "FPST2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "FPTM4",
     "kinds": [
       "txt"
     ]
