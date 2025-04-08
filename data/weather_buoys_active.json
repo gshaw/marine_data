@@ -1175,6 +1175,7 @@
     "kinds": [
       "adcp",
       "ocean",
+      "spec",
       "txt"
     ]
   },
@@ -2419,12 +2420,6 @@
     ]
   },
   {
-    "id": "5401001",
-    "kinds": [
-      "dart"
-    ]
-  },
-  {
     "id": "5401002",
     "kinds": [
       "dart"
@@ -2733,6 +2728,13 @@
     "kinds": [
       "ocean",
       "rain",
+      "txt"
+    ]
+  },
+  {
+    "id": "BDXC1",
+    "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -5808,7 +5810,6 @@
   {
     "id": "TIBC1",
     "kinds": [
-      "ocean",
       "txt"
     ]
   },
