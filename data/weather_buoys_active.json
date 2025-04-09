@@ -526,6 +526,15 @@
     ]
   },
   {
+    "id": "41083",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
     "id": "41108",
     "kinds": [
       "spec",
@@ -3487,12 +3496,6 @@
     "kinds": [
       "cwind",
       "txt"
-    ]
-  },
-  {
-    "id": "FLQN6",
-    "kinds": [
-      "ocean"
     ]
   },
   {

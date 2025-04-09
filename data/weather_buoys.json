@@ -8712,7 +8712,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": null
+    "note": "Buoy recovered 5/9/25."
   },
   {
     "id": "46027",
@@ -17841,6 +17841,21 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "Water Quality Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "CXLM2",
+    "latitude": 38.679,
+    "longitude": -76.174,
+    "name": "Cooperative Oxford Laboratory",
+    "ownerCode": "N3",
+    "ownerName": "National Centers for Coastal Ocean Science",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
