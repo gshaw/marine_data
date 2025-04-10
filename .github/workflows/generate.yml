@@ -36,7 +36,7 @@ jobs:
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add data/tide_stations.json data/weather_buoys_active.json data/weather_buoys.json
-        git commit -m "Update data files"
+        git commit -m "Update data files [skip ci]"
         git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
         git push
       env:
