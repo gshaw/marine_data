@@ -34,8 +34,8 @@ geo_group_list.each do |group|
     unless all_stations.key?(station_id)
       all_stations[station_id] = {
         "id" => station_id,
-        "latitude" => station["lat"].round(5),
-        "longitude" => station["lon"].round(5),
+        "latitude" => station["lat"].to_f.round(5),
+        "longitude" => station["lon"].to_f.round(5),
         "name" => sanitize_station_name(station["geoGroupName"])
       }
     end
