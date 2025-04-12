@@ -4838,15 +4838,15 @@
   },
   {
     "id": "43412",
-    "latitude": 16.003,
-    "longitude": -106.989,
+    "latitude": 16.012,
+    "longitude": -107.004,
     "name": "SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D86",
+    "hull": "2.6D84",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
