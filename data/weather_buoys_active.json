@@ -330,8 +330,6 @@
   {
     "id": "41009",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -962,6 +960,12 @@
     "kinds": [
       "spec",
       "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "44058",
+    "kinds": [
       "txt"
     ]
   },
@@ -4702,12 +4706,6 @@
     ]
   },
   {
-    "id": "NPQN6",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "NPXN6",
     "kinds": [
       "txt"
@@ -4890,12 +4888,6 @@
     "id": "OWMO1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "OWQO1",
-    "kinds": [
-      "ocean"
     ]
   },
   {

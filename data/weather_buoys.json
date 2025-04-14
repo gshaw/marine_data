@@ -3196,18 +3196,18 @@
   },
   {
     "id": "41421",
-    "latitude": 23.368,
-    "longitude": -63.882,
+    "latitude": 23.369,
+    "longitude": -63.883,
     "name": "NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D97",
+    "hull": "2.6D28",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "As of 0700z, 02/02/2025, the buoy at station 41421 has gone adrift. It has been renamed to 41D21. The latest position for the buoy can be viewed here."
+    "note": null
   },
   {
     "id": "41424",
