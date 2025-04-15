@@ -3364,21 +3364,6 @@
     "note": "2.6D98 went adrift from station 41420 at 00z, 5/3/24. It has been renamed 41D20 for tracking purposes."
   },
   {
-    "id": "41D21",
-    "latitude": 23.368,
-    "longitude": -63.882,
-    "name": "Adrift buoy from 41421",
-    "ownerCode": "N",
-    "ownerName": "NDBC",
-    "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "Buoy",
-    "hull": "2.6D97",
-    "payload": "DART II payload",
-    "forecasts": [],
-    "note": "As of 0700z, 2/2/25, the buoy from station 41421 has gone adrift. The latest position for the buoy can be found here."
-  },
-  {
     "id": "41NT0",
     "latitude": 15.0,
     "longitude": -51.0,
@@ -4853,15 +4838,15 @@
   },
   {
     "id": "43413",
-    "latitude": 10.949,
-    "longitude": -100.03,
+    "latitude": 10.929,
+    "longitude": -100.029,
     "name": "SOUTH ACAPULCO - 360NM South of Acapulco, MX",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D91",
+    "hull": "2.6D12",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -7988,7 +7973,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for winter 9/18/24."
+    "note": null
   },
   {
     "id": "45200",
@@ -25721,8 +25706,8 @@
   },
   {
     "id": "POTA2",
-    "latitude": 61.06,
-    "longitude": -146.7,
+    "latitude": 61.056,
+    "longitude": -146.697,
     "name": "Potato Point, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
