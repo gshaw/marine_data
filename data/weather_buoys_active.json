@@ -956,7 +956,6 @@
     "id": "44033",
     "kinds": [
       "adcp",
-      "ocean",
       "txt"
     ]
   },
@@ -986,6 +985,7 @@
   {
     "id": "44058",
     "kinds": [
+      "adcp",
       "txt"
     ]
   },
@@ -1017,7 +1017,6 @@
   {
     "id": "44072",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -1671,15 +1670,6 @@
   {
     "id": "46211",
     "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "46213",
-    "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -3243,12 +3233,6 @@
     "id": "CRGA2",
     "kinds": [
       "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "CRTA1",
-    "kinds": [
       "txt"
     ]
   },

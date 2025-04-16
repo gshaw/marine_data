@@ -1002,6 +1002,12 @@
     "name": "Clarksburg"
   },
   {
+    "id": "9416131",
+    "latitude": 38.56225,
+    "longitude": -121.5463,
+    "name": "Port of West Sacramento"
+  },
+  {
     "id": "9416174",
     "latitude": 38.58,
     "longitude": -121.507,
@@ -3420,6 +3426,12 @@
     "name": "Port Snettisham, Crib Point"
   },
   {
+    "id": "9452081",
+    "latitude": 58.1167,
+    "longitude": -133.69,
+    "name": "Port Snettisham, Speel River Arm"
+  },
+  {
     "id": "9452123",
     "latitude": 58.0683,
     "longitude": -134.012,
@@ -5728,6 +5740,12 @@
     "latitude": 56.5667,
     "longitude": -169.6667,
     "name": "Zapadni Bay, St. George Island"
+  },
+  {
+    "id": "9463888",
+    "latitude": 56.60328,
+    "longitude": -169.54956,
+    "name": "St. George, St. George Island"
   },
   {
     "id": "9464212",
@@ -13623,7 +13641,7 @@
     "id": "8677045",
     "latitude": 31.1683,
     "longitude": -81.4133,
-    "name": "Frederick River Bridge"
+    "name": "Frederica River Bridge"
   },
   {
     "id": "8676743",
@@ -16095,7 +16113,7 @@
     "id": "8725110",
     "latitude": 26.13167,
     "longitude": -81.8075,
-    "name": "NAPLES (outer coast)"
+    "name": "Naples (outer coast)"
   },
   {
     "id": "8725235",
@@ -17556,6 +17574,12 @@
     "name": "Bayou Chene"
   },
   {
+    "id": "8761431",
+    "latitude": 29.56669,
+    "longitude": -89.76336,
+    "name": "Rat Bayou"
+  },
+  {
     "id": "8761557",
     "latitude": 29.31,
     "longitude": -89.8533,
@@ -17650,6 +17674,12 @@
     "latitude": 29.4167,
     "longitude": -90.4467,
     "name": "Pointe Au Chien, Cut Off Canal"
+  },
+  {
+    "id": "8762329",
+    "latitude": 29.47039,
+    "longitude": -90.34222,
+    "name": "Bayou Faleau"
   },
   {
     "id": "8762850",
