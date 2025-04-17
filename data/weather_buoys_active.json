@@ -669,7 +669,6 @@
   {
     "id": "42022",
     "kinds": [
-      "adcp",
       "txt"
     ]
   },
@@ -956,6 +955,7 @@
     "id": "44033",
     "kinds": [
       "adcp",
+      "ocean",
       "txt"
     ]
   },
@@ -4904,6 +4904,12 @@
     ]
   },
   {
+    "id": "OWQO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "OWSO1",
     "kinds": [
       "ocean"
@@ -6007,6 +6013,12 @@
     ]
   },
   {
+    "id": "VRMO1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "VTBT2",
     "kinds": [
       "txt"
@@ -6169,6 +6181,12 @@
     "id": "WYCM6",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "WYSS1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
