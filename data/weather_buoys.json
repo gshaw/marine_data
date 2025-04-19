@@ -2382,7 +2382,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter foam buoy",
-    "hull": "3D58",
+    "hull": "3DV62",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
@@ -12684,8 +12684,8 @@
   },
   {
     "id": "51202",
-    "latitude": 21.417,
-    "longitude": -157.68,
+    "latitude": 21.414,
+    "longitude": -157.681,
     "name": "Mokapu Point, HI (098)",
     "ownerCode": "PO",
     "ownerName": "Pacific Islands Ocean Observing System",
