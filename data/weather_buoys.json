@@ -2374,20 +2374,20 @@
   },
   {
     "id": "41046",
-    "latitude": 23.822,
-    "longitude": -68.393,
+    "latitude": 23.857,
+    "longitude": -68.339,
     "name": "EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV62",
+    "hull": "3DV09",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": "Buoy from station 41046 went adrift 8/12/24. It was recovered 09/19/2024."
+    "note": null
   },
   {
     "id": "41047",
@@ -3181,18 +3181,18 @@
   },
   {
     "id": "41420",
-    "latitude": 23.375,
-    "longitude": -67.345,
+    "latitude": 23.433,
+    "longitude": -67.386,
     "name": "NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D98",
-    "payload": "DART II payload",
+    "hull": "2.6D69",
+    "payload": "DART 4G payload",
     "forecasts": [],
-    "note": "As of 0000z, 5/3/24, the buoy at station 41420 has gone adrift. It has been renamed to 41D20. The latest position for the buoy can be viewed here."
+    "note": "As of 0000z, 5/3/24, the previous buoy at station 41420 went adrift. It has been renamed to 41D20. The latest position for the buoy can be viewed here."
   },
   {
     "id": "41421",
@@ -19159,8 +19159,8 @@
   },
   {
     "id": "FFIA2",
-    "latitude": 57.272,
-    "longitude": -133.63,
+    "latitude": 57.27,
+    "longitude": -133.631,
     "name": "Five Fingers, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
