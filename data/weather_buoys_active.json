@@ -432,6 +432,15 @@
     ]
   },
   {
+    "id": "41046",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "41049",
     "kinds": [
       "spec",
@@ -3992,6 +4001,12 @@
   },
   {
     "id": "KEXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KGBK",
     "kinds": [
       "txt"
     ]
