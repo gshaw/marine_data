@@ -1039,7 +1039,6 @@
   {
     "id": "44072",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -2748,6 +2747,13 @@
     ]
   },
   {
+    "id": "BBNF1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "BBSF1",
     "kinds": [
       "ocean",
@@ -3245,6 +3251,7 @@
   {
     "id": "CPXC1",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -5685,12 +5692,6 @@
     ]
   },
   {
-    "id": "SLOO3",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "SLVM5",
     "kinds": [
       "txt"
@@ -5909,6 +5910,12 @@
     "id": "TIBC1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "TIQC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
