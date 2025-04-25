@@ -1672,18 +1672,18 @@
   },
   {
     "id": "32413",
-    "latitude": -7.435,
-    "longitude": -93.442,
+    "latitude": -7.432,
+    "longitude": -93.464,
     "name": "NORTHWEST LIMA - 1000 NM WNW of Lima, Peru",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D69",
+    "hull": "2.6D24",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "The buoy was retrieved on 10/03/24."
+    "note": null
   },
   {
     "id": "32487",
@@ -1837,7 +1837,7 @@
     "forecasts": [
       "FZNT22.KWBC"
     ],
-    "note": "As of 2000z, 12/30/24, the buoy at station 41002 has gone adrift. Data will be restored during our next service visit to this location. Click here to see the latest positions on the adrift buoy. Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "3DV33 has been recovered as of 0002z, 4/25/25. Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "41003",
@@ -3226,15 +3226,15 @@
   },
   {
     "id": "41425",
-    "latitude": 28.673,
-    "longitude": -65.617,
+    "latitude": 28.639,
+    "longitude": -65.774,
     "name": "SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6 meter DART buoy",
-    "hull": "2.6D06",
+    "hull": "2.6D25",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -6853,7 +6853,7 @@
     "forecasts": [
       "FZUS53.KGRB"
     ],
-    "note": "UWM is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station. Near-bottom water quality data is now being displayed. To view near-surface water quality data, click here.Buoy recovered for Winter 9/4/24."
+    "note": "UWM is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station. Near-bottom water quality data is now being displayed. To view near-surface water quality data, click here."
   },
   {
     "id": "45015",
@@ -8142,7 +8142,7 @@
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": "Recovered for Winter"
+    "note": null
   },
   {
     "id": "45211",
