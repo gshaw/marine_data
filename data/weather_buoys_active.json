@@ -439,6 +439,15 @@
     ]
   },
   {
+    "id": "41047",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "41049",
     "kinds": [
       "spec",
@@ -1215,6 +1224,13 @@
     ]
   },
   {
+    "id": "45012",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "45013",
     "kinds": [
       "adcp",
@@ -1245,6 +1261,30 @@
     "kinds": [
       "ocean",
       "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45135",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "45139",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "45149",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "45159",
+    "kinds": [
       "txt"
     ]
   },
@@ -1720,6 +1760,14 @@
     ]
   },
   {
+    "id": "46213",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "46214",
     "kinds": [
       "spec",
@@ -2150,14 +2198,6 @@
   },
   {
     "id": "51205",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "51206",
     "kinds": [
       "spec",
       "spectral",
@@ -5710,6 +5750,12 @@
     "id": "SLIM2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "SLOO3",
+    "kinds": [
+      "ocean"
     ]
   },
   {

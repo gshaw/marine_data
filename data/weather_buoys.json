@@ -2391,20 +2391,20 @@
   },
   {
     "id": "41047",
-    "latitude": 27.465,
-    "longitude": -71.452,
+    "latitude": 27.537,
+    "longitude": -71.478,
     "name": "NE BAHAMAS - 350 NM ENE of Nassau, Bahamas",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV42",
+    "hull": "3DV22",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": "As of 1000z, 10/11/24, the buoy at station 41047 has gone adrift. Data will be restored during our next service visit to this location. Click here. to see the latest positions on the adrift buoy."
+    "note": null
   },
   {
     "id": "41048",
@@ -6812,14 +6812,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS61.KBUF"
     ],
-    "note": "Buoy recovered for winter 12/10/24."
+    "note": null
   },
   {
     "id": "45013",
@@ -15286,7 +15286,7 @@
   },
   {
     "id": "AMAA2",
-    "latitude": 58.915,
+    "latitude": 58.916,
     "longitude": -151.952,
     "name": "East Amatuli Island Light, AK",
     "ownerCode": "N",
@@ -23601,8 +23601,8 @@
   },
   {
     "id": "MRKA2",
-    "latitude": 61.082,
-    "longitude": -146.662,
+    "latitude": 60.839,
+    "longitude": -146.884,
     "name": "Middle Rock Light, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
