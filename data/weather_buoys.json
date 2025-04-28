@@ -1824,20 +1824,20 @@
   },
   {
     "id": "41002",
-    "latitude": 31.759,
-    "longitude": -74.936,
+    "latitude": 31.743,
+    "longitude": -74.955,
     "name": "SOUTH HATTERAS - 225 NM South of Cape Hatteras",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3D66",
+    "hull": "3DV12",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT22.KWBC"
     ],
-    "note": "3DV33 has been recovered as of 0002z, 4/25/25. Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "41003",
