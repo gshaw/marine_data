@@ -814,6 +814,15 @@
     ]
   },
   {
+    "id": "42084",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "42085",
     "kinds": [
       "adcp",
@@ -1337,12 +1346,6 @@
       "spectral",
       "supl",
       "txt"
-    ]
-  },
-  {
-    "id": "46006",
-    "kinds": [
-      "spectral"
     ]
   },
   {
@@ -3574,12 +3577,6 @@
     "id": "ESPP4",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "EVMC1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
