@@ -339,6 +339,8 @@
   {
     "id": "41009",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -1340,6 +1342,12 @@
     ]
   },
   {
+    "id": "45219",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "46001",
     "kinds": [
       "spec",
@@ -2217,14 +2225,6 @@
     ]
   },
   {
-    "id": "51209",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "51210",
     "kinds": [
       "spec",
@@ -2660,13 +2660,6 @@
   {
     "id": "ALXN6",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "AMAA2",
-    "kinds": [
-      "cwind",
       "txt"
     ]
   },
