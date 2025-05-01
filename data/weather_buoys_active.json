@@ -1233,6 +1233,8 @@
   {
     "id": "45012",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -3570,6 +3572,12 @@
     "id": "ESPP4",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "EVMC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
