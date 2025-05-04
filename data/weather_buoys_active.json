@@ -587,14 +587,6 @@
     ]
   },
   {
-    "id": "41114",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "41115",
     "kinds": [
       "spec",
@@ -3247,6 +3239,13 @@
   {
     "id": "CLBP4",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "CLKN7",
+    "kinds": [
+      "supl",
       "txt"
     ]
   },
