@@ -2142,15 +2142,15 @@
   },
   {
     "id": "41025",
-    "latitude": 35.01,
-    "longitude": -75.454,
+    "latitude": 35.015,
+    "longitude": -75.397,
     "name": "Diamond Shoals, NC",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy",
-    "hull": "3D16",
+    "type": "3-meter foam buoy",
+    "hull": "3DV46",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS52.KMHX"
@@ -17241,8 +17241,8 @@
   },
   {
     "id": "CLKN7",
-    "latitude": 34.622,
-    "longitude": -76.525,
+    "latitude": 34.611,
+    "longitude": -76.528,
     "name": "Cape Lookout, NC",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -23601,8 +23601,8 @@
   },
   {
     "id": "MRKA2",
-    "latitude": 60.839,
-    "longitude": -146.884,
+    "latitude": 61.081,
+    "longitude": -146.653,
     "name": "Middle Rock Light, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",

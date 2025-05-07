@@ -587,6 +587,14 @@
     ]
   },
   {
+    "id": "41114",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "41115",
     "kinds": [
       "spec",
@@ -5772,6 +5780,12 @@
   },
   {
     "id": "SJNP4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SJSN4",
     "kinds": [
       "txt"
     ]
