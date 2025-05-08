@@ -4975,7 +4975,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy",
-    "hull": "3D59",
+    "hull": "3D56",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT22.KWBC",
