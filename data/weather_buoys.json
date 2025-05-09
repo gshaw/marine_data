@@ -284,7 +284,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "SD-1063 was replaced on 1200Z, 7/27/24 with SD-1077 (1801593). Data from SD-1077 and other saildrones at this location are available at: 1801593 -- Currently deployed 1801589 -- 0000Z, 9/1/23 to 2359Z, 4/25/24"
+    "note": "SD-1063 was replaced on 1200Z, 7/27/24 with SD-1077 (1801593). Data from SD-1077 and other saildrones at this location are available at: 1801589 -- Currently deployed 1801593 -- 1200Z, 7/27/24 to 1959Z, 5/8/25"
   },
   {
     "id": "1801589",
@@ -301,7 +301,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "SD-1073 was replaced on 0000Z, 4/26/24 with SD-1063 (1801583). Data from SD-1063 and other saildrones at this location are available at: 1801593 -- Currently deployed 1801583 -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
+    "note": "This Saildrone originally provided data for 46012 from 0000, 9/1/23 to 2359Z, 4/25/24. It has been reestablished as of 2000Z, 5/8/25. Data from previous saildrones are available at: 1801593 -- 1200Z, 7/27/24 to 1959Z, 5/8/25 1801589 -- 0000Z, 9/1/23 to 2359Z, 4/25/24"
   },
   {
     "id": "1801593",
@@ -318,7 +318,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "Data from previous saildrones are available at: 1801583 -- 0000Z, 4/26/24 to 0330Z, 7/24/24 1801589 -- 0000Z, 9/1/23 to 2359Z, 4/25/24"
+    "note": "SD-1073 was replaced on 1959Z, 5/8/25 with SD-1077 (1801589). Data from previous saildrones at this location are available at: 1801593 -- 1200Z, 7/27/24 to 1959Z, 5/8/25 1801583 -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
   },
   {
     "id": "18CI3",
@@ -6511,7 +6511,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D95",
+    "hull": "2.6D100",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -8473,7 +8473,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "Saildrone data for this station are available at: 1801593 -- Currently deployed 1801583 -- 0000Z, 4/26/24 to 0330Z, 7/24/24 1801589 -- 0000Z, 9/1/23 to 2359Z, 4/25/24"
+    "note": "Saildrone data for this station are available at: 1801589 -- Currently deployed 1801583 -- 0000Z, 4/26/24 to 0330Z, 7/24/24 1801593 -- 1200Z,7/27/24 to 1959Z, 5/8/25"
   },
   {
     "id": "46013",
