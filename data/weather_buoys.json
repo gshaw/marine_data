@@ -284,7 +284,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "SD-1063 was replaced on 1200Z, 7/27/24 with SD-1077 (1801593). Data from SD-1077 and other saildrones at this location are available at: 1801589 -- Currently deployed 1801593 -- 1200Z, 7/27/24 to 1959Z, 5/8/25"
+    "note": "SD-1063 was replaced on 1200Z, 7/27/24 with SD-1077 (1801593). Data from SD-1077 and other saildrones at this location are available at: SD-1073 (1801589) -- Currently deployed SD-1077 (1801593) -- 1200Z, 7/27/24 to 1959Z, 5/8/25"
   },
   {
     "id": "1801589",
@@ -301,7 +301,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "This Saildrone originally provided data for 46012 from 0000, 9/1/23 to 2359Z, 4/25/24. It has been reestablished as of 2000Z, 5/8/25. Data from previous saildrones are available at: 1801593 -- 1200Z, 7/27/24 to 1959Z, 5/8/25 1801589 -- 0000Z, 9/1/23 to 2359Z, 4/25/24"
+    "note": "This saildrone originally provided data for 46012 from 0000, 9/1/23 to 2359Z, 4/25/24. It has been reestablished as of 2000Z, 5/8/25. Data from previous saildrones are available at: SD-1077 (1801593) -- 1200Z, 7/27/24 to 1959Z, 5/8/25 SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
   },
   {
     "id": "1801593",
@@ -318,7 +318,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "SD-1073 was replaced on 1959Z, 5/8/25 with SD-1077 (1801589). Data from previous saildrones at this location are available at: 1801593 -- 1200Z, 7/27/24 to 1959Z, 5/8/25 1801583 -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
+    "note": "SD-1077 was replaced on 1959Z, 5/8/25 with SD-1073 (1801589). Data from SD-1073 and other saildrones at this location are available at: SD-1073 (1801589) -- Currently deployed SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
   },
   {
     "id": "18CI3",
@@ -4292,14 +4292,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter foam buoy",
     "hull": "3DV27",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": null
+    "note": "As of 0700z, 5/9/25, buoy 42059 has gone adrift and will be restored to service based on planned maintenance schedules. When the maintenance date is known, it will be posted in the Maintenance Schedule. The latest position from the buoy can be viewed here."
   },
   {
     "id": "42060",
@@ -6648,7 +6648,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.1-meter ionomer foam buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
@@ -6665,14 +6665,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.6D57",
+    "hull": "2.6D08",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KDTX"
     ],
-    "note": "Buoy recovered for the winter 1/10/25."
+    "note": null
   },
   {
     "id": "45004",
@@ -6750,7 +6750,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
@@ -8157,7 +8157,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Recovered for Winter."
+    "note": null
   },
   {
     "id": "45212",
@@ -8473,7 +8473,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "Saildrone data for this station are available at: 1801589 -- Currently deployed 1801583 -- 0000Z, 4/26/24 to 0330Z, 7/24/24 1801593 -- 1200Z,7/27/24 to 1959Z, 5/8/25"
+    "note": "Saildrone data for this station are available at: SD-1073 (1801589) -- Currently deployed SD-1077 (1801593) -- 1200Z,7/27/24 to 1959Z, 5/8/25 SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
   },
   {
     "id": "46013",
@@ -9015,7 +9015,7 @@
     "forecasts": [
       "FZPN26.KWBC"
     ],
-    "note": "As of 0200z, 3/4/25, the buoy from station 46047 has gone adrift. To view the latest position from the buoy, click here."
+    "note": "The buoy was retrieved on 05/08/25."
   },
   {
     "id": "46048",

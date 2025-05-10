@@ -1226,6 +1226,13 @@
     ]
   },
   {
+    "id": "45003",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "45012",
     "kinds": [
       "spec",
@@ -1365,6 +1372,14 @@
   },
   {
     "id": "45210",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "45211",
     "kinds": [
       "spec",
       "spectral",
@@ -1707,6 +1722,12 @@
       "adcp",
       "spec",
       "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "46122",
+    "kinds": [
       "txt"
     ]
   },
