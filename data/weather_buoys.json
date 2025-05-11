@@ -4950,15 +4950,15 @@
   },
   {
     "id": "44008",
-    "latitude": 40.496,
-    "longitude": -69.25,
+    "latitude": 40.5,
+    "longitude": -69.254,
     "name": "NANTUCKET 54 NM Southeast of Nantucket",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy",
-    "hull": "3D48",
+    "hull": "3D24",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT21.KWBC"
@@ -5000,8 +5000,8 @@
   },
   {
     "id": "44011",
-    "latitude": 41.093,
-    "longitude": -66.562,
+    "latitude": 41.088,
+    "longitude": -66.546,
     "name": "GEORGES BANK 170 NM East of Hyannis, MA",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -6752,12 +6752,12 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.6D57",
+    "hull": "2.3D02",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KDTX"
     ],
-    "note": "Buoy recovered for winter 1/10/2025."
+    "note": null
   },
   {
     "id": "45009",
