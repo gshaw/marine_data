@@ -6518,15 +6518,15 @@
   },
   {
     "id": "44403",
-    "latitude": 41.944,
-    "longitude": -61.667,
+    "latitude": 41.928,
+    "longitude": -61.664,
     "name": "SABLE ISLAND BANK - 437 NM E of Boston, MA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6 meter DART buoy",
-    "hull": "2.6D95",
+    "hull": "2.6D20",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -6667,7 +6667,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.6D08",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KDTX"
@@ -6752,7 +6752,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.3D02",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KDTX"
