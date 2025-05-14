@@ -6631,14 +6631,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.1-meter ionomer foam buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": "Buoy recovered for the season 12/7/24"
+    "note": null
   },
   {
     "id": "45002",
@@ -6655,7 +6655,7 @@
     "forecasts": [
       "FZUS63.KMKX"
     ],
-    "note": "Buoy recovered for winter 12/14/24."
+    "note": null
   },
   {
     "id": "45003",
@@ -6699,14 +6699,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS61.KCLE"
     ],
-    "note": "Buoy recovered for season."
+    "note": null
   },
   {
     "id": "45006",
@@ -6716,14 +6716,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": "Buoy recovered for the winter 12/6/24"
+    "note": null
   },
   {
     "id": "45007",
@@ -12927,7 +12927,7 @@
     "hull": "2.6D22",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": null
+    "note": "As of 2300z, 5/12/25, the buoy from station 51407 has gone adrift. To see the latest positions for the buoy, click here."
   },
   {
     "id": "51425",
