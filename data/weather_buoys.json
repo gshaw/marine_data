@@ -1807,20 +1807,20 @@
   },
   {
     "id": "41001",
-    "latitude": 34.703,
-    "longitude": -72.242,
+    "latitude": 34.746,
+    "longitude": -72.415,
     "name": "EAST HATTERAS - 150 NM East of Cape Hatteras",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter discus buoy",
-    "hull": "3D90",
+    "hasBuoyCam": true,
+    "type": "3-meter foam buoy",
+    "hull": "3DV31",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT22.KWBC"
     ],
-    "note": "Buoy recovered from adrift 10/26/24."
+    "note": null
   },
   {
     "id": "41002",
