@@ -1644,6 +1644,15 @@
     ]
   },
   {
+    "id": "46047",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "46050",
     "kinds": [
       "supl",
@@ -2449,12 +2458,6 @@
       "spec",
       "spectral",
       "txt"
-    ]
-  },
-  {
-    "id": "51407",
-    "kinds": [
-      "dart"
     ]
   },
   {
@@ -6338,12 +6341,6 @@
   },
   {
     "id": "WASD2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "WAXM3",
     "kinds": [
       "txt"
     ]

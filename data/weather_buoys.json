@@ -9002,20 +9002,20 @@
   },
   {
     "id": "46047",
-    "latitude": 32.388,
-    "longitude": -119.525,
+    "latitude": 32.418,
+    "longitude": -119.535,
     "name": "TANNER BANK - 121 NM West of San Diego, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D52",
+    "hasBuoyCam": true,
+    "type": "3-meter foam buoy",
+    "hull": "3DV45",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZPN26.KWBC"
     ],
-    "note": "The buoy was retrieved on 05/08/25."
+    "note": null
   },
   {
     "id": "46048",
@@ -9472,15 +9472,15 @@
   },
   {
     "id": "46086",
-    "latitude": 32.499,
-    "longitude": -118.052,
+    "latitude": 32.504,
+    "longitude": -118.029,
     "name": "SAN CLEMENTE BASIN - 27NM SE Of San Clemente Is, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter foam buoy w/ seal cage",
-    "hull": "3DV14",
+    "type": "2.1-meter ionomer foam buoy",
+    "hull": "2.1D01",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KSGX"
