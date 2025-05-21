@@ -1443,10 +1443,60 @@
     ]
   },
   {
-    "id": "45194",
+    "id": "45174",
     "kinds": [
       "spec",
-      "spectral"
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "id": "45175",
+    "kinds": [
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "id": "45176",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45194",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "45196",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45197",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45198",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
     ]
   },
   {
@@ -1513,13 +1563,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "45212",
-    "kinds": [
-      "spec",
       "txt"
     ]
   },
@@ -1600,6 +1643,15 @@
   },
   {
     "id": "46025",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "id": "46026",
     "kinds": [
       "spec",
       "spectral",
@@ -5465,6 +5517,12 @@
     ]
   },
   {
+    "id": "PPTM2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "PPXA2",
     "kinds": [
       "txt"
@@ -6181,12 +6239,6 @@
   },
   {
     "id": "TKPN6",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "TLVT2",
     "kinds": [
       "txt"
     ]

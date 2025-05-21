@@ -7675,7 +7675,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45175",
@@ -7709,7 +7709,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45177",
@@ -7892,7 +7892,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": "Recovered for Winter."
+    "note": null
   },
   {
     "id": "45195",
@@ -7924,7 +7924,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45197",
@@ -7941,7 +7941,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45198",
@@ -7958,7 +7958,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": "recovered for the winter 10/24/24"
+    "note": null
   },
   {
     "id": "45199",
@@ -8684,20 +8684,20 @@
   },
   {
     "id": "46026",
-    "latitude": 37.754,
-    "longitude": -122.839,
+    "latitude": 37.75,
+    "longitude": -122.838,
     "name": "SAN FRANCISCO - 18NM West of San Francisco, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D09",
+    "hasBuoyCam": true,
+    "type": "3-meter foam buoy",
+    "hull": "3DV40",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "Buoy recovered 4/9/25."
+    "note": null
   },
   {
     "id": "46027",
