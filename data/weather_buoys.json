@@ -6994,7 +6994,7 @@
     "forecasts": [
       "FZUS53.KMQT"
     ],
-    "note": "Buoy recovered for winter 10/21/24."
+    "note": null
   },
   {
     "id": "45024",
@@ -7028,7 +7028,7 @@
     "forecasts": [
       "FZUS53.KMQT"
     ],
-    "note": "Station recovered for winter 10/16/24."
+    "note": null
   },
   {
     "id": "45026",
@@ -8240,7 +8240,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "recovered for the winter."
+    "note": null
   },
   {
     "id": "45218",

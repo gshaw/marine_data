@@ -136,12 +136,6 @@
     ]
   },
   {
-    "id": "22107",
-    "kinds": [
-      "drift"
-    ]
-  },
-  {
     "id": "22108",
     "kinds": [
       "drift"
@@ -475,13 +469,6 @@
     "kinds": [
       "adcp",
       "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "41064",
-    "kinds": [
-      "ocean",
       "txt"
     ]
   },
@@ -824,14 +811,6 @@
     ]
   },
   {
-    "id": "42091",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "42092",
     "kinds": [
       "spec",
@@ -1056,7 +1035,6 @@
   {
     "id": "44063",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -1445,6 +1423,7 @@
   {
     "id": "45174",
     "kinds": [
+      "ocean",
       "spec",
       "srad",
       "txt"
