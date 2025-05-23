@@ -9102,18 +9102,18 @@
   },
   {
     "id": "46059",
-    "latitude": 38.069,
-    "longitude": -129.976,
+    "latitude": 38.087,
+    "longitude": -129.915,
     "name": "WEST CALIFORNIA - 357NM West of San Francisco, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter foam buoy w/ seal cage",
-    "hull": "3DV64",
+    "hasBuoyCam": true,
+    "type": "3-meter discus buoy",
+    "hull": "3D57",
     "payload": "SCOOP payload",
     "forecasts": [],
-    "note": "Buoy recovered 1719z, 11/05/24."
+    "note": null
   },
   {
     "id": "46060",
