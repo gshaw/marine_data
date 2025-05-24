@@ -11683,15 +11683,15 @@
   },
   {
     "id": "46407",
-    "latitude": 42.715,
-    "longitude": -128.825,
+    "latitude": 42.713,
+    "longitude": -128.887,
     "name": "NEWPORT - 210NM West of Coos Bay, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D13",
+    "hull": "2.6D41",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null

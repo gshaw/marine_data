@@ -262,6 +262,12 @@
     ]
   },
   {
+    "id": "32403",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
     "id": "32404",
     "kinds": [
       "dart"
@@ -1339,15 +1345,6 @@
     ]
   },
   {
-    "id": "45028",
-    "kinds": [
-      "ocean",
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45029",
     "kinds": [
       "ocean",
@@ -1563,6 +1560,13 @@
     ]
   },
   {
+    "id": "45212",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
     "id": "45214",
     "kinds": [
       "spec",
@@ -1581,6 +1585,7 @@
     "id": "45216",
     "kinds": [
       "spec",
+      "srad",
       "txt"
     ]
   },
@@ -2172,6 +2177,14 @@
     "id": "46244",
     "kinds": [
       "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "46246",
+    "kinds": [
       "spec",
       "spectral",
       "txt"
@@ -3978,6 +3991,12 @@
   },
   {
     "id": "GBCM6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "GBHM6",
     "kinds": [
       "ocean"
     ]
@@ -5932,6 +5951,12 @@
     ]
   },
   {
+    "id": "SEQA2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "SETO3",
     "kinds": [
       "ocean"
@@ -5947,12 +5972,6 @@
     "id": "SGNW3",
     "kinds": [
       "cwind",
-      "txt"
-    ]
-  },
-  {
-    "id": "SGXA2",
-    "kinds": [
       "txt"
     ]
   },
