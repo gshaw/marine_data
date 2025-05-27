@@ -8735,15 +8735,15 @@
   },
   {
     "id": "46029",
-    "latitude": 46.163,
-    "longitude": -124.487,
+    "latitude": 46.148,
+    "longitude": -124.508,
     "name": "COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D60",
+    "type": "2.1-meter ionomer foam buoy w/ seal cage",
+    "hull": "2.1D14",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KPQR"
@@ -9034,15 +9034,15 @@
   },
   {
     "id": "46050",
-    "latitude": 44.669,
-    "longitude": -124.546,
+    "latitude": 44.679,
+    "longitude": -124.535,
     "name": "STONEWALL BANK - 20NM West of Newport, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV56",
+    "hull": "3D62",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KPQR"
