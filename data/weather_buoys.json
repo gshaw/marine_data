@@ -6604,7 +6604,7 @@
     "hull": "2.6D52",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Buoy went adrift 10/01/2023. Click here to see the latest positions on the adrift buoy."
+    "note": "Adrift buoy declared lost at sea on 05/27/2025. Click here to see the latest positions on the adrift buoy."
   },
   {
     "id": "44T14",
@@ -6733,14 +6733,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.6D57",
+    "hull": "2.3D13",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMKX"
     ],
-    "note": "Buoy retrieved for winter 12/10/24."
+    "note": null
   },
   {
     "id": "45008",
@@ -8208,7 +8208,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": null
+    "note": "Buoy recovered for season 5/27/25."
   },
   {
     "id": "45215",
@@ -10943,8 +10943,8 @@
   },
   {
     "id": "46246",
-    "latitude": 50.042,
-    "longitude": -145.17,
+    "latitude": 49.903,
+    "longitude": -145.246,
     "name": "Ocean Station PAPA  (166)",
     "ownerCode": "WQ",
     "ownerName": "APL-UW, University of Washington Applied Physics Laboratory",
