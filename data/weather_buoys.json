@@ -6604,7 +6604,7 @@
     "hull": "2.6D52",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Adrift buoy declared lost at sea on 05/27/2025. Click here to see the latest positions on the adrift buoy."
+    "note": "Buoy went adrift 10/01/2023. Click here to see the latest positions on the adrift buoy."
   },
   {
     "id": "44T14",
@@ -6735,12 +6735,12 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.3D13",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMKX"
     ],
-    "note": null
+    "note": "Buoy retrieved for winter 12/10/24."
   },
   {
     "id": "45008",
@@ -8208,7 +8208,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": "Buoy recovered for season 5/27/25."
+    "note": null
   },
   {
     "id": "45215",
@@ -8735,15 +8735,15 @@
   },
   {
     "id": "46029",
-    "latitude": 46.148,
-    "longitude": -124.508,
+    "latitude": 46.163,
+    "longitude": -124.487,
     "name": "COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "2.1-meter ionomer foam buoy w/ seal cage",
-    "hull": "2.1D14",
+    "type": "3-meter discus buoy w/ seal cage",
+    "hull": "3D60",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KPQR"
@@ -9034,15 +9034,15 @@
   },
   {
     "id": "46050",
-    "latitude": 44.679,
-    "longitude": -124.535,
+    "latitude": 44.669,
+    "longitude": -124.546,
     "name": "STONEWALL BANK - 20NM West of Newport, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3D62",
+    "hull": "3DV56",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KPQR"
@@ -10943,8 +10943,8 @@
   },
   {
     "id": "46246",
-    "latitude": 49.903,
-    "longitude": -145.246,
+    "latitude": 50.042,
+    "longitude": -145.17,
     "name": "Ocean Station PAPA  (166)",
     "ownerCode": "WQ",
     "ownerName": "APL-UW, University of Washington Applied Physics Laboratory",
@@ -11646,7 +11646,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D99",
+    "hull": "2.6D08",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -11683,15 +11683,15 @@
   },
   {
     "id": "46407",
-    "latitude": 42.713,
-    "longitude": -128.887,
+    "latitude": 42.715,
+    "longitude": -128.825,
     "name": "NEWPORT - 210NM West of Coos Bay, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D41",
+    "hull": "2.6D13",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
