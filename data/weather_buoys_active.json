@@ -268,6 +268,12 @@
     ]
   },
   {
+    "id": "32404",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
     "id": "32411",
     "kinds": [
       "dart"
@@ -1043,6 +1049,7 @@
   {
     "id": "44072",
     "kinds": [
+      "adcp",
       "ocean",
       "txt"
     ]
@@ -1101,6 +1108,14 @@
     "id": "44088",
     "kinds": [
       "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "44089",
+    "kinds": [
       "spec",
       "spectral",
       "txt"
@@ -3659,12 +3674,6 @@
     ]
   },
   {
-    "id": "CRTA1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "CRVA2",
     "kinds": [
       "txt"
@@ -5867,6 +5876,12 @@
   },
   {
     "id": "RPLV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "RPRN6",
     "kinds": [
       "txt"
     ]
