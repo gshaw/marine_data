@@ -1550,6 +1550,7 @@
   {
     "id": "45200",
     "kinds": [
+      "spec",
       "txt"
     ]
   },
@@ -2652,6 +2653,15 @@
   {
     "id": "52200",
     "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "52201",
+    "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -5397,6 +5407,12 @@
   },
   {
     "id": "OWSO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "OWWO1",
     "kinds": [
       "ocean"
     ]
