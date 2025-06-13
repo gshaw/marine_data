@@ -1865,6 +1865,15 @@
     ]
   },
   {
+    "id": "46061",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "46069",
     "kinds": [
       "spec",
@@ -3351,6 +3360,12 @@
     ]
   },
   {
+    "id": "BILW3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "BISM2",
     "kinds": [
       "txt"
@@ -4777,6 +4792,7 @@
   {
     "id": "LONF1",
     "kinds": [
+      "supl",
       "txt"
     ]
   },
@@ -5966,6 +5982,12 @@
     ]
   },
   {
+    "id": "RKXF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "RLIT2",
     "kinds": [
       "txt"
@@ -6232,6 +6254,13 @@
   {
     "id": "SLXA2",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SMKF1",
+    "kinds": [
+      "supl",
       "txt"
     ]
   },
@@ -6632,6 +6661,12 @@
   },
   {
     "id": "WASD2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "WAXM3",
     "kinds": [
       "txt"
     ]
