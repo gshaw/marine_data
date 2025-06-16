@@ -694,7 +694,6 @@
   {
     "id": "42023",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -2125,6 +2124,12 @@
   },
   {
     "id": "46181",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "46184",
     "kinds": [
       "txt"
     ]
@@ -5417,6 +5422,13 @@
     ]
   },
   {
+    "id": "OKSI2",
+    "kinds": [
+      "srad",
+      "txt"
+    ]
+  },
+  {
     "id": "OKXC1",
     "kinds": [
       "txt"
@@ -6269,12 +6281,6 @@
     "id": "SNTO3",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "SOQO3",
-    "kinds": [
-      "ocean"
     ]
   },
   {
