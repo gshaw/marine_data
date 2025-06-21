@@ -1516,6 +1516,13 @@
     ]
   },
   {
+    "id": "45178",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "45186",
     "kinds": [
       "adcp",
@@ -1684,6 +1691,7 @@
       "adcp",
       "ocean",
       "spec",
+      "srad",
       "txt"
     ]
   },
@@ -3824,6 +3832,13 @@
   {
     "id": "CPXA2",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "CPXC1",
+    "kinds": [
+      "ocean",
       "txt"
     ]
   },
