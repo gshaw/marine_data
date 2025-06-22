@@ -2340,7 +2340,6 @@
   {
     "id": "46244",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4400,12 +4399,6 @@
     ]
   },
   {
-    "id": "HHLO1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "HIST2",
     "kinds": [
       "txt"
@@ -4557,18 +4550,6 @@
     ]
   },
   {
-    "id": "JOBP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "JOQP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "JXUF1",
     "kinds": [
       "txt"
@@ -4648,6 +4629,12 @@
   },
   {
     "id": "KHHV",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KIKT",
     "kinds": [
       "txt"
     ]
@@ -4905,6 +4892,12 @@
     "id": "LTJF1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "LTQM2",
+    "kinds": [
+      "ocean"
     ]
   },
   {
