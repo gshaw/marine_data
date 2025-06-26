@@ -686,6 +686,7 @@
   {
     "id": "42023",
     "kinds": [
+      "adcp",
       "ocean",
       "txt"
     ]
@@ -1506,6 +1507,15 @@
     "kinds": [
       "ocean",
       "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45170",
+    "kinds": [
+      "ocean",
+      "spec",
+      "srad",
       "txt"
     ]
   },
@@ -4633,6 +4643,12 @@
     ]
   },
   {
+    "id": "KGBK",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "KGCA2",
     "kinds": [
       "txt"
@@ -4706,6 +4722,12 @@
   },
   {
     "id": "KP53",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KP59",
     "kinds": [
       "txt"
     ]
