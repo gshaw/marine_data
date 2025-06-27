@@ -1138,6 +1138,7 @@
   {
     "id": "44091",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -1612,6 +1613,7 @@
   {
     "id": "45200",
     "kinds": [
+      "spec",
       "txt"
     ]
   },
