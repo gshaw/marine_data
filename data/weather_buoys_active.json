@@ -1003,7 +1003,6 @@
   {
     "id": "44058",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -1756,7 +1755,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "supl",
       "txt"
     ]
   },
@@ -2263,14 +2261,6 @@
   },
   {
     "id": "46214",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "46215",
     "kinds": [
       "spec",
       "spectral",
@@ -5595,12 +5585,6 @@
     ]
   },
   {
-    "id": "OWQO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "OWSO1",
     "kinds": [
       "ocean"
@@ -6755,12 +6739,6 @@
   },
   {
     "id": "WASD2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "WCRP1",
     "kinds": [
       "txt"
     ]
