@@ -3216,6 +3216,12 @@
     "name": "Beecher Pass"
   },
   {
+    "id": "9451321",
+    "latitude": 56.64331,
+    "longitude": -133.152,
+    "name": "Castle Islands, Duncan Canal"
+  },
+  {
     "id": "9451317",
     "latitude": 56.6383,
     "longitude": -132.927,
@@ -3262,6 +3268,12 @@
     "latitude": 56.94831,
     "longitude": -133.89473,
     "name": "Kake Harbor, Keku Strait"
+  },
+  {
+    "id": "9451281",
+    "latitude": 56.58469,
+    "longitude": -132.54219,
+    "name": "Blaquiere Point"
   },
   {
     "id": "9451301",
@@ -3354,6 +3366,12 @@
     "name": "Port Houghton, Robert Islands"
   },
   {
+    "id": "9451798",
+    "latitude": 57.325,
+    "longitude": -133.183,
+    "name": "Port Houghton (Inside)"
+  },
+  {
     "id": "9451851",
     "latitude": 57.4067,
     "longitude": -133.42,
@@ -3424,6 +3442,12 @@
     "latitude": 58.0967,
     "longitude": -133.742,
     "name": "Port Snettisham, Crib Point"
+  },
+  {
+    "id": "9452089",
+    "latitude": 58.02234,
+    "longitude": -133.80728,
+    "name": "Sharp Point, Speel Arm"
   },
   {
     "id": "9452081",
@@ -3972,6 +3996,12 @@
     "name": "Windy Bay, Hawkins Island"
   },
   {
+    "id": "9454124",
+    "latitude": 60.67189,
+    "longitude": -145.99217,
+    "name": "Sheep Bay"
+  },
+  {
     "id": "9454157",
     "latitude": 60.71,
     "longitude": -146.085,
@@ -4515,7 +4545,7 @@
     "id": "9456173",
     "latitude": 60.1075,
     "longitude": -152.5817,
-    "name": "Snug Harbor, Cook Inlet"
+    "name": "Snug Harbor, Chisik Island"
   },
   {
     "id": "9456463",
@@ -4540,12 +4570,6 @@
     "latitude": 59.1783,
     "longitude": -154.087,
     "name": "Nordyke Island, Kamishak Bay"
-  },
-  {
-    "id": "9457259",
-    "latitude": 58.5183,
-    "longitude": -152.415,
-    "name": "Andreon Bay, Shuyak Island"
   },
   {
     "id": "9457271",
@@ -4788,16 +4812,28 @@
     "name": "Malina Bay, Shelikof Strait"
   },
   {
-    "id": "9457321",
-    "latitude": 58.555,
-    "longitude": -152.613,
-    "name": "Big Bay"
-  },
-  {
     "id": "9457293",
     "latitude": 58.5867,
     "longitude": -152.513,
-    "name": "Carry Inlet"
+    "name": "Carry Inlet, Shuyak Island"
+  },
+  {
+    "id": "9457259",
+    "latitude": 58.5183,
+    "longitude": -152.415,
+    "name": "Andreon Bay, Shuyak Island"
+  },
+  {
+    "id": "9457313",
+    "latitude": 58.49022,
+    "longitude": -152.58377,
+    "name": "Port William, Shuyak Island"
+  },
+  {
+    "id": "9457321",
+    "latitude": 58.555,
+    "longitude": -152.613,
+    "name": "Big Bay, Shuyak Island"
   },
   {
     "id": "9456717",
@@ -4918,6 +4954,12 @@
     "latitude": 55.79,
     "longitude": -159.35,
     "name": "Kupreanof Harbor, Paul Island"
+  },
+  {
+    "id": "9459181",
+    "latitude": 55.90011,
+    "longitude": -159.49126,
+    "name": "Ivanof Bay"
   },
   {
     "id": "TWC2111",
@@ -5763,7 +5805,7 @@
     "id": "9465951",
     "latitude": 59.9432,
     "longitude": -164.0434,
-    "name": "Kipnuk, Kuguklik River"
+    "name": "Kipnuk, Kugkaktlik River"
   },
   {
     "id": "9466084",
@@ -5908,6 +5950,12 @@
     "latitude": 64.6208,
     "longitude": -163.149,
     "name": "Upper Golovnin Lagoon"
+  },
+  {
+    "id": "9468877",
+    "latitude": 64.68114,
+    "longitude": -163.41191,
+    "name": "White Mountain, Niukluk"
   },
   {
     "id": "9468756",
@@ -14142,6 +14190,12 @@
     "name": "Sutherlands Still, Dunns Creek"
   },
   {
+    "id": "8720793",
+    "latitude": 29.5583,
+    "longitude": -81.5733,
+    "name": "Piney Bluff Landing"
+  },
+  {
     "id": "8720767",
     "latitude": 29.595,
     "longitude": -81.6817,
@@ -16672,6 +16726,12 @@
     "latitude": 29.9667,
     "longitude": -83.8333,
     "name": "Rock Islands"
+  },
+  {
+    "id": "8727956",
+    "latitude": 30.0533,
+    "longitude": -83.91,
+    "name": "Econfina River"
   },
   {
     "id": "8727976",
