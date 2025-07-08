@@ -1346,6 +1346,7 @@
     "kinds": [
       "ocean",
       "spec",
+      "srad",
       "txt"
     ]
   },
@@ -2678,12 +2679,6 @@
     ]
   },
   {
-    "id": "51045",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "51101",
     "kinds": [
       "spec",
@@ -3886,12 +3881,6 @@
     ]
   },
   {
-    "id": "CRTA1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "CRVA2",
     "kinds": [
       "txt"
@@ -4260,6 +4249,12 @@
       "ocean",
       "rain",
       "txt"
+    ]
+  },
+  {
+    "id": "GBQN3",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -5834,6 +5829,12 @@
     ]
   },
   {
+    "id": "PRIM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "PRJC1",
     "kinds": [
       "txt"
@@ -6332,6 +6333,12 @@
     "id": "SPGF1",
     "kinds": [
       "cwind",
+      "txt"
+    ]
+  },
+  {
+    "id": "SPTM4",
+    "kinds": [
       "txt"
     ]
   },
