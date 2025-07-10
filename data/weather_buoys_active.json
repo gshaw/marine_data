@@ -2473,7 +2473,6 @@
   {
     "id": "46268",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -2549,6 +2548,14 @@
   },
   {
     "id": "46283",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "46285",
     "kinds": [
       "spec",
       "spectral",
@@ -3965,6 +3972,13 @@
     ]
   },
   {
+    "id": "DBLN6",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
     "id": "DELD1",
     "kinds": [
       "txt"
@@ -4616,6 +4630,12 @@
   },
   {
     "id": "KEXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KGBK",
     "kinds": [
       "txt"
     ]
