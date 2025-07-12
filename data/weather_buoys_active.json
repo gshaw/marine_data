@@ -319,15 +319,6 @@
     ]
   },
   {
-    "id": "41010",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
     "id": "41013",
     "kinds": [
       "spec",
@@ -1494,6 +1485,21 @@
     "kinds": [
       "ocean",
       "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45162",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45163",
+    "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -4714,6 +4720,12 @@
     ]
   },
   {
+    "id": "KOZA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "KP53",
     "kinds": [
       "txt"
@@ -6275,12 +6287,6 @@
   },
   {
     "id": "SIPF1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SISA2",
     "kinds": [
       "txt"
     ]
