@@ -984,7 +984,6 @@
   {
     "id": "44034",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -4294,12 +4293,6 @@
     ]
   },
   {
-    "id": "GBQN3",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "GBTF1",
     "kinds": [
       "ocean",
@@ -6495,6 +6488,12 @@
     "id": "TCNW1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "TCSV2",
+    "kinds": [
+      "ocean"
     ]
   },
   {
