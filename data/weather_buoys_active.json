@@ -1487,6 +1487,7 @@
     "id": "45163",
     "kinds": [
       "ocean",
+      "spec",
       "txt"
     ]
   },
@@ -4093,6 +4094,12 @@
     "id": "EFLA1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "EHSC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -6712,6 +6719,12 @@
   },
   {
     "id": "WATS1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "WAXM3",
     "kinds": [
       "txt"
     ]
