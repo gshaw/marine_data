@@ -1301,6 +1301,7 @@
   {
     "id": "45014",
     "kinds": [
+      "adcp",
       "ocean",
       "spec",
       "txt"
@@ -3921,12 +3922,6 @@
     ]
   },
   {
-    "id": "CRTA1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "CRVA2",
     "kinds": [
       "txt"
@@ -5798,12 +5793,6 @@
   },
   {
     "id": "PLXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "PMAF1",
     "kinds": [
       "txt"
     ]
