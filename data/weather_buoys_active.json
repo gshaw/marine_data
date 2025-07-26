@@ -816,15 +816,6 @@
     ]
   },
   {
-    "id": "42095",
-    "kinds": [
-      "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "42098",
     "kinds": [
       "spec",
@@ -4734,6 +4725,12 @@
     ]
   },
   {
+    "id": "KIKT",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "KLIH1",
     "kinds": [
       "txt"
@@ -6643,6 +6640,12 @@
     "id": "TPLM2",
     "kinds": [
       "cwind",
+      "txt"
+    ]
+  },
+  {
+    "id": "TPXA2",
+    "kinds": [
       "txt"
     ]
   },
