@@ -2567,6 +2567,14 @@
     ]
   },
   {
+    "id": "46283",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "46285",
     "kinds": [
       "spec",
@@ -4324,6 +4332,12 @@
   },
   {
     "id": "GBWW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "GBXA2",
     "kinds": [
       "txt"
     ]
