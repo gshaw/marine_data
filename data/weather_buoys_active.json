@@ -3953,12 +3953,6 @@
     ]
   },
   {
-    "id": "CWWT2",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "CXHN6",
     "kinds": [
       "txt"
@@ -4504,14 +4498,6 @@
   {
     "id": "HRBM4",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "HREF1",
-    "kinds": [
-      "ocean",
-      "rain",
       "txt"
     ]
   },
@@ -6260,15 +6246,15 @@
     ]
   },
   {
-    "id": "SEFO3",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "SEIM1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "SEQA2",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -6570,7 +6556,6 @@
   {
     "id": "TIBC1",
     "kinds": [
-      "ocean",
       "txt"
     ]
   },
