@@ -476,13 +476,6 @@
     ]
   },
   {
-    "id": "41065",
-    "kinds": [
-      "spec",
-      "txt"
-    ]
-  },
-  {
     "id": "41066",
     "kinds": [
       "ocean",
@@ -1155,14 +1148,6 @@
   },
   {
     "id": "44097",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "44098",
     "kinds": [
       "spec",
       "spectral",
