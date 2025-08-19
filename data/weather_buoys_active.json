@@ -675,6 +675,14 @@
     ]
   },
   {
+    "id": "42022",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "42023",
     "kinds": [
       "adcp",
@@ -1034,6 +1042,13 @@
     "id": "44072",
     "kinds": [
       "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "id": "44073",
+    "kinds": [
       "ocean",
       "txt"
     ]
@@ -4608,12 +4623,6 @@
     "id": "JNGA2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "JOQP4",
-    "kinds": [
-      "ocean"
     ]
   },
   {
