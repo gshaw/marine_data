@@ -669,6 +669,8 @@
   {
     "id": "42020",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -3742,12 +3744,6 @@
     ]
   },
   {
-    "id": "CHII2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "CHQO3",
     "kinds": [
       "ocean"
@@ -5631,6 +5627,12 @@
     ]
   },
   {
+    "id": "OWQO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "OWSO1",
     "kinds": [
       "ocean"
@@ -6443,6 +6445,13 @@
     "id": "SSBN7",
     "kinds": [
       "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "STDM4",
+    "kinds": [
+      "supl",
       "txt"
     ]
   },
