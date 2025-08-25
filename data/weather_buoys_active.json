@@ -2828,15 +2828,6 @@
     ]
   },
   {
-    "id": "52201",
-    "kinds": [
-      "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "52202",
     "kinds": [
       "spec",
@@ -3581,12 +3572,6 @@
     ]
   },
   {
-    "id": "BSCA1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "BSKF1",
     "kinds": [
       "ocean",
@@ -3958,12 +3943,6 @@
     "id": "CWCI",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "CWQT2",
-    "kinds": [
-      "ocean"
     ]
   },
   {
@@ -5712,6 +5691,12 @@
   },
   {
     "id": "PCLF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "PCLM4",
     "kinds": [
       "txt"
     ]
