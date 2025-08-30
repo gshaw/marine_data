@@ -663,8 +663,6 @@
   {
     "id": "42020",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -1169,6 +1167,7 @@
   {
     "id": "44098",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4397,12 +4396,6 @@
     ]
   },
   {
-    "id": "GTRM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "GTXF1",
     "kinds": [
       "txt"
@@ -5608,6 +5601,12 @@
   },
   {
     "id": "OWSO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "OWWO1",
     "kinds": [
       "ocean"
     ]
