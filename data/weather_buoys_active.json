@@ -1520,7 +1520,6 @@
     "id": "45163",
     "kinds": [
       "ocean",
-      "spec",
       "txt"
     ]
   },
@@ -3578,6 +3577,12 @@
     ]
   },
   {
+    "id": "BSCA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "BSKF1",
     "kinds": [
       "ocean",
@@ -4659,6 +4664,12 @@
   },
   {
     "id": "KGCA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KGHB",
     "kinds": [
       "txt"
     ]
@@ -5887,12 +5898,6 @@
     ]
   },
   {
-    "id": "PRIM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "PRJC1",
     "kinds": [
       "txt"
@@ -6379,12 +6384,6 @@
     "id": "SPGF1",
     "kinds": [
       "cwind",
-      "txt"
-    ]
-  },
-  {
-    "id": "SPTM4",
-    "kinds": [
       "txt"
     ]
   },
