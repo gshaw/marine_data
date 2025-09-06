@@ -698,7 +698,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "supl",
       "txt"
     ]
   },
@@ -2602,12 +2601,6 @@
     "id": "46304",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "46402",
-    "kinds": [
-      "dart"
     ]
   },
   {
