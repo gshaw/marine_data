@@ -935,8 +935,6 @@
   {
     "id": "44025",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -1350,7 +1348,6 @@
   {
     "id": "45023",
     "kinds": [
-      "ocean",
       "spec",
       "srad",
       "txt"
@@ -3677,12 +3674,6 @@
   },
   {
     "id": "CBLO1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "CBRW3",
     "kinds": [
       "txt"
     ]
