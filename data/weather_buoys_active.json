@@ -890,8 +890,6 @@
   {
     "id": "44009",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -3901,6 +3899,7 @@
   {
     "id": "CPXC1",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -4579,6 +4578,12 @@
       "ocean",
       "rain",
       "txt"
+    ]
+  },
+  {
+    "id": "JCQN4",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -5635,6 +5640,12 @@
   },
   {
     "id": "OWSO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "OWWO1",
     "kinds": [
       "ocean"
     ]
