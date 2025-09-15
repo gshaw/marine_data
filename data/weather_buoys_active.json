@@ -5533,6 +5533,13 @@
     ]
   },
   {
+    "id": "OKSI2",
+    "kinds": [
+      "srad",
+      "txt"
+    ]
+  },
+  {
     "id": "OKXC1",
     "kinds": [
       "txt"
@@ -5612,19 +5619,7 @@
     ]
   },
   {
-    "id": "OWQO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "OWSO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "OWWO1",
     "kinds": [
       "ocean"
     ]
@@ -6890,12 +6885,6 @@
   },
   {
     "id": "YATA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "YGNN6",
     "kinds": [
       "txt"
     ]
