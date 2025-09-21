@@ -983,14 +983,6 @@
     ]
   },
   {
-    "id": "44037",
-    "kinds": [
-      "adcp",
-      "ocean",
-      "txt"
-    ]
-  },
-  {
     "id": "44042",
     "kinds": [
       "ocean",
@@ -2002,15 +1994,6 @@
   },
   {
     "id": "46073",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "46075",
     "kinds": [
       "spec",
       "spectral",
@@ -3343,12 +3326,6 @@
   },
   {
     "id": "APXF1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "ARPF1",
     "kinds": [
       "txt"
     ]
@@ -5584,12 +5561,6 @@
     ]
   },
   {
-    "id": "OWSO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "OWXO1",
     "kinds": [
       "txt"
@@ -6686,6 +6657,12 @@
   },
   {
     "id": "WASD2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "WATS1",
     "kinds": [
       "txt"
     ]
