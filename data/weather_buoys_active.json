@@ -1065,7 +1065,6 @@
   {
     "id": "44080",
     "kinds": [
-      "ocean",
       "spec",
       "txt"
     ]
@@ -2095,15 +2094,6 @@
   },
   {
     "id": "46097",
-    "kinds": [
-      "ocean",
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
-    "id": "46098",
     "kinds": [
       "ocean",
       "spec",
