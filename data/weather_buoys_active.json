@@ -796,14 +796,6 @@
     ]
   },
   {
-    "id": "42097",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "42098",
     "kinds": [
       "spec",
@@ -962,6 +954,7 @@
     "id": "44033",
     "kinds": [
       "adcp",
+      "ocean",
       "txt"
     ]
   },
@@ -1061,6 +1054,7 @@
   {
     "id": "44080",
     "kinds": [
+      "ocean",
       "spec",
       "txt"
     ]
@@ -6096,6 +6090,12 @@
     ]
   },
   {
+    "id": "SJSN4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "SKTA2",
     "kinds": [
       "txt"
@@ -6619,12 +6619,6 @@
     "id": "WPTW1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "WQQM1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
