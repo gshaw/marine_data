@@ -660,14 +660,6 @@
     ]
   },
   {
-    "id": "42022",
-    "kinds": [
-      "adcp",
-      "ocean",
-      "txt"
-    ]
-  },
-  {
     "id": "42023",
     "kinds": [
       "adcp",
@@ -680,14 +672,6 @@
     "kinds": [
       "adcp",
       "ocean",
-      "txt"
-    ]
-  },
-  {
-    "id": "42035",
-    "kinds": [
-      "spec",
-      "spectral",
       "txt"
     ]
   },
@@ -2865,12 +2849,6 @@
     ]
   },
   {
-    "id": "62114",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "62121",
     "kinds": [
       "txt"
@@ -4020,6 +3998,12 @@
     "id": "ESPP4",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "EVMC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
