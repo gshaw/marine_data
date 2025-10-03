@@ -537,14 +537,6 @@
     ]
   },
   {
-    "id": "41113",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "41114",
     "kinds": [
       "spec",
@@ -4186,6 +4178,12 @@
   },
   {
     "id": "GNJT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "GPXA2",
     "kinds": [
       "txt"
     ]
