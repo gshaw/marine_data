@@ -668,6 +668,12 @@
     ]
   },
   {
+    "id": "42031",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "42036",
     "kinds": [
       "spec",
@@ -2000,7 +2006,6 @@
   {
     "id": "46088",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "supl",
@@ -3185,6 +3190,12 @@
   },
   {
     "id": "APXF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "ARPF1",
     "kinds": [
       "txt"
     ]
@@ -4772,7 +4783,8 @@
     "id": "LSNF1",
     "kinds": [
       "ocean",
-      "rain"
+      "rain",
+      "txt"
     ]
   },
   {
