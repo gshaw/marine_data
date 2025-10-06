@@ -412,7 +412,6 @@
     "kinds": [
       "adcp",
       "ocean",
-      "spec",
       "txt"
     ]
   },
@@ -421,7 +420,6 @@
     "kinds": [
       "adcp",
       "ocean",
-      "spec",
       "txt"
     ]
   },
@@ -750,7 +748,6 @@
     "kinds": [
       "adcp",
       "ocean",
-      "spec",
       "txt"
     ]
   },
