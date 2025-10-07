@@ -3713,7 +3713,8 @@
   {
     "id": "CPXC1",
     "kinds": [
-      "ocean"
+      "ocean",
+      "txt"
     ]
   },
   {
@@ -5002,6 +5003,13 @@
     ]
   },
   {
+    "id": "MRKA2",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
     "id": "MRNA2",
     "kinds": [
       "txt"
@@ -5325,12 +5333,6 @@
     ]
   },
   {
-    "id": "OLSA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "OMHC1",
     "kinds": [
       "txt"
@@ -5620,6 +5622,13 @@
   {
     "id": "PORT2",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "POTA2",
+    "kinds": [
+      "cwind",
       "txt"
     ]
   },
