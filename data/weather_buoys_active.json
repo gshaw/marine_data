@@ -476,13 +476,6 @@
     ]
   },
   {
-    "id": "41076",
-    "kinds": [
-      "spec",
-      "txt"
-    ]
-  },
-  {
     "id": "41082",
     "kinds": [
       "ocean",
@@ -1441,14 +1434,6 @@
     "id": "45164",
     "kinds": [
       "ocean",
-      "txt"
-    ]
-  },
-  {
-    "id": "45167",
-    "kinds": [
-      "spec",
-      "srad",
       "txt"
     ]
   },
@@ -3250,6 +3235,13 @@
     ]
   },
   {
+    "id": "BDXC1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "BEIS1",
     "kinds": [
       "ocean"
@@ -4195,6 +4187,12 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "GTQF1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
