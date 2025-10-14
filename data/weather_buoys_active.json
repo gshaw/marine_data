@@ -626,8 +626,6 @@
   {
     "id": "42020",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -1281,24 +1279,7 @@
     ]
   },
   {
-    "id": "45022",
-    "kinds": [
-      "ocean",
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45023",
-    "kinds": [
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
-    "id": "45025",
     "kinds": [
       "spec",
       "srad",
@@ -4012,12 +3993,6 @@
     ]
   },
   {
-    "id": "FPTM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "FRCB6",
     "kinds": [
       "txt"
@@ -5998,6 +5973,13 @@
   {
     "id": "SFXC1",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SGNW3",
+    "kinds": [
+      "cwind",
       "txt"
     ]
   },
