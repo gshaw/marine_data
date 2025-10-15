@@ -518,6 +518,14 @@
     ]
   },
   {
+    "id": "41113",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "41114",
     "kinds": [
       "spec",
@@ -917,7 +925,6 @@
     "id": "44033",
     "kinds": [
       "adcp",
-      "ocean",
       "txt"
     ]
   },
@@ -2340,6 +2347,7 @@
   {
     "id": "46268",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
