@@ -3800,6 +3800,13 @@
     ]
   },
   {
+    "id": "DISW3",
+    "kinds": [
+      "cwind",
+      "txt"
+    ]
+  },
+  {
     "id": "DKKF1",
     "kinds": [
       "ocean",
@@ -4942,12 +4949,6 @@
     ]
   },
   {
-    "id": "MQMT2",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "MRCP1",
     "kinds": [
       "txt"
@@ -5575,12 +5576,6 @@
     "kinds": [
       "cwind",
       "txt"
-    ]
-  },
-  {
-    "id": "PPHH1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
