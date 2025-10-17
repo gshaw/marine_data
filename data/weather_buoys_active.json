@@ -1316,7 +1316,6 @@
     "kinds": [
       "ocean",
       "spec",
-      "srad",
       "txt"
     ]
   },
@@ -4003,6 +4002,12 @@
   },
   {
     "id": "FPST2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "FPTM4",
     "kinds": [
       "txt"
     ]
