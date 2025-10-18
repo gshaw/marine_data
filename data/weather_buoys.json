@@ -284,7 +284,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "SD-1063 was replaced on 1200Z, 7/27/24 with SD-1077 (1801593). Data from SD-1077 and other saildrones at this location are available at: SD-1073 (1801589) -- Currently deployed SD-1077 (1801593) -- 1200Z, 7/27/24 to 1959Z, 5/8/25"
+    "note": "SD-1063 was replaced on 1200Z, 7/27/24 with SD-1077 (1801593). Data from SD-1077 and other saildrones at this location are available at: SD-1073 (1801589) -- 2000Z, 5/8/25 to 0000z, 8/4/25 SD-1077 (1801593) -- 1200Z, 7/27/24 to 1959Z, 5/8/25"
   },
   {
     "id": "1801589",
@@ -301,7 +301,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "This saildrone originally provided data for 46012 from 0000, 9/1/23 to 2359Z, 4/25/24. It has been reestablished as of 2000Z, 5/8/25. Data from previous saildrones are available at: SD-1077 (1801593) -- 1200Z, 7/27/24 to 1959Z, 5/8/25 SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
+    "note": "SD-1073 has been recovered. It provided data for 46012 from 0000Z, 9/1/23 to 2359Z, 4/25/24 and from 2000Z, 5/8/25 to 0000z, 8/4/25. Data from previous saildrones are available at: SD-1077 (1801593) -- 1200Z, 7/27/24 to 1959Z, 5/8/25 SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
   },
   {
     "id": "1801593",
@@ -318,7 +318,7 @@
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "SD-1077 was replaced on 1959Z, 5/8/25 with SD-1073 (1801589). Data from SD-1073 and other saildrones at this location are available at: SD-1073 (1801589) -- Currently deployed SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
+    "note": "SD-1077 was replaced on 1959Z, 5/8/25 with SD-1073 (1801589). Data from SD-1073 and other saildrones at this location are available at: SD-1073 (1801589) -- 2000Z, 5/8/25 to 0000z, 8/4/25 SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
   },
   {
     "id": "18CI3",
@@ -457,18 +457,18 @@
   },
   {
     "id": "21413",
-    "latitude": 30.492,
-    "longitude": 152.085,
+    "latitude": 30.487,
+    "longitude": 152.124,
     "name": "SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D75",
+    "hull": "2.6D94",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Buoy adrift 11/22/24."
+    "note": "Buoy redeployed 7/23/25."
   },
   {
     "id": "21414",
@@ -502,15 +502,15 @@
   },
   {
     "id": "21416",
-    "latitude": 48.12,
-    "longitude": 163.43,
+    "latitude": 48.126,
+    "longitude": 163.355,
     "name": "KAMCHATKA PENINSULA - 240NM SE of Kamchatka Peninsula, RU",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D27",
+    "hull": "2.6D87",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -540,10 +540,10 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D21",
+    "hull": "2.6D27",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": null
+    "note": "Buoy adrift 9/7/25"
   },
   {
     "id": "21419",
@@ -555,22 +555,22 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D94",
+    "hull": "2.6D85",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
   },
   {
     "id": "21420",
-    "latitude": 28.91,
-    "longitude": 134.999,
+    "latitude": 28.98,
+    "longitude": 134.973,
     "name": "SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D60",
+    "hull": "2.6D75",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -709,6 +709,21 @@
     "payload": "DART II payload",
     "forecasts": [],
     "note": "As of 2200z, 6/28/24, the drifting buoy at station 21d13 has been recovered."
+  },
+  {
+    "id": "21D20",
+    "latitude": 28.91,
+    "longitude": 134.999,
+    "name": "Adrift buoy from 21420",
+    "ownerCode": "N",
+    "ownerName": "NDBC",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "2.6 meter DART buoy",
+    "hull": "2.6D60",
+    "payload": "DART II payload",
+    "forecasts": [],
+    "note": "Buoy recovered 7/29/25"
   },
   {
     "id": "22101",
@@ -1491,6 +1506,36 @@
     "note": "MET data from this station is available at 32ST0."
   },
   {
+    "id": "3202520",
+    "latitude": -4.148,
+    "longitude": -89.008,
+    "name": "San Cristobal - Galapagos (B1-S)",
+    "ownerCode": "IR",
+    "ownerName": "Instituto Oceanografico y Antartico de la Armada (INOCAR)",
+    "ownerCountryCode": "EC",
+    "hasBuoyCam": false,
+    "type": "2.4-meter foam hull buoy",
+    "hull": null,
+    "payload": "EBM24TS (MSM Tsunami Warning System)",
+    "forecasts": [],
+    "note": "Data are not quality controlled by NDBC"
+  },
+  {
+    "id": "3202521",
+    "latitude": -0.525,
+    "longitude": -81.386,
+    "name": "Isabela - Galapagos (B2-W)",
+    "ownerCode": "IR",
+    "ownerName": "Instituto Oceanografico y Antartico de la Armada (INOCAR)",
+    "ownerCountryCode": "EC",
+    "hasBuoyCam": false,
+    "type": "2.4-meter foam hull buoy",
+    "hull": null,
+    "payload": "EBM24TS (MSM Tsunami Warning System)",
+    "forecasts": [],
+    "note": "Data are not quality controlled by NDBC"
+  },
+  {
     "id": "32066",
     "latitude": -1.136,
     "longitude": -81.765,
@@ -1522,33 +1567,33 @@
   },
   {
     "id": "32068",
-    "latitude": -0.888,
-    "longitude": -81.664,
-    "name": "ECUADOR INOCAR - 58 NM West of Manta, Ecuador",
+    "latitude": -0.891,
+    "longitude": -81.637,
+    "name": "Manta - 58 NM West of Manta, Ecuador",
     "ownerCode": "IR",
     "ownerName": "Instituto Oceanografico y Antartico de la Armada (INOCAR)",
     "ownerCountryCode": "EC",
     "hasBuoyCam": false,
-    "type": "2.4-meter discus buoy",
+    "type": "2.4-meter foam hull buoy",
     "hull": null,
-    "payload": "EBM22TS (MSM Tsunami Warning System)",
+    "payload": "EBM24TS (MSM Tsunami Warning System)",
     "forecasts": [],
-    "note": null
+    "note": "Data are not quality controlled by NDBC"
   },
   {
     "id": "32069",
-    "latitude": 0.255,
-    "longitude": -81.211,
-    "name": "ECUADOR INOCAR - 71 NM West of Pedernales, Ecuador",
+    "latitude": 0.278,
+    "longitude": -81.185,
+    "name": "Esmeraldas - 71 NM West of Pedernales, Ecuador",
     "ownerCode": "IR",
     "ownerName": "Instituto Oceanografico y Antartico de la Armada (INOCAR)",
     "ownerCountryCode": "EC",
     "hasBuoyCam": false,
-    "type": "2.4-meter discus buoy",
+    "type": "2.4-meter foam hull buoy",
     "hull": null,
-    "payload": "EBM22TS (MSM Tsunami Warning System)",
+    "payload": "EBM24TS (MSM Tsunami Warning System)",
     "forecasts": [],
-    "note": null
+    "note": "Data are not quality controlled by NDBC"
   },
   {
     "id": "32301",
@@ -1653,7 +1698,7 @@
     "hull": "2.6D86",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": null
+    "note": "The buoy from this station went adrift on 6/7/25. The station will be restored to service based on planned maintenance schedules. When the maintenance date is known, it will be posted in the Station Maintenance Schedule."
   },
   {
     "id": "32412",
@@ -1758,7 +1803,7 @@
     "hull": "2.6D77",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "As of 1305z, 05/28/2021, the buoy at station 32413 has gone adrift. Click here to see the latest positions on the adrift buoy."
+    "note": null
   },
   {
     "id": "32ST0",
@@ -1807,8 +1852,8 @@
   },
   {
     "id": "41001",
-    "latitude": 34.746,
-    "longitude": -72.415,
+    "latitude": 34.791,
+    "longitude": -72.42,
     "name": "EAST HATTERAS - 150 NM East of Cape Hatteras",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -1966,7 +2011,7 @@
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": null
+    "note": "As of 0100z, 7/6/25, the buoy from station 41010 has gone adrift. To see the latest position from the buoy, click here."
   },
   {
     "id": "41011",
@@ -2142,8 +2187,8 @@
   },
   {
     "id": "41025",
-    "latitude": 35.015,
-    "longitude": -75.397,
+    "latitude": 35.026,
+    "longitude": -75.38,
     "name": "Diamond Shoals, NC",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -2155,7 +2200,7 @@
     "forecasts": [
       "FZUS52.KMHX"
     ],
-    "note": "This buoy is located 2 NM to the East-Northeast of the Monitor National Marine Sanctuary. Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/"
+    "note": "This buoy is located 3 NM to the East of the Monitor National Marine Sanctuary. Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the mid-Atlantic coast. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike/"
   },
   {
     "id": "41026",
@@ -2340,8 +2385,8 @@
   },
   {
     "id": "41043",
-    "latitude": 21.072,
-    "longitude": -64.876,
+    "latitude": 21.09,
+    "longitude": -64.864,
     "name": "NE PUERTO RICO - 170 NM NNE of San Juan, PR",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -2374,8 +2419,8 @@
   },
   {
     "id": "41046",
-    "latitude": 23.857,
-    "longitude": -68.339,
+    "latitude": 23.84,
+    "longitude": -68.34,
     "name": "EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -2391,8 +2436,8 @@
   },
   {
     "id": "41047",
-    "latitude": 27.537,
-    "longitude": -71.478,
+    "latitude": 27.557,
+    "longitude": -71.48,
     "name": "NE BAHAMAS - 350 NM ENE of Nassau, Bahamas",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -2410,7 +2455,7 @@
     "id": "41048",
     "latitude": 31.831,
     "longitude": -69.573,
-    "name": "WEST BERMUDA - 240 NM West of Bermuda",
+    "name": "WEST BERMUDA - 240 NM West of Bermuda - Jen's Station",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
@@ -3192,12 +3237,12 @@
     "hull": "2.6D69",
     "payload": "DART 4G payload",
     "forecasts": [],
-    "note": "As of 0000z, 5/3/24, the previous buoy at station 41420 went adrift. It has been renamed to 41D20. The latest position for the buoy can be viewed here."
+    "note": null
   },
   {
     "id": "41421",
-    "latitude": 23.369,
-    "longitude": -63.883,
+    "latitude": 23.407,
+    "longitude": -63.888,
     "name": "NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -3207,7 +3252,7 @@
     "hull": "2.6D28",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": null
+    "note": "As of 0600z, 8/6/25, the buoy from station 41421 has gone adrift. To view the latest positions from the buoy, click here."
   },
   {
     "id": "41424",
@@ -3910,7 +3955,7 @@
     "forecasts": [
       "FZUS54.KHGX"
     ],
-    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
+    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP.Buoy recovered 9/26/25."
   },
   {
     "id": "42036",
@@ -4299,7 +4344,7 @@
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": "As of 0700z, 5/9/25, buoy 42059 has gone adrift and will be restored to service based on planned maintenance schedules. When the maintenance date is known, it will be posted in the Maintenance Schedule. The latest position from the buoy can be viewed here."
+    "note": "As of 0700z, 5/9/25, buoy 42059 has gone adrift and will be restored to service based on planned maintenance schedules. When the maintenance date is known, it will be posted in the Maintenance Schedule."
   },
   {
     "id": "42060",
@@ -4334,6 +4379,23 @@
       "FZNT23.KNHC"
     ],
     "note": "The buoy at station 42065 went adrift on 12/7/2011 and has since been recovered. This station was disestablished on March 1, 2012."
+  },
+  {
+    "id": "42066",
+    "latitude": 30.216,
+    "longitude": -89.183,
+    "name": "USM-R2",
+    "ownerCode": "US",
+    "ownerName": "USM",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS54.KLIX"
+    ],
+    "note": null
   },
   {
     "id": "42067",
@@ -4519,7 +4581,7 @@
   {
     "id": "42092",
     "latitude": 27.64,
-    "longitude": -97.012,
+    "longitude": -97.011,
     "name": "Aransas Pass Channel Entrance S, TX (252)",
     "ownerCode": "BI",
     "ownerName": "Conrad Blucher Institute (CBI) for Surveying and Science, Texas A&M University-Corpus Christi",
@@ -4569,7 +4631,7 @@
   },
   {
     "id": "42095",
-    "latitude": 24.409,
+    "latitude": 24.407,
     "longitude": -81.968,
     "name": "Satan Shoal, FL (244)",
     "ownerCode": "AC",
@@ -4586,8 +4648,8 @@
   },
   {
     "id": "42097",
-    "latitude": 25.7,
-    "longitude": -83.641,
+    "latitude": 25.708,
+    "longitude": -83.634,
     "name": "Pulley Ridge, FL (226)",
     "ownerCode": "AC",
     "ownerName": "U.S. Army Corps of Engineers",
@@ -4645,6 +4707,21 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "Waverider Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "42357",
+    "latitude": 30.092,
+    "longitude": -88.212,
+    "name": "DISL Sofar Spotter",
+    "ownerCode": "DI",
+    "ownerName": "Dauphin Island Sea Lab",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -4823,8 +4900,8 @@
   },
   {
     "id": "43412",
-    "latitude": 16.012,
-    "longitude": -107.004,
+    "latitude": 16.02,
+    "longitude": -107.0,
     "name": "SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -4838,8 +4915,8 @@
   },
   {
     "id": "43413",
-    "latitude": 10.929,
-    "longitude": -100.029,
+    "latitude": 10.927,
+    "longitude": -100.012,
     "name": "SOUTH ACAPULCO - 360NM South of Acapulco, MX",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -4914,7 +4991,7 @@
       "FZNT21.KWBC",
       "FZUS51.KGYX"
     ],
-    "note": null
+    "note": "Adrift hull recovered 6/17/25."
   },
   {
     "id": "44006",
@@ -5981,6 +6058,21 @@
     "note": null
   },
   {
+    "id": "44080",
+    "latitude": 39.223,
+    "longitude": -76.528,
+    "name": "Baltimore",
+    "ownerCode": "CB",
+    "ownerName": "Chesapeake Bay Interpretive Buoy System (CBIBS)",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Moored Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "44084",
     "latitude": 38.537,
     "longitude": -75.044,
@@ -6029,8 +6121,8 @@
   },
   {
     "id": "44087",
-    "latitude": 37.026,
-    "longitude": -76.149,
+    "latitude": 37.044,
+    "longitude": -76.13,
     "name": "Thimble Shoal, VA (240)",
     "ownerCode": "NV",
     "ownerName": "U.S. Navy",
@@ -6061,7 +6153,7 @@
   },
   {
     "id": "44089",
-    "latitude": 37.754,
+    "latitude": 37.756,
     "longitude": -75.325,
     "name": "Wallops Island, VA (224)",
     "ownerCode": "AC",
@@ -6095,8 +6187,8 @@
   },
   {
     "id": "44091",
-    "latitude": 39.768,
-    "longitude": -73.77,
+    "latitude": 39.772,
+    "longitude": -73.769,
     "name": "Barnegat, NJ (209)",
     "ownerCode": "AC",
     "ownerName": "U.S. Army Corps of Engineers",
@@ -6195,7 +6287,7 @@
   },
   {
     "id": "44097",
-    "latitude": 40.969,
+    "latitude": 40.967,
     "longitude": -71.124,
     "name": "Block Island, RI  (154)",
     "ownerCode": "R",
@@ -6213,7 +6305,7 @@
   {
     "id": "44098",
     "latitude": 42.8,
-    "longitude": -70.171,
+    "longitude": -70.169,
     "name": "Jeffrey's Ledge, NH (160)",
     "ownerCode": "NH",
     "ownerName": "University of New Hampshire",
@@ -6604,7 +6696,7 @@
     "hull": "2.6D52",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Buoy went adrift 10/01/2023. Click here to see the latest positions on the adrift buoy."
+    "note": "Adrift buoy declared lost at sea on 05/27/2025. Click here to see the latest positions on the adrift buoy."
   },
   {
     "id": "44T14",
@@ -6633,7 +6725,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "2.1-meter ionomer foam buoy",
-    "hull": "2.6D57",
+    "hull": "2.1D02",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
@@ -6740,7 +6832,7 @@
     "forecasts": [
       "FZUS63.KMKX"
     ],
-    "note": "Buoy retrieved for winter 12/10/24."
+    "note": null
   },
   {
     "id": "45008",
@@ -7060,7 +7152,7 @@
     "forecasts": [
       "FZUS53.KDLH"
     ],
-    "note": null
+    "note": "Buoy recovered for the season."
   },
   {
     "id": "45028",
@@ -7077,7 +7169,7 @@
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": null
+    "note": "Buoy recovered for season."
   },
   {
     "id": "45029",
@@ -7456,12 +7548,12 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45162",
-    "latitude": 44.99,
-    "longitude": -83.271,
+    "latitude": 44.988,
+    "longitude": -83.269,
     "name": "Thunder Bay Buoy, Alpena, MI",
     "ownerCode": "G",
     "ownerName": "GLERL",
@@ -7473,12 +7565,12 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": "Buoy recovered for winter."
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45163",
-    "latitude": 43.984,
-    "longitude": -83.597,
+    "latitude": 43.983,
+    "longitude": -83.599,
     "name": "Saginaw Bay Buoy, MI",
     "ownerCode": "G",
     "ownerName": "GLERL",
@@ -7490,7 +7582,7 @@
     "forecasts": [
       "FZUS53.KDTX"
     ],
-    "note": "Recovered for winter 10/24/24."
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45164",
@@ -7556,7 +7648,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": "Buoy 45167 recovered for winter 1500z, 10/24/22."
+    "note": null
   },
   {
     "id": "45168",
@@ -7607,7 +7699,7 @@
     "forecasts": [
       "FZUS53.KIWX"
     ],
-    "note": "Buoy recovered for winter 10/21/24."
+    "note": null
   },
   {
     "id": "45171",
@@ -7741,7 +7833,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Recovered for winter 10/10/24"
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45179",
@@ -7843,7 +7935,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45187",
@@ -7860,7 +7952,7 @@
     "forecasts": [
       "FZUS53.KMKX"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45188",
@@ -7988,7 +8080,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for winter 10/24/24."
+    "note": null
   },
   {
     "id": "45201",
@@ -8003,7 +8095,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Station recovered for winter 10/27/24."
+    "note": null
   },
   {
     "id": "45202",
@@ -8018,7 +8110,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for the winter 10/27/24."
+    "note": null
   },
   {
     "id": "45203",
@@ -8033,7 +8125,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Recovered for Winter."
+    "note": null
   },
   {
     "id": "45204",
@@ -8208,7 +8300,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": null
+    "note": "Buoy recovered for season 5/27/25."
   },
   {
     "id": "45215",
@@ -8255,7 +8347,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Station recovered for winter on 11/7/24."
+    "note": null
   },
   {
     "id": "45219",
@@ -8271,6 +8363,21 @@
     "payload": null,
     "forecasts": [],
     "note": null
+  },
+  {
+    "id": "45221",
+    "latitude": 44.756,
+    "longitude": -73.355,
+    "name": "North Lake Champlain",
+    "ownerCode": "PL",
+    "ownerName": "SUNY Plattsburgh Center for Earth and Environmental Science/Lake Champlain Research Institute",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Moored Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": "Buoy recovered for the winter"
   },
   {
     "id": "45T01",
@@ -8298,8 +8405,8 @@
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy",
-    "hull": "3D47",
+    "type": "3-meter foam buoy w/ seal cage",
+    "hull": "3DV13",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK61.PAFC"
@@ -8468,12 +8575,12 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": null,
+    "hull": "3D89",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "Saildrone data for this station are available at: SD-1073 (1801589) -- Currently deployed SD-1077 (1801593) -- 1200Z,7/27/24 to 1959Z, 5/8/25 SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
+    "note": "Saildrone data for this station are available at: SD-1073 (1801589) -- 0000Z, 9/1/23 to 2359Z, 4/25/24 and 2000Z, 5/8/25 to 0000Z, 8/4/25 SD-1077 (1801593) -- 1200Z, 7/27/24 to 1959Z, 5/8/25 SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
   },
   {
     "id": "46013",
@@ -8735,15 +8842,15 @@
   },
   {
     "id": "46029",
-    "latitude": 46.163,
-    "longitude": -124.487,
+    "latitude": 46.148,
+    "longitude": -124.508,
     "name": "COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D60",
+    "type": "2.1-meter ionomer foam buoy w/ seal cage",
+    "hull": "2.1D14",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KPQR"
@@ -8842,7 +8949,7 @@
     "forecasts": [
       "FZAK62.PAFC"
     ],
-    "note": "The previous hull, 3DV58, remains on site located at 57?00'56\"N, 177?42'11\"W. It's approximately 8 NM to the west."
+    "note": null
   },
   {
     "id": "46036",
@@ -9034,15 +9141,15 @@
   },
   {
     "id": "46050",
-    "latitude": 44.669,
-    "longitude": -124.546,
+    "latitude": 44.679,
+    "longitude": -124.535,
     "name": "STONEWALL BANK - 20NM West of Newport, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV56",
+    "hull": "3D62",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KPQR"
@@ -9102,8 +9209,8 @@
   },
   {
     "id": "46059",
-    "latitude": 38.087,
-    "longitude": -129.915,
+    "latitude": 38.067,
+    "longitude": -129.895,
     "name": "WEST CALIFORNIA - 357NM West of San Francisco, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -9124,9 +9231,9 @@
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D28",
-    "payload": "ARES payload",
+    "type": "3-meter foam buoy w/ seal cage",
+    "hull": "3DV55",
+    "payload": "SCOOP payload",
     "forecasts": [
       "FZAK51.PAFC"
     ],
@@ -9142,7 +9249,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D20",
+    "hull": "3D55",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK51.PAFC"
@@ -9185,15 +9292,15 @@
   },
   {
     "id": "46066",
-    "latitude": 52.765,
-    "longitude": -155.009,
+    "latitude": 52.776,
+    "longitude": -154.992,
     "name": "SOUTH KODIAK - 310NM SSW of Kodiak, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy",
-    "hull": "3D27",
+    "hull": "3D86",
     "payload": "SCOOP payload",
     "forecasts": [],
     "note": null
@@ -9217,15 +9324,15 @@
   },
   {
     "id": "46070",
-    "latitude": 55.05,
-    "longitude": 175.261,
+    "latitude": 55.048,
+    "longitude": 175.246,
     "name": "SOUTHWEST BERING SEA - 142NM NNE OF ATTU IS, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy",
-    "hull": "3D73",
+    "type": "3-meter foam buoy",
+    "hull": "3DV30",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK62.PAFC"
@@ -9293,12 +9400,12 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D46",
+    "hull": "3D78",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK52.PAFC"
     ],
-    "note": null
+    "note": "As of 0000z, 9/16/25, the buoy from station 46075 has gone adrift. To see the latest position from the buoy, click here."
   },
   {
     "id": "46076",
@@ -9327,8 +9434,8 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D15",
-    "payload": "AMPS payload",
+    "hull": "3D68",
+    "payload": "SCOOP payload",
     "forecasts": [
       "FZAK51.PAFC"
     ],
@@ -9395,8 +9502,8 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D28",
-    "payload": "ARES payload",
+    "hull": "3D50",
+    "payload": "SCOOP payload",
     "forecasts": [
       "FZAK51.PAFC"
     ],
@@ -9421,20 +9528,20 @@
   },
   {
     "id": "46083",
-    "latitude": 58.27,
-    "longitude": -138.019,
+    "latitude": 58.276,
+    "longitude": -138.024,
     "name": "FAIRWEATHER GROUND - 105 NM West  of Juneau, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D10",
-    "payload": "ARES payload",
+    "type": "3-meter discus buoy",
+    "hull": "3D84",
+    "payload": "SCOOP payload",
     "forecasts": [
       "FZAK52.PAJK"
     ],
-    "note": "Buoy recovered from adrift 10/21/24."
+    "note": null
   },
   {
     "id": "46084",
@@ -9455,15 +9562,15 @@
   },
   {
     "id": "46085",
-    "latitude": 55.878,
-    "longitude": -142.876,
+    "latitude": 55.84,
+    "longitude": -142.895,
     "name": "CENTRAL GULF OF ALASKA -  265NM West of Cape Ommaney, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy",
-    "hull": "3D54",
+    "type": "3-meter foam buoy",
+    "hull": "3DV10",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK67.PAJK"
@@ -9496,7 +9603,7 @@
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy",
+    "type": "3-meter discus buoy w/ seal cage",
     "hull": "3D87",
     "payload": "SCOOP payload",
     "forecasts": [
@@ -9513,7 +9620,7 @@
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy",
+    "type": "3-meter discus buoy w/ seal cage",
     "hull": "3D02",
     "payload": "SCOOP payload",
     "forecasts": [
@@ -10943,8 +11050,8 @@
   },
   {
     "id": "46246",
-    "latitude": 50.042,
-    "longitude": -145.17,
+    "latitude": 49.903,
+    "longitude": -145.246,
     "name": "Ocean Station PAPA  (166)",
     "ownerCode": "WQ",
     "ownerName": "APL-UW, University of Washington Applied Physics Laboratory",
@@ -11547,6 +11654,21 @@
     "note": null
   },
   {
+    "id": "46285",
+    "latitude": 33.445,
+    "longitude": -117.68,
+    "name": "Capistrano Beach Nearshore, CA (284)",
+    "ownerCode": "R",
+    "ownerName": "SCRIPPS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Waverider Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "46290",
     "latitude": 32.659,
     "longitude": -120.63,
@@ -11646,10 +11768,10 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D08",
+    "hull": "2.6D99",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": null
+    "note": "Buoy went adrift 8/10/2025 and was renamed to 46d04."
   },
   {
     "id": "46405",
@@ -11683,30 +11805,30 @@
   },
   {
     "id": "46407",
-    "latitude": 42.715,
-    "longitude": -128.825,
+    "latitude": 42.704,
+    "longitude": -128.895,
     "name": "NEWPORT - 210NM West of Coos Bay, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D13",
+    "hull": "2.6D41",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
   },
   {
     "id": "46408",
-    "latitude": 49.652,
-    "longitude": -169.895,
+    "latitude": 49.677,
+    "longitude": -169.825,
     "name": "NIKOLSKI - 212 NM South of Umnak Is, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D85",
+    "hull": "2.6D56",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -11721,7 +11843,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D57",
+    "hull": "2.6D49",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -11791,15 +11913,15 @@
   },
   {
     "id": "46414",
-    "latitude": 53.764,
-    "longitude": -152.416,
+    "latitude": 53.756,
+    "longitude": -152.456,
     "name": "SOUTHEAST CHIRIKOF - 165 NM SE of Chirikof Island, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6 meter DART buoy",
-    "hull": "2.6D11",
+    "hull": "2.6D57",
     "payload": "DART 4G payload",
     "forecasts": [],
     "note": null
@@ -11814,14 +11936,14 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D49",
+    "hull": "2.6D62",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": null
+    "note": "As of 0100z, 10/02/25, the buoy from station 46415 has gone adrift. The see the latest position from the buoy, click here."
   },
   {
     "id": "46416",
-    "latitude": 49.892,
+    "latitude": 49.939,
     "longitude": -134.427,
     "name": "WEST VANCOUVER - 442NM West of Vancouver, BC, Canada",
     "ownerCode": "N",
@@ -11829,7 +11951,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6 meter DART buoy",
-    "hull": "2.6D46",
+    "hull": "2.6D08",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -12106,18 +12228,18 @@
   },
   {
     "id": "46D04",
-    "latitude": 45.848,
-    "longitude": -128.775,
+    "latitude": 42.87,
+    "longitude": -128.752,
     "name": "Adrift Buoy from 46404",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6 meter DART buoy",
-    "hull": "2.6D48",
+    "hull": "2.6D99",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Buoy recovered 5/6/22."
+    "note": "As of 1500z, 8/10/25, the previously deployed hull 2.6D99, from station 46404, has gone adrift. To see the latest positions for the buoy, click here."
   },
   {
     "id": "46D16",
@@ -12916,18 +13038,18 @@
   },
   {
     "id": "51407",
-    "latitude": 19.614,
-    "longitude": -156.562,
+    "latitude": 19.53,
+    "longitude": -156.601,
     "name": "HAWAII - 34NM West of Kailua-Kona, HI",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D22",
+    "hull": "2.6D09",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "As of 2300z, 5/12/25, the buoy from station 51407 has gone adrift. To see the latest positions for the buoy, click here."
+    "note": null
   },
   {
     "id": "51425",
@@ -12939,7 +13061,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D09",
+    "hull": "2.6D61",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -12973,6 +13095,21 @@
     "payload": null,
     "forecasts": [],
     "note": null
+  },
+  {
+    "id": "51D07",
+    "latitude": 19.614,
+    "longitude": -156.562,
+    "name": "Adrift buoy from 51407",
+    "ownerCode": "N",
+    "ownerName": "NDBC",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "2.6 meter DART buoy",
+    "hull": "2.6D22",
+    "payload": "DART II payload",
+    "forecasts": [],
+    "note": "As of 2300z, 5/12/25, the previously deployed hull 2.6D22, from station 51407, has gone adrift. To see the latest positions for the buoy, click here."
   },
   {
     "id": "51D26",
@@ -13038,7 +13175,7 @@
   },
   {
     "id": "52201",
-    "latitude": 7.079,
+    "latitude": 7.078,
     "longitude": 171.384,
     "name": "Kalo, Majuro, Marshall Islands (163)",
     "ownerCode": "PO",
@@ -13173,18 +13310,18 @@
   },
   {
     "id": "52403",
-    "latitude": 4.037,
-    "longitude": 145.62,
+    "latitude": 4.018,
+    "longitude": 145.628,
     "name": "NORTH MANUS - 345NM North of Manus Is , New Guinea",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D61",
+    "hull": "2.6D11",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Station adrift after 0100z, 9/11/24. Click here to see the latest positions on the adrift buoy."
+    "note": "The previous hull from station 52403 remains adrift and has been renamed 52D03."
   },
   {
     "id": "52404",
@@ -13218,15 +13355,15 @@
   },
   {
     "id": "52406",
-    "latitude": -5.371,
-    "longitude": 164.985,
+    "latitude": -5.374,
+    "longitude": 164.99,
     "name": "NORTHEAST SOLOMON - 370NM NE of Guadalcanal",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6 meter DART buoy",
-    "hull": "2.6D59",
+    "hull": "2.6D83",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -15200,7 +15337,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -15215,7 +15352,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -15534,7 +15671,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -15977,7 +16114,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -16757,7 +16894,7 @@
     "ownerName": "NOS",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Water Level Observation Network",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -16913,7 +17050,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -17250,11 +17387,11 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "MARS payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS52.KMHX"
     ],
-    "note": "The system installed at CLKN7 is a prototype. Data is provisional pending rigorous review. Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike. ."
+    "note": "Right whales are active off NC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "CLLT2",
@@ -17485,7 +17622,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -17532,7 +17669,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -17671,7 +17808,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -17826,6 +17963,21 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "Water Quality Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "CXHN6",
+    "latitude": 42.353,
+    "longitude": -73.795,
+    "name": "Coxsackie, Hudson River (8518979)",
+    "ownerCode": "PT",
+    "ownerName": "NOAA NOS PORTS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Water Level Observation Network",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -18073,8 +18225,8 @@
   },
   {
     "id": "DBLN6",
-    "latitude": 42.494,
-    "longitude": -79.354,
+    "latitude": 42.493,
+    "longitude": -79.353,
     "name": "Dunkirk, NY",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -18174,7 +18326,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -18345,7 +18497,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -18360,7 +18512,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -18375,7 +18527,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -19027,7 +19179,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -19855,7 +20007,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -20009,7 +20161,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -20056,7 +20208,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -20385,7 +20537,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -20415,7 +20567,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -20539,7 +20691,7 @@
     "ownerName": "NOAA NOS PORTS",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Water Level Observation Network",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -21009,7 +21161,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -21069,7 +21221,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -21418,7 +21570,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -21553,7 +21705,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -21645,7 +21797,7 @@
     "ownerName": "NOAA NOS PORTS",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Water Level Observation Network",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -21705,7 +21857,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -21782,7 +21934,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -21812,7 +21964,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -22327,7 +22479,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -22658,7 +22810,7 @@
     "ownerName": "NOAA NOS PORTS",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Water Level Observation Network",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -23802,7 +23954,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -23832,7 +23984,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -24223,7 +24375,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -24334,7 +24486,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -24520,7 +24672,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -25123,7 +25275,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": null,
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -25138,7 +25290,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -25326,7 +25478,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -25341,7 +25493,7 @@
     "ownerName": "NOAA NOS PORTS",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Water Level Observation Network",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -25371,7 +25523,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -25431,7 +25583,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -25775,7 +25927,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -26513,7 +26665,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -27019,7 +27171,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -27257,7 +27409,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -27304,7 +27456,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -27526,7 +27678,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -27620,7 +27772,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -27667,11 +27819,11 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "SCOOP payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS52.KKEY"
     ],
-    "note": null
+    "note": "The system installed at SMKF1 is a prototype. Data is provisional pending rigorous review."
   },
   {
     "id": "SMOC1",
@@ -27970,7 +28122,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -28004,11 +28156,11 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "Sutron XPERT payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": null
+    "note": "The system installed at STDM4 is a prototype. Data is provisional pending rigorous review."
   },
   {
     "id": "STXA2",
@@ -28019,7 +28171,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -28143,7 +28295,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -28173,7 +28325,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -28444,7 +28596,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -28617,7 +28769,7 @@
     "ownerName": "NOAA NOS PORTS",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Water Level Observation Network",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -28728,7 +28880,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -28856,7 +29008,7 @@
     "ownerName": "NOAA NOS PORTS",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Water Level Observation Network",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -28950,7 +29102,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -28965,7 +29117,7 @@
     "ownerName": "NOAA NOS PORTS",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Water Level Observation Network",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -29061,7 +29213,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -29326,7 +29478,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -29463,7 +29615,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -29538,7 +29690,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
@@ -29713,7 +29865,7 @@
     "ownerName": "Marine Exchange of Alaska",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "C-MAN Station",
+    "type": "Coastal Marine Station",
     "hull": null,
     "payload": null,
     "forecasts": [],
