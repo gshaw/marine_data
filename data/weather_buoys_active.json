@@ -1131,15 +1131,6 @@
     ]
   },
   {
-    "id": "44100",
-    "kinds": [
-      "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "44137",
     "kinds": [
       "txt"
@@ -1501,7 +1492,6 @@
   {
     "id": "45198",
     "kinds": [
-      "ocean",
       "spec",
       "txt"
     ]
@@ -3046,12 +3036,6 @@
   },
   {
     "id": "AKXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "ALIA2",
     "kinds": [
       "txt"
     ]
@@ -5529,12 +5513,6 @@
     ]
   },
   {
-    "id": "PLXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "PMAF1",
     "kinds": [
       "txt"
@@ -6078,12 +6056,6 @@
     ]
   },
   {
-    "id": "SNDA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "SNDP5",
     "kinds": [
       "txt"
@@ -6252,20 +6224,12 @@
     "id": "THRF1",
     "kinds": [
       "ocean",
-      "rain",
-      "txt"
+      "rain"
     ]
   },
   {
     "id": "THRO1",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "TIBC1",
-    "kinds": [
-      "ocean",
       "txt"
     ]
   },
@@ -6358,12 +6322,6 @@
     ]
   },
   {
-    "id": "ULRA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "UNLA2",
     "kinds": [
       "txt"
@@ -6401,12 +6359,6 @@
   },
   {
     "id": "VCAT2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "VCVA2",
     "kinds": [
       "txt"
     ]
@@ -6513,6 +6465,12 @@
     "id": "WIXA2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "WKQA1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
