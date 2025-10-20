@@ -12610,15 +12610,15 @@
   },
   {
     "id": "51004",
-    "latitude": 17.538,
-    "longitude": -152.23,
+    "latitude": 17.496,
+    "longitude": -152.186,
     "name": "SOUTHEAST HAWAII - 205 NM Southeast of Hilo, HI",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter foam buoy",
-    "hull": "3DV29",
+    "type": "3-meter discus buoy",
+    "hull": "3D48",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZHW60.PHFO"
