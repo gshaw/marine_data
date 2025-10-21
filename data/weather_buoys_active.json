@@ -1277,14 +1277,6 @@
     ]
   },
   {
-    "id": "45023",
-    "kinds": [
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45026",
     "kinds": [
       "adcp",
@@ -3723,8 +3715,7 @@
   {
     "id": "CXLM2",
     "kinds": [
-      "ocean",
-      "txt"
+      "ocean"
     ]
   },
   {
@@ -4074,12 +4065,6 @@
   },
   {
     "id": "GBXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "GDMM5",
     "kinds": [
       "txt"
     ]
