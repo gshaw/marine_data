@@ -12542,15 +12542,15 @@
   },
   {
     "id": "51000",
-    "latitude": 23.528,
-    "longitude": -153.792,
+    "latitude": 23.534,
+    "longitude": -153.752,
     "name": "NORTHERN HAWAII ONE - 245NM NE of Honolulu HI",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV37",
+    "hull": "3DV43",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZHW60.PHFO"
@@ -23461,11 +23461,11 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "Sutron XPERT payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS51.KGYX"
     ],
-    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
+    "note": "The system installed at MISM1 is a prototype. Data is provisional pending rigorous review. Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
   },
   {
     "id": "MISN6",
