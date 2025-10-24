@@ -739,8 +739,6 @@
   {
     "id": "42060",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -2326,15 +2324,6 @@
   },
   {
     "id": "46275",
-    "kinds": [
-      "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "46276",
     "kinds": [
       "adcp",
       "spec",
@@ -5981,12 +5970,6 @@
     ]
   },
   {
-    "id": "SJSN4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "SKDA2",
     "kinds": [
       "txt"
@@ -6502,6 +6485,12 @@
     "id": "WPTW1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "WQQM1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
