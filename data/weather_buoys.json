@@ -8475,18 +8475,18 @@
   },
   {
     "id": "46006",
-    "latitude": 40.764,
-    "longitude": -137.377,
+    "latitude": 40.722,
+    "longitude": -137.436,
     "name": "SOUTHEAST PAPA - 600NM West of Eureka, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter discus buoy",
-    "hull": "3D05",
+    "hasBuoyCam": true,
+    "type": "3-meter foam buoy",
+    "hull": "3DV19",
     "payload": "SCOOP payload",
     "forecasts": [],
-    "note": "Buoy 46006 recovered from adrift 10/25/25."
+    "note": null
   },
   {
     "id": "46007",
@@ -9405,7 +9405,7 @@
     "forecasts": [
       "FZAK52.PAFC"
     ],
-    "note": "As of 0000z, 9/16/25, the buoy from station 46075 has gone adrift. To see the latest position from the buoy, click here."
+    "note": null
   },
   {
     "id": "46076",
