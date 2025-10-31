@@ -1388,6 +1388,15 @@
     ]
   },
   {
+    "id": "45165",
+    "kinds": [
+      "adcp",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
     "id": "45168",
     "kinds": [
       "ocean",
@@ -1536,6 +1545,15 @@
   },
   {
     "id": "46001",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "id": "46002",
     "kinds": [
       "spec",
       "spectral",
@@ -4979,6 +4997,12 @@
     ]
   },
   {
+    "id": "NIQS1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "NIWS1",
     "kinds": [
       "txt"
@@ -5873,12 +5897,6 @@
   },
   {
     "id": "SHXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SIPF1",
     "kinds": [
       "txt"
     ]

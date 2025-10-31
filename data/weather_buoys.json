@@ -7616,7 +7616,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": "Buoy recovered for winter. LimnoTech is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station."
+    "note": "LimnoTech is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station."
   },
   {
     "id": "45166",
@@ -8415,18 +8415,18 @@
   },
   {
     "id": "46002",
-    "latitude": 42.662,
-    "longitude": -130.507,
+    "latitude": 42.56,
+    "longitude": -130.523,
     "name": "WEST OREGON - 275NM West of Coos Bay, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D50",
+    "hasBuoyCam": true,
+    "type": "3-meter foam buoy w/ seal cage",
+    "hull": "3DV56",
     "payload": "SCOOP payload",
     "forecasts": [],
-    "note": "Buoy adrift 9/24/23; Recovered 11/4/23."
+    "note": null
   },
   {
     "id": "46003",
