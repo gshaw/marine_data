@@ -1858,7 +1858,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter foam buoy",
     "hull": "3DV31",
     "payload": "SCOOP payload",
@@ -11760,18 +11760,18 @@
   },
   {
     "id": "46404",
-    "latitude": 45.87,
-    "longitude": -128.756,
+    "latitude": 45.852,
+    "longitude": -128.745,
     "name": "WEST ASTORIA - 230 NM West of Astoria, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D99",
+    "hull": "2.6D06",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Buoy went adrift 8/10/2025 and was renamed to 46d04."
+    "note": null
   },
   {
     "id": "46405",
