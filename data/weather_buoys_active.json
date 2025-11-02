@@ -2507,14 +2507,6 @@
     ]
   },
   {
-    "id": "51207",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "51209",
     "kinds": [
       "spec",
@@ -3790,12 +3782,6 @@
     ]
   },
   {
-    "id": "EAZC1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "EBEF1",
     "kinds": [
       "txt"
@@ -4822,13 +4808,6 @@
   {
     "id": "MKGM4",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "MLSC1",
-    "kinds": [
-      "ocean",
       "txt"
     ]
   },
