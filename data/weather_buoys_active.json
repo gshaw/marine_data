@@ -620,6 +620,8 @@
   {
     "id": "42020",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -2127,13 +2129,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "46243",
-    "kinds": [
-      "spec",
       "txt"
     ]
   },
