@@ -3252,7 +3252,7 @@
     "hull": "2.6D28",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "As of 0600z, 8/6/25, the buoy from station 41421 has gone adrift. To view the latest positions from the buoy, click here."
+    "note": null
   },
   {
     "id": "41424",
