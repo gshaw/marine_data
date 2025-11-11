@@ -7186,7 +7186,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": null
+    "note": "Buoy recovered for season."
   },
   {
     "id": "45132",
@@ -7616,7 +7616,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": "LimnoTech is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station."
+    "note": "LimnoTech is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station. Buoy recovered for season."
   },
   {
     "id": "45166",
@@ -7665,7 +7665,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": null
+    "note": "Buoy recovered for season."
   },
   {
     "id": "45169",
@@ -8080,7 +8080,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy recovered for season."
   },
   {
     "id": "45201",
@@ -8095,7 +8095,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy recovered for season."
   },
   {
     "id": "45202",
@@ -8110,7 +8110,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy recovered for season."
   },
   {
     "id": "45203",

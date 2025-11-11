@@ -555,6 +555,7 @@
   {
     "id": "41122",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -991,13 +992,6 @@
     "id": "44072",
     "kinds": [
       "adcp",
-      "ocean",
-      "txt"
-    ]
-  },
-  {
-    "id": "44073",
-    "kinds": [
       "ocean",
       "txt"
     ]
@@ -2845,12 +2839,6 @@
     ]
   },
   {
-    "id": "ACQS1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "ACXS1",
     "kinds": [
       "txt"
@@ -3104,6 +3092,12 @@
     "id": "BIGM4",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "BILW3",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -4009,12 +4003,6 @@
     ]
   },
   {
-    "id": "GTQF1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "GTXF1",
     "kinds": [
       "txt"
@@ -4163,12 +4151,6 @@
       "ocean",
       "rain",
       "txt"
-    ]
-  },
-  {
-    "id": "JCQN4",
-    "kinds": [
-      "ocean"
     ]
   },
   {
