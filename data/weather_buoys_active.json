@@ -476,15 +476,6 @@
     ]
   },
   {
-    "id": "41082",
-    "kinds": [
-      "ocean",
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "41083",
     "kinds": [
       "ocean",
@@ -635,8 +626,6 @@
   {
     "id": "42020",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -2845,12 +2834,6 @@
   },
   {
     "id": "ADKA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "AGCM4",
     "kinds": [
       "txt"
     ]
