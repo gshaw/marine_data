@@ -626,6 +626,8 @@
   {
     "id": "42020",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -1245,10 +1247,7 @@
   {
     "id": "45012",
     "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
+      "supl"
     ]
   },
   {
@@ -1270,12 +1269,6 @@
   },
   {
     "id": "45132",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "45135",
     "kinds": [
       "txt"
     ]
@@ -1336,12 +1329,6 @@
   },
   {
     "id": "45154",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "45159",
     "kinds": [
       "txt"
     ]
@@ -2188,6 +2175,7 @@
   {
     "id": "46268",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4706,12 +4694,6 @@
   },
   {
     "id": "MIST2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "MIXA2",
     "kinds": [
       "txt"
     ]
