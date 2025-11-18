@@ -2361,12 +2361,12 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter discus buoy",
     "hull": "3D37",
     "payload": "SCOOP payload",
     "forecasts": [],
-    "note": null
+    "note": "As of 11/16/25, the buoy from station 41040 has gone adrift. To see the latest position from the buoy, click here."
   },
   {
     "id": "41041",
@@ -6757,14 +6757,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KDTX"
     ],
-    "note": null
+    "note": "Buoy retrieved for winter 11/17/25."
   },
   {
     "id": "45004",
