@@ -6791,14 +6791,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS61.KCLE"
     ],
-    "note": null
+    "note": "Buoy recovered for Winter 11/19/25."
   },
   {
     "id": "45006",
@@ -11001,8 +11001,8 @@
   },
   {
     "id": "46243",
-    "latitude": 46.214,
-    "longitude": -124.126,
+    "latitude": 46.215,
+    "longitude": -124.129,
     "name": "Clatsop Spit, OR (162)",
     "ownerCode": "R",
     "ownerName": "SCRIPPS",

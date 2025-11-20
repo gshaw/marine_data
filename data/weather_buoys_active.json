@@ -1071,6 +1071,7 @@
   {
     "id": "44090",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -1176,15 +1177,6 @@
     ]
   },
   {
-    "id": "45002",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
     "id": "45003",
     "kinds": [
       "spec",
@@ -1257,12 +1249,6 @@
   },
   {
     "id": "45132",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "45136",
     "kinds": [
       "txt"
     ]
@@ -1386,13 +1372,6 @@
   },
   {
     "id": "45206",
-    "kinds": [
-      "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "45209",
     "kinds": [
       "spec",
       "txt"
@@ -1817,12 +1796,6 @@
     ]
   },
   {
-    "id": "46116",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "46120",
     "kinds": [
       "txt"
@@ -2052,6 +2025,7 @@
   {
     "id": "46243",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -3876,6 +3850,12 @@
     ]
   },
   {
+    "id": "GDMM5",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "GDQM6",
     "kinds": [
       "ocean"
@@ -4180,6 +4160,12 @@
   },
   {
     "id": "KEXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KGBK",
     "kinds": [
       "txt"
     ]
@@ -5365,6 +5351,12 @@
     ]
   },
   {
+    "id": "PRIM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "PRJC1",
     "kinds": [
       "txt"
@@ -5731,12 +5723,6 @@
     ]
   },
   {
-    "id": "SETO3",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "SFXC1",
     "kinds": [
       "txt"
@@ -5843,6 +5829,12 @@
   },
   {
     "id": "SNTO3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SPTM4",
     "kinds": [
       "txt"
     ]
