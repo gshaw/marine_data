@@ -468,7 +468,7 @@
     "hull": "2.6D94",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Buoy redeployed 7/23/25."
+    "note": null
   },
   {
     "id": "21414",
@@ -6928,7 +6928,7 @@
     "forecasts": [
       "FZUS53.KMKX"
     ],
-    "note": "UWM is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station."
+    "note": "UWM is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station. Buoy recovered for the winter 11/21/25."
   },
   {
     "id": "45014",
