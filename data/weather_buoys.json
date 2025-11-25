@@ -7599,7 +7599,7 @@
     "forecasts": [
       "FZUS61.KCLE"
     ],
-    "note": null
+    "note": "Buoy recovered for season."
   },
   {
     "id": "45165",
@@ -7801,7 +7801,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": null
+    "note": "Buoy recovered for season."
   },
   {
     "id": "45177",
@@ -8016,7 +8016,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": null
+    "note": "Buoy recovered for season."
   },
   {
     "id": "45197",
@@ -8033,7 +8033,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45198",
@@ -8140,7 +8140,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45205",
@@ -8155,7 +8155,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45206",
@@ -8170,7 +8170,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45207",
@@ -8185,7 +8185,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45208",
@@ -8200,7 +8200,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45209",
@@ -8590,7 +8590,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
     "hull": "3D76",
     "payload": "SCOOP payload",
