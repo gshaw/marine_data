@@ -595,8 +595,6 @@
   {
     "id": "42020",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -4169,6 +4167,12 @@
     ]
   },
   {
+    "id": "KSPR",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "KVAF",
     "kinds": [
       "txt"
@@ -5801,12 +5805,6 @@
   },
   {
     "id": "TAQT2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "TAWM4",
     "kinds": [
       "txt"
     ]
