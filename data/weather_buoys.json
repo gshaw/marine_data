@@ -3926,6 +3926,36 @@
     "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
   },
   {
+    "id": "42027",
+    "latitude": 29.045,
+    "longitude": -85.305,
+    "name": "C23 - FLRACEP nWFS Buoy, 45m isobath",
+    "ownerCode": "P",
+    "ownerName": "COMPS (University of South Florida)",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Moored Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "42028",
+    "latitude": 29.745,
+    "longitude": -86.227,
+    "name": "C24 - FLRACEP nWFS Buoy, 58m isobath",
+    "ownerCode": "P",
+    "ownerName": "COMPS (University of South Florida)",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Moored Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "42031",
     "latitude": 30.09,
     "longitude": -88.212,
@@ -6723,14 +6753,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.1-meter ionomer foam buoy",
     "hull": "2.1D02",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": null
+    "note": "Recovered for winter 12/2/25."
   },
   {
     "id": "45002",
@@ -6774,14 +6804,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.6D57",
+    "hull": "2.3D06",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": null
+    "note": "Recovered for winter 12/2/25."
   },
   {
     "id": "45005",
@@ -6808,14 +6838,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": null
+    "note": "Buoy recovered for winter on 12/10/25."
   },
   {
     "id": "45007",
