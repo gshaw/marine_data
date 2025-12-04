@@ -7116,7 +7116,7 @@
     "forecasts": [
       "FZUS53.KMQT"
     ],
-    "note": null
+    "note": "Recovered for winter"
   },
   {
     "id": "45024",
@@ -7150,7 +7150,7 @@
     "forecasts": [
       "FZUS53.KMQT"
     ],
-    "note": null
+    "note": "Recovered for winter"
   },
   {
     "id": "45026",
@@ -7729,7 +7729,7 @@
     "forecasts": [
       "FZUS53.KIWX"
     ],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45171",
@@ -7797,7 +7797,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45175",
@@ -7965,7 +7965,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45187",
@@ -7982,7 +7982,7 @@
     "forecasts": [
       "FZUS53.KMKX"
     ],
-    "note": null
+    "note": "Recovered for winter"
   },
   {
     "id": "45188",
@@ -8014,7 +8014,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45195",
@@ -8080,7 +8080,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": null
+    "note": "Recovered for winter"
   },
   {
     "id": "45199",
@@ -8095,7 +8095,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Recovered for winter"
   },
   {
     "id": "45200",
@@ -8279,7 +8279,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45212",
@@ -8362,7 +8362,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Recovered for winter"
   },
   {
     "id": "45218",
@@ -8392,7 +8392,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy recovered"
   },
   {
     "id": "45221",

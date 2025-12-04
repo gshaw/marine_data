@@ -595,6 +595,8 @@
   {
     "id": "42020",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -1666,6 +1668,12 @@
   },
   {
     "id": "46146",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "46181",
     "kinds": [
       "txt"
     ]
@@ -3694,12 +3702,6 @@
     ]
   },
   {
-    "id": "GDMM5",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "GDQM6",
     "kinds": [
       "ocean"
@@ -4004,6 +4006,12 @@
   },
   {
     "id": "KEXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KGBK",
     "kinds": [
       "txt"
     ]
