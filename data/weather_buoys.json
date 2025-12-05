@@ -2547,7 +2547,7 @@
     "forecasts": [
       "FZCA52.TJSJ"
     ],
-    "note": null
+    "note": "Buoy recovered for maintenance 12/4/25."
   },
   {
     "id": "41057",
@@ -7165,7 +7165,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45027",
