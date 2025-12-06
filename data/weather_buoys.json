@@ -4941,7 +4941,7 @@
     "hull": "2.6D84",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": null
+    "note": "Buoy 43412 adrift 12/05/2025."
   },
   {
     "id": "43413",
@@ -7814,7 +7814,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45176",
