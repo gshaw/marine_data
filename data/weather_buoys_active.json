@@ -429,7 +429,6 @@
   {
     "id": "41068",
     "kinds": [
-      "ocean",
       "txt"
     ]
   },
@@ -1161,15 +1160,6 @@
   },
   {
     "id": "45004",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "45006",
     "kinds": [
       "spec",
       "spectral",
@@ -3281,12 +3271,6 @@
     ]
   },
   {
-    "id": "CRTA1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "CRVA2",
     "kinds": [
       "txt"
@@ -3528,6 +3512,12 @@
   },
   {
     "id": "EPTT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "ERXA2",
     "kinds": [
       "txt"
     ]
