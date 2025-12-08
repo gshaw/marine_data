@@ -1150,24 +1150,6 @@
     ]
   },
   {
-    "id": "45001",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "45004",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
     "id": "45007",
     "kinds": [
       "spec",
@@ -1178,18 +1160,6 @@
   },
   {
     "id": "45139",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "45142",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "45147",
     "kinds": [
       "txt"
     ]
@@ -5153,6 +5123,12 @@
     "kinds": [
       "cwind",
       "txt"
+    ]
+  },
+  {
+    "id": "PPHH1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
