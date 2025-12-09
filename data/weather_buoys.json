@@ -6755,7 +6755,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.1-meter ionomer foam buoy",
-    "hull": "2.1D02",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
@@ -6806,7 +6806,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.3D06",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
@@ -6855,14 +6855,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMKX"
     ],
-    "note": null
+    "note": "Buoy recovered for winter on 12/8/25."
   },
   {
     "id": "45008",
@@ -10016,7 +10016,7 @@
     "hull": null,
     "payload": "ARES 4.4 payload",
     "forecasts": [],
-    "note": "For area forecasts and warnings, select: Anchorage WFO Hourly air temperature, wind and wave data from another payload system on this deployed buoy are available using this link: 46035 Station 46035 ceased transmitting data 12/20/2012."
+    "note": "For area forecasts and warnings, select: Anchorage WFO Hourly air temperature, wind ?and wave data?from another payload system on this deployed buoy are available using this link: 46035 Station 46035 ceased transmitting data 12/20/2012."
   },
   {
     "id": "46116",
@@ -22400,7 +22400,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Forecasts for the area area available at WFO San Juan, PR"
+    "note": "Forecasts for the area area available at? WFO San Juan, PR"
   },
   {
     "id": "LAPW1",
@@ -23248,7 +23248,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For area forecasts and warnings, select:? Los Angeles/Oxnard WFO"
+    "note": "For area forecasts and warnings, select: Los Angeles/Oxnard WFO"
   },
   {
     "id": "MCGA1",
@@ -24080,7 +24080,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For area forecasts and warnings, select:? San Francisco/Monterey WFO Data from a nearby water level observation station (MEYC1) can be viewed? here."
+    "note": "For area forecasts and warnings, select: San Francisco/Monterey WFO Data from a nearby water level observation station (MEYC1) can be viewed? here."
   },
   {
     "id": "MZXC1",
