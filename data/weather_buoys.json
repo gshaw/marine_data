@@ -1776,36 +1776,6 @@
     "note": "Data are not quality controlled by NDBC."
   },
   {
-    "id": "32D12",
-    "latitude": -17.98,
-    "longitude": -86.33,
-    "name": "SOUTHWEST LIMA 645NM SW of Lima, Peru",
-    "ownerCode": "N",
-    "ownerName": "NDBC",
-    "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "2.6-meter discus buoy",
-    "hull": "2.6D80",
-    "payload": "DART II payload",
-    "forecasts": [],
-    "note": "Hull 2.6D80 went adrift from station 32412 on 03/08/2016. It is still adrift. It has been renamed 32D12 for tracking purposes."
-  },
-  {
-    "id": "32D13",
-    "latitude": -7.43,
-    "longitude": -93.48,
-    "name": "ADRIFT BUOY FROM 32413",
-    "ownerCode": "N",
-    "ownerName": "NDBC",
-    "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "2.6-meter discus buoy",
-    "hull": "2.6D77",
-    "payload": "DART II payload",
-    "forecasts": [],
-    "note": null
-  },
-  {
     "id": "32ST0",
     "latitude": -22.0,
     "longitude": -85.0,
@@ -5380,7 +5350,7 @@
     "hull": "09",
     "payload": "DACT payload",
     "forecasts": [],
-    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA recommends vessels reduce speeds below 10 knots, when consistent with safe navigation. For latest sightings, go to: http://rwhalesightings.nefsc.noaa.gov/ For area forecasts and warnings, select: Boston WFO"
+    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA recommends vessels reduce speeds below 10 knots, when consistent with safe navigation. For latest sightings, go to: https://www.fisheries.noaa.gov/resource/map/north-atlantic-right-whale-sightings For area forecasts and warnings, select: Boston WFO"
   },
   {
     "id": "44029",
@@ -6712,21 +6682,6 @@
     "payload": null,
     "forecasts": [],
     "note": "Wind speed corrected to the 10-meter height."
-  },
-  {
-    "id": "44D03",
-    "latitude": 41.91,
-    "longitude": -61.643,
-    "name": "Adrift buoy from 44403",
-    "ownerCode": "N",
-    "ownerName": "NDBC",
-    "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "2.6 meter DART buoy",
-    "hull": "2.6D52",
-    "payload": "DART II payload",
-    "forecasts": [],
-    "note": "Adrift buoy declared lost at sea on 05/27/2025. Click here to see the latest positions on the adrift buoy."
   },
   {
     "id": "44T14",
@@ -8313,7 +8268,7 @@
     "forecasts": [
       "FZUS53.KMQT"
     ],
-    "note": "Station recovered for season."
+    "note": null
   },
   {
     "id": "45214",
@@ -8330,7 +8285,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": "Buoy recovered for season 5/27/25."
+    "note": null
   },
   {
     "id": "45215",
@@ -13577,21 +13532,6 @@
     "payload": null,
     "forecasts": [],
     "note": null
-  },
-  {
-    "id": "52D06",
-    "latitude": -5.373,
-    "longitude": 164.99,
-    "name": "NORTHEAST SOLOMON",
-    "ownerCode": "N",
-    "ownerName": "NDBC",
-    "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "2.6 meter DART buoy",
-    "hull": "2.6D09",
-    "payload": "DART II payload",
-    "forecasts": [],
-    "note": "Hull from station 52406 went adrift 12/11/23."
   },
   {
     "id": "53005",
