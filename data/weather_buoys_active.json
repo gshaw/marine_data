@@ -595,8 +595,6 @@
   {
     "id": "42020",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -980,6 +978,7 @@
     "id": "44079",
     "kinds": [
       "ocean",
+      "spec",
       "srad",
       "txt"
     ]
@@ -2625,6 +2624,12 @@
     ]
   },
   {
+    "id": "ANVC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "APAM2",
     "kinds": [
       "txt"
@@ -3218,6 +3223,12 @@
     ]
   },
   {
+    "id": "CRTA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "CRVA2",
     "kinds": [
       "txt"
@@ -3687,12 +3698,6 @@
   },
   {
     "id": "GRRT2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "GSLM4",
     "kinds": [
       "txt"
     ]
@@ -4517,12 +4522,6 @@
   },
   {
     "id": "MRYA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "MTBF1",
     "kinds": [
       "txt"
     ]
