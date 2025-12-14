@@ -184,6 +184,12 @@
     ]
   },
   {
+    "id": "23218",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
     "id": "23223",
     "kinds": [
       "dart"
@@ -1137,15 +1143,6 @@
   {
     "id": "44489",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "45007",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
       "txt"
     ]
   },
@@ -4881,27 +4878,9 @@
     ]
   },
   {
-    "id": "OWDO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "OWMO1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "OWSO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "OWWO1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
@@ -5501,12 +5480,6 @@
     "id": "SDRT2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "SEFO3",
-    "kinds": [
-      "ocean"
     ]
   },
   {
