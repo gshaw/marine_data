@@ -606,6 +606,8 @@
   {
     "id": "42020",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -5734,6 +5736,12 @@
     "id": "THRO1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "TIBC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
