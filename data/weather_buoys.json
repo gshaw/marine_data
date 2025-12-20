@@ -4991,7 +4991,7 @@
       "FZNT21.KWBC",
       "FZUS51.KGYX"
     ],
-    "note": "Adrift hull recovered 6/17/25."
+    "note": "Adrift hull recovered 6/17/25"
   },
   {
     "id": "44006",
@@ -27838,7 +27838,7 @@
     "forecasts": [
       "FZUS52.KKEY"
     ],
-    "note": "The system installed at SMKF1 is a prototype. Data is provisional pending rigorous review."
+    "note": null
   },
   {
     "id": "SMOC1",
@@ -28122,11 +28122,11 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "MARS payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS54.KLCH"
     ],
-    "note": "Station transmitting intermittently."
+    "note": "The system installed at SRST2 is a prototype. Data is provisional pending rigorous review."
   },
   {
     "id": "SRXA2",
