@@ -864,6 +864,8 @@
   {
     "id": "44025",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -1192,13 +1194,6 @@
       "spec",
       "spectral",
       "txt"
-    ]
-  },
-  {
-    "id": "45218",
-    "kinds": [
-      "ocean",
-      "srad"
     ]
   },
   {
@@ -2796,12 +2791,6 @@
   },
   {
     "id": "BFTN7",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "BGXN3",
     "kinds": [
       "txt"
     ]
