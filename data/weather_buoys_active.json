@@ -427,7 +427,6 @@
   {
     "id": "41066",
     "kinds": [
-      "ocean",
       "txt"
     ]
   },
@@ -929,6 +928,13 @@
       "adcp",
       "spec",
       "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "44058",
+    "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -3597,6 +3603,12 @@
     ]
   },
   {
+    "id": "GBCM6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "GBHM6",
     "kinds": [
       "ocean"
@@ -3889,18 +3901,6 @@
     "id": "JNGA2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "JOBP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "JOQP4",
-    "kinds": [
-      "ocean"
     ]
   },
   {
