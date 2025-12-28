@@ -1529,6 +1529,7 @@
   {
     "id": "46087",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "supl",
