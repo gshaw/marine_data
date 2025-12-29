@@ -15986,6 +15986,23 @@
     "note": null
   },
   {
+    "id": "BCFM2",
+    "latitude": 39.205,
+    "longitude": -76.524,
+    "name": "Brewerton Channel Range Front Light (8574831)",
+    "ownerCode": "PT",
+    "ownerName": "NOAA NOS PORTS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "C-MAN Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS51.KLWX"
+    ],
+    "note": null
+  },
+  {
     "id": "BDRN4",
     "latitude": 40.082,
     "longitude": -74.87,
