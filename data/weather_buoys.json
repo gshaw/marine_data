@@ -4648,8 +4648,8 @@
   },
   {
     "id": "42097",
-    "latitude": 25.708,
-    "longitude": -83.634,
+    "latitude": 25.704,
+    "longitude": -83.654,
     "name": "Pulley Ridge, FL (226)",
     "ownerCode": "AC",
     "ownerName": "U.S. Army Corps of Engineers",
@@ -23482,7 +23482,7 @@
     "forecasts": [
       "FZUS51.KGYX"
     ],
-    "note": "The system installed at MISM1 is a prototype. Data is provisional pending rigorous review. Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
+    "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
   },
   {
     "id": "MISN6",
@@ -28192,7 +28192,7 @@
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": "The system installed at STDM4 is a prototype. Data is provisional pending rigorous review."
+    "note": null
   },
   {
     "id": "STXA2",
