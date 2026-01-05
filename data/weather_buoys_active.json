@@ -326,7 +326,6 @@
   {
     "id": "41037",
     "kinds": [
-      "ocean",
       "txt"
     ]
   },
@@ -669,8 +668,6 @@
   {
     "id": "42057",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -937,13 +934,6 @@
     "id": "44072",
     "kinds": [
       "adcp",
-      "ocean",
-      "txt"
-    ]
-  },
-  {
-    "id": "44073",
-    "kinds": [
       "ocean",
       "txt"
     ]
@@ -4567,12 +4557,6 @@
     ]
   },
   {
-    "id": "NKXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "NLHC3",
     "kinds": [
       "txt"
@@ -4600,12 +4584,6 @@
     "id": "NPDW3",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "NPQC1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
