@@ -4728,6 +4728,21 @@
     "note": null
   },
   {
+    "id": "42358",
+    "latitude": 27.874,
+    "longitude": -93.815,
+    "name": "FGBNMS Sofar Spotter",
+    "ownerCode": "FG",
+    "ownerName": "Flower Garden Banks National Marine Sanctuary",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "42407",
     "latitude": 15.276,
     "longitude": -68.191,
