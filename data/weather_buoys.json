@@ -543,7 +543,7 @@
     "hull": "2.6D27",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Buoy adrift 9/7/25"
+    "note": null
   },
   {
     "id": "21419",
@@ -1627,8 +1627,8 @@
   },
   {
     "id": "32401",
-    "latitude": -20.442,
-    "longitude": -73.422,
+    "latitude": -20.603,
+    "longitude": -73.39,
     "name": "180 NM West of Iquique, Chile",
     "ownerCode": "E",
     "ownerName": "Hydrographic and Oceanographic Service of the Chilean Navy (SHOA)",
