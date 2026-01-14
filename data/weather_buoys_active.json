@@ -1572,6 +1572,12 @@
     ]
   },
   {
+    "id": "46120",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "46123",
     "kinds": [
       "txt"
@@ -2520,12 +2526,6 @@
     "id": "ACYN4",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "ADBF1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
@@ -3837,18 +3837,6 @@
     "id": "JNEA2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "JOBP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "JOQP4",
-    "kinds": [
-      "ocean"
     ]
   },
   {
