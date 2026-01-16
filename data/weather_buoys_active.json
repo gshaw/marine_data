@@ -690,8 +690,6 @@
   {
     "id": "42057",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -2739,6 +2737,13 @@
     ]
   },
   {
+    "id": "BDXC1",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "BEIS1",
     "kinds": [
       "ocean"
@@ -3932,6 +3937,12 @@
     ]
   },
   {
+    "id": "KHHV",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "KIKT",
     "kinds": [
       "txt"
@@ -4625,6 +4636,12 @@
     "id": "NPDW3",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "NPQC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -5919,6 +5936,12 @@
   },
   {
     "id": "WASD2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "WATS1",
     "kinds": [
       "txt"
     ]
