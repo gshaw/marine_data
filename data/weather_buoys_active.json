@@ -1666,6 +1666,14 @@
     ]
   },
   {
+    "id": "46215",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "46218",
     "kinds": [
       "spec",
@@ -3247,6 +3255,12 @@
   },
   {
     "id": "CWQT2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "CWWT2",
     "kinds": [
       "ocean"
     ]
