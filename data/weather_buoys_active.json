@@ -1,5 +1,13 @@
 [
   {
+    "id": "51WH0",
+    "kinds": [
+      "ocean",
+      "srad",
+      "txt"
+    ]
+  },
+  {
     "id": "13002",
     "kinds": [
       "txt"
@@ -693,6 +701,12 @@
     ]
   },
   {
+    "id": "42067",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "42084",
     "kinds": [
       "adcp",
@@ -750,13 +764,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "42357",
-    "kinds": [
-      "spec",
       "txt"
     ]
   },
@@ -962,7 +969,6 @@
   {
     "id": "44080",
     "kinds": [
-      "ocean",
       "spec",
       "txt"
     ]
@@ -2081,6 +2087,14 @@
     ]
   },
   {
+    "id": "51208",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "51209",
     "kinds": [
       "spec",
@@ -2443,6 +2457,12 @@
   },
   {
     "id": "5501002",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "id": "5501003",
     "kinds": [
       "dart"
     ]
@@ -3157,7 +3177,8 @@
   {
     "id": "CPXC1",
     "kinds": [
-      "ocean"
+      "ocean",
+      "txt"
     ]
   },
   {
@@ -3379,6 +3400,12 @@
   },
   {
     "id": "ELFA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "ELXA2",
     "kinds": [
       "txt"
     ]
@@ -4350,6 +4377,12 @@
   },
   {
     "id": "MKGM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "MLSC1",
     "kinds": [
       "txt"
     ]
