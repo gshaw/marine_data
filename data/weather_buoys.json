@@ -5992,6 +5992,21 @@
     "note": null
   },
   {
+    "id": "44074",
+    "latitude": 43.07,
+    "longitude": -70.86,
+    "name": "Great Bay Buoy",
+    "ownerCode": "NH",
+    "ownerName": "University of New Hampshire",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Moored Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "44075",
     "latitude": 40.363,
     "longitude": -70.883,
@@ -13046,7 +13061,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D09",
+    "hull": "2.6D22",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
