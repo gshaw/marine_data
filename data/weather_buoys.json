@@ -8589,9 +8589,9 @@
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D89",
-    "payload": "SCOOP payload",
+    "type": "Uncrewed Surface Vehicle",
+    "hull": null,
+    "payload": "An industry-supplied payload",
     "forecasts": [
       "FZUS56.KMTR"
     ],
