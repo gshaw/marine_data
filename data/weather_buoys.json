@@ -8591,11 +8591,11 @@
     "hasBuoyCam": false,
     "type": "Uncrewed Surface Vehicle",
     "hull": null,
-    "payload": "An industry-supplied payload",
+    "payload": null,
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "Saildrone data for this station are available at: SD-1073 (1801589) -- 0000Z, 9/1/23 to 2359Z, 4/25/24 and 2000Z, 5/8/25 to 0000Z, 8/4/25 SD-1077 (1801593) -- 1200Z, 7/27/24 to 1959Z, 5/8/25 SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
+    "note": "Previous data provided by Saildrone for this station are available at: SD-1073 (1801589) -- 0000Z, 9/1/23 to 2359Z, 4/25/24 and 2000Z, 5/8/25 to 0000Z, 8/4/25 SD-1077 (1801593) -- 1200Z, 7/27/24 to 1959Z, 5/8/25 SD-1063 (1801583) -- 0000Z, 4/26/24 to 0330Z, 7/24/24"
   },
   {
     "id": "46013",
