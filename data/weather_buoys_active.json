@@ -1638,6 +1638,14 @@
     ]
   },
   {
+    "id": "46214",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "46215",
     "kinds": [
       "spec",
@@ -2166,7 +2174,6 @@
   {
     "id": "52215",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4367,6 +4374,7 @@
   {
     "id": "MLSC1",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -5529,6 +5537,12 @@
     "id": "SNTO3",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "SOQO3",
+    "kinds": [
+      "ocean"
     ]
   },
   {
