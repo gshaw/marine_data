@@ -8590,7 +8590,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "Uncrewed Surface Vehicle",
-    "hull": null,
+    "hull": "3D89",
     "payload": null,
     "forecasts": [
       "FZUS56.KMTR"
@@ -10526,8 +10526,8 @@
   },
   {
     "id": "46214",
-    "latitude": 37.937,
-    "longitude": -123.463,
+    "latitude": 37.944,
+    "longitude": -123.466,
     "name": "Point Reyes, CA (029)",
     "ownerCode": "R",
     "ownerName": "SCRIPPS",
@@ -11783,7 +11783,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D06",
+    "hull": "2.6D99",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null

@@ -663,8 +663,6 @@
   {
     "id": "42057",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -2156,14 +2154,6 @@
     ]
   },
   {
-    "id": "52215",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "52402",
     "kinds": [
       "dart"
@@ -2527,6 +2517,12 @@
   },
   {
     "id": "AKXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "ALIA2",
     "kinds": [
       "txt"
     ]
@@ -3216,12 +3212,6 @@
     "id": "CWCI",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "CWQO3",
-    "kinds": [
-      "ocean"
     ]
   },
   {
