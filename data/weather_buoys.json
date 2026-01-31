@@ -4320,14 +4320,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter foam buoy",
     "hull": "3DV65",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": null
+    "note": "The buoy from station 42058 has gone adrift of as 1700z, 1/30/26. The latest position from the buoy can be viewed here."
   },
   {
     "id": "42059",
@@ -10950,8 +10950,8 @@
   },
   {
     "id": "46239",
-    "latitude": 36.335,
-    "longitude": -122.104,
+    "latitude": 36.342,
+    "longitude": -122.11,
     "name": "Point Sur, CA (157)",
     "ownerCode": "R",
     "ownerName": "SCRIPPS",
