@@ -792,8 +792,6 @@
   {
     "id": "44007",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -860,8 +858,6 @@
   {
     "id": "44027",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -1500,15 +1496,6 @@
   {
     "id": "46092",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "46097",
-    "kinds": [
-      "ocean",
-      "spec",
-      "srad",
       "txt"
     ]
   },
