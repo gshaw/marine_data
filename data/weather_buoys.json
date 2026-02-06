@@ -12017,6 +12017,23 @@
     "note": null
   },
   {
+    "id": "46453",
+    "latitude": 47.45,
+    "longitude": -124.43,
+    "name": "Backyard Buoys - Quinault North",
+    "ownerCode": "QI",
+    "ownerName": "Quinault Indian Nation",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS56.KSEW"
+    ],
+    "note": null
+  },
+  {
     "id": "46490",
     "latitude": 32.455,
     "longitude": -120.557,

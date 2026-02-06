@@ -804,8 +804,6 @@
   {
     "id": "44011",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -1957,6 +1955,13 @@
     ]
   },
   {
+    "id": "46453",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
     "id": "48400",
     "kinds": [
       "txt"
@@ -2844,6 +2849,12 @@
     ]
   },
   {
+    "id": "BSCA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "BSKF1",
     "kinds": [
       "ocean",
@@ -3607,6 +3618,12 @@
     ]
   },
   {
+    "id": "GPXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "GRMM4",
     "kinds": [
       "txt"
@@ -4333,6 +4350,12 @@
   },
   {
     "id": "MIST2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "MIXA2",
     "kinds": [
       "txt"
     ]
