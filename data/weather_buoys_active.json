@@ -579,14 +579,6 @@
     ]
   },
   {
-    "id": "42022",
-    "kinds": [
-      "adcp",
-      "ocean",
-      "txt"
-    ]
-  },
-  {
     "id": "42023",
     "kinds": [
       "adcp",
@@ -3118,6 +3110,12 @@
     "id": "CRGA2",
     "kinds": [
       "supl",
+      "txt"
+    ]
+  },
+  {
+    "id": "CRTA1",
+    "kinds": [
       "txt"
     ]
   },
@@ -5824,6 +5822,12 @@
     ]
   },
   {
+    "id": "VCVA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "VDXA2",
     "kinds": [
       "txt"
@@ -5903,6 +5907,12 @@
   },
   {
     "id": "WEXM1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "WFXA2",
     "kinds": [
       "txt"
     ]

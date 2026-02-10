@@ -8590,8 +8590,8 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "Uncrewed Surface Vehicle",
-    "hull": "3D89",
-    "payload": null,
+    "hull": null,
+    "payload": "DataXplorer",
     "forecasts": [
       "FZUS56.KMTR"
     ],
