@@ -307,6 +307,7 @@
   {
     "id": "41037",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -426,6 +427,14 @@
     "id": "41076",
     "kinds": [
       "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "41082",
+    "kinds": [
+      "ocean",
+      "srad",
       "txt"
     ]
   },
@@ -3855,12 +3864,6 @@
     ]
   },
   {
-    "id": "KGUL",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "KGVW",
     "kinds": [
       "txt"
@@ -5883,6 +5886,12 @@
   },
   {
     "id": "WAXM3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "WBXA2",
     "kinds": [
       "txt"
     ]
