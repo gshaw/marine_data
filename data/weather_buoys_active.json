@@ -307,7 +307,6 @@
   {
     "id": "41037",
     "kinds": [
-      "ocean",
       "txt"
     ]
   },
@@ -3180,13 +3179,6 @@
     ]
   },
   {
-    "id": "CXLM2",
-    "kinds": [
-      "ocean",
-      "txt"
-    ]
-  },
-  {
     "id": "CYGM4",
     "kinds": [
       "txt"
@@ -3489,6 +3481,12 @@
     "id": "FTPC1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "GBCM6",
+    "kinds": [
+      "ocean"
     ]
   },
   {
