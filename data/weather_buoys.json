@@ -11954,7 +11954,7 @@
     "hull": "2.6D62",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "As of 0100z, 10/02/25, the buoy from station 46415 has gone adrift. The see the latest position from the buoy, click here."
+    "note": "Buoy recovered from adrift 02/17/26."
   },
   {
     "id": "46416",
@@ -17815,6 +17815,21 @@
       "FZUS52.KTAE"
     ],
     "note": "Station CSBF1 has been replaced with Station SGOF1"
+  },
+  {
+    "id": "CSIM3",
+    "latitude": 42.341,
+    "longitude": -71.012,
+    "name": "Castle Island (NOS) 8444069",
+    "ownerCode": "O",
+    "ownerName": "NOS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Water Level Observation Network",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
   },
   {
     "id": "CSPA2",
