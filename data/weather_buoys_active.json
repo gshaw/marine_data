@@ -728,7 +728,6 @@
   {
     "id": "42099",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -956,14 +955,6 @@
     "id": "44088",
     "kinds": [
       "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "44089",
-    "kinds": [
       "spec",
       "spectral",
       "txt"
@@ -2442,6 +2433,12 @@
     ]
   },
   {
+    "id": "ADBF1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "ADKA2",
     "kinds": [
       "txt"
@@ -2984,6 +2981,12 @@
     ]
   },
   {
+    "id": "CHYV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "CHYW1",
     "kinds": [
       "txt"
@@ -3122,6 +3125,12 @@
   },
   {
     "id": "CRYV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "CSIM3",
     "kinds": [
       "txt"
     ]
