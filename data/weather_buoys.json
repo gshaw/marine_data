@@ -3766,7 +3766,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.1-meter ionomer foam buoy",
     "hull": "2.1D12",
     "payload": "SCOOP payload",
@@ -3774,7 +3774,7 @@
       "FZUS54.KHGX",
       "FZNT24.KNHC"
     ],
-    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
+    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. The buoy from station 42019 has gone adrift of as 1800z, 2/26/25. The latest position from the buoy can be viewed here."
   },
   {
     "id": "42020",
