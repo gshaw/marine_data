@@ -609,8 +609,7 @@
   {
     "id": "42027",
     "kinds": [
-      "ocean",
-      "txt"
+      "ocean"
     ]
   },
   {
@@ -3525,12 +3524,6 @@
     ]
   },
   {
-    "id": "GBCM6",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "GBHM6",
     "kinds": [
       "ocean"
@@ -4821,12 +4814,6 @@
     ]
   },
   {
-    "id": "PAXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "PBFW1",
     "kinds": [
       "txt"
@@ -4918,12 +4905,6 @@
   },
   {
     "id": "PGBP7",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "PGXA2",
     "kinds": [
       "txt"
     ]
