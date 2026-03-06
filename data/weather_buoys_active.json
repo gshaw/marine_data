@@ -516,7 +516,8 @@
   {
     "id": "42027",
     "kinds": [
-      "ocean"
+      "ocean",
+      "txt"
     ]
   },
   {
@@ -1288,6 +1289,7 @@
   {
     "id": "46080",
     "kinds": [
+      "supl",
       "txt"
     ]
   },
@@ -4048,6 +4050,12 @@
     ]
   },
   {
+    "id": "LTQM2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "LTRM4",
     "kinds": [
       "txt"
@@ -4431,6 +4439,12 @@
   },
   {
     "id": "NJLC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "NKLA2",
     "kinds": [
       "txt"
     ]
@@ -5825,6 +5839,12 @@
     "id": "WIXA2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "WKQA1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
