@@ -26368,11 +26368,11 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "MARS payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS56.KLOX"
     ],
-    "note": "Station failed 02/14/23."
+    "note": null
   },
   {
     "id": "PTIM4",
@@ -28205,7 +28205,7 @@
     "forecasts": [
       "FZUS54.KLCH"
     ],
-    "note": "The system installed at SRST2 is a prototype. Data is provisional pending rigorous review."
+    "note": null
   },
   {
     "id": "SRXA2",
