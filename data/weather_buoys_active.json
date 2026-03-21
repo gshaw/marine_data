@@ -4994,6 +4994,12 @@
     ]
   },
   {
+    "id": "PRUR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "PRYC1",
     "kinds": [
       "txt"
@@ -5436,6 +5442,12 @@
   },
   {
     "id": "SNTO3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SPTM4",
     "kinds": [
       "txt"
     ]
