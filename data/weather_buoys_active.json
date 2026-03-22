@@ -2031,15 +2031,6 @@
     ]
   },
   {
-    "id": "52213",
-    "kinds": [
-      "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "52402",
     "kinds": [
       "dart"
@@ -3743,18 +3734,6 @@
     ]
   },
   {
-    "id": "JOBP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "JOQP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "JOXP4",
     "kinds": [
       "txt"
@@ -5153,12 +5132,6 @@
   },
   {
     "id": "RCPT2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "RCRN6",
     "kinds": [
       "txt"
     ]
