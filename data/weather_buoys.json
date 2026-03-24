@@ -4008,15 +4008,15 @@
   },
   {
     "id": "42039",
-    "latitude": 28.787,
-    "longitude": -86.007,
+    "latitude": 28.768,
+    "longitude": -86.024,
     "name": "PENSACOLA - 115NM SSE of Pensacola, FL",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter foam buoy",
-    "hull": "3DV54",
+    "hasBuoyCam": true,
+    "type": "2.1-meter ionomer foam buoy",
+    "hull": "2.1D05",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS52.KTAE",
@@ -7150,7 +7150,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45027",
@@ -7950,7 +7950,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45187",
@@ -7967,7 +7967,7 @@
     "forecasts": [
       "FZUS53.KMKX"
     ],
-    "note": "Recovered for winter"
+    "note": null
   },
   {
     "id": "45188",
