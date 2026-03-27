@@ -4774,15 +4774,15 @@
   },
   {
     "id": "42409",
-    "latitude": 25.799,
-    "longitude": -89.291,
+    "latitude": 25.797,
+    "longitude": -89.288,
     "name": "GULF OF AMERICA - 247 NM South of New Orleans, LA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D69",
+    "hull": "2.6D97",
     "payload": "DART II payload",
     "forecasts": [],
     "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
