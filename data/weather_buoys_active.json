@@ -1142,12 +1142,6 @@
     ]
   },
   {
-    "id": "45198",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "45212",
     "kinds": [
       "spec",
@@ -3212,12 +3206,6 @@
     "id": "CRGA2",
     "kinds": [
       "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "CRTA1",
-    "kinds": [
       "txt"
     ]
   },
@@ -5749,12 +5737,6 @@
   },
   {
     "id": "TAWM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "TBIM4",
     "kinds": [
       "txt"
     ]
