@@ -4327,7 +4327,7 @@
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": "The buoy from station 42058 has gone adrift of as 1700z, 1/30/26. The latest position from the buoy can be viewed here."
+    "note": null
   },
   {
     "id": "42059",
@@ -12271,7 +12271,7 @@
     "hull": "2.6D99",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "As of 1500z, 8/10/25, the previously deployed hull 2.6D99, from station 46404, has gone adrift. To see the latest positions for the buoy, click here."
+    "note": "As of 1500z, 8/10/25, the previously deployed hull 2.6D99, from station 46404, has gone adrift. Buoy recovered from adrift 4/3/26."
   },
   {
     "id": "46D16",
@@ -13187,6 +13187,21 @@
     "type": "3-meter discus buoy",
     "hull": null,
     "payload": "DACT payload",
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "52162",
+    "latitude": 15.15,
+    "longitude": 145.694,
+    "name": "Backyard Buoys - Saipan Sugar Dock",
+    "ownerCode": "PO",
+    "ownerName": "Pacific Islands Ocean Observing System",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": null,
+    "hull": null,
+    "payload": null,
     "forecasts": [],
     "note": null
   },
