@@ -4314,15 +4314,15 @@
   },
   {
     "id": "42058",
-    "latitude": 14.512,
-    "longitude": -75.153,
+    "latitude": 14.114,
+    "longitude": -75.949,
     "name": "Central Caribbean - 210 NM SSE of Kingston, Jamaica",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV65",
+    "hull": "3DV26",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
