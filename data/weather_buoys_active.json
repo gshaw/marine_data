@@ -717,7 +717,6 @@
   {
     "id": "42084",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -3867,12 +3866,6 @@
     ]
   },
   {
-    "id": "JCQN4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "JCRN4",
     "kinds": [
       "txt"
@@ -4455,6 +4448,7 @@
   {
     "id": "MLSC1",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -4896,12 +4890,6 @@
     "id": "OWMO1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "OWQO1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
@@ -5758,6 +5746,12 @@
   },
   {
     "id": "TAWM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "TBIM4",
     "kinds": [
       "txt"
     ]
