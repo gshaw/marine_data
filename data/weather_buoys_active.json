@@ -700,6 +700,15 @@
     ]
   },
   {
+    "id": "42059",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "42060",
     "kinds": [
       "spec",
@@ -4894,6 +4903,12 @@
     "id": "OWMO1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "OWQO1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
