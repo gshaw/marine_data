@@ -4752,7 +4752,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D88",
+    "hull": "2.6D16",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
