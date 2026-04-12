@@ -8789,15 +8789,15 @@
   },
   {
     "id": "46025",
-    "latitude": 33.755,
-    "longitude": -119.045,
+    "latitude": 33.765,
+    "longitude": -119.077,
     "name": "Santa Monica Basin - 33NM WSW of Santa Monica, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D58",
+    "hull": "3D15",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KLOX"
