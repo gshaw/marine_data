@@ -9190,15 +9190,15 @@
   },
   {
     "id": "46053",
-    "latitude": 34.241,
-    "longitude": -119.839,
+    "latitude": 34.248,
+    "longitude": -119.836,
     "name": "EAST SANTA BARBARA  - 12NM Southwest of Santa Barbara, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "2.1-meter ionomer foam buoy w/ seal cage",
-    "hull": "2.1D07",
+    "type": "3-meter foam buoy w/ seal cage",
+    "hull": "3DV14",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KLOX"
@@ -9322,15 +9322,15 @@
   },
   {
     "id": "46069",
-    "latitude": 33.677,
-    "longitude": -120.213,
+    "latitude": 33.657,
+    "longitude": -120.227,
     "name": "SOUTH SANTA ROSA - 14 NM SW of Santa Rosa Island, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
-    "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D81",
+    "type": "3-meter foam buoy w/ seal cage",
+    "hull": "3DV58",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KLOX"
