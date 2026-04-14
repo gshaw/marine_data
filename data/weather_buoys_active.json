@@ -891,8 +891,6 @@
   {
     "id": "44025",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -1168,6 +1166,13 @@
     "id": "45187",
     "kinds": [
       "adcp",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45209",
+    "kinds": [
       "spec",
       "txt"
     ]
@@ -3480,6 +3485,12 @@
     ]
   },
   {
+    "id": "ELQC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "ELXA2",
     "kinds": [
       "txt"
@@ -3732,6 +3743,12 @@
   },
   {
     "id": "GRRT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "GSLM4",
     "kinds": [
       "txt"
     ]
@@ -4005,12 +4022,6 @@
   },
   {
     "id": "KGNA",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "KGRY",
     "kinds": [
       "txt"
     ]
