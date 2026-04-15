@@ -1627,8 +1627,8 @@
   },
   {
     "id": "32401",
-    "latitude": -20.603,
-    "longitude": -73.39,
+    "latitude": -20.611,
+    "longitude": -73.394,
     "name": "180 NM West of Iquique, Chile",
     "ownerCode": "E",
     "ownerName": "Hydrographic and Oceanographic Service of the Chilean Navy (SHOA)",
@@ -9060,20 +9060,20 @@
   },
   {
     "id": "46042",
-    "latitude": 36.785,
-    "longitude": -122.396,
+    "latitude": 36.787,
+    "longitude": -122.408,
     "name": "MONTEREY - 27NM WNW of Monterey, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy w/ seal cage",
-    "hull": "3DV10",
+    "hull": "3DV25",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KMTR"
     ],
-    "note": "As of 0400z, 11/25/23, buoy has gone adrift. The buoy was recovered on 12/15/23."
+    "note": null
   },
   {
     "id": "46043",

@@ -1351,6 +1351,15 @@
     ]
   },
   {
+    "id": "46042",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "46047",
     "kinds": [
       "spec",
@@ -1588,12 +1597,6 @@
   },
   {
     "id": "46120",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "46121",
     "kinds": [
       "txt"
     ]
@@ -4022,6 +4025,18 @@
   },
   {
     "id": "KGNA",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KGRY",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KGUL",
     "kinds": [
       "txt"
     ]
