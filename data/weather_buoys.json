@@ -8080,7 +8080,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Recovered for winter"
+    "note": null
   },
   {
     "id": "45200",
@@ -20466,6 +20466,21 @@
     "forecasts": [
       "FZUS54.KLIX"
     ],
+    "note": null
+  },
+  {
+    "id": "GRCM4",
+    "latitude": 47.121,
+    "longitude": -88.545,
+    "name": "GLRC Observatory",
+    "ownerCode": "MT",
+    "ownerName": "Michigan Technological University",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Coastal Marine Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
     "note": null
   },
   {
