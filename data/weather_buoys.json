@@ -5487,6 +5487,21 @@
     "note": "Caution: Right whales may be active in northeast waters year-round. NOAA may establish temporary Dynamic Management Areas (DMAs) to protect aggregations of right whales. Mariners are requested to transit DMAs at 10 knots or less when consistent with safe navigation. For information on currently active DMAs, go to: http://www.nmfs.noaa.gov/pr/shipstrike"
   },
   {
+    "id": "4403585",
+    "latitude": 42.132,
+    "longitude": -80.27,
+    "name": "Walnut Creek Buoy",
+    "ownerCode": "RC",
+    "ownerName": "Regional Science Consortium",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Moored Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "44036",
     "latitude": 45.2,
     "longitude": -66.02,
@@ -8393,6 +8408,36 @@
     "payload": null,
     "forecasts": [],
     "note": "Buoy recovered for the winter"
+  },
+  {
+    "id": "45222",
+    "latitude": 42.126,
+    "longitude": -80.148,
+    "name": "Beach 2 Buoy",
+    "ownerCode": "RC",
+    "ownerName": "Regional Science Consortium",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Moored Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "45223",
+    "latitude": 42.144,
+    "longitude": -80.139,
+    "name": "Beach 6 Buoy",
+    "ownerCode": "RC",
+    "ownerName": "Regional Science Consortium",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Moored Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
   },
   {
     "id": "45T01",
