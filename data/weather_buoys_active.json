@@ -1033,7 +1033,6 @@
   {
     "id": "44090",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4029,12 +4028,6 @@
   },
   {
     "id": "KGNA",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "KGRY",
     "kinds": [
       "txt"
     ]
