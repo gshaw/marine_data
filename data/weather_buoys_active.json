@@ -365,7 +365,6 @@
   {
     "id": "41053",
     "kinds": [
-      "ocean",
       "spec",
       "txt"
     ]
@@ -3775,6 +3774,12 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "GTQF1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
