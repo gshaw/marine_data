@@ -663,6 +663,12 @@
     ]
   },
   {
+    "id": "42043",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "42055",
     "kinds": [
       "spec",
@@ -1174,6 +1180,14 @@
     "id": "45199",
     "kinds": [
       "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45203",
+    "kinds": [
+      "spec",
+      "srad",
       "txt"
     ]
   },
@@ -1923,6 +1937,15 @@
   {
     "id": "46266",
     "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "46267",
+    "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4936,12 +4959,6 @@
     ]
   },
   {
-    "id": "OWQO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "OWSO1",
     "kinds": [
       "ocean"
@@ -5576,6 +5593,12 @@
     ]
   },
   {
+    "id": "SEQA2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "SFXC1",
     "kinds": [
       "txt"
@@ -5677,6 +5700,12 @@
     "id": "SMKF1",
     "kinds": [
       "supl",
+      "txt"
+    ]
+  },
+  {
+    "id": "SNDA2",
+    "kinds": [
       "txt"
     ]
   },
