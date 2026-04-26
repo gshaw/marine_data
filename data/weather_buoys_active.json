@@ -5233,12 +5233,6 @@
     ]
   },
   {
-    "id": "PRIM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "PRJC1",
     "kinds": [
       "txt"
@@ -5717,12 +5711,6 @@
   },
   {
     "id": "SNTO3",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SPTM4",
     "kinds": [
       "txt"
     ]
