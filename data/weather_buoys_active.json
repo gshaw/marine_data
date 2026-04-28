@@ -1136,6 +1136,22 @@
     ]
   },
   {
+    "id": "45023",
+    "kinds": [
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "id": "45025",
+    "kinds": [
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
     "id": "45026",
     "kinds": [
       "adcp",
@@ -1153,7 +1169,22 @@
     ]
   },
   {
+    "id": "45164",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "45168",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45176",
     "kinds": [
       "ocean",
       "spec",
@@ -1177,6 +1208,22 @@
     ]
   },
   {
+    "id": "45196",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45197",
+    "kinds": [
+      "ocean",
+      "spec",
+      "txt"
+    ]
+  },
+  {
     "id": "45199",
     "kinds": [
       "spec",
@@ -1188,6 +1235,33 @@
     "kinds": [
       "spec",
       "srad",
+      "txt"
+    ]
+  },
+  {
+    "id": "45205",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45206",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "45207",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45208",
+    "kinds": [
+      "spec",
       "txt"
     ]
   },
@@ -1224,6 +1298,14 @@
     "kinds": [
       "spec",
       "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "45216",
+    "kinds": [
+      "spec",
+      "srad",
       "txt"
     ]
   },
@@ -3669,6 +3751,13 @@
     ]
   },
   {
+    "id": "FSTI2",
+    "kinds": [
+      "srad",
+      "txt"
+    ]
+  },
+  {
     "id": "FTGM4",
     "kinds": [
       "txt"
@@ -4049,6 +4138,12 @@
   },
   {
     "id": "KGNA",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KGRY",
     "kinds": [
       "txt"
     ]
@@ -4888,6 +4983,13 @@
   {
     "id": "OHBC1",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "OKSI2",
+    "kinds": [
+      "srad",
       "txt"
     ]
   },
@@ -5732,6 +5834,12 @@
     "kinds": [
       "ocean",
       "rain",
+      "txt"
+    ]
+  },
+  {
+    "id": "SRLM4",
+    "kinds": [
       "txt"
     ]
   },
