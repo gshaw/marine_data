@@ -946,6 +946,13 @@
     ]
   },
   {
+    "id": "44063",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "44065",
     "kinds": [
       "spec",
@@ -2808,12 +2815,6 @@
     ]
   },
   {
-    "id": "ARPF1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "ASBO1",
     "kinds": [
       "txt"
@@ -2877,6 +2878,13 @@
   {
     "id": "BCFM2",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "BCTP1",
+    "kinds": [
+      "srad",
       "txt"
     ]
   },
@@ -3848,6 +3856,13 @@
   {
     "id": "GPXA2",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "GRCM4",
+    "kinds": [
+      "ocean",
       "txt"
     ]
   },
