@@ -2325,18 +2325,18 @@
   },
   {
     "id": "41040",
-    "latitude": 14.536,
-    "longitude": -53.136,
+    "latitude": 14.563,
+    "longitude": -53.01,
     "name": "NORTH EQUATORIAL ONE- 470 NM East of Martinique",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter discus buoy",
-    "hull": "3D37",
+    "hasBuoyCam": true,
+    "type": "3-meter foam buoy",
+    "hull": "3DV33",
     "payload": "SCOOP payload",
     "forecasts": [],
-    "note": "Buoy adrift 11/16/2025 and renamed to 41X40."
+    "note": null
   },
   {
     "id": "41041",
