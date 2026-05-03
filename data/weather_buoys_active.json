@@ -327,6 +327,15 @@
     ]
   },
   {
+    "id": "41041",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "41043",
     "kinds": [
       "spec",
@@ -915,6 +924,14 @@
   },
   {
     "id": "44030",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "id": "44032",
     "kinds": [
       "adcp",
       "ocean",
@@ -4127,18 +4144,6 @@
     "id": "JNGA2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "JOBP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "JOQP4",
-    "kinds": [
-      "ocean"
     ]
   },
   {

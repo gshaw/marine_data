@@ -2340,18 +2340,18 @@
   },
   {
     "id": "41041",
-    "latitude": 14.453,
-    "longitude": -46.327,
+    "latitude": 14.259,
+    "longitude": -46.041,
     "name": "NORTH EQUATORIAL TWO - 890 NM East of Martinique",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter discus buoy",
-    "hull": "3D48",
+    "hasBuoyCam": true,
+    "type": "2.1-meter ionomer foam buoy",
+    "hull": "2.1D06",
     "payload": "SCOOP payload",
     "forecasts": [],
-    "note": "The buoy from station 41041 has been recovered as of 10/14/21."
+    "note": null
   },
   {
     "id": "41043",
@@ -3807,7 +3807,7 @@
       "FZUS54.KBRO",
       "FZNT24.KNHC"
     ],
-    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
+    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. The buoy from station 42020 has gone adrift of as 0600z, 5/2/26. The latest position from the buoy can be viewed here."
   },
   {
     "id": "42021",
