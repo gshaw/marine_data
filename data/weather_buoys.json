@@ -3789,7 +3789,7 @@
       "FZUS54.KHGX",
       "FZNT24.KNHC"
     ],
-    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. The buoy from station 42019 has gone adrift of as 1800z, 2/26/25. The latest position from the buoy can be viewed here."
+    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. The buoy from station 42019 has gone adrift of as 1800z, 2/26/25. The buoy was recovered 5/4/26."
   },
   {
     "id": "42020",
@@ -12018,16 +12018,16 @@
   },
   {
     "id": "46419",
-    "latitude": 48.815,
-    "longitude": -129.623,
+    "latitude": 48.816,
+    "longitude": -129.614,
     "name": "NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6 meter DART buoy",
-    "hull": "2.6D54",
-    "payload": "DART II payload",
+    "hull": "2.6D96",
+    "payload": "DART 4G payload",
     "forecasts": [],
     "note": null
   },
