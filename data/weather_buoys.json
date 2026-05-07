@@ -4363,8 +4363,8 @@
   },
   {
     "id": "42060",
-    "latitude": 16.434,
-    "longitude": -63.329,
+    "latitude": 16.428,
+    "longitude": -63.21,
     "name": "Caribbean Valley - 63 NM WSW of Montserrat",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -6166,8 +6166,8 @@
   },
   {
     "id": "44087",
-    "latitude": 37.045,
-    "longitude": -76.127,
+    "latitude": 37.043,
+    "longitude": -76.129,
     "name": "Thimble Shoal, VA (240)",
     "ownerCode": "NV",
     "ownerName": "U.S. Navy",
@@ -6806,7 +6806,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.6D57",
+    "hull": "2.6D99",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
@@ -11999,7 +11999,7 @@
     "hull": "2.6D62",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "Buoy recovered from adrift 02/17/26."
+    "note": null
   },
   {
     "id": "46416",
@@ -12317,6 +12317,21 @@
     "payload": "DART II payload",
     "forecasts": [],
     "note": "As of 1500z, 8/10/25, the previously deployed hull 2.6D99, from station 46404, has gone adrift. Buoy recovered from adrift 4/3/26."
+  },
+  {
+    "id": "46D15",
+    "latitude": 53.035,
+    "longitude": -139.884,
+    "name": "Adrift buoy from 46415",
+    "ownerCode": "N",
+    "ownerName": "NDBC",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "2.6 meter DART buoy",
+    "hull": "2.6D62",
+    "payload": "DART II payload",
+    "forecasts": [],
+    "note": "The hull from station 46415 has gone adrift of as 0100z, 10/02/25. The latest position from the buoy can be viewed here."
   },
   {
     "id": "46D16",
