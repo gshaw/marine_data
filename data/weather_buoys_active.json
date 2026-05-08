@@ -582,18 +582,8 @@
     ]
   },
   {
-    "id": "42020",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
     "id": "42022",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -1020,7 +1010,6 @@
     "id": "44079",
     "kinds": [
       "ocean",
-      "spec",
       "srad",
       "txt"
     ]
@@ -2234,6 +2223,12 @@
     ]
   },
   {
+    "id": "46415",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
     "id": "46416",
     "kinds": [
       "dart"
@@ -3372,6 +3367,12 @@
   },
   {
     "id": "CMLN3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "CMPO1",
     "kinds": [
       "txt"
     ]
@@ -5459,6 +5460,12 @@
     ]
   },
   {
+    "id": "PRIM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "PRJC1",
     "kinds": [
       "txt"
@@ -5937,6 +5944,12 @@
   },
   {
     "id": "SNTO3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SPTM4",
     "kinds": [
       "txt"
     ]

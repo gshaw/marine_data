@@ -11988,16 +11988,16 @@
   },
   {
     "id": "46415",
-    "latitude": 53.035,
-    "longitude": -139.884,
+    "latitude": 53.029,
+    "longitude": -139.889,
     "name": "SOUTHWEST JUNEAU - 370 NM SW of Juneau, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D62",
-    "payload": "DART II payload",
+    "hull": "2.6D101",
+    "payload": "DART 4G payload",
     "forecasts": [],
     "note": null
   },
@@ -28177,7 +28177,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "C-MAN Station",
-    "hull": null,
+    "hull": "2.6D57",
     "payload": "Sutron XPERT payload",
     "forecasts": [
       "FZNT23.KNHC"
