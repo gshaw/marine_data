@@ -426,6 +426,7 @@
   {
     "id": "41069",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -3017,12 +3018,6 @@
     ]
   },
   {
-    "id": "BILW3",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "BISM2",
     "kinds": [
       "txt"
@@ -3959,12 +3954,6 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GTQF1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
