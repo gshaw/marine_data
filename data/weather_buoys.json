@@ -1981,7 +1981,7 @@
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": "As of 0100z, 7/6/25, the buoy from station 41010 has gone adrift. To see the latest position from the buoy, click here."
+    "note": "Buoy adrift 7/6/2025 and renamed to 41y10."
   },
   {
     "id": "41011",
@@ -3488,6 +3488,21 @@
     "payload": "SCOOP payload",
     "forecasts": [],
     "note": "Buoy recovered from adrift."
+  },
+  {
+    "id": "41Y10",
+    "latitude": 28.88,
+    "longitude": -78.48,
+    "name": "Adrift hull from 41010",
+    "ownerCode": "N",
+    "ownerName": "NDBC",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "3-meter discus buoy",
+    "hull": "3D41",
+    "payload": "SCOOP payload",
+    "forecasts": [],
+    "note": "As of 0100z, 7/6/25, the previously deployed hull 3D41 from station 41010 has gone adrift. To see the latest position from the buoy, click here."
   },
   {
     "id": "42001",
@@ -7171,7 +7186,7 @@
     "id": "45027",
     "latitude": 46.86,
     "longitude": -91.93,
-    "name": "McQuade Harbor Nearshore, MN",
+    "name": "Fairport Harbor Buoy",
     "ownerCode": "MN",
     "ownerName": "University of Minnesota, Duluth",
     "ownerCountryCode": "US",
