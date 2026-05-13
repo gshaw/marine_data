@@ -9441,7 +9441,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy",
-    "hull": "3D42",
+    "hull": null,
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK52.PAFC"
@@ -11903,7 +11903,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D56",
+    "hull": null,
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -11981,7 +11981,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D71",
+    "hull": null,
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
