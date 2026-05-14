@@ -8380,6 +8380,23 @@
     "note": null
   },
   {
+    "id": "45217",
+    "latitude": 46.706,
+    "longitude": -91.985,
+    "name": "Wisconsin Point",
+    "ownerCode": "MN",
+    "ownerName": "University of Minnesota, Duluth",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS63.KMQT"
+    ],
+    "note": null
+  },
+  {
     "id": "45218",
     "latitude": 43.731,
     "longitude": -87.624,
@@ -8408,6 +8425,21 @@
     "payload": null,
     "forecasts": [],
     "note": "Buoy recovered"
+  },
+  {
+    "id": "45220",
+    "latitude": 42.561,
+    "longitude": -79.432,
+    "name": "Dunkirk Buoy",
+    "ownerCode": "BS",
+    "ownerName": "SUNY Buffalo State University",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "GLOS Weather Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
   },
   {
     "id": "45221",
@@ -9492,7 +9524,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "unk",
+    "hull": "3D18",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK51.PAFC"

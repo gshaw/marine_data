@@ -569,6 +569,7 @@
   {
     "id": "42013",
     "kinds": [
+      "adcp",
       "ocean",
       "srad",
       "txt"
@@ -1110,6 +1111,15 @@
     ]
   },
   {
+    "id": "44100",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "44137",
     "kinds": [
       "txt"
@@ -1371,6 +1381,19 @@
     "kinds": [
       "spec",
       "srad",
+      "txt"
+    ]
+  },
+  {
+    "id": "45217",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "45220",
+    "kinds": [
+      "spec",
       "txt"
     ]
   },
@@ -1655,6 +1678,8 @@
   {
     "id": "46076",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -1781,7 +1806,19 @@
     ]
   },
   {
+    "id": "46118",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "46120",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "46121",
     "kinds": [
       "txt"
     ]
@@ -3284,12 +3321,6 @@
     ]
   },
   {
-    "id": "CMPO1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "CMTI2",
     "kinds": [
       "txt"
@@ -3790,6 +3821,12 @@
     ]
   },
   {
+    "id": "GBQN3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "GBTF1",
     "kinds": [
       "ocean",
@@ -3877,6 +3914,12 @@
     ]
   },
   {
+    "id": "GSLM4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "GTLM4",
     "kinds": [
       "txt"
@@ -3886,6 +3929,12 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "GTQF1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -5714,12 +5763,6 @@
     ]
   },
   {
-    "id": "SDRT2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "SEIM1",
     "kinds": [
       "txt"
@@ -6115,6 +6158,12 @@
     "kinds": [
       "ocean",
       "rain",
+      "txt"
+    ]
+  },
+  {
+    "id": "TRTP1",
+    "kinds": [
       "txt"
     ]
   },
