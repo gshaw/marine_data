@@ -3211,15 +3211,15 @@
   },
   {
     "id": "41421",
-    "latitude": 23.407,
-    "longitude": -63.888,
+    "latitude": 23.445,
+    "longitude": -63.851,
     "name": "NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D28",
+    "hull": "2.6D88",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -8140,7 +8140,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for season."
+    "note": null
   },
   {
     "id": "45202",
@@ -8155,7 +8155,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for season."
+    "note": null
   },
   {
     "id": "45203",
@@ -8185,7 +8185,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy retrieved for winter."
+    "note": null
   },
   {
     "id": "45205",
