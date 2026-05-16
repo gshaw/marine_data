@@ -6398,7 +6398,7 @@
   },
   {
     "id": "44100",
-    "latitude": 36.258,
+    "latitude": 36.257,
     "longitude": -75.593,
     "name": "Duck FRF 26m, NC (430)",
     "ownerCode": "R",
@@ -6838,12 +6838,12 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.6D57",
+    "hull": "2.3D10",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS61.KCLE"
     ],
-    "note": "Buoy recovered for Winter 11/19/25."
+    "note": null
   },
   {
     "id": "45006",
@@ -11957,15 +11957,15 @@
   },
   {
     "id": "46410",
-    "latitude": 57.649,
-    "longitude": -143.769,
+    "latitude": 57.641,
+    "longitude": -143.771,
     "name": "SOUTH CORDOVA - 188 NM SSE of Cordova, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D32",
+    "hull": "2.6D54",
     "payload": "DART 4G payload",
     "forecasts": [
       "FZAK67.PAJK",
