@@ -1367,6 +1367,7 @@
   {
     "id": "45206",
     "kinds": [
+      "spec",
       "txt"
     ]
   },
@@ -2227,14 +2228,6 @@
     "id": "46278",
     "kinds": [
       "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "46281",
-    "kinds": [
       "spec",
       "spectral",
       "txt"
@@ -3538,12 +3531,6 @@
     ]
   },
   {
-    "id": "CWWT2",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "CXHN6",
     "kinds": [
       "txt"
@@ -4706,12 +4693,6 @@
   },
   {
     "id": "MHBT2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "MHPA1",
     "kinds": [
       "txt"
     ]
