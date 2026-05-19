@@ -7812,7 +7812,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45175",
@@ -8095,7 +8095,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": "Recovered for winter"
+    "note": null
   },
   {
     "id": "45199",
