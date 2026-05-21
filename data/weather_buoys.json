@@ -22366,11 +22366,11 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "MARS payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS52.KTAE"
     ],
-    "note": "Station failed 11/28/23."
+    "note": null
   },
   {
     "id": "KVAF",

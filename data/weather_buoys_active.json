@@ -1051,6 +1051,7 @@
   {
     "id": "44086",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4318,6 +4319,12 @@
     ]
   },
   {
+    "id": "KHHV",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "KIKT",
     "kinds": [
       "txt"
@@ -4386,6 +4393,13 @@
   {
     "id": "KSPR",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KTNF1",
+    "kinds": [
+      "supl",
       "txt"
     ]
   },
@@ -6277,6 +6291,12 @@
   },
   {
     "id": "TXVT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "ULRA2",
     "kinds": [
       "txt"
     ]
