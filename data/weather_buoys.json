@@ -4369,7 +4369,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV62",
+    "hull": null,
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
@@ -6663,10 +6663,10 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D100",
+    "hull": null,
     "payload": "DART II payload",
     "forecasts": [],
-    "note": null
+    "note": "Station currently undergoing maintenance."
   },
   {
     "id": "44403",
@@ -6949,14 +6949,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS61.KBUF"
     ],
-    "note": "Buoy recovered for season on 11/10/25."
+    "note": null
   },
   {
     "id": "45013",
@@ -17206,7 +17206,7 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "MARS payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS52.KTBW"
     ],
