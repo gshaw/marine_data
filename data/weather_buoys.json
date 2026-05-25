@@ -1828,7 +1828,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
     "hull": "3DV31",
     "payload": "SCOOP payload",
@@ -9558,7 +9558,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D49",
+    "hull": "3D46",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK51.PAFC"
@@ -29521,7 +29521,7 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "ARES payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS52.KTBW"
     ],
