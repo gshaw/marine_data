@@ -2423,18 +2423,18 @@
   },
   {
     "id": "41048",
-    "latitude": 31.831,
-    "longitude": -69.573,
+    "latitude": 31.89,
+    "longitude": -69.708,
     "name": "WEST BERMUDA - 240 NM West of Bermuda",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": null,
+    "hull": "3DV37",
     "payload": "SCOOP payload",
     "forecasts": [],
-    "note": "Buoy recovered 4/29/24."
+    "note": null
   },
   {
     "id": "41049",

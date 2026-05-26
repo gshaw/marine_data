@@ -366,6 +366,15 @@
     ]
   },
   {
+    "id": "41048",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "41049",
     "kinds": [
       "spec",
@@ -4050,12 +4059,6 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GTQF1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
