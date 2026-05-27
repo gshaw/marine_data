@@ -2412,7 +2412,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
     "hull": "3DV22",
     "payload": "SCOOP payload",
@@ -7581,7 +7581,7 @@
   {
     "id": "45161",
     "latitude": 43.185,
-    "longitude": -86.352,
+    "longitude": -86.354,
     "name": "Muskegon Buoy, MI",
     "ownerCode": "G",
     "ownerName": "GLERL",
@@ -7593,7 +7593,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": "Buoy retrieved for winter."
+    "note": null
   },
   {
     "id": "45162",
