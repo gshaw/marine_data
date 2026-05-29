@@ -1968,20 +1968,20 @@
   },
   {
     "id": "41010",
-    "latitude": 28.878,
-    "longitude": -78.467,
+    "latitude": 28.86,
+    "longitude": -78.478,
     "name": "CANAVERAL EAST - 120NM East of Cape Canaveral",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
-    "type": "3-meter discus buoy",
+    "hasBuoyCam": true,
+    "type": "2.1-meter ionomer foam buoy",
     "hull": "3D41",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": "Buoy adrift 7/6/2025 and renamed to 41y10."
+    "note": null
   },
   {
     "id": "41011",
@@ -3506,8 +3506,8 @@
   },
   {
     "id": "42001",
-    "latitude": 25.925,
-    "longitude": -89.628,
+    "latitude": 25.922,
+    "longitude": -89.638,
     "name": "MID GULF - 180 nm South of Southwest Pass, LA",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -6990,7 +6990,7 @@
     "forecasts": [
       "FZUS53.KGRB"
     ],
-    "note": "Buoy recovered for winter. UWM is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station. Near-bottom water quality data is now being displayed. To view near-surface water quality data, click here."
+    "note": "UWM is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station. Near-bottom water quality data is now being displayed. To view near-surface water quality data, click here."
   },
   {
     "id": "45015",
@@ -7648,8 +7648,8 @@
   },
   {
     "id": "45165",
-    "latitude": 41.702,
-    "longitude": -83.261,
+    "latitude": 41.704,
+    "longitude": -83.264,
     "name": "Toledo Water Intake Buoy, Oregon, OH",
     "ownerCode": "LT",
     "ownerName": "Limno Tech",
@@ -7661,7 +7661,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": "LimnoTech is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station. Buoy recovered for season."
+    "note": "LimnoTech is currently supporting buoy cameras on select stations in the Great Lakes. Click here to see the latest image for this station."
   },
   {
     "id": "45166",
@@ -7829,7 +7829,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45176",
@@ -8294,7 +8294,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45212",
@@ -25867,7 +25867,7 @@
     "forecasts": [
       "FZAK51.PAFC"
     ],
-    "note": null
+    "note": "Wind data is subject to spiking at speeds of 10 m/s or greater. Only data less than 10 m/s is being released. Winds above 10 m/s are subject to release based on weather conditions."
   },
   {
     "id": "PILL1",
