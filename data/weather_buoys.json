@@ -4352,7 +4352,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV26",
+    "hull": "3DV65",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT23.KNHC"
@@ -7610,7 +7610,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": "Buoy retrieved for winter."
+    "note": null
   },
   {
     "id": "45163",
@@ -8590,7 +8590,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV19",
+    "hull": "3D05",
     "payload": "SCOOP payload",
     "forecasts": [],
     "note": null
@@ -9524,7 +9524,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D18",
+    "hull": "unk",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK51.PAFC"
