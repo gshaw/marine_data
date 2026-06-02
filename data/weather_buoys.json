@@ -7615,7 +7615,7 @@
   {
     "id": "45163",
     "latitude": 43.983,
-    "longitude": -83.599,
+    "longitude": -83.6,
     "name": "Saginaw Bay Buoy, MI",
     "ownerCode": "G",
     "ownerName": "GLERL",
@@ -7627,7 +7627,7 @@
     "forecasts": [
       "FZUS53.KDTX"
     ],
-    "note": "Buoy retrieved for winter."
+    "note": null
   },
   {
     "id": "45164",
@@ -9482,15 +9482,15 @@
   },
   {
     "id": "46073",
-    "latitude": 55.008,
-    "longitude": -172.012,
+    "latitude": 54.985,
+    "longitude": -171.874,
     "name": "SOUTHEAST BERING SEA - 205 NM WNW of Dutch Harbor, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter discus buoy",
-    "hull": "3D72",
+    "hull": "3D73",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK62.PAFC"
