@@ -7729,7 +7729,7 @@
     "forecasts": [
       "FZUS53.KIWX"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45171",
@@ -8001,7 +8001,7 @@
   },
   {
     "id": "45194",
-    "latitude": 45.804,
+    "latitude": 45.803,
     "longitude": -84.792,
     "name": "McGulpin Point North, MI (253)",
     "ownerCode": "MT",
@@ -8014,7 +8014,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45195",
@@ -9458,7 +9458,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy",
-    "hull": null,
+    "hull": "3D47",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK52.PAFC"
@@ -30032,6 +30032,21 @@
     "forecasts": [
       "FZUS52.KMHX"
     ],
+    "note": null
+  },
+  {
+    "id": "WLXA2",
+    "latitude": 65.616,
+    "longitude": -168.094,
+    "name": "Wales, AK",
+    "ownerCode": "MA",
+    "ownerName": "Marine Exchange of Alaska",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "C-MAN Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
     "note": null
   },
   {
