@@ -7863,7 +7863,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45179",
@@ -8439,7 +8439,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for the winter"
+    "note": null
   },
   {
     "id": "45222",

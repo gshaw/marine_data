@@ -1496,6 +1496,13 @@
     ]
   },
   {
+    "id": "45178",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "45186",
     "kinds": [
       "adcp",
@@ -1692,6 +1699,13 @@
     "kinds": [
       "ocean",
       "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "45221",
+    "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -2632,6 +2646,12 @@
       "spectral",
       "supl",
       "txt"
+    ]
+  },
+  {
+    "id": "51045",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -3944,6 +3964,12 @@
   },
   {
     "id": "ELXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "ELXC1",
     "kinds": [
       "txt"
     ]
