@@ -11990,15 +11990,15 @@
   },
   {
     "id": "46413",
-    "latitude": 48.045,
-    "longitude": -173.897,
+    "latitude": 48.031,
+    "longitude": -173.766,
     "name": "SOUTH-SOUTHEAST ADAK - 243 NM SSE of Adak Island, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": null,
+    "hull": "2.6D103",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
