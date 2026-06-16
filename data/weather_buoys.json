@@ -11999,7 +11999,7 @@
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
     "hull": "2.6D103",
-    "payload": "DART II payload",
+    "payload": "DART 4G payload",
     "forecasts": [],
     "note": null
   },
@@ -13389,8 +13389,8 @@
   },
   {
     "id": "52214",
-    "latitude": 9.677,
-    "longitude": 138.178,
+    "latitude": 9.678,
+    "longitude": 138.176,
     "name": "Rumung, Yap, Micronesia (272)",
     "ownerCode": "PO",
     "ownerName": "Pacific Islands Ocean Observing System",

@@ -1258,6 +1258,14 @@
     ]
   },
   {
+    "id": "45014",
+    "kinds": [
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
     "id": "45023",
     "kinds": [
       "adcp",
@@ -2795,6 +2803,15 @@
   },
   {
     "id": "52211",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "52214",
     "kinds": [
       "adcp",
       "spec",
