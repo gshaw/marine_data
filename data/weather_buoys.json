@@ -457,15 +457,15 @@
   },
   {
     "id": "21414",
-    "latitude": 48.97,
-    "longitude": 178.165,
+    "latitude": 48.977,
+    "longitude": 178.199,
     "name": "AMCHITKA - 170 NM South of Amchitka, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D70",
+    "hull": "2.6D68",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -4055,7 +4055,7 @@
       "FZUS54.KLIX",
       "FZNT24.KNHC"
     ],
-    "note": "This buoy is located within the highly endangered Rice's whale (a newly identified species) habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. This buoy is located within important Rice's whale habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. To learn more, go to: https://www.fisheries.noaa.gov/species/rices-whale"
+    "note": "This buoy is located within the highly endangered Rice's whale (a newly identified species) habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. This buoy is located within important Rice's whale habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. To learn more, go to: https://www.fisheries.noaa.gov/species/rices-whale Buoy went adrift 6/17/26."
   },
   {
     "id": "42041",
@@ -6008,8 +6008,8 @@
   },
   {
     "id": "44074",
-    "latitude": 43.07,
-    "longitude": -70.86,
+    "latitude": 43.071,
+    "longitude": -70.868,
     "name": "Great Bay Buoy",
     "ownerCode": "NH",
     "ownerName": "University of New Hampshire",
@@ -8000,6 +8000,40 @@
     "note": "Buoy retrieved for winter."
   },
   {
+    "id": "45190",
+    "latitude": 43.282,
+    "longitude": -76.961,
+    "name": "Sodus Point, NY",
+    "ownerCode": "PL",
+    "ownerName": "SUNY Plattsburgh Center for Earth and Environmental Science/Lake Champlain Research Institute",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS51.KBUF"
+    ],
+    "note": null
+  },
+  {
+    "id": "45191",
+    "latitude": 43.388,
+    "longitude": -78.192,
+    "name": "Oak Orchard, NY",
+    "ownerCode": "PL",
+    "ownerName": "SUNY Plattsburgh Center for Earth and Environmental Science/Lake Champlain Research Institute",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS51.KBUF"
+    ],
+    "note": null
+  },
+  {
     "id": "45194",
     "latitude": 45.803,
     "longitude": -84.792,
@@ -8918,7 +8952,7 @@
   {
     "id": "46028",
     "latitude": 35.763,
-    "longitude": -121.893,
+    "longitude": -121.9,
     "name": "CAPE SAN MARTIN - 55NM West NW of Morro Bay, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -12877,6 +12911,21 @@
     "forecasts": [
       "FZHW60.PHFO"
     ],
+    "note": null
+  },
+  {
+    "id": "51111",
+    "latitude": -14.245,
+    "longitude": -169.509,
+    "name": "Backyard Buoys - Tau Faga Cove",
+    "ownerCode": "PO",
+    "ownerName": "Pacific Islands Ocean Observing System",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": null,
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
     "note": null
   },
   {
