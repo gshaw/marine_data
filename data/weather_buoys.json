@@ -9467,15 +9467,15 @@
   },
   {
     "id": "46071",
-    "latitude": 51.04,
-    "longitude": 179.764,
+    "latitude": 51.035,
+    "longitude": 179.755,
     "name": "WESTERN ALEUTIANS - 14NM SOUTH OF AMCHITKA IS, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D29",
+    "hull": "3D20",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK52.PAFC"
