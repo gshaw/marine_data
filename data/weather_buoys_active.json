@@ -1036,7 +1036,6 @@
   {
     "id": "44072",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -1436,7 +1435,6 @@
     "id": "45163",
     "kinds": [
       "ocean",
-      "spec",
       "txt"
     ]
   },
@@ -4669,12 +4667,6 @@
     ]
   },
   {
-    "id": "KVAF",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "KWHH1",
     "kinds": [
       "txt"
@@ -5231,6 +5223,12 @@
     "id": "NIQS1",
     "kinds": [
       "ocean"
+    ]
+  },
+  {
+    "id": "NIWS1",
+    "kinds": [
+      "txt"
     ]
   },
   {
