@@ -2502,7 +2502,7 @@
     "forecasts": [
       "FZCA52.TJSJ"
     ],
-    "note": "Buoy recovered for maintenance 12/4/25."
+    "note": null
   },
   {
     "id": "41057",
@@ -6753,14 +6753,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.1-meter ionomer foam buoy",
-    "hull": "2.6D57",
+    "hull": "2.1D02",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": "Recovered for winter 12/2/25."
+    "note": null
   },
   {
     "id": "45002",
@@ -6838,14 +6838,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": "Buoy recovered for winter on 12/10/25."
+    "note": null
   },
   {
     "id": "45007",
@@ -8334,8 +8334,8 @@
   },
   {
     "id": "45213",
-    "latitude": 47.585,
-    "longitude": -86.585,
+    "latitude": 47.588,
+    "longitude": -86.588,
     "name": "East Superior Spotter",
     "ownerCode": "MT",
     "ownerName": "Michigan Technological University",
