@@ -4047,7 +4047,7 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter foam buoy",
     "hull": "3DV34",
     "payload": "SCOOP payload",
@@ -4055,7 +4055,7 @@
       "FZUS54.KLIX",
       "FZNT24.KNHC"
     ],
-    "note": "This buoy is located within the highly endangered Rice's whale (a newly identified species) habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. This buoy is located within important Rice's whale habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. To learn more, go to: https://www.fisheries.noaa.gov/species/rices-whale Buoy went adrift 6/17/26."
+    "note": "The buoy from station 42040 has gone adrift as of 1500z, 06/17/26. The latest position from the buoy can be viewed here. This buoy is located within the highly endangered Rice's whale (a newly identified species) habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. This buoy is located within important Rice's whale habitat. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP. To learn more, go to: https://www.fisheries.noaa.gov/species/rices-whale"
   },
   {
     "id": "42041",
@@ -5939,7 +5939,7 @@
     "forecasts": [
       "FZUS51.KOKX"
     ],
-    "note": "Station recovered for winter"
+    "note": null
   },
   {
     "id": "44070",
@@ -6798,20 +6798,20 @@
   },
   {
     "id": "45004",
-    "latitude": 47.585,
-    "longitude": -86.585,
+    "latitude": 47.583,
+    "longitude": -86.586,
     "name": "EAST SUPERIOR -70 NM NE Marquette, MI",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "2.3-meter foam discus buoy",
     "hull": "2.6D99",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMQT"
     ],
-    "note": "Recovered for winter 12/2/25."
+    "note": null
   },
   {
     "id": "45005",
@@ -8443,7 +8443,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered"
+    "note": null
   },
   {
     "id": "45220",
