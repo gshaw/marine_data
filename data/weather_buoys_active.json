@@ -1543,6 +1543,7 @@
       "adcp",
       "ocean",
       "spec",
+      "srad",
       "txt"
     ]
   },
@@ -2165,12 +2166,6 @@
       "spec",
       "spectral",
       "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "46092",
-    "kinds": [
       "txt"
     ]
   },
@@ -4182,6 +4177,12 @@
     ]
   },
   {
+    "id": "GBQN3",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "GBTF1",
     "kinds": [
       "ocean",
@@ -5535,6 +5536,18 @@
     "id": "PBFW1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "PBJW1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "PBLW1",
+    "kinds": [
+      "ocean"
     ]
   },
   {

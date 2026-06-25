@@ -480,7 +480,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D74",
+    "hull": "2.6D102",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null
@@ -5599,7 +5599,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Recovered for winter"
+    "note": null
   },
   {
     "id": "44042",
@@ -5631,7 +5631,7 @@
     "forecasts": [
       "FZUS51.KLWX"
     ],
-    "note": "Recovered for the winter."
+    "note": null
   },
   {
     "id": "44044",
@@ -5740,7 +5740,7 @@
     "forecasts": [
       "FZUS51.KLWX"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "44058",
@@ -5806,7 +5806,7 @@
     "forecasts": [
       "FZUS51.KLWX"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "44062",
@@ -6945,7 +6945,7 @@
   },
   {
     "id": "45013",
-    "latitude": 43.1,
+    "latitude": 43.098,
     "longitude": -87.85,
     "name": "ATW20 - Atwater Park, WI",
     "ownerCode": "WM",
@@ -8400,8 +8400,8 @@
   },
   {
     "id": "45217",
-    "latitude": 46.706,
-    "longitude": -91.985,
+    "latitude": 46.708,
+    "longitude": -92.0,
     "name": "Wisconsin Point",
     "ownerCode": "MN",
     "ownerName": "University of Minnesota, Duluth",
