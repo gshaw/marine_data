@@ -1019,7 +1019,6 @@
   {
     "id": "44072",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -2166,6 +2165,12 @@
       "spec",
       "spectral",
       "supl",
+      "txt"
+    ]
+  },
+  {
+    "id": "46092",
+    "kinds": [
       "txt"
     ]
   },
@@ -4282,12 +4287,6 @@
   },
   {
     "id": "GTOT2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "GTRM4",
     "kinds": [
       "txt"
     ]
@@ -6689,6 +6688,12 @@
   },
   {
     "id": "WEBM1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "WEQM1",
     "kinds": [
       "ocean"
     ]
