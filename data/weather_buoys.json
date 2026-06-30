@@ -13467,6 +13467,21 @@
     "note": null
   },
   {
+    "id": "52216",
+    "latitude": 7.323,
+    "longitude": 171.641,
+    "name": "Pikareej, Arno, Marshall Islands (282)",
+    "ownerCode": "PO",
+    "ownerName": "Pacific Islands Ocean Observing System",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Waverider Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "52401",
     "latitude": 19.285,
     "longitude": 155.739,
@@ -17094,7 +17109,7 @@
     "id": "CAVN6",
     "latitude": 44.13,
     "longitude": -76.333,
-    "name": "Cape Vincent",
+    "name": "9052000 - Cape Vincent, NY",
     "ownerCode": "O",
     "ownerName": "NOS",
     "ownerCountryCode": "US",
