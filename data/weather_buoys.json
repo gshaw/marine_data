@@ -7099,7 +7099,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45023",
@@ -7120,7 +7120,7 @@
   },
   {
     "id": "45024",
-    "latitude": 43.977,
+    "latitude": 43.98,
     "longitude": -86.56,
     "name": "Ludington Buoy, MI",
     "ownerCode": "MC",
@@ -7133,7 +7133,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": "Buoy recovered for winter."
+    "note": null
   },
   {
     "id": "45025",
@@ -7914,7 +7914,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": "Recovered for Winter."
+    "note": null
   },
   {
     "id": "45184",
@@ -9468,7 +9468,7 @@
   {
     "id": "46071",
     "latitude": 51.035,
-    "longitude": 179.755,
+    "longitude": 179.808,
     "name": "WESTERN ALEUTIANS - 14NM SOUTH OF AMCHITKA IS, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
