@@ -761,15 +761,6 @@
     ]
   },
   {
-    "id": "42085",
-    "kinds": [
-      "adcp",
-      "ocean",
-      "spec",
-      "txt"
-    ]
-  },
-  {
     "id": "42092",
     "kinds": [
       "spec",
@@ -1452,7 +1443,6 @@
     "id": "45162",
     "kinds": [
       "ocean",
-      "spec",
       "txt"
     ]
   },
@@ -2847,6 +2837,15 @@
     ]
   },
   {
+    "id": "52201",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "52211",
     "kinds": [
       "adcp",
@@ -3489,12 +3488,6 @@
   },
   {
     "id": "BSBM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "BSCA1",
     "kinds": [
       "txt"
     ]
