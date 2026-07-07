@@ -763,8 +763,8 @@
   },
   {
     "id": "9415102",
-    "latitude": 38.03464,
-    "longitude": -122.12519,
+    "latitude": 38.0346,
+    "longitude": -122.1252,
     "name": "Martinez-Amorco Pier"
   },
   {
@@ -1626,6 +1626,12 @@
     "name": "Saint Helens"
   },
   {
+    "id": "9438125",
+    "latitude": 45.8117,
+    "longitude": -122.827,
+    "name": "Multnomah Channel"
+  },
+  {
     "id": "9440171",
     "latitude": 45.7417,
     "longitude": -122.755,
@@ -2409,7 +2415,7 @@
     "id": "9447995",
     "latitude": 48.4017,
     "longitude": -122.623,
-    "name": "Cornet Bay, Deception Pass"
+    "name": "Cornet Bay, Whidbey Island, Deception Pass"
   },
   {
     "id": "9448614",
@@ -2628,6 +2634,12 @@
     "name": "Wales Island (Cannery), Pearse Canal"
   },
   {
+    "id": "9450192",
+    "latitude": 54.9437,
+    "longitude": -130.3358,
+    "name": "Hidden Inter Entrance, Pearse Inlet"
+  },
+  {
     "id": "8218361",
     "latitude": 54.71667,
     "longitude": -130.21666,
@@ -2716,6 +2728,12 @@
     "latitude": 55.6417,
     "longitude": -130.645,
     "name": "Rudyerd Bay"
+  },
+  {
+    "id": "9450695",
+    "latitude": 55.7127,
+    "longitude": -130.9041,
+    "name": "Hut Point, Behm Canal"
   },
   {
     "id": "9450879",
@@ -2815,8 +2833,8 @@
   },
   {
     "id": "9451012",
-    "latitude": 56.19553,
-    "longitude": -131.55742,
+    "latitude": 56.1833,
+    "longitude": -131.572,
     "name": "Bradfield Canal, Ernest Sound"
   },
   {
@@ -3034,6 +3052,12 @@
     "latitude": 55.5417,
     "longitude": -133.315,
     "name": "Cruz Pass, San Fernando Island"
+  },
+  {
+    "id": "9450618",
+    "latitude": 55.5929,
+    "longitude": -133.152,
+    "name": "Shinaku Inlet"
   },
   {
     "id": "9450578",
@@ -3385,9 +3409,15 @@
   },
   {
     "id": "9452005",
-    "latitude": 57.52169,
+    "latitude": 57.5217,
     "longitude": -133.055,
     "name": "Upper Endicott Arm, North Shore"
+  },
+  {
+    "id": "9452017",
+    "latitude": 57.6876,
+    "longitude": -133.1425,
+    "name": "Ford's Terror, Stephens Pass"
   },
   {
     "id": "9451962",
@@ -3918,6 +3948,12 @@
     "name": "Point Latouche, Yakutat Bay"
   },
   {
+    "id": "9453178",
+    "latitude": 59.9369,
+    "longitude": -139.4001,
+    "name": "Russell Fiord"
+  },
+  {
     "id": "9453456",
     "latitude": 59.885,
     "longitude": -141.457,
@@ -4182,6 +4218,12 @@
     "name": "VALDEZ, Port Valdez"
   },
   {
+    "id": "9454460",
+    "latitude": 61.0233,
+    "longitude": -147.085,
+    "name": "Columbia Glacier"
+  },
+  {
     "id": "9454507",
     "latitude": 60.88,
     "longitude": -147.223,
@@ -4200,6 +4242,36 @@
     "name": "Kings Bay, Port Nellie Juan"
   },
   {
+    "id": "9454721",
+    "latitude": 60.6717,
+    "longitude": -147.932,
+    "name": "Perry Island (South Bay)"
+  },
+  {
+    "id": "9454949",
+    "latitude": 60.7783,
+    "longitude": -148.665,
+    "name": "Whittier, Passage Canal"
+  },
+  {
+    "id": "9454907",
+    "latitude": 60.765,
+    "longitude": -148.523,
+    "name": "Blackstone Bay"
+  },
+  {
+    "id": "9454672",
+    "latitude": 61.2058,
+    "longitude": -147.7614,
+    "name": "College Fiord"
+  },
+  {
+    "id": "9454851",
+    "latitude": 60.6633,
+    "longitude": -148.357,
+    "name": "Cochrane Bay"
+  },
+  {
     "id": "9454798",
     "latitude": 60.7417,
     "longitude": -148.172,
@@ -4212,16 +4284,10 @@
     "name": "Long Bay Entrance, Culross Passage"
   },
   {
-    "id": "9454672",
-    "latitude": 61.2058,
-    "longitude": -147.7614,
-    "name": "College Fiord"
-  },
-  {
-    "id": "9454949",
-    "latitude": 60.7783,
-    "longitude": -148.665,
-    "name": "Whittier, Passage Canal"
+    "id": "9454735",
+    "latitude": 60.4483,
+    "longitude": -147.978,
+    "name": "Eshamy Bay, Knight Island Passage"
   },
   {
     "id": "9454794",
@@ -4230,16 +4296,10 @@
     "name": "Applegate Island"
   },
   {
-    "id": "9454721",
-    "latitude": 60.6717,
-    "longitude": -147.932,
-    "name": "Perry Island (South Bay)"
-  },
-  {
-    "id": "9454735",
-    "latitude": 60.4483,
-    "longitude": -147.978,
-    "name": "Eshamy Bay, Knight Island Passage"
+    "id": "9454818",
+    "latitude": 60.4917,
+    "longitude": -148.242,
+    "name": "Blue Fjord, Port Nellie Juan"
   },
   {
     "id": "9454757",
@@ -4252,6 +4312,12 @@
     "latitude": 60.33,
     "longitude": -148.143,
     "name": "Chenega Island, Dangerous Passage"
+  },
+  {
+    "id": "9454951",
+    "latitude": 60.4567,
+    "longitude": -148.665,
+    "name": "Kings Bay (inside)"
   },
   {
     "id": "9454777",
@@ -4806,16 +4872,16 @@
     "name": "Malina Bay, Shelikof Strait"
   },
   {
-    "id": "9457259",
-    "latitude": 58.5183,
-    "longitude": -152.415,
-    "name": "Andreon Bay, Shuyak Island"
-  },
-  {
     "id": "9457293",
     "latitude": 58.5867,
     "longitude": -152.513,
     "name": "Carry Inlet, Shuyak Island"
+  },
+  {
+    "id": "9457259",
+    "latitude": 58.5183,
+    "longitude": -152.415,
+    "name": "Andreon Bay, Shuyak Island"
   },
   {
     "id": "9457313",
@@ -4876,6 +4942,12 @@
     "latitude": 57.43333,
     "longitude": -156.3,
     "name": "Lees Cabins, Wide Bay"
+  },
+  {
+    "id": "9458716",
+    "latitude": 56.7561,
+    "longitude": -157.493,
+    "name": "Aniakchak Bay"
   },
   {
     "id": "9458819",
@@ -5796,6 +5868,12 @@
     "name": "St. Matthew Island"
   },
   {
+    "id": "9466229",
+    "latitude": 60.3942,
+    "longitude": -172.4862,
+    "name": "Offshore St Matthew Island (GNSS Buoy)"
+  },
+  {
     "id": "9465951",
     "latitude": 59.9432,
     "longitude": -164.0434,
@@ -6060,10 +6138,16 @@
     "name": "Point Barrow"
   },
   {
-    "id": "TWC2423",
-    "latitude": 70.18333,
-    "longitude": -145.83333,
-    "name": "Flaxman Island"
+    "id": "9494935",
+    "latitude": 71.36011,
+    "longitude": -156.72986,
+    "name": "Barrow Offshore"
+  },
+  {
+    "id": "9495832",
+    "latitude": 70.8663,
+    "longitude": -153.94,
+    "name": "Drew Point, Smith Bay"
   },
   {
     "id": "9497645",
@@ -6072,10 +6156,28 @@
     "name": "Prudhoe Bay"
   },
   {
-    "id": "9494935",
-    "latitude": 71.36011,
-    "longitude": -156.72986,
-    "name": "Barrow Offshore"
+    "id": "9496345",
+    "latitude": 70.7551,
+    "longitude": -152.3378,
+    "name": "Cape Halkett"
+  },
+  {
+    "id": "9498306",
+    "latitude": 70.1691,
+    "longitude": -146.2494,
+    "name": "Point Thomson, Beaufort Sea"
+  },
+  {
+    "id": "TWC2423",
+    "latitude": 70.18333,
+    "longitude": -145.83333,
+    "name": "Flaxman Island"
+  },
+  {
+    "id": "9499176",
+    "latitude": 70.1286,
+    "longitude": -143.611,
+    "name": "Barter Island"
   },
   {
     "id": "8410834",
@@ -11383,8 +11485,8 @@
   },
   {
     "id": "8654467",
-    "latitude": 35.20861,
-    "longitude": -75.70419,
+    "latitude": 35.2086,
+    "longitude": -75.7042,
     "name": "Hatteras (ocean)"
   },
   {
@@ -16290,16 +16392,16 @@
     "name": "Venice Municipal Airport"
   },
   {
-    "id": "8725889",
-    "latitude": 27.1117,
-    "longitude": -82.4633,
-    "name": "Venice Inlet (inside)"
-  },
-  {
     "id": "8726034",
     "latitude": 27.2839,
     "longitude": -82.565,
     "name": "Siesta Key, Big Sarasota Pass"
+  },
+  {
+    "id": "8726045",
+    "latitude": 27.2917,
+    "longitude": -82.5417,
+    "name": "Hayden Roberts Bay"
   },
   {
     "id": "8726083",
@@ -16308,16 +16410,40 @@
     "name": "Sarasota, Sarasota Bay"
   },
   {
+    "id": "8726089",
+    "latitude": 27.34,
+    "longitude": -82.59,
+    "name": "Longboats Key, Sarasota Bay"
+  },
+  {
+    "id": "8726159",
+    "latitude": 27.4083,
+    "longitude": -82.58,
+    "name": "Whitfield Estates, Sarasota Bay"
+  },
+  {
     "id": "8726217",
     "latitude": 27.4667,
     "longitude": -82.6867,
     "name": "Cortez, Sarasota Bay"
   },
   {
+    "id": "8725889",
+    "latitude": 27.1117,
+    "longitude": -82.4633,
+    "name": "Venice Inlet (inside)"
+  },
+  {
     "id": "8726347",
     "latitude": 27.6017,
     "longitude": -82.76,
     "name": "Egmont Key, Egmont Channel"
+  },
+  {
+    "id": "8726364",
+    "latitude": 27.615,
+    "longitude": -82.7267,
+    "name": "Mullet Key Channel (Skyway)"
   },
   {
     "id": "8726243",
@@ -16338,10 +16464,22 @@
     "name": "Bradenton, Manatee River"
   },
   {
+    "id": "8726232",
+    "latitude": 27.4867,
+    "longitude": -82.6867,
+    "name": "Perico Island"
+  },
+  {
     "id": "8726265",
     "latitude": 27.5149,
     "longitude": -82.5338,
     "name": "Ellenton, Manatee River"
+  },
+  {
+    "id": "8726254",
+    "latitude": 27.4983,
+    "longitude": -82.6683,
+    "name": "Perico Bayou"
   },
   {
     "id": "8726278",
@@ -16350,16 +16488,28 @@
     "name": "Redfish Point, Manatee River"
   },
   {
-    "id": "8726364",
-    "latitude": 27.615,
-    "longitude": -82.7267,
-    "name": "Mullet Key Channel (Skyway)"
+    "id": "8726249",
+    "latitude": 27.5033,
+    "longitude": -82.6483,
+    "name": "Palma Sola Bay (North)"
+  },
+  {
+    "id": "8726233",
+    "latitude": 27.485,
+    "longitude": -82.645,
+    "name": "Palma Sola Bay (South)"
   },
   {
     "id": "8726384",
     "latitude": 27.6387,
     "longitude": -82.5621,
     "name": "Port Manatee"
+  },
+  {
+    "id": "8726273",
+    "latitude": 27.5233,
+    "longitude": -82.65,
+    "name": "Desoto Point"
   },
   {
     "id": "8726468",
@@ -16374,16 +16524,16 @@
     "name": "Little Manatee River, US 41 Bridge"
   },
   {
-    "id": "8726454",
-    "latitude": 27.7017,
-    "longitude": -82.64,
-    "name": "Point Pinellas"
+    "id": "8726425",
+    "latitude": 27.6783,
+    "longitude": -82.5033,
+    "name": "Cockroach Bay"
   },
   {
-    "id": "8726520",
-    "latitude": 27.7606,
-    "longitude": -82.6269,
-    "name": "St. Petersburg"
+    "id": "8726492",
+    "latitude": 27.7417,
+    "longitude": -82.4667,
+    "name": "Mangrove Point (inside)"
   },
   {
     "id": "8726537",
@@ -16398,22 +16548,22 @@
     "name": "Newman Branch"
   },
   {
-    "id": "8726639",
-    "latitude": 27.89,
-    "longitude": -82.48,
-    "name": "Ballast Point"
+    "id": "8726572",
+    "latitude": 27.82,
+    "longitude": -82.3867,
+    "name": "The Kitchen"
+  },
+  {
+    "id": "8726614",
+    "latitude": 27.87,
+    "longitude": -82.3283,
+    "name": "Alafia River North"
   },
   {
     "id": "8726651",
     "latitude": 27.8983,
     "longitude": -82.4267,
     "name": "Pendola Point, Hillsborough Bay"
-  },
-  {
-    "id": "8726657",
-    "latitude": 27.9083,
-    "longitude": -82.4517,
-    "name": "Davis Island, Hillsborough Bay"
   },
   {
     "id": "8726667",
@@ -16428,6 +16578,60 @@
     "name": "East Bay, Tampa Bay"
   },
   {
+    "id": "8726685",
+    "latitude": 27.9383,
+    "longitude": -82.4317,
+    "name": "Twenty-Second Street Causeway"
+  },
+  {
+    "id": "8726696",
+    "latitude": 27.9467,
+    "longitude": -82.4017,
+    "name": "Palm River Entrance"
+  },
+  {
+    "id": "8726657",
+    "latitude": 27.9083,
+    "longitude": -82.4517,
+    "name": "Davis Island, Hillsborough Bay"
+  },
+  {
+    "id": "8726668",
+    "latitude": 27.9183,
+    "longitude": -82.445,
+    "name": "Tampa, Hooker Point, Hillsborough Bay"
+  },
+  {
+    "id": "8726693",
+    "latitude": 27.9467,
+    "longitude": -82.4617,
+    "name": "Hillsborough River Entrance, Tampa"
+  },
+  {
+    "id": "8726711",
+    "latitude": 27.96,
+    "longitude": -82.4683,
+    "name": "West Tampa, Hillsborough River"
+  },
+  {
+    "id": "8726639",
+    "latitude": 27.89,
+    "longitude": -82.48,
+    "name": "Ballast Point"
+  },
+  {
+    "id": "8726604",
+    "latitude": 27.855,
+    "longitude": -82.48,
+    "name": "Long Shoal, MacDill AFB"
+  },
+  {
+    "id": "8726573",
+    "latitude": 27.8217,
+    "longitude": -82.485,
+    "name": "Gadsden Point"
+  },
+  {
     "id": "8726607",
     "latitude": 27.8578,
     "longitude": -82.5528,
@@ -16440,22 +16644,10 @@
     "name": "Gandy Bridge, Old Tampa Bay"
   },
   {
-    "id": "8726689",
-    "latitude": 27.9417,
-    "longitude": -82.72,
-    "name": "Bay Aristocrat Village, Old Tampa Bay"
-  },
-  {
-    "id": "8726738",
-    "latitude": 27.9883,
-    "longitude": -82.685,
-    "name": "Safety Harbor, Old Tampa Bay"
-  },
-  {
-    "id": "8726769",
-    "latitude": 28.0217,
-    "longitude": -82.655,
-    "name": "Mobbly Bayou"
+    "id": "8726428",
+    "latitude": 27.6883,
+    "longitude": -82.7183,
+    "name": "Tierra Verde"
   },
   {
     "id": "TEC4271",
@@ -16488,6 +16680,42 @@
     "name": "Madeira Beach Causeway"
   },
   {
+    "id": "8726769",
+    "latitude": 28.0217,
+    "longitude": -82.655,
+    "name": "Mobbly Bayou"
+  },
+  {
+    "id": "8726738",
+    "latitude": 27.9883,
+    "longitude": -82.685,
+    "name": "Safety Harbor, Old Tampa Bay"
+  },
+  {
+    "id": "8726689",
+    "latitude": 27.9417,
+    "longitude": -82.72,
+    "name": "Bay Aristocrat Village, Old Tampa Bay"
+  },
+  {
+    "id": "8726520",
+    "latitude": 27.7606,
+    "longitude": -82.6269,
+    "name": "St. Petersburg"
+  },
+  {
+    "id": "8726454",
+    "latitude": 27.7017,
+    "longitude": -82.64,
+    "name": "Point Pinellas"
+  },
+  {
+    "id": "8726601",
+    "latitude": 27.8733,
+    "longitude": -82.8517,
+    "name": "Indian Rocks Beach (Coastal)"
+  },
+  {
     "id": "8726625",
     "latitude": 27.8767,
     "longitude": -82.85,
@@ -16501,8 +16729,8 @@
   },
   {
     "id": "8726724",
-    "latitude": 27.97833,
-    "longitude": -82.83167,
+    "latitude": 27.9783,
+    "longitude": -82.8317,
     "name": "Clearwater Beach"
   },
   {
@@ -16512,28 +16740,28 @@
     "name": "Dunedin, St. Joseph Sound"
   },
   {
-    "id": "8726917",
-    "latitude": 28.165,
-    "longitude": -82.8433,
-    "name": "Anclote Key, southern end"
+    "id": "8726809",
+    "latitude": 28.0617,
+    "longitude": -82.8133,
+    "name": "Honeymoon Island"
   },
   {
-    "id": "8726924",
-    "latitude": 28.1717,
-    "longitude": -82.785,
-    "name": "Anclote, Anclote River"
+    "id": "8726819",
+    "latitude": 28.07,
+    "longitude": -82.7817,
+    "name": "Ozona"
   },
   {
-    "id": "8726905",
-    "latitude": 28.16,
-    "longitude": -82.7683,
-    "name": "Tarpon Springs, Anclote River"
+    "id": "8726853",
+    "latitude": 28.1033,
+    "longitude": -82.7783,
+    "name": "Indian Bluff Island"
   },
   {
-    "id": "8726942",
-    "latitude": 28.21,
-    "longitude": -82.84,
-    "name": "North Anclote Key"
+    "id": "8726904",
+    "latitude": 28.1533,
+    "longitude": -82.8017,
+    "name": "Howard Park Causeway"
   },
   {
     "id": "8726995",
@@ -16548,10 +16776,58 @@
     "name": "Hwy. 19 bridge, Pithlachascotee River"
   },
   {
+    "id": "8726917",
+    "latitude": 28.165,
+    "longitude": -82.8433,
+    "name": "Anclote Key, southern end"
+  },
+  {
+    "id": "8726942",
+    "latitude": 28.21,
+    "longitude": -82.84,
+    "name": "North Anclote Key"
+  },
+  {
     "id": "8727001",
     "latitude": 28.2483,
     "longitude": -82.7233,
     "name": "New Port Richey, Pithlachascotee River"
+  },
+  {
+    "id": "8726924",
+    "latitude": 28.1717,
+    "longitude": -82.785,
+    "name": "Anclote, Anclote River"
+  },
+  {
+    "id": "8726899",
+    "latitude": 28.15,
+    "longitude": -82.7717,
+    "name": "Kreamer Bayou"
+  },
+  {
+    "id": "8726905",
+    "latitude": 28.16,
+    "longitude": -82.7683,
+    "name": "Tarpon Springs, Anclote River"
+  },
+  {
+    "id": "8726892",
+    "latitude": 28.1467,
+    "longitude": -82.7583,
+    "name": "Spring Bayou, Tarpon Springs"
+  },
+  {
+    "id": "8726908",
+    "latitude": 28.1583,
+    "longitude": -82.7567,
+    "name": "North Fork, Anclote River"
+  },
+  {
+    "id": "8726906",
+    "latitude": 28.1567,
+    "longitude": -82.7467,
+    "name": "River Village, Anclote River"
   },
   {
     "id": "8727061",
@@ -16560,10 +16836,22 @@
     "name": "Hudson, Hudson Creek"
   },
   {
+    "id": "8726978",
+    "latitude": 28.205,
+    "longitude": -82.7833,
+    "name": "Bailey's Bluff, Gulfside"
+  },
+  {
     "id": "8727097",
     "latitude": 28.4333,
     "longitude": -82.6683,
     "name": "Aripeka, Hammock Creek"
+  },
+  {
+    "id": "8726988",
+    "latitude": 28.23,
+    "longitude": -82.7533,
+    "name": "Fillman's Creek, New Port Richey"
   },
   {
     "id": "8727122",
@@ -16576,6 +16864,12 @@
     "latitude": 28.5333,
     "longitude": -82.65,
     "name": "Bayport"
+  },
+  {
+    "id": "8726996",
+    "latitude": 28.2467,
+    "longitude": -82.735,
+    "name": "Cross Bayou, New Port Richey"
   },
   {
     "id": "8727235",
@@ -16600,6 +16894,12 @@
     "latitude": 28.7717,
     "longitude": -82.695,
     "name": "Tuckers Island, Homosassa River"
+  },
+  {
+    "id": "8727086",
+    "latitude": 28.4133,
+    "longitude": -82.6767,
+    "name": "Fillmans Bayou"
   },
   {
     "id": "8727293",
@@ -17653,8 +17953,8 @@
   },
   {
     "id": "8761724",
-    "latitude": 29.26333,
-    "longitude": -89.95667,
+    "latitude": 29.2633,
+    "longitude": -89.9567,
     "name": "East Point, Grand Isle"
   },
   {
