@@ -2326,7 +2326,7 @@
   {
     "id": "41041",
     "latitude": 14.259,
-    "longitude": -46.041,
+    "longitude": -46.052,
     "name": "NORTH EQUATORIAL TWO - 890 NM East of Martinique",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -3664,20 +3664,20 @@
   },
   {
     "id": "42012",
-    "latitude": 30.06,
-    "longitude": -87.548,
+    "latitude": 30.061,
+    "longitude": -87.547,
     "name": "ORANGE BEACH - 44 NM SE of Mobile, AL",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter discus buoy",
-    "hull": "3D43",
-    "payload": "SCOOP payload",
+    "hull": "3D90",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS54.KMOB"
     ],
-    "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
+    "note": "The system installed at 42012 is a prototype. Data is provisional pending rigorous review. The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
   },
   {
     "id": "42013",
