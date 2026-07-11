@@ -1000,7 +1000,6 @@
   {
     "id": "44072",
     "kinds": [
-      "adcp",
       "ocean",
       "txt"
     ]
@@ -4420,6 +4419,12 @@
     ]
   },
   {
+    "id": "JCQN4",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "JCRN4",
     "kinds": [
       "txt"
@@ -6509,6 +6514,12 @@
     "id": "TRTP1",
     "kinds": [
       "srad",
+      "txt"
+    ]
+  },
+  {
+    "id": "TWCO1",
+    "kinds": [
       "txt"
     ]
   },
