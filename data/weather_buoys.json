@@ -2002,7 +2002,7 @@
   },
   {
     "id": "41013",
-    "latitude": 33.441,
+    "latitude": 33.436,
     "longitude": -77.764,
     "name": "Frying Pan Shoals, NC",
     "ownerCode": "N",
@@ -2010,7 +2010,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy",
-    "hull": "3D33",
+    "hull": "3D59",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT22.KWBC",
