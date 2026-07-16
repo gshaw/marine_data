@@ -757,14 +757,6 @@
     ]
   },
   {
-    "id": "42097",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "42098",
     "kinds": [
       "adcp",
@@ -2021,8 +2013,6 @@
   {
     "id": "46072",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -2531,14 +2521,6 @@
     ]
   },
   {
-    "id": "46283",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "46285",
     "kinds": [
       "spec",
@@ -2837,6 +2819,12 @@
   },
   {
     "id": "52402",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
+    "id": "52404",
     "kinds": [
       "dart"
     ]
@@ -3688,6 +3676,12 @@
     ]
   },
   {
+    "id": "CMLN3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "CMTI2",
     "kinds": [
       "txt"
@@ -4268,6 +4262,12 @@
     ]
   },
   {
+    "id": "GTQF1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "GTXF1",
     "kinds": [
       "txt"
@@ -4454,6 +4454,12 @@
     "id": "JNGA2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "JOBP4",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -5039,6 +5045,12 @@
     ]
   },
   {
+    "id": "MNPV2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "MOKH1",
     "kinds": [
       "txt"
@@ -5551,6 +5563,12 @@
   },
   {
     "id": "PCOC1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "PCXA2",
     "kinds": [
       "txt"
     ]
