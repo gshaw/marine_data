@@ -3672,8 +3672,8 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "3-meter discus buoy",
-    "hull": "3D90",
-    "payload": "SM+ Payload",
+    "hull": "3D43",
+    "payload": "Athena paylaod",
     "forecasts": [
       "FZUS54.KMOB"
     ],
