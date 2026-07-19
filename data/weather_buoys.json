@@ -19542,8 +19542,8 @@
   },
   {
     "id": "FBIS1",
-    "latitude": 32.685,
-    "longitude": -79.888,
+    "latitude": 32.684,
+    "longitude": -79.887,
     "name": "Folly Island, SC",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -19551,11 +19551,11 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "MARS payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS52.KCHS"
     ],
-    "note": "Station failed 12/17/23. Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.? It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater within the vicinity of this station between November 1 and April 30.? It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "FBPS1",
