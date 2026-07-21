@@ -3056,12 +3056,6 @@
     ]
   },
   {
-    "id": "AAMC1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "ABYA2",
     "kinds": [
       "txt"
@@ -3830,6 +3824,7 @@
   {
     "id": "CXLM2",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -3976,6 +3971,12 @@
   },
   {
     "id": "ELXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "ELXC1",
     "kinds": [
       "txt"
     ]
@@ -4146,6 +4147,12 @@
     ]
   },
   {
+    "id": "GBCM6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "GBHM6",
     "kinds": [
       "ocean"
@@ -4261,12 +4268,6 @@
     "id": "GTOT2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GTQF1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
@@ -4642,6 +4643,12 @@
     "id": "KTNF1",
     "kinds": [
       "supl",
+      "txt"
+    ]
+  },
+  {
+    "id": "KVOA",
+    "kinds": [
       "txt"
     ]
   },
