@@ -1422,6 +1422,7 @@
     "id": "45162",
     "kinds": [
       "ocean",
+      "spec",
       "txt"
     ]
   },
@@ -3319,6 +3320,12 @@
     ]
   },
   {
+    "id": "BEPB6",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "BEXA2",
     "kinds": [
       "txt"
@@ -3816,6 +3823,12 @@
     ]
   },
   {
+    "id": "CWWT2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "CXHN6",
     "kinds": [
       "txt"
@@ -3941,6 +3954,12 @@
   },
   {
     "id": "EBEF1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "EBSW1",
     "kinds": [
       "txt"
     ]
@@ -4144,12 +4163,6 @@
     "id": "FTPC1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GBCM6",
-    "kinds": [
-      "ocean"
     ]
   },
   {
