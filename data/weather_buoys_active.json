@@ -403,6 +403,7 @@
     "kinds": [
       "adcp",
       "ocean",
+      "spec",
       "txt"
     ]
   },
@@ -754,6 +755,12 @@
       "spec",
       "spectral",
       "txt"
+    ]
+  },
+  {
+    "id": "42085",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -4303,6 +4310,12 @@
     ]
   },
   {
+    "id": "HBMN6",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "HBXC1",
     "kinds": [
       "ocean",
@@ -6444,13 +6457,6 @@
     ]
   },
   {
-    "id": "TIBC1",
-    "kinds": [
-      "ocean",
-      "txt"
-    ]
-  },
-  {
     "id": "TIQC1",
     "kinds": [
       "ocean"
@@ -6524,6 +6530,13 @@
     "kinds": [
       "ocean",
       "rain",
+      "txt"
+    ]
+  },
+  {
+    "id": "TRTP1",
+    "kinds": [
+      "srad",
       "txt"
     ]
   },
@@ -6640,12 +6653,6 @@
     "id": "WAKP8",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "WAQM3",
-    "kinds": [
-      "ocean"
     ]
   },
   {
