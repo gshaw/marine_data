@@ -2036,6 +2036,8 @@
   {
     "id": "46072",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -2270,6 +2272,12 @@
   },
   {
     "id": "46204",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "46205",
     "kinds": [
       "txt"
     ]
@@ -3629,6 +3637,12 @@
     "id": "CHII2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "CHQO3",
+    "kinds": [
+      "ocean"
     ]
   },
   {
