@@ -2408,8 +2408,8 @@
   },
   {
     "id": "41048",
-    "latitude": 31.89,
-    "longitude": -69.708,
+    "latitude": 31.878,
+    "longitude": -69.722,
     "name": "WEST BERMUDA - 240 NM West of Bermuda",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -13536,7 +13536,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.6-meter discus buoy",
-    "hull": "2.6D14",
+    "hull": "2.6D62",
     "payload": "DART II payload",
     "forecasts": [],
     "note": null

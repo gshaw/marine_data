@@ -148,12 +148,6 @@
     ]
   },
   {
-    "id": "23223",
-    "kinds": [
-      "dart"
-    ]
-  },
-  {
     "id": "23226",
     "kinds": [
       "dart"
@@ -911,6 +905,7 @@
   {
     "id": "44033",
     "kinds": [
+      "adcp",
       "ocean",
       "txt"
     ]
@@ -2623,12 +2618,6 @@
     ]
   },
   {
-    "id": "46419",
-    "kinds": [
-      "dart"
-    ]
-  },
-  {
     "id": "51000",
     "kinds": [
       "spec",
@@ -3612,12 +3601,6 @@
     ]
   },
   {
-    "id": "CHQO3",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "CHSV3",
     "kinds": [
       "txt"
@@ -4010,6 +3993,12 @@
     "id": "ESPP4",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "EVMC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -5623,6 +5612,12 @@
     "id": "PILM4",
     "kinds": [
       "cwind",
+      "txt"
+    ]
+  },
+  {
+    "id": "PKBW3",
+    "kinds": [
       "txt"
     ]
   },
