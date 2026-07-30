@@ -9184,15 +9184,15 @@
   },
   {
     "id": "46041",
-    "latitude": 47.352,
-    "longitude": -124.739,
+    "latitude": 47.351,
+    "longitude": -124.741,
     "name": "CAPE ELIZABETH - 45NM NW of Aberdeen, WA",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D19",
+    "hull": "3D64",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KSEW"
@@ -12125,7 +12125,7 @@
     "hull": "2.6D96",
     "payload": "DART 4G payload",
     "forecasts": [],
-    "note": "The buoy from this station went adrift on 7/23/26. The station will be restored to service based on planned maintenance schedules. When the maintenance date is known, it will be posted in the Station Maintenance Schedule. For updated positions, click here here."
+    "note": "Adrift buoy recovered 7/29/26. The station will be restored to service based on planned maintenance schedules. When the maintenance date is known, it will be posted in the Station Maintenance Schedule."
   },
   {
     "id": "46451",
