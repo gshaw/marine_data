@@ -2124,6 +2124,7 @@
   {
     "id": "46088",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "supl",
@@ -3812,6 +3813,12 @@
     ]
   },
   {
+    "id": "CWWT2",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "CXHN6",
     "kinds": [
       "txt"
@@ -4063,12 +4070,6 @@
     ]
   },
   {
-    "id": "FPTM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "FRCB6",
     "kinds": [
       "txt"
@@ -4249,6 +4250,12 @@
   },
   {
     "id": "GTOT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "GTRM4",
     "kinds": [
       "txt"
     ]
@@ -6118,6 +6125,12 @@
   },
   {
     "id": "SHXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SIPF1",
     "kinds": [
       "txt"
     ]
