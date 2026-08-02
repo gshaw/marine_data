@@ -9760,7 +9760,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D87",
+    "hull": "3D60",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KSEW"

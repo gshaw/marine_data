@@ -1398,12 +1398,6 @@
     ]
   },
   {
-    "id": "45162",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "45164",
     "kinds": [
       "ocean",
@@ -2115,6 +2109,7 @@
   {
     "id": "46087",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "supl",
@@ -3784,12 +3779,6 @@
     "id": "CSXA2",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "CVQV2",
-    "kinds": [
-      "ocean"
     ]
   },
   {
