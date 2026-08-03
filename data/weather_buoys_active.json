@@ -1178,8 +1178,6 @@
   {
     "id": "45005",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -1205,7 +1203,6 @@
   {
     "id": "45013",
     "kinds": [
-      "ocean",
       "spec",
       "srad",
       "txt"
@@ -4007,12 +4004,6 @@
     "id": "ESPP4",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "EVMC1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
