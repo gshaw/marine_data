@@ -1807,20 +1807,20 @@
   },
   {
     "id": "41001",
-    "latitude": 34.791,
-    "longitude": -72.42,
+    "latitude": 34.738,
+    "longitude": -72.503,
     "name": "EAST HATTERAS - 150 NM East of Cape Hatteras",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
     "hull": "3DV31",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT22.KWBC"
     ],
-    "note": "As of 0400z, 7/30/26, the buoy from station 41001 has gone adrift. To view the latest position from the buoy, click here."
+    "note": null
   },
   {
     "id": "41002",
@@ -9192,7 +9192,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D64",
+    "hull": "3D19",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KSEW"
@@ -9777,7 +9777,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D52",
+    "hull": "3D02",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS56.KSEW"
@@ -14364,7 +14364,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62029",
@@ -14379,7 +14379,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62030",
@@ -14409,7 +14409,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62052",
@@ -14439,7 +14439,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62090",
@@ -14544,7 +14544,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62105",
@@ -14574,7 +14574,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62108",
@@ -14589,7 +14589,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62114",
@@ -14844,7 +14844,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62164",
@@ -14964,7 +14964,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62305",
@@ -14979,7 +14979,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "62442",
@@ -15114,7 +15114,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "For realtime data go to U.K. Met Office"
+    "note": "For realtime data go to? U.K. Met Office"
   },
   {
     "id": "91204",

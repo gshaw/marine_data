@@ -1501,9 +1501,7 @@
   {
     "id": "45191",
     "kinds": [
-      "adcp",
       "ocean",
-      "spec",
       "srad",
       "txt"
     ]
@@ -2608,6 +2606,13 @@
     "id": "46416",
     "kinds": [
       "dart"
+    ]
+  },
+  {
+    "id": "46453",
+    "kinds": [
+      "spec",
+      "txt"
     ]
   },
   {
@@ -4641,6 +4646,18 @@
     ]
   },
   {
+    "id": "KVAF",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KVOA",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "KWHH1",
     "kinds": [
       "txt"
@@ -5464,6 +5481,12 @@
   },
   {
     "id": "OWQO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "OWSO1",
     "kinds": [
       "ocean"
     ]
