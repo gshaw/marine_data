@@ -314,6 +314,7 @@
   {
     "id": "41037",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -3457,6 +3458,12 @@
     ]
   },
   {
+    "id": "BSCA1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "BSKF1",
     "kinds": [
       "ocean",
@@ -3942,12 +3949,6 @@
     "id": "DULM5",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "EAZC1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
@@ -5651,12 +5652,6 @@
     "id": "PILM4",
     "kinds": [
       "cwind",
-      "txt"
-    ]
-  },
-  {
-    "id": "PKBW3",
-    "kinds": [
       "txt"
     ]
   },
