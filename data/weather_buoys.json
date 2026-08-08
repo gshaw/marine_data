@@ -28303,8 +28303,8 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "C-MAN Station",
-    "hull": "2.6D57",
-    "payload": "Sutron XPERT payload",
+    "hull": null,
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZNT23.KNHC"
     ],

@@ -1507,7 +1507,9 @@
   {
     "id": "45191",
     "kinds": [
+      "adcp",
       "ocean",
+      "spec",
       "srad",
       "txt"
     ]
@@ -5388,12 +5390,6 @@
     ]
   },
   {
-    "id": "OHBC1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "OKSI2",
     "kinds": [
       "srad",
@@ -5487,12 +5483,6 @@
   },
   {
     "id": "OWSO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "OWWO1",
     "kinds": [
       "ocean"
     ]
@@ -6238,6 +6228,13 @@
   {
     "id": "SNTO3",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "SPGF1",
+    "kinds": [
+      "supl",
       "txt"
     ]
   },
