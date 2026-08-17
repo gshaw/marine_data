@@ -3321,12 +3321,6 @@
     ]
   },
   {
-    "id": "BHRI3",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "BIGM4",
     "kinds": [
       "txt"
@@ -4687,12 +4681,6 @@
   },
   {
     "id": "LCLL1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "LCNA2",
     "kinds": [
       "txt"
     ]
@@ -6235,12 +6223,6 @@
     "id": "SPGF1",
     "kinds": [
       "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "SPLL1",
-    "kinds": [
       "txt"
     ]
   },
