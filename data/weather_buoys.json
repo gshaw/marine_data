@@ -1813,14 +1813,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter foam buoy",
     "hull": "3DV31",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT22.KWBC"
     ],
-    "note": null
+    "note": "As of 7/30/26, the buoy from station 41001 has gone adrift. To view the latest positions from the buoy, click here."
   },
   {
     "id": "41002",
@@ -27340,7 +27340,7 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "Sutron XPERT payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS51.KCLE"
     ],
