@@ -1175,6 +1175,7 @@
   {
     "id": "45013",
     "kinds": [
+      "ocean",
       "spec",
       "srad",
       "txt"
@@ -3915,6 +3916,12 @@
     ]
   },
   {
+    "id": "EAZC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "EBEF1",
     "kinds": [
       "txt"
@@ -3958,6 +3965,12 @@
   },
   {
     "id": "ELXA2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "ELXC1",
     "kinds": [
       "txt"
     ]
@@ -6163,12 +6176,6 @@
     ]
   },
   {
-    "id": "SKXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "SLIM2",
     "kinds": [
       "txt"
@@ -6221,6 +6228,12 @@
     "id": "SPGF1",
     "kinds": [
       "supl",
+      "txt"
+    ]
+  },
+  {
+    "id": "SPLL1",
+    "kinds": [
       "txt"
     ]
   },
@@ -6672,6 +6685,12 @@
   },
   {
     "id": "WEBM1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "WEQM1",
     "kinds": [
       "ocean"
     ]
