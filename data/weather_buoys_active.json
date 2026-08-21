@@ -1010,6 +1010,14 @@
     ]
   },
   {
+    "id": "44087",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "44088",
     "kinds": [
       "adcp",
@@ -2312,6 +2320,14 @@
   },
   {
     "id": "46225",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "46229",
     "kinds": [
       "spec",
       "spectral",
@@ -4056,6 +4072,12 @@
   },
   {
     "id": "FPST2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "FPTM4",
     "kinds": [
       "txt"
     ]
