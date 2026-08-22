@@ -701,6 +701,7 @@
   {
     "id": "42084",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -1184,6 +1185,14 @@
     "id": "45013",
     "kinds": [
       "ocean",
+      "spec",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "id": "45014",
+    "kinds": [
       "spec",
       "srad",
       "txt"
@@ -3828,7 +3837,6 @@
   {
     "id": "DBLN6",
     "kinds": [
-      "cwind",
       "supl",
       "txt"
     ]
@@ -6133,6 +6141,7 @@
     "id": "SGNW3",
     "kinds": [
       "cwind",
+      "supl",
       "txt"
     ]
   },
