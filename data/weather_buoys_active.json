@@ -1380,6 +1380,7 @@
     "id": "45162",
     "kinds": [
       "ocean",
+      "spec",
       "txt"
     ]
   },
@@ -3964,12 +3965,6 @@
     ]
   },
   {
-    "id": "EHSC1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "EINL1",
     "kinds": [
       "txt"
@@ -4562,12 +4557,6 @@
   },
   {
     "id": "KGRY",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "KGUL",
     "kinds": [
       "txt"
     ]
@@ -6353,12 +6342,6 @@
   },
   {
     "id": "SWXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SXHW3",
     "kinds": [
       "txt"
     ]
