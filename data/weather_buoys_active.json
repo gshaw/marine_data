@@ -405,6 +405,7 @@
   {
     "id": "41066",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -1366,13 +1367,6 @@
   {
     "id": "45159",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "45161",
-    "kinds": [
-      "ocean",
       "txt"
     ]
   },
@@ -3172,12 +3166,6 @@
     ]
   },
   {
-    "id": "APNM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "APQF1",
     "kinds": [
       "ocean"
@@ -3595,12 +3583,6 @@
   },
   {
     "id": "CHCM2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "CHII2",
     "kinds": [
       "txt"
     ]
@@ -4927,12 +4909,6 @@
     ]
   },
   {
-    "id": "MCYI3",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "MDKF1",
     "kinds": [
       "ocean",
@@ -5015,21 +4991,9 @@
     ]
   },
   {
-    "id": "MKGM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "MLSC1",
     "kinds": [
       "ocean",
-      "txt"
-    ]
-  },
-  {
-    "id": "MLWW3",
-    "kinds": [
       "txt"
     ]
   },
@@ -6278,12 +6242,6 @@
     ]
   },
   {
-    "id": "SRLM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "SRST2",
     "kinds": [
       "supl",
@@ -6312,12 +6270,6 @@
   },
   {
     "id": "STXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SVNM4",
     "kinds": [
       "txt"
     ]
@@ -6360,12 +6312,6 @@
   },
   {
     "id": "TAWM4",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "TBIM4",
     "kinds": [
       "txt"
     ]
@@ -6425,12 +6371,6 @@
   },
   {
     "id": "TGXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "THLO1",
     "kinds": [
       "txt"
     ]
