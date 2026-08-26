@@ -4533,6 +4533,12 @@
     ]
   },
   {
+    "id": "KGUL",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "KGXA2",
     "kinds": [
       "txt"
@@ -4798,6 +4804,12 @@
     "id": "LTJF1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "LTQM2",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -6076,7 +6088,6 @@
   {
     "id": "SGNW3",
     "kinds": [
-      "cwind",
       "supl",
       "txt"
     ]
