@@ -2172,6 +2172,12 @@
     ]
   },
   {
+    "id": "46128",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "46131",
     "kinds": [
       "txt"
@@ -2752,6 +2758,15 @@
   },
   {
     "id": "52212",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "52213",
     "kinds": [
       "adcp",
       "spec",
@@ -3537,6 +3552,12 @@
     ]
   },
   {
+    "id": "CBRW3",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "CDEA2",
     "kinds": [
       "txt"
@@ -4137,6 +4158,12 @@
     "id": "FTPC1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "GBCM6",
+    "kinds": [
+      "ocean"
     ]
   },
   {
