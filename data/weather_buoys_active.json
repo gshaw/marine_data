@@ -1976,8 +1976,6 @@
   {
     "id": "46072",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -4151,12 +4149,6 @@
     "id": "FTPC1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GBCM6",
-    "kinds": [
-      "ocean"
     ]
   },
   {
