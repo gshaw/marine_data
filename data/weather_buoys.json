@@ -25917,6 +25917,21 @@
     "note": null
   },
   {
+    "id": "PHCT2",
+    "latitude": 27.826,
+    "longitude": -97.051,
+    "name": "Port Aransas, TX, Horace Caldwell Pier (99999291)",
+    "ownerCode": "O",
+    "ownerName": "NOS",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Coastal Marine Station",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "PILA2",
     "latitude": 59.742,
     "longitude": -149.47,
