@@ -4359,7 +4359,7 @@
     "forecasts": [
       "FZNT23.KNHC"
     ],
-    "note": "Buoy 42059 has been recovered 8/12/26. It will be restored to service based on planned maintenance schedules. When the maintenance date is known, it will be posted in the Maintenance Schedule. The latest position from the buoy can be found here."
+    "note": "Buoy 42059 has been recovered 8/12/26. It will be restored to service based on planned maintenance schedules. When the maintenance date is known, it will be posted in the Maintenance Schedule."
   },
   {
     "id": "42060",
@@ -5529,6 +5529,23 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "4403587",
+    "latitude": 46.545,
+    "longitude": -84.769,
+    "name": "Whitefish Bay",
+    "ownerCode": "BMI",
+    "ownerName": "Bay Mills Indian Community",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [
+      "FZUS53.KAPX"
+    ],
     "note": null
   },
   {
