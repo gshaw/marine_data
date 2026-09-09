@@ -2237,12 +2237,6 @@
     ]
   },
   {
-    "id": "46206",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "46207",
     "kinds": [
       "txt"
@@ -2617,6 +2611,8 @@
   {
     "id": "51001",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -3914,12 +3910,6 @@
     ]
   },
   {
-    "id": "DPXC1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "DRSD1",
     "kinds": [
       "txt"
@@ -3975,6 +3965,12 @@
   },
   {
     "id": "EINL1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "ELFA2",
     "kinds": [
       "txt"
     ]
@@ -6265,6 +6261,12 @@
     "kinds": [
       "ocean",
       "rain",
+      "txt"
+    ]
+  },
+  {
+    "id": "SRLM4",
+    "kinds": [
       "txt"
     ]
   },
