@@ -711,6 +711,14 @@
     ]
   },
   {
+    "id": "42092",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "42095",
     "kinds": [
       "adcp",
@@ -880,6 +888,7 @@
     "id": "44034",
     "kinds": [
       "adcp",
+      "ocean",
       "txt"
     ]
   },
@@ -4055,6 +4064,12 @@
     ]
   },
   {
+    "id": "FOXR1",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "FPKG1",
     "kinds": [
       "txt"
@@ -4610,12 +4625,6 @@
   },
   {
     "id": "KPTV2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "KSPR",
     "kinds": [
       "txt"
     ]
@@ -5469,6 +5478,12 @@
   },
   {
     "id": "OWSO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "OWWO1",
     "kinds": [
       "ocean"
     ]
@@ -6692,6 +6707,12 @@
   },
   {
     "id": "WEBM1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "WEQM1",
     "kinds": [
       "ocean"
     ]
