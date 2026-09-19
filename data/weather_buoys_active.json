@@ -738,6 +738,7 @@
   {
     "id": "42358",
     "kinds": [
+      "spec",
       "txt"
     ]
   },
@@ -3208,7 +3209,6 @@
   {
     "id": "AUGA2",
     "kinds": [
-      "cwind",
       "supl",
       "txt"
     ]
@@ -3310,6 +3310,12 @@
     "id": "BIGM4",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "BILW3",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -3491,12 +3497,6 @@
   },
   {
     "id": "CAPL1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "CARL1",
     "kinds": [
       "txt"
     ]
