@@ -112,6 +112,12 @@
     ]
   },
   {
+    "id": "23218",
+    "kinds": [
+      "dart"
+    ]
+  },
+  {
     "id": "23220",
     "kinds": [
       "dart"
@@ -2611,6 +2617,15 @@
   },
   {
     "id": "51002",
+    "kinds": [
+      "spec",
+      "spectral",
+      "supl",
+      "txt"
+    ]
+  },
+  {
+    "id": "51003",
     "kinds": [
       "spec",
       "spectral",
@@ -5629,6 +5644,7 @@
     "id": "PILA2",
     "kinds": [
       "cwind",
+      "supl",
       "txt"
     ]
   },

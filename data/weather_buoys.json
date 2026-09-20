@@ -12798,20 +12798,20 @@
   },
   {
     "id": "51003",
-    "latitude": 19.143,
-    "longitude": -160.645,
+    "latitude": 19.151,
+    "longitude": -160.617,
     "name": "WESTERN  HAWAII - 205 NM SW of Honolulu, HI",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "3-meter foam buoy",
-    "hull": "3DV53",
+    "type": "3-meter discus buoy",
+    "hull": "3D37",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZHW60.PHFO"
     ],
-    "note": "The buoy from station 51003 has gone adrift of as 0700z, 2/24/25. The buoy was retrieved on 7/11/26."
+    "note": null
   },
   {
     "id": "51004",
@@ -12958,7 +12958,7 @@
     "forecasts": [
       "FZHW60.PHFO"
     ],
-    "note": "As of 1800z, 9/8/26, the buoy from station 51101 has gone adrift. To view the latest positions from the buoy, click here."
+    "note": "To view the latest positions from the buoy, click here. Buoy went adrift 9/8/26 and was renamed 51X01"
   },
   {
     "id": "51111",
@@ -13362,6 +13362,23 @@
       "FZHW60.PHFO"
     ],
     "note": null
+  },
+  {
+    "id": "51X01",
+    "latitude": 24.359,
+    "longitude": -162.081,
+    "name": "170 NM West Northwest of Kauai Island",
+    "ownerCode": "N",
+    "ownerName": "NDBC",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "3-meter foam buoy",
+    "hull": "3DV49",
+    "payload": "SCOOP payload",
+    "forecasts": [
+      "FZHW60.PHFO"
+    ],
+    "note": "On 09/08/2026 the buoy at the station 51101 went adrift. adrift. Click here to see the latest positions on the adrift buoy.?"
   },
   {
     "id": "52009",
@@ -25959,11 +25976,11 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "MARS payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZAK51.PAFC"
     ],
-    "note": "Wind data is subject to spiking at speeds of 10 m/s or greater. Only data less than 10 m/s is being released. Winds above 10 m/s are subject to release based on weather conditions."
+    "note": null
   },
   {
     "id": "PILL1",
