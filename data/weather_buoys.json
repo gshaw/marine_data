@@ -12945,20 +12945,20 @@
   },
   {
     "id": "51101",
-    "latitude": 24.359,
-    "longitude": -162.081,
+    "latitude": 24.34,
+    "longitude": -162.073,
     "name": "NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI",
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": false,
+    "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3DV49",
+    "hull": "3D74",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZHW60.PHFO"
     ],
-    "note": "To view the latest positions from the buoy, click here. Buoy went adrift 9/8/26 and was renamed 51X01"
+    "note": null
   },
   {
     "id": "51111",
@@ -13378,7 +13378,7 @@
     "forecasts": [
       "FZHW60.PHFO"
     ],
-    "note": "On 09/08/2026 the buoy at the station 51101 went adrift. adrift. Click here to see the latest positions on the adrift buoy.?"
+    "note": null
   },
   {
     "id": "52009",
