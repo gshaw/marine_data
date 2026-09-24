@@ -11842,6 +11842,21 @@
     "note": null
   },
   {
+    "id": "46286",
+    "latitude": 35.164,
+    "longitude": -120.737,
+    "name": "Avila Beach Nearshore, CA (285)",
+    "ownerCode": "RE",
+    "ownerName": "National Laboratory of the Rockies (NLR)",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Waverider Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "46290",
     "latitude": 32.659,
     "longitude": -120.63,
@@ -16618,7 +16633,7 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "Sutron XPERT payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZAK51.PAFC"
     ],

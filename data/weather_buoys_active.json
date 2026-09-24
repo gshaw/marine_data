@@ -744,7 +744,6 @@
   {
     "id": "42358",
     "kinds": [
-      "spec",
       "txt"
     ]
   },
@@ -2502,6 +2501,14 @@
     ]
   },
   {
+    "id": "46286",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "46303",
     "kinds": [
       "txt"
@@ -3374,6 +3381,7 @@
     "id": "BLIA2",
     "kinds": [
       "cwind",
+      "supl",
       "txt"
     ]
   },
@@ -5649,7 +5657,6 @@
   {
     "id": "PILA2",
     "kinds": [
-      "cwind",
       "supl",
       "txt"
     ]
