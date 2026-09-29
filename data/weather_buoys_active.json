@@ -1720,6 +1720,8 @@
   {
     "id": "46006",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -4997,6 +4999,12 @@
   },
   {
     "id": "MHBT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "MHPA1",
     "kinds": [
       "txt"
     ]

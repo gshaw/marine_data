@@ -6870,7 +6870,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.3D10",
+    "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS61.KCLE"
@@ -8656,7 +8656,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter foam buoy",
-    "hull": "3D05",
+    "hull": "3DV19",
     "payload": "SCOOP payload",
     "forecasts": [],
     "note": null
