@@ -4715,7 +4715,7 @@
   {
     "id": "42354",
     "latitude": 29.579,
-    "longitude": -88.643,
+    "longitude": -88.645,
     "name": "Chandeleur Island SE, LA (279)",
     "ownerCode": "R",
     "ownerName": "SCRIPPS",
@@ -7642,7 +7642,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": null
+    "note": "Buoy recovered for the winter 9/28/26."
   },
   {
     "id": "45163",
@@ -7659,7 +7659,7 @@
     "forecasts": [
       "FZUS53.KDTX"
     ],
-    "note": null
+    "note": "Buoy recovered for the winter 9/29/26."
   },
   {
     "id": "45164",
@@ -9422,7 +9422,7 @@
     "ownerCountryCode": "US",
     "hasBuoyCam": true,
     "type": "3-meter discus buoy w/ seal cage",
-    "hull": "3D79",
+    "hull": "3D55",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK51.PAFC"
