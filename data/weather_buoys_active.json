@@ -270,6 +270,7 @@
   {
     "id": "41037",
     "kinds": [
+      "ocean",
       "txt"
     ]
   },
@@ -559,6 +560,14 @@
     "kinds": [
       "ocean",
       "srad",
+      "txt"
+    ]
+  },
+  {
+    "id": "42022",
+    "kinds": [
+      "adcp",
+      "ocean",
       "txt"
     ]
   },
@@ -4012,6 +4021,13 @@
     ]
   },
   {
+    "id": "FFIA2",
+    "kinds": [
+      "supl",
+      "txt"
+    ]
+  },
+  {
     "id": "FILA2",
     "kinds": [
       "supl",
@@ -4526,12 +4542,6 @@
   },
   {
     "id": "KGRY",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "KGUL",
     "kinds": [
       "txt"
     ]
