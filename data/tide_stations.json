@@ -16170,6 +16170,12 @@
     "name": "Myakka River, US 41 bridge"
   },
   {
+    "id": "8725586",
+    "latitude": 27.1006,
+    "longitude": -82.3331,
+    "name": "Snook Haven"
+  },
+  {
     "id": "TEC4165",
     "latitude": 25.11667,
     "longitude": -81.08334,
@@ -16396,6 +16402,12 @@
     "latitude": 27.0717,
     "longitude": -82.4533,
     "name": "Venice Municipal Airport"
+  },
+  {
+    "id": "8725899",
+    "latitude": 27.1233,
+    "longitude": -82.47,
+    "name": "Nokomis, Venice Inlet"
   },
   {
     "id": "8726034",
@@ -16776,16 +16788,16 @@
     "name": "Gulf Harbors"
   },
   {
-    "id": "8727012",
-    "latitude": 28.2683,
-    "longitude": -82.7267,
-    "name": "Hwy. 19 bridge, Pithlachascotee River"
-  },
-  {
     "id": "8726917",
     "latitude": 28.165,
     "longitude": -82.8433,
     "name": "Anclote Key, southern end"
+  },
+  {
+    "id": "8727012",
+    "latitude": 28.2683,
+    "longitude": -82.7267,
+    "name": "Hwy. 19 bridge, Pithlachascotee River"
   },
   {
     "id": "8726942",
@@ -17370,22 +17382,16 @@
     "name": "East Pass (Destin)"
   },
   {
-    "id": "8729425",
-    "latitude": 30.3894,
-    "longitude": -86.3288,
-    "name": "Driftwood Point, Choctawhatchee Bay"
-  },
-  {
-    "id": "8729376",
-    "latitude": 30.4,
-    "longitude": -86.2283,
-    "name": "Santa Rosa, Hogtown Bayou"
-  },
-  {
     "id": "8729538",
     "latitude": 30.435,
     "longitude": -86.5867,
     "name": "Shalimar, Garnier Bayou"
+  },
+  {
+    "id": "8729425",
+    "latitude": 30.3894,
+    "longitude": -86.3288,
+    "name": "Driftwood Point, Choctawhatchee Bay"
   },
   {
     "id": "8729501",
@@ -17394,10 +17400,22 @@
     "name": "Valparaiso"
   },
   {
+    "id": "8729376",
+    "latitude": 30.4,
+    "longitude": -86.2283,
+    "name": "Santa Rosa, Hogtown Bayou"
+  },
+  {
     "id": "8729479",
     "latitude": 30.5067,
     "longitude": -86.4467,
     "name": "Rocky Bayou, Choctawhatchee Bay"
+  },
+  {
+    "id": "8729333",
+    "latitude": 30.4683,
+    "longitude": -86.1383,
+    "name": "Lagrange Bayou"
   },
   {
     "id": "8729547",
