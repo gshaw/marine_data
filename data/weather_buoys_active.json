@@ -136,15 +136,6 @@
     ]
   },
   {
-    "id": "41002",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
     "id": "41004",
     "kinds": [
       "spec",
@@ -696,6 +687,13 @@
       "adcp",
       "spec",
       "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "42357",
+    "kinds": [
+      "spec",
       "txt"
     ]
   },
@@ -1997,6 +1995,8 @@
   {
     "id": "46086",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -4128,6 +4128,12 @@
     "id": "FTPC1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "GBCM6",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -6682,6 +6688,12 @@
   },
   {
     "id": "WEBM1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "WEQM1",
     "kinds": [
       "ocean"
     ]
