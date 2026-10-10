@@ -8311,7 +8311,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy recovered for the season 10/8/26."
   },
   {
     "id": "45209",
@@ -25125,7 +25125,7 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "MARS payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS56.KPQR"
     ],
