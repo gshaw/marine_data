@@ -1209,7 +1209,6 @@
     "id": "45027",
     "kinds": [
       "spec",
-      "srad",
       "txt"
     ]
   },
@@ -4699,12 +4698,6 @@
     ]
   },
   {
-    "id": "LIXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "LJAC1",
     "kinds": [
       "txt"
@@ -5256,12 +5249,6 @@
     ]
   },
   {
-    "id": "NPQC1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "NPQN6",
     "kinds": [
       "ocean"
@@ -5327,6 +5314,7 @@
     "id": "NWPO3",
     "kinds": [
       "cwind",
+      "supl",
       "txt"
     ]
   },
@@ -6777,7 +6765,6 @@
   {
     "id": "WPOW1",
     "kinds": [
-      "cwind",
       "supl",
       "txt"
     ]
