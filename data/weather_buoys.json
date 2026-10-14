@@ -1830,14 +1830,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter foam buoy",
     "hull": "3DV12",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZNT22.KWBC"
     ],
-    "note": "Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
+    "note": "As of 1100z, 10/3/26, the buoy from station 41002 has gone adrift. To see the latest positions from this buoy, click here. Right whales are active off SC from November to April. Speed restrictions of 10 knots apply to vessels 65 feet or greater in specific areas and times along the U.S. East Coast. It is illegal to approach right whales within 500 yards. To learn more about right whales and rules protecting them, go to: http://www.nmfs.noaa.gov/pr/shipstrike."
   },
   {
     "id": "41003",
@@ -8475,7 +8475,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": "Buoy recovered for season."
+    "note": null
   },
   {
     "id": "45219",
@@ -27909,7 +27909,7 @@
     "hasBuoyCam": false,
     "type": "C-MAN Station",
     "hull": null,
-    "payload": "SCOOP payload",
+    "payload": "SM+ Payload",
     "forecasts": [
       "FZUS56.KSEW"
     ],
