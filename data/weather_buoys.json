@@ -7146,7 +7146,7 @@
     "forecasts": [
       "FZUS53.KAPX"
     ],
-    "note": null
+    "note": "Buoy recovered for winter 10/7/26."
   },
   {
     "id": "45023",
@@ -7180,7 +7180,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": null
+    "note": "Buoy recovered for winter 10/8/26."
   },
   {
     "id": "45025",
@@ -7625,7 +7625,7 @@
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": null
+    "note": "Buoy recovered for the season 10/14/26."
   },
   {
     "id": "45162",
@@ -8191,7 +8191,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Station recovered for winter."
   },
   {
     "id": "45201",
@@ -25117,7 +25117,7 @@
   {
     "id": "NWPO3",
     "latitude": 44.613,
-    "longitude": -124.067,
+    "longitude": -124.068,
     "name": "Newport, OR",
     "ownerCode": "N",
     "ownerName": "NDBC",
