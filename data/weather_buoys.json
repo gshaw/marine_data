@@ -18539,8 +18539,8 @@
   },
   {
     "id": "DBLN6",
-    "latitude": 42.493,
-    "longitude": -79.353,
+    "latitude": 42.494,
+    "longitude": -79.354,
     "name": "Dunkirk, NY",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -19655,8 +19655,8 @@
   },
   {
     "id": "FFIA2",
-    "latitude": 57.27,
-    "longitude": -133.631,
+    "latitude": 57.271,
+    "longitude": -133.632,
     "name": "Five Fingers, AK",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -22471,7 +22471,7 @@
   {
     "id": "KTNF1",
     "latitude": 29.819,
-    "longitude": -83.593,
+    "longitude": -83.594,
     "name": "Keaton Beach, FL",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -26670,7 +26670,7 @@
   {
     "id": "PTGC1",
     "latitude": 34.577,
-    "longitude": -120.648,
+    "longitude": -120.647,
     "name": "Point Arguello, CA",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -28551,8 +28551,8 @@
   },
   {
     "id": "STDM4",
-    "latitude": 47.184,
-    "longitude": -87.225,
+    "latitude": 47.183,
+    "longitude": -87.226,
     "name": "Stannard Rock, MI",
     "ownerCode": "N",
     "ownerName": "NDBC",
