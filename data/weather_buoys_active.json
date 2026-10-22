@@ -2155,7 +2155,6 @@
   {
     "id": "46237",
     "kinds": [
-      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -4788,6 +4787,12 @@
   },
   {
     "id": "MHBT2",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "MHPA1",
     "kinds": [
       "txt"
     ]
