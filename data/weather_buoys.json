@@ -7612,20 +7612,20 @@
   },
   {
     "id": "45161",
-    "latitude": 43.185,
-    "longitude": -86.354,
+    "latitude": 43.184,
+    "longitude": -86.358,
     "name": "Muskegon Buoy, MI",
     "ownerCode": "G",
     "ownerName": "GLERL",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
-    "type": "Buoy",
+    "type": "Spotter Buoy",
     "hull": null,
     "payload": null,
     "forecasts": [
       "FZUS53.KGRR"
     ],
-    "note": "Buoy recovered for the season 10/14/26."
+    "note": "Buoy temporarily reverted to a spotter."
   },
   {
     "id": "45162",
