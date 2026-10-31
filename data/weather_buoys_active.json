@@ -2071,15 +2071,6 @@
     ]
   },
   {
-    "id": "46239",
-    "kinds": [
-      "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "46243",
     "kinds": [
       "adcp",
@@ -2475,6 +2466,15 @@
   },
   {
     "id": "52213",
+    "kinds": [
+      "adcp",
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
+    "id": "52215",
     "kinds": [
       "adcp",
       "spec",
