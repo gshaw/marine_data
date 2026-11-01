@@ -910,7 +910,6 @@
     "id": "44078",
     "kinds": [
       "ocean",
-      "spec",
       "srad",
       "txt"
     ]
@@ -1248,15 +1247,6 @@
     ]
   },
   {
-    "id": "45165",
-    "kinds": [
-      "adcp",
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45168",
     "kinds": [
       "ocean",
@@ -1335,22 +1325,6 @@
     "kinds": [
       "ocean",
       "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "45201",
-    "kinds": [
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
-    "id": "45202",
-    "kinds": [
-      "spec",
-      "srad",
       "txt"
     ]
   },
@@ -1795,6 +1769,8 @@
   {
     "id": "46086",
     "kinds": [
+      "spec",
+      "spectral",
       "supl",
       "txt"
     ]
@@ -2701,13 +2677,6 @@
   },
   {
     "id": "63110",
-    "kinds": [
-      "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "63112",
     "kinds": [
       "spec",
       "txt"
