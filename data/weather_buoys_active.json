@@ -913,14 +913,6 @@
     ]
   },
   {
-    "id": "44078",
-    "kinds": [
-      "ocean",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "44079",
     "kinds": [
       "ocean",
@@ -3841,12 +3833,6 @@
     "id": "FTPC1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "GBCM6",
-    "kinds": [
-      "ocean"
     ]
   },
   {
