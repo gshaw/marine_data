@@ -3956,6 +3956,51 @@
     "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
   },
   {
+    "id": "42032",
+    "latitude": 27.838,
+    "longitude": -96.5,
+    "name": "UTMSI_BUOY_1 - Environmental List 1415.02 (SPOT-33114C)",
+    "ownerCode": "TM",
+    "ownerName": "University of Texas Marine Science Institute",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "42033",
+    "latitude": 27.84,
+    "longitude": -97.0,
+    "name": "UTMSI_BUOY_2 - Environmental List 1415 (SPOT-33112C)",
+    "ownerCode": "TM",
+    "ownerName": "University of Texas Marine Science Institute",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "42034",
+    "latitude": 27.843,
+    "longitude": -97.0,
+    "name": "UTMSI_BUOY_3 - Hydro List 1415.01 (SPOT-33553C)",
+    "ownerCode": "TM",
+    "ownerName": "University of Texas Marine Science Institute",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
     "id": "42035",
     "latitude": 29.235,
     "longitude": -94.41,
@@ -4801,6 +4846,36 @@
     "payload": "DART II payload",
     "forecasts": [],
     "note": "The highly endangered Rice's whale, a newly identified species, inhabit the northeastern Gulf of America year-round along the continental shelf-break between 100m and 400m depth. Vessels can kill or injure whales - please use slow speeds and be prepared to avoid surfacing whales. To report sightings call 1-877-WHALE-HELP."
+  },
+  {
+    "id": "42416",
+    "latitude": 30.322,
+    "longitude": -88.828,
+    "name": "MS_State_SPOT_33439C - Biloxi Spotter - Mississippi Sound",
+    "ownerCode": "MS",
+    "ownerName": "Mississippi State University",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
+  },
+  {
+    "id": "42417",
+    "latitude": 30.319,
+    "longitude": -88.973,
+    "name": "MS_State_SPOT_33441C - Gulfport Spotter - Mississippi Sound",
+    "ownerCode": "MS",
+    "ownerName": "Mississippi State University",
+    "ownerCountryCode": "US",
+    "hasBuoyCam": false,
+    "type": "Spotter Buoy",
+    "hull": null,
+    "payload": null,
+    "forecasts": [],
+    "note": null
   },
   {
     "id": "42429",
@@ -8236,7 +8311,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45204",

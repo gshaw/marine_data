@@ -546,6 +546,27 @@
     ]
   },
   {
+    "id": "42032",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "42033",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "42034",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
     "id": "42035",
     "kinds": [
       "spec",
@@ -712,6 +733,20 @@
     "id": "42409",
     "kinds": [
       "dart"
+    ]
+  },
+  {
+    "id": "42416",
+    "kinds": [
+      "spec",
+      "txt"
+    ]
+  },
+  {
+    "id": "42417",
+    "kinds": [
+      "spec",
+      "txt"
     ]
   },
   {
@@ -940,6 +975,7 @@
   {
     "id": "44085",
     "kinds": [
+      "adcp",
       "spec",
       "spectral",
       "txt"
@@ -1658,7 +1694,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "supl",
       "txt"
     ]
   },
@@ -2205,12 +2240,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "46303",
-    "kinds": [
       "txt"
     ]
   },
@@ -3960,12 +3989,6 @@
     ]
   },
   {
-    "id": "GTQF1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "GUXA2",
     "kinds": [
       "txt"
@@ -4627,7 +4650,6 @@
   {
     "id": "MDRM1",
     "kinds": [
-      "cwind",
       "supl",
       "txt"
     ]
@@ -4957,6 +4979,12 @@
     ]
   },
   {
+    "id": "NPQC1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "NPQN6",
     "kinds": [
       "ocean"
@@ -5161,12 +5189,6 @@
   },
   {
     "id": "OWSO1",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
-    "id": "OWWO1",
     "kinds": [
       "ocean"
     ]
