@@ -5016,7 +5016,7 @@
     "hull": "2.6D84",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": "As of 12/5/25, the buoy from station 43412 has gone adrift. For updated positions, click here here."
+    "note": "As of 12/5/25, the buoy from station 43412 has gone adrift. For updated positions, click here https://www.ndbc.noaa.gov/nws_special/43412.txt"
   },
   {
     "id": "43413",
@@ -5031,7 +5031,7 @@
     "hull": "2.6D12",
     "payload": "DART II payload",
     "forecasts": [],
-    "note": null
+    "note": "As of 0115z, 11/3/26 buoy 2.6D12 has gone adrift and will be restored to service based on planned Maintenance schedules. The latest position can be found here. https://www.ndbc.noaa.gov/nws_special/43413.txt"
   },
   {
     "id": "44001",
