@@ -2340,8 +2340,8 @@
   },
   {
     "id": "41043",
-    "latitude": 21.09,
-    "longitude": -64.864,
+    "latitude": 21.083,
+    "longitude": -64.853,
     "name": "NE PUERTO RICO - 170 NM NNE of San Juan, PR",
     "ownerCode": "N",
     "ownerName": "NDBC",
@@ -4834,8 +4834,8 @@
   },
   {
     "id": "42409",
-    "latitude": 25.797,
-    "longitude": -89.288,
+    "latitude": 25.799,
+    "longitude": -89.291,
     "name": "GULF OF AMERICA - 247 NM South of New Orleans, LA",
     "ownerCode": "N",
     "ownerName": "NDBC",

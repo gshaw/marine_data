@@ -380,6 +380,14 @@
     ]
   },
   {
+    "id": "41108",
+    "kinds": [
+      "spec",
+      "spectral",
+      "txt"
+    ]
+  },
+  {
     "id": "41110",
     "kinds": [
       "adcp",
@@ -6382,6 +6390,12 @@
   },
   {
     "id": "WEBM1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "WEQM1",
     "kinds": [
       "ocean"
     ]
