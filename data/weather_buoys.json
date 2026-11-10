@@ -6950,7 +6950,7 @@
     "forecasts": [
       "FZUS61.KCLE"
     ],
-    "note": null
+    "note": "Buoy recovered for winter 11/9/26"
   },
   {
     "id": "45006",
@@ -13055,8 +13055,8 @@
     "latitude": -14.245,
     "longitude": -169.509,
     "name": "Backyard Buoys - Tau Faga Cove",
-    "ownerCode": "PO",
-    "ownerName": "Pacific Islands Ocean Observing System",
+    "ownerCode": "TI",
+    "ownerName": "Ta'u Island",
     "ownerCountryCode": "US",
     "hasBuoyCam": false,
     "type": null,
