@@ -9765,14 +9765,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "3-meter discus buoy w/ seal cage",
     "hull": "3D63",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZAK52.PAJK"
     ],
-    "note": null
+    "note": "As of 0300z, 11/10/26, the buoy from station 46082 has gone adrift. To view the latest positions for the buoy, click here."
   },
   {
     "id": "46083",
