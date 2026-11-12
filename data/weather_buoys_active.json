@@ -670,14 +670,6 @@
     ]
   },
   {
-    "id": "42092",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "42095",
     "kinds": [
       "adcp",
@@ -5759,13 +5751,6 @@
   {
     "id": "SDHN4",
     "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "SDIA2",
-    "kinds": [
-      "supl",
       "txt"
     ]
   },

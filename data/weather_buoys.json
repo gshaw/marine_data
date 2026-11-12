@@ -6892,14 +6892,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.1-meter ionomer foam buoy",
     "hull": "2.6D57",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS63.KMKX"
     ],
-    "note": null
+    "note": "Buoy recovered for winter 11/11/26"
   },
   {
     "id": "45003",
@@ -7287,7 +7287,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45027",
@@ -7851,7 +7851,7 @@
     "forecasts": [
       "FZUS53.KIWX"
     ],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45171",
@@ -7919,7 +7919,7 @@
     "forecasts": [
       "FZUS53.KLOT"
     ],
-    "note": null
+    "note": "Buoy retrieved for winter."
   },
   {
     "id": "45175",
