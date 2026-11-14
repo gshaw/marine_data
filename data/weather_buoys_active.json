@@ -3298,6 +3298,12 @@
     ]
   },
   {
+    "id": "CMAN4",
+    "kinds": [
+      "txt"
+    ]
+  },
+  {
     "id": "CMLN3",
     "kinds": [
       "txt"
@@ -5133,6 +5139,12 @@
     ]
   },
   {
+    "id": "OWWO1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "OWXO1",
     "kinds": [
       "txt"
@@ -5458,6 +5470,13 @@
   {
     "id": "PSXC1",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "PTAT2",
+    "kinds": [
+      "supl",
       "txt"
     ]
   },
