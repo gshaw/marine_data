@@ -569,6 +569,46 @@
     ]
   },
   {
+    "id": "42013",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "srad",
+      "txt"
+    ]
+  },
+  {
+    "id": "42022",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "id": "42023",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "id": "42026",
+    "kinds": [
+      "adcp",
+      "ocean",
+      "txt"
+    ]
+  },
+  {
+    "id": "42027",
+    "kinds": [
+      "ocean",
+      "txt"
+    ]
+  },
+  {
     "id": "42032",
     "kinds": [
       "spec",
@@ -1121,15 +1161,6 @@
     ]
   },
   {
-    "id": "45002",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
     "id": "45004",
     "kinds": [
       "spec",
@@ -1162,14 +1193,6 @@
       "ocean",
       "spec",
       "srad",
-      "txt"
-    ]
-  },
-  {
-    "id": "45029",
-    "kinds": [
-      "ocean",
-      "spec",
       "txt"
     ]
   },
@@ -1248,23 +1271,6 @@
     ]
   },
   {
-    "id": "45168",
-    "kinds": [
-      "ocean",
-      "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "45170",
-    "kinds": [
-      "ocean",
-      "spec",
-      "srad",
-      "txt"
-    ]
-  },
-  {
     "id": "45176",
     "kinds": [
       "ocean",
@@ -1329,12 +1335,6 @@
     "kinds": [
       "spec",
       "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "45217",
-    "kinds": [
       "txt"
     ]
   },
@@ -2104,15 +2104,6 @@
     ]
   },
   {
-    "id": "46278",
-    "kinds": [
-      "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "46285",
     "kinds": [
       "spec",
@@ -2312,15 +2303,6 @@
   },
   {
     "id": "51211",
-    "kinds": [
-      "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "51212",
     "kinds": [
       "adcp",
       "spec",
@@ -3340,8 +3322,7 @@
   {
     "id": "CPXC1",
     "kinds": [
-      "ocean",
-      "txt"
+      "ocean"
     ]
   },
   {
@@ -3530,6 +3511,12 @@
     "id": "DULM5",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "EAZC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -3871,6 +3858,12 @@
     ]
   },
   {
+    "id": "GTQF1",
+    "kinds": [
+      "ocean"
+    ]
+  },
+  {
     "id": "GTRM4",
     "kinds": [
       "txt"
@@ -4070,6 +4063,12 @@
     "id": "JNGA2",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "JOBP4",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -6041,12 +6040,6 @@
     "id": "THRO1",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "TIQC1",
-    "kinds": [
-      "ocean"
     ]
   },
   {
