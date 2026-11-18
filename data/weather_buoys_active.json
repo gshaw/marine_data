@@ -16,12 +16,6 @@
     ]
   },
   {
-    "id": "14048",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "14049",
     "kinds": [
       "txt"
@@ -1203,12 +1197,6 @@
     ]
   },
   {
-    "id": "45135",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "45136",
     "kinds": [
       "txt"
@@ -1246,12 +1234,6 @@
   },
   {
     "id": "45154",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "45159",
     "kinds": [
       "txt"
     ]
@@ -1364,15 +1346,6 @@
   },
   {
     "id": "46005",
-    "kinds": [
-      "spec",
-      "spectral",
-      "supl",
-      "txt"
-    ]
-  },
-  {
-    "id": "46006",
     "kinds": [
       "spec",
       "spectral",
@@ -2351,15 +2324,6 @@
   },
   {
     "id": "52213",
-    "kinds": [
-      "adcp",
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
-    "id": "52215",
     "kinds": [
       "adcp",
       "spec",
@@ -4066,12 +4030,6 @@
     ]
   },
   {
-    "id": "JOBP4",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "JOQP4",
     "kinds": [
       "ocean"
@@ -4236,6 +4194,13 @@
   {
     "id": "KSPR",
     "kinds": [
+      "txt"
+    ]
+  },
+  {
+    "id": "KTNF1",
+    "kinds": [
+      "supl",
       "txt"
     ]
   },
