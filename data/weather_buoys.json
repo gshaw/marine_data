@@ -7751,7 +7751,7 @@
     "forecasts": [
       "FZUS61.KCLE"
     ],
-    "note": null
+    "note": "Buoy recovered for winter"
   },
   {
     "id": "45165",
@@ -7953,7 +7953,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": null
+    "note": "Buoy recovered for winter"
   },
   {
     "id": "45177",
@@ -8202,7 +8202,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": null
+    "note": "Buoy recovered for winter."
   },
   {
     "id": "45197",
@@ -8219,7 +8219,7 @@
     "forecasts": [
       "FZUS51.KCLE"
     ],
-    "note": null
+    "note": "Buoy recovered for winter"
   },
   {
     "id": "45198",
@@ -8371,7 +8371,7 @@
     "hull": null,
     "payload": null,
     "forecasts": [],
-    "note": null
+    "note": "Buoy recovered for winter"
   },
   {
     "id": "45208",
