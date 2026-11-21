@@ -1277,14 +1277,6 @@
     ]
   },
   {
-    "id": "45210",
-    "kinds": [
-      "spec",
-      "spectral",
-      "txt"
-    ]
-  },
-  {
     "id": "45212",
     "kinds": [
       "spec",
@@ -1675,8 +1667,6 @@
   {
     "id": "46086",
     "kinds": [
-      "spec",
-      "spectral",
       "supl",
       "txt"
     ]
@@ -2725,12 +2715,6 @@
     ]
   },
   {
-    "id": "APXA2",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "APXF1",
     "kinds": [
       "txt"
@@ -3285,7 +3269,8 @@
   {
     "id": "CPXC1",
     "kinds": [
-      "ocean"
+      "ocean",
+      "txt"
     ]
   },
   {
@@ -3694,6 +3679,12 @@
     "id": "FTPC1",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "GBCM6",
+    "kinds": [
+      "ocean"
     ]
   },
   {
