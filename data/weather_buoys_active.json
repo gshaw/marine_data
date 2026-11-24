@@ -365,7 +365,6 @@
   {
     "id": "41066",
     "kinds": [
-      "ocean",
       "txt"
     ]
   },
@@ -1228,37 +1227,6 @@
   {
     "id": "45161",
     "kinds": [
-      "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "45164",
-    "kinds": [
-      "ocean",
-      "txt"
-    ]
-  },
-  {
-    "id": "45176",
-    "kinds": [
-      "ocean",
-      "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "45196",
-    "kinds": [
-      "ocean",
-      "spec",
-      "txt"
-    ]
-  },
-  {
-    "id": "45197",
-    "kinds": [
-      "ocean",
       "spec",
       "txt"
     ]
@@ -3531,6 +3499,12 @@
     "id": "ESPP4",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "EVMC1",
+    "kinds": [
+      "ocean"
     ]
   },
   {
