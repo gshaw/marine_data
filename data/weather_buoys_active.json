@@ -1232,13 +1232,6 @@
     ]
   },
   {
-    "id": "45207",
-    "kinds": [
-      "spec",
-      "txt"
-    ]
-  },
-  {
     "id": "45212",
     "kinds": [
       "spec",
@@ -2574,12 +2567,6 @@
     ]
   },
   {
-    "id": "AGXC1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "AJXA2",
     "kinds": [
       "txt"
@@ -2738,12 +2725,6 @@
     ]
   },
   {
-    "id": "BAXC1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "BCFM2",
     "kinds": [
       "txt"
@@ -2823,12 +2804,6 @@
     "id": "BIGM4",
     "kinds": [
       "txt"
-    ]
-  },
-  {
-    "id": "BILW3",
-    "kinds": [
-      "ocean"
     ]
   },
   {
@@ -3650,12 +3625,6 @@
     ]
   },
   {
-    "id": "GBCM6",
-    "kinds": [
-      "ocean"
-    ]
-  },
-  {
     "id": "GBHM6",
     "kinds": [
       "ocean"
@@ -3947,6 +3916,12 @@
     "id": "JCRN4",
     "kinds": [
       "txt"
+    ]
+  },
+  {
+    "id": "JCTN4",
+    "kinds": [
+      "ocean"
     ]
   },
   {
@@ -5098,18 +5073,6 @@
     ]
   },
   {
-    "id": "PFDC1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "PFXC1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "PGBP7",
     "kinds": [
       "txt"
@@ -5259,12 +5222,6 @@
     ]
   },
   {
-    "id": "PRJC1",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
     "id": "PRTA2",
     "kinds": [
       "txt"
@@ -5308,12 +5265,6 @@
   },
   {
     "id": "PSTN6",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "PSXC1",
     "kinds": [
       "txt"
     ]
@@ -5394,12 +5345,6 @@
   },
   {
     "id": "PWAW3",
-    "kinds": [
-      "txt"
-    ]
-  },
-  {
-    "id": "PXAC1",
     "kinds": [
       "txt"
     ]
