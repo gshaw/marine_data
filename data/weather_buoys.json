@@ -1237,8 +1237,8 @@
   },
   {
     "id": "23461",
-    "latitude": 9.534,
-    "longitude": 95.669,
+    "latitude": 9.554,
+    "longitude": 95.671,
     "name": "ANDAMAN SEA - 180 NM NW of Phuket, Thailand",
     "ownerCode": "TH",
     "ownerName": "National Disaster Warning Center (NDWC), Department of Disaster Prevention and Mitigation, Ministry of the Interior, Thailand",
@@ -7056,14 +7056,14 @@
     "ownerCode": "N",
     "ownerName": "NDBC",
     "ownerCountryCode": "US",
-    "hasBuoyCam": true,
+    "hasBuoyCam": false,
     "type": "2.3-meter foam discus buoy",
-    "hull": "2.6D57",
+    "hull": "2.3D07",
     "payload": "SCOOP payload",
     "forecasts": [
       "FZUS61.KBUF"
     ],
-    "note": null
+    "note": "Buoy recovered for winter"
   },
   {
     "id": "45013",
